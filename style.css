@@ -131,6 +131,7 @@ input[type="text"] { flex: 1; min-width: 160px; }
 /* quiz */
 .quiz-setup, .quiz-result { background: var(--surface-1); border: 1px solid var(--border); border-radius: 10px; padding: 18px; }
 .quiz-setup label { display: block; font-size: 13px; color: var(--text-secondary); margin: 12px 0 6px; }
+.quiz-setup select, .quiz-setup input[type="number"] { min-width: 220px; }
 .btn { border: none; background: var(--accent); color: #fff; padding: 9px 18px; border-radius: 8px; font-size: 13.5px; cursor: pointer; font-weight: 600; }
 .btn.secondary { background: var(--page-plane); color: var(--text-primary); border: 1px solid var(--border); }
 .quiz-q { background: var(--surface-1); border: 1px solid var(--border); border-radius: 10px; padding: 16px; margin-bottom: 12px; }

@@ -71,10 +71,20 @@ function populateSubjectFilter(selectEl, includeAll = true) {
     subjects.map(s => `<option value="${escapeHtml(s)}">${escapeHtml(s)}</option>`).join('');
 }
 
-function populateChapterFilter(subject) {
+function populateChapterFilter(subject, selectEl) {
+  selectEl = selectEl || document.getElementById('fChapter');
+  const prevValue = selectEl.value;
   const chapters = uniqueSorted(QUESTIONS.filter(q => !subject || q.subject === subject).map(q => q.chapter).filter(Boolean));
-  document.getElementById('fChapter').innerHTML = '<option value="">全部章節</option>' +
+  selectEl.innerHTML = '<option value="">全部章節</option>' +
     chapters.map(c => `<option value="${escapeHtml(c)}">${escapeHtml(c)}</option>`).join('');
+  // 換科目後，如果原本選的章節在新科目底下還存在，就保留選取，不要每次都跳回「全部章節」
+  if (chapters.includes(prevValue)) selectEl.value = prevValue;
+}
+
+function populateSourceDocFilter(selectEl) {
+  const docs = uniqueSorted(QUESTIONS.map(q => q.source_doc || q.source_file).filter(Boolean));
+  selectEl.innerHTML = '<option value="">全部檔案</option>' +
+    docs.map(d => `<option value="${escapeHtml(d)}">${escapeHtml(d)}</option>`).join('');
 }
 
 // ---------- browse render ----------
@@ -263,11 +273,23 @@ function setupFilterEvents() {
 // ---------- quiz ----------
 let quizState = null;
 
+function setupQuizFilterEvents() {
+  document.getElementById('quizSubject').addEventListener('change', (e) => {
+    populateChapterFilter(e.target.value, document.getElementById('quizChapter'));
+  });
+}
+
 function buildQuizPool() {
   const subject = document.getElementById('quizSubject').value;
+  const chapter = document.getElementById('quizChapter').value;
+  const format = document.getElementById('quizType').value;
+  const sourceDoc = document.getElementById('quizSourceDoc').value;
   const onlyAnswered = document.getElementById('quizOnlyAnswered').checked;
   return QUESTIONS.filter(q => {
     if (subject && q.subject !== subject) return false;
+    if (chapter && q.chapter !== chapter) return false;
+    if (format && q.format !== format) return false;
+    if (sourceDoc && (q.source_doc || q.source_file) !== sourceDoc) return false;
     if (onlyAnswered && (!q.answer || q.answer.length === 0)) return false;
     return true;
   });
@@ -287,7 +309,7 @@ function setupQuiz() {
     const pool = buildQuizPool();
     const count = Math.max(1, Math.min(50, parseInt(document.getElementById('quizCount').value) || 10));
     if (pool.length === 0) {
-      alert('目前條件下沒有可用的題目，請調整科目範圍或勾選項目');
+      alert('目前條件下沒有可用的題目，請調整科目／章節／題型／來源檔案或勾選項目');
       return;
     }
     const picked = shuffle(pool).slice(0, count);
@@ -446,6 +468,7 @@ async function init() {
   setupFilterEvents();
   setupCardInteractions();
   setupQuiz();
+  setupQuizFilterEvents();
   setupThemeToggle();
 
   try {
@@ -475,7 +498,9 @@ async function init() {
 
     populateSubjectFilter(document.getElementById('fSubject'), true);
     populateSubjectFilter(document.getElementById('quizSubject'), true);
-    populateChapterFilter('');
+    populateChapterFilter('', document.getElementById('fChapter'));
+    populateChapterFilter('', document.getElementById('quizChapter'));
+    populateSourceDocFilter(document.getElementById('quizSourceDoc'));
     renderStats();
     renderList();
   } catch (err) {
