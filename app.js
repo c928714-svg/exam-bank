@@ -48,10 +48,6 @@ function effectiveAnswer(q) {
   if (subs && subs.length) return [subs[subs.length - 1]];
   return [];
 }
-function isCrowdAnswer(q) {
-  return !(Array.isArray(q.answer) && q.answer.length > 0) && effectiveAnswer(q).length > 0;
-}
-
 // 這一題「目前是否有詳解可看」：正式資料裡的 explanation 欄位，或是同學投稿過的詳解，
 // 只要有一種就算數——分類跟徽章（缺答案/詳解 → 有詳解）都用這個判斷，而不是只看正式欄位
 function effectiveHasExplanation(q) {
@@ -285,13 +281,13 @@ function inlineExplainFormHtml(q) {
   `;
 }
 
-function inlineAnswerFormHtml(q, crowdAnswer) {
+function inlineAnswerFormHtml(q) {
   if (!inlineSubmitReady()) return '';
   const choices = quizChoicesFor(q);
   if (!choices.length) return '';
-  const label = crowdAnswer
-    ? '🎯 覺得投稿的答案不對？可以重新投稿更正（以最新一筆為準）：'
-    : '🎯 這題目前沒有標準答案，如果你知道正解，歡迎幫忙投稿（未經審核，送出後這題會直接改標成「有答案」）：';
+  // 這個表單只會在完全沒有答案（原始資料跟投稿都沒有）的題目出現——一旦有人投稿過答案，
+  // 這題就直接當成有答案處理、跟正式答案一樣顯示，不會再邀請大家投稿更正
+  const label = '🎯 這題目前沒有標準答案，如果你知道正解，歡迎幫忙投稿（未經審核，送出後這題會直接改標成「有答案」）：';
   const btnsHtml = choices.map(c =>
     `<button type="button" class="btn secondary answer-opt-btn" data-key="${escapeHtml(c.key)}">${escapeHtml(c.key)}</button>`
   ).join('');
@@ -361,13 +357,8 @@ function renderQuestionCard(q) {
     ).join('');
   }
 
-  const hasOriginalAnswer = Array.isArray(q.answer) && q.answer.length > 0;
-  const crowdAnswer = !hasOriginalAnswer && hasAnswer;
-
   let bodyExtra = '';
-  if (!hasOriginalAnswer && !crowdAnswer) bodyExtra += '<p class="no-data-note">⚠️ 此題尚未標註標準答案</p>';
-  // 投稿答案本身就是「答案」，會爆雷，所以跟詳解、正確/錯誤標示一樣，要點了選項查看答案之後才顯示
-  if (crowdAnswer && isRevealed) bodyExtra += `<p class="no-data-note">🙋 答案由同學投稿（未經審核，僅供參考）：${escapeHtml(answer.join('、'))}</p>`;
+  if (!hasAnswer) bodyExtra += '<p class="no-data-note">⚠️ 此題尚未標註標準答案</p>';
   if (hasAnswer && !hasAnyExplanation) bodyExtra += '<p class="no-data-note">⚠️ 此題尚無詳解，之後會補上</p>';
 
   const explainHtml = (isRevealed && hasOfficialExplanation)
@@ -378,8 +369,10 @@ function renderQuestionCard(q) {
   // 輸入框本身不受此限制（空白文字框不會爆雷），沒有選項資料/還沒標答案的題目也看得到。
   const submittedHtml = isRevealed ? submittedExplanationsHtml(q) : '';
   const inlineFormHtml = inlineExplainFormHtml(q);
-  // 原始資料完全沒有標準答案的題目，才顯示「投稿正確答案」欄位——已經有官方答案的題目不需要。
-  const answerFormHtml = !hasOriginalAnswer ? inlineAnswerFormHtml(q, crowdAnswer) : '';
+  // 一旦有人投稿過答案（或本來就有正式答案），這題就當成「已經有答案」處理，跟正式答案
+  // 顯示方式完全一樣（同樣的正確/錯誤顏色標示，沒有額外的「投稿」註記），不會再邀請投稿更正。
+  // 只有完全沒有答案的題目才會顯示這個投稿表單。
+  const answerFormHtml = !hasAnswer ? inlineAnswerFormHtml(q) : '';
 
   return `
     <div class="qcard" data-id="${escapeHtml(q.id)}">
