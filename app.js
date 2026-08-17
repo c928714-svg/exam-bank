@@ -29,12 +29,43 @@ const EXPLANATION_SUBMIT_CONFIG = {
 // qid -> [{content, name}]，網站載入時從 Google 試算表抓一次，送出後也會樂觀地加進來
 let SUBMITTED_EXPLANATIONS = {};
 
+// ---------- 缺答案題目：讓瀏覽者投稿正確答案 ----------
+// 沿用跟詳解投稿同一份 Google 表單／試算表（同一個「詳解內容」欄位），但用一個不會跟
+// 一般詳解文字搞混的固定格式標記出來："[[ANSWER:C]]"。讀回來的時候只要偵測到這個格式，
+// 就當作「投稿答案」處理（不會被當成一般詳解顯示），不需要使用者另外去 Google 表單加欄位。
+const ANSWER_MARKER_RE = /^\[\[ANSWER:([A-Za-z0-9]+)\]\]$/;
+function buildAnswerMarker(key) { return `[[ANSWER:${key}]]`; }
+
+// qid -> [key, key, ...]，依投稿順序排列；有效答案採「最新一筆投稿」為準（若有人之後訂正，
+// 以最後送出的為主），沒有審核機制
+let SUBMITTED_ANSWERS = {};
+
+// 這一題「目前實際可用的答案」：原始資料裡有標準答案就用那個；沒有的話，如果有同學投稿過
+// 答案，就用最新一筆投稿的答案（未經審核，僅供參考）；兩者都沒有就回傳空陣列（缺答案）。
+function effectiveAnswer(q) {
+  if (Array.isArray(q.answer) && q.answer.length > 0) return q.answer;
+  const subs = SUBMITTED_ANSWERS[q.id];
+  if (subs && subs.length) return [subs[subs.length - 1]];
+  return [];
+}
+function isCrowdAnswer(q) {
+  return !(Array.isArray(q.answer) && q.answer.length > 0) && effectiveAnswer(q).length > 0;
+}
+
+// 這一題「目前是否有詳解可看」：正式資料裡的 explanation 欄位，或是同學投稿過的詳解，
+// 只要有一種就算數——分類跟徽章（缺答案/詳解 → 有詳解）都用這個判斷，而不是只看正式欄位
+function effectiveHasExplanation(q) {
+  if (q.explanation && q.explanation.trim()) return true;
+  const subs = SUBMITTED_EXPLANATIONS[q.id];
+  return !!(subs && subs.length);
+}
+
 function inlineSubmitReady() {
   return !!(EXPLANATION_SUBMIT_CONFIG.formBaseUrl && EXPLANATION_SUBMIT_CONFIG.idEntryParam &&
     EXPLANATION_SUBMIT_CONFIG.contentEntryParam);
 }
 
-async function submitExplanationInline(qid, content) {
+async function submitToFormInline(qid, content) {
   if (!inlineSubmitReady()) return { ok: false, reason: 'not_configured' };
   const formResponseUrl = EXPLANATION_SUBMIT_CONFIG.formBaseUrl.replace(/\/viewform.*$/, '/formResponse');
   const body = new URLSearchParams();
@@ -49,6 +80,9 @@ async function submitExplanationInline(qid, content) {
     return { ok: false, reason: 'network', error: e };
   }
 }
+
+function submitExplanationInline(qid, content) { return submitToFormInline(qid, content); }
+function submitAnswerInline(qid, key) { return submitToFormInline(qid, buildAnswerMarker(key)); }
 
 // 簡易 CSV 解析（支援雙引號包住的欄位、欄位裡的逗號跟換行）——Google 試算表匯出的 CSV 都是
 // 標準 RFC4180 格式，這個小型解析器就夠用，不需要外部套件
@@ -99,15 +133,22 @@ async function loadSubmittedExplanations() {
       return;
     }
     const map = {};
+    const answerMap = {};
     for (let i = 1; i < rows.length; i++) {
       const r = rows[i];
       const qid = (r[idIdx] || '').trim();
       const content = (r[contentIdx] || '').trim();
       if (!qid || !content) continue;
+      const answerMatch = content.match(ANSWER_MARKER_RE);
+      if (answerMatch) {
+        (answerMap[qid] = answerMap[qid] || []).push(answerMatch[1].toUpperCase());
+        continue;
+      }
       const name = nameIdx !== -1 ? (r[nameIdx] || '').trim() : '';
       (map[qid] = map[qid] || []).push({ content, name });
     }
     SUBMITTED_EXPLANATIONS = map;
+    SUBMITTED_ANSWERS = answerMap;
   } catch (e) {
     console.warn('讀取詳解投稿試算表失敗', e);
   }
@@ -125,11 +166,13 @@ function escapeHtml(str) {
 
 // ---------- derived status ----------
 function questionStatus(q) {
-  const hasAnswer = Array.isArray(q.answer) && q.answer.length > 0;
-  const hasExplanation = !!(q.explanation && q.explanation.trim());
-  if (hasAnswer && hasExplanation) return 'good';
-  if (hasAnswer && !hasExplanation) return 'warning';
-  return 'critical'; // no answer at all (with or without explanation text)
+  const hasAnswer = effectiveAnswer(q).length > 0;
+  const hasExplanation = effectiveHasExplanation(q);
+  // 只要有詳解可看（不管是正式資料還是同學投稿的）就算「有詳解」，不用一定要同時有答案——
+  // 投稿詳解的人通常內容裡就會講到答案是什麼，所以詳解本身就已經是有用的資訊
+  if (hasExplanation) return 'good';
+  if (hasAnswer) return 'warning';
+  return 'critical'; // 沒有答案，也沒有任何詳解（正式或投稿）
 }
 
 const STATUS_LABEL = { good: '✅ 有詳解', warning: '🟡 只有答案', critical: '🔴 缺答案/詳解' };
@@ -242,6 +285,27 @@ function inlineExplainFormHtml(q) {
   `;
 }
 
+function inlineAnswerFormHtml(q, crowdAnswer) {
+  if (!inlineSubmitReady()) return '';
+  const choices = quizChoicesFor(q);
+  if (!choices.length) return '';
+  const label = crowdAnswer
+    ? '🎯 覺得投稿的答案不對？可以重新投稿更正（以最新一筆為準）：'
+    : '🎯 這題目前沒有標準答案，如果你知道正解，歡迎幫忙投稿（未經審核，送出後這題會直接改標成「有答案」）：';
+  const btnsHtml = choices.map(c =>
+    `<button type="button" class="btn secondary answer-opt-btn" data-key="${escapeHtml(c.key)}">${escapeHtml(c.key)}</button>`
+  ).join('');
+  return `
+    <div class="inline-answer-form" data-qid="${escapeHtml(q.id)}">
+      <div class="inline-answer-label">${label}</div>
+      <div class="inline-answer-actions">
+        ${btnsHtml}
+        <span class="inline-answer-status"></span>
+      </div>
+    </div>
+  `;
+}
+
 function questionExtraTagsHtml(q) {
   const extras = [];
   if (q.difficulty) extras.push(`<span class="tag diff-pill ${escapeHtml(q.difficulty)}">難易：${escapeHtml(q.difficulty)}</span>`);
@@ -259,13 +323,15 @@ const pickedAnswer = {};
 
 function renderQuestionCard(q) {
   const typeLabel = formatLabel(q);
-  const hasAnswer = (q.answer||[]).length > 0;
-  const hasExplanation = !!(q.explanation && q.explanation.trim());
+  const answer = effectiveAnswer(q);
+  const hasAnswer = answer.length > 0;
+  const hasOfficialExplanation = !!(q.explanation && q.explanation.trim());
+  const hasAnyExplanation = effectiveHasExplanation(q);
   const isRevealed = revealedIds.has(q.id);
   const picked = pickedAnswer[q.id] || [];
 
   function optionCls(key) {
-    const isCorrect = hasAnswer && (q.answer||[]).includes(key);
+    const isCorrect = hasAnswer && answer.includes(key);
     const isPicked = picked.includes(key);
     if (isRevealed && hasAnswer) {
       if (isCorrect) return 'correct';
@@ -295,11 +361,16 @@ function renderQuestionCard(q) {
     ).join('');
   }
 
-  let bodyExtra = '';
-  if (!hasAnswer) bodyExtra += '<p class="no-data-note">⚠️ 此題尚未標註標準答案</p>';
-  if (hasAnswer && !hasExplanation) bodyExtra += '<p class="no-data-note">⚠️ 此題尚無詳解，之後會補上</p>';
+  const hasOriginalAnswer = Array.isArray(q.answer) && q.answer.length > 0;
+  const crowdAnswer = !hasOriginalAnswer && hasAnswer;
 
-  const explainHtml = (isRevealed && hasExplanation)
+  let bodyExtra = '';
+  if (!hasOriginalAnswer && !crowdAnswer) bodyExtra += '<p class="no-data-note">⚠️ 此題尚未標註標準答案</p>';
+  // 投稿答案本身就是「答案」，會爆雷，所以跟詳解、正確/錯誤標示一樣，要點了選項查看答案之後才顯示
+  if (crowdAnswer && isRevealed) bodyExtra += `<p class="no-data-note">🙋 答案由同學投稿（未經審核，僅供參考）：${escapeHtml(answer.join('、'))}</p>`;
+  if (hasAnswer && !hasAnyExplanation) bodyExtra += '<p class="no-data-note">⚠️ 此題尚無詳解，之後會補上</p>';
+
+  const explainHtml = (isRevealed && hasOfficialExplanation)
     ? `<div class="explain-box"><strong>詳解：</strong>${escapeHtml(q.explanation)}</div>` : '';
   const revealHint = (!isRevealed && choiceCount > 0)
     ? '<p class="reveal-hint">👆 點選一個選項查看答案</p>' : '';
@@ -307,6 +378,8 @@ function renderQuestionCard(q) {
   // 輸入框本身不受此限制（空白文字框不會爆雷），沒有選項資料/還沒標答案的題目也看得到。
   const submittedHtml = isRevealed ? submittedExplanationsHtml(q) : '';
   const inlineFormHtml = inlineExplainFormHtml(q);
+  // 原始資料完全沒有標準答案的題目，才顯示「投稿正確答案」欄位——已經有官方答案的題目不需要。
+  const answerFormHtml = !hasOriginalAnswer ? inlineAnswerFormHtml(q, crowdAnswer) : '';
 
   return `
     <div class="qcard" data-id="${escapeHtml(q.id)}">
@@ -329,6 +402,7 @@ function renderQuestionCard(q) {
         ${bodyMain}
         ${revealHint}
         ${bodyExtra}
+        ${answerFormHtml}
         ${explainHtml}
         ${submittedHtml}
         ${q.source ? `<p class="no-data-note" style="margin-top:8px;">來源：${escapeHtml(q.source)}</p>` : ''}
@@ -370,6 +444,12 @@ function setupCardInteractions() {
     const submitBtn = e.target.closest('.inline-explain-submit');
     if (submitBtn) {
       handleInlineExplainSubmit(submitBtn);
+      return;
+    }
+
+    const answerBtn = e.target.closest('.answer-opt-btn');
+    if (answerBtn) {
+      handleInlineAnswerSubmit(answerBtn);
       return;
     }
 
@@ -419,6 +499,35 @@ function handleInlineExplainSubmit(submitBtn) {
     const wrapper = document.createElement('div');
     wrapper.innerHTML = renderQuestionCard(q).trim();
     card.replaceWith(wrapper.firstElementChild);
+  });
+}
+
+function handleInlineAnswerSubmit(answerBtn) {
+  const wrap = answerBtn.closest('.inline-answer-form');
+  if (!wrap) return;
+  const qid = wrap.dataset.qid;
+  const key = answerBtn.dataset.key;
+  const statusEl = wrap.querySelector('.inline-answer-status');
+  wrap.querySelectorAll('.answer-opt-btn').forEach(b => b.disabled = true);
+  statusEl.textContent = '送出中…';
+
+  submitAnswerInline(qid, key).then(result => {
+    if (!result.ok) {
+      wrap.querySelectorAll('.answer-opt-btn').forEach(b => b.disabled = false);
+      statusEl.textContent = '送出失敗，請檢查網路連線後再試一次';
+      return;
+    }
+    // 樂觀更新：直接把投稿的答案加進畫面，這題立刻變成「有答案」——包括選項的
+    // 正確/錯誤顏色標示、上方分類徽章、統計數字，都改用這筆投稿答案為準
+    (SUBMITTED_ANSWERS[qid] = SUBMITTED_ANSWERS[qid] || []).push(key.toUpperCase());
+    const q = QUESTIONS.find(x => x.id === qid);
+    if (!q) return;
+    q._status = questionStatus(q);
+    const card = wrap.closest('.qcard');
+    const wrapper = document.createElement('div');
+    wrapper.innerHTML = renderQuestionCard(q).trim();
+    card.replaceWith(wrapper.firstElementChild);
+    renderStats();
   });
 }
 
@@ -475,7 +584,7 @@ function buildQuizPool() {
     if (chapter && q.chapter !== chapter) return false;
     if (format && q.format !== format) return false;
     if (sourceDoc && (q.source_doc || q.source_file) !== sourceDoc) return false;
-    if (onlyAnswered && (!q.answer || q.answer.length === 0)) return false;
+    if (onlyAnswered && effectiveAnswer(q).length === 0) return false;
     return true;
   });
 }
@@ -521,7 +630,7 @@ function renderQuiz() {
     const typeLabel = formatLabel(q);
     const inputType = q.type === 'multiple' ? 'checkbox' : 'radio';
     const picked = quizState.answers[q.id] || [];
-    const hasAnswer = (q.answer||[]).length > 0;
+    const hasAnswer = effectiveAnswer(q).length > 0;
 
     const statementsHtml = isCombo
       ? (q.options||[]).map(o => `<div class="statement-row">${escapeHtml(o.key)}. ${escapeHtml(o.text)}</div>`).join('') +
@@ -577,10 +686,11 @@ function submitQuiz() {
   quizState.submitted = true;
   let correct = 0, gradable = 0;
   quizState.questions.forEach(q => {
-    if (!q.answer || q.answer.length === 0) return;
+    const ansArr = effectiveAnswer(q);
+    if (ansArr.length === 0) return;
     gradable++;
     const picked = (quizState.answers[q.id] || []).slice().sort().join(',');
-    const ans = (q.answer||[]).slice().sort().join(',');
+    const ans = ansArr.slice().sort().join(',');
     if (picked === ans) correct++;
   });
 
@@ -595,7 +705,8 @@ function submitQuiz() {
   const reviewHtml = quizState.questions.map((q, idx) => {
     const isCombo = q.type === 'combo';
     const picked = quizState.answers[q.id] || [];
-    const hasAnswer = (q.answer||[]).length > 0;
+    const ansArr = effectiveAnswer(q);
+    const hasAnswer = ansArr.length > 0;
 
     const statementsHtml = isCombo
       ? (q.options||[]).map(o => `<div class="statement-row">${escapeHtml(o.key)}. ${escapeHtml(o.text)}</div>`).join('') +
@@ -604,7 +715,7 @@ function submitQuiz() {
 
     const choices = quizChoicesFor(q);
     const optsHtml = choices.map(o => {
-      const isCorrectOpt = (q.answer||[]).includes(o.key);
+      const isCorrectOpt = ansArr.includes(o.key);
       const isPicked = picked.includes(o.key);
       let cls = '';
       if (hasAnswer) {
@@ -690,8 +801,13 @@ async function init() {
     renderStats();
     renderList();
 
-    // 同學投稿的詳解（Google 試算表）不擋主要題庫的顯示，背景讀取完再補畫一次
-    loadSubmittedExplanations().then(() => renderList());
+    // 同學投稿的詳解／答案（Google 試算表）不擋主要題庫的顯示，背景讀取完再補畫一次；
+    // 投稿答案會影響「有答案／缺答案」分類，所以要重新算一次 _status 跟統計數字
+    loadSubmittedExplanations().then(() => {
+      QUESTIONS.forEach(q => { q._status = questionStatus(q); });
+      renderStats();
+      renderList();
+    });
   } catch (err) {
     document.getElementById('headerSub').textContent = '題庫載入失敗';
     document.getElementById('qlist').innerHTML =

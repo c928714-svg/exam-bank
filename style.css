@@ -126,6 +126,12 @@ input[type="text"] { flex: 1; min-width: 160px; }
 .inline-explain-input { width: 100%; resize: vertical; font-family: inherit; font-size: 13.5px; border: 1px solid var(--border); background: var(--surface-1); color: var(--text-primary); border-radius: 8px; padding: 8px 10px; box-sizing: border-box; }
 .inline-explain-actions { display: flex; align-items: center; gap: 10px; margin-top: 8px; }
 .inline-explain-status { font-size: 12px; color: var(--text-muted); }
+/* 缺答案題目：投稿正確答案表單（按一下選項字母就直接送出） */
+.inline-answer-form { margin: 10px 0; padding: 10px 12px; background: var(--warning-bg); border: 1px dashed var(--warning); border-radius: 8px; }
+.inline-answer-label { font-size: 12.5px; color: var(--text-secondary); margin-bottom: 8px; }
+.inline-answer-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+.answer-opt-btn { min-width: 36px; padding: 6px 10px; font-weight: 700; }
+.inline-answer-status { font-size: 12px; color: var(--text-muted); }
 .empty-state { text-align: center; color: var(--text-muted); padding: 40px 0; font-size: 13.5px; }
 .diff-pill { font-size: 11.5px; }
 .diff-pill.易 { color: var(--good); border-color: var(--good); }
