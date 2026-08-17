@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh-Hant" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>考題整理庫</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="app">
+  <header>
+    <div>
+      <h1>📚 考題整理庫</h1>
+      <p class="sub" id="headerSub">載入中…</p>
+    </div>
+    <button class="theme-toggle" id="themeToggle">🌓 切換深色模式</button>
+  </header>
+
+  <div class="stats" id="statsRow"></div>
+
+  <nav class="tabs">
+    <button class="tab-btn active" data-tab="browse">瀏覽題庫</button>
+    <button class="tab-btn" data-tab="quiz">隨機測驗</button>
+  </nav>
+
+  <section id="browse">
+    <div class="filters">
+      <select id="fSubject"></select>
+      <select id="fChapter"></select>
+      <select id="fType">
+        <option value="">全部題型</option>
+        <option value="A">A type</option>
+        <option value="A2">AII type</option>
+        <option value="C">C type</option>
+        <option value="K">K type</option>
+      </select>
+      <input type="text" id="fSearch" placeholder="輸入關鍵字搜尋題目內容…">
+    </div>
+    <div class="filters" id="statusChips">
+      <span class="chip active" data-status="">全部</span>
+      <span class="chip" data-status="good">✅ 有詳解</span>
+      <span class="chip" data-status="warning">🟡 只有答案</span>
+      <span class="chip" data-status="critical">🔴 都缺</span>
+    </div>
+    <p class="result-count" id="resultCount"></p>
+    <div id="qlist"><div class="loading-state">題庫載入中…</div></div>
+  </section>
+
+  <section id="quiz" hidden>
+    <div class="quiz-setup" id="quizSetup">
+      <label>科目範圍</label>
+      <select id="quizSubject"></select>
+      <label>題數</label>
+      <input type="number" id="quizCount" value="10" min="1" max="50">
+      <label style="display:flex; align-items:center; gap:6px; margin-top:14px;">
+        <input type="checkbox" id="quizOnlyAnswered" checked>
+        只從「已有標準答案」的題目出題（建議勾選，才能自動對答案）
+      </label>
+      <div style="margin-top:16px;">
+        <button class="btn" id="startQuiz">開始測驗</button>
+      </div>
+    </div>
+    <div id="quizPlay" hidden></div>
+    <div id="quizResult" hidden></div>
+  </section>
+
+  <footer>
+    考題整理庫・資料持續更新中，題目來源標示於各題卡片內
+  </footer>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
