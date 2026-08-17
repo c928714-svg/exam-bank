@@ -303,9 +303,9 @@ function renderQuestionCard(q) {
     ? `<div class="explain-box"><strong>詳解：</strong>${escapeHtml(q.explanation)}</div>` : '';
   const revealHint = (!isRevealed && choiceCount > 0)
     ? '<p class="reveal-hint">👆 點選一個選項查看答案</p>' : '';
-  // 同學投稿的詳解跟輸入框都不受「先點選項查看答案」限制——
-  // 不然剛送出的詳解自己也看不到，而且沒有選項資料/還沒標答案的題目永遠也不會顯示。
-  const submittedHtml = submittedExplanationsHtml(q);
+  // 同學投稿的詳解要先點選項查看答案才會出現，避免還沒作答就被投稿內容爆雷答案。
+  // 輸入框本身不受此限制（空白文字框不會爆雷），沒有選項資料/還沒標答案的題目也看得到。
+  const submittedHtml = isRevealed ? submittedExplanationsHtml(q) : '';
   const inlineFormHtml = inlineExplainFormHtml(q);
 
   return `
