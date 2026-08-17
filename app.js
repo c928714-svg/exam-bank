@@ -95,6 +95,7 @@ function currentFilters() {
     subject: document.getElementById('fSubject').value,
     chapter: document.getElementById('fChapter').value,
     format: document.getElementById('fType').value,
+    sourceDoc: document.getElementById('fSourceDoc').value,
     search: document.getElementById('fSearch').value.trim().toLowerCase(),
     status: activeStatus,
   };
@@ -201,6 +202,7 @@ function renderList() {
     if (f.subject && q.subject !== f.subject) return false;
     if (f.chapter && q.chapter !== f.chapter) return false;
     if (f.format && q.format !== f.format) return false;
+    if (f.sourceDoc && (q.source_doc || q.source_file) !== f.sourceDoc) return false;
     if (f.status && q._status !== f.status) return false;
     if (f.search) {
       const hay = [q.question, ...(q.options||[]).map(o=>o.text), q.explanation||'', q.source||'', q.source_doc||''].join(' ').toLowerCase();
@@ -259,6 +261,7 @@ function setupFilterEvents() {
   });
   document.getElementById('fChapter').addEventListener('change', renderList);
   document.getElementById('fType').addEventListener('change', renderList);
+  document.getElementById('fSourceDoc').addEventListener('change', renderList);
   document.getElementById('fSearch').addEventListener('input', renderList);
   document.querySelectorAll('#statusChips .chip').forEach(chip => {
     chip.addEventListener('click', () => {
@@ -500,6 +503,7 @@ async function init() {
     populateSubjectFilter(document.getElementById('quizSubject'), true);
     populateChapterFilter('', document.getElementById('fChapter'));
     populateChapterFilter('', document.getElementById('quizChapter'));
+    populateSourceDocFilter(document.getElementById('fSourceDoc'));
     populateSourceDocFilter(document.getElementById('quizSourceDoc'));
     renderStats();
     renderList();

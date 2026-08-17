@@ -4807,6 +4807,215 @@
     "source_doc": "亞東_Behaviorneurology_筆試命題紙_2026"
   },
   {
+    "id": "8504ca9a5-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "A 58-year-old man suffers an out-of-hospital cardiac arrest and achieves return of spontaneous circulation (ROSC) after 15 minutes of cardiopulmonary resuscitation. He remains comatose after targeted temperature management. Which of the following findings is the LEAST suggestive of a poor neurological outcome?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Burst-suppression pattern on EEG."
+      },
+      {
+        "key": "B",
+        "text": "Persist myoclonus during the first 24 hours after ROSC."
+      },
+      {
+        "key": "C",
+        "text": "Lack of motor response to nail-bed compression stimulation."
+      },
+      {
+        "key": "D",
+        "text": "Diffuse cortical hyperintensity in DWI."
+      },
+      {
+        "key": "E",
+        "text": "Bilateral absent N20 in SSEP exam."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "NICP, Chapter 83 anoxic ischemic encephalopathy, p.1270-1275",
+    "source_file": "8504ca9a-______5_.docx",
+    "source_doc": "馬偕_重症5題"
+  },
+  {
+    "id": "8504ca9a5-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "腦中風",
+      "重症神經學"
+    ],
+    "question": "A 55-year-old woman develops a spontaneous subarachnoid hemorrhage (SAH) following rupture of an Acom aneurysm. On hospital day 6, laboratory studies reveal a serum sodium level of 122 mEq/L and a serum osmolality of 260 mOsm/kg. Urine osmolality is 520 mOsm/kg, and urine sodium is 95 mEq/L. She remains fully responsive and no seizure presented. However, she has marked polyuria, a negative fluid balance, and clinical signs of volume depletion. Which of the following is the most appropriate management?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Hydration with isotonic saline to correct sodium and fluid loss."
+      },
+      {
+        "key": "B",
+        "text": "Restrict fluid intake to 800-1,000 mL/day."
+      },
+      {
+        "key": "C",
+        "text": "Administer 3% NaCl to correct hyponatremia immediately."
+      },
+      {
+        "key": "D",
+        "text": "Administer a vasopressin receptor antagonist (e.g., tolvaptan) as first-line therapy to correct the hyponatremia."
+      },
+      {
+        "key": "E",
+        "text": "Administer furosemide to induce diuresis."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "NICP, chapter 50 neuroendocrinology, p.743-745.",
+    "source_file": "8504ca9a-______5_.docx",
+    "source_doc": "馬偕_重症5題"
+  },
+  {
+    "id": "8504ca9a5-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "腦中風",
+      "重症神經學"
+    ],
+    "question": "A patient with acute ischemic stroke underwent endovascular thrombectomy (EVT) without prior intravenous thrombolysis. Regarding blood pressure management after EVT, which of the following statements are correct?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "If successful reperfusion is achieved (mTICI 2b, 2c, 3), blood pressure should be maintained below 140 mmHg during the first 24 hours after EVT."
+      },
+      {
+        "key": "B",
+        "text": "If reperfusion is not achieved (mTICI 0, 1, 2a), maintaining blood pressure below 180/105 mmHg during the first 24 hours after EVT is reasonable."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "AHA/ASA 2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke.",
+    "source_file": "8504ca9a-______5_.docx",
+    "source_doc": "馬偕_重症5題"
+  },
+  {
+    "id": "8504ca9a5-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "difficulty": "中等",
+    "tags": [
+      "腦中風",
+      "重症神經學"
+    ],
+    "question": "A 70-year-old woman with an acute left middle cerebral artery ischemic stroke underwent intravenous thrombolysis with tPA and endovascular thrombectomy (EVT). Three hours after admission, her NIHSS score increased from 11 to 20. A follow-up brain CT scan revealed hemorrhagic transformation of the left MCA territory with associated mass effect. Which of the following management strategies is appropriate?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Give osmotic diuretics and consider intubating for temporally hyperventilation, keep PaCO2 <30mmHg."
+      },
+      {
+        "key": "2",
+        "text": "Give Prothrombin complex concentrate (PCC) and Tranexamic acid to reverse tPA effect."
+      },
+      {
+        "key": "3",
+        "text": "Aggressive blood pressure lowering to avoid hematoma enlargement."
+      },
+      {
+        "key": "4",
+        "text": "Obtain an urgent neurosurgical consultation to evaluate the need for decompressive hemicraniectomy."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "AHA/ASA 2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke.",
+    "source_file": "8504ca9a-______5_.docx",
+    "source_doc": "馬偕_重症5題"
+  },
+  {
+    "id": "8504ca9a5-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "A 40-year-old man presents with a 2-day history of fever, headache, and progressive confusion. He was sent to hospital due to generalized tonic-clonic seizure. On neurological examination, he is febrile and confused, with impaired recent memory and mild aphasia. Brain MRI DWI is demonstrated below. CSF analysis revealed WBC 85 cells/µL, 70% neutrophils, 30% lymphocytes, protein 80mg/dL, and a normal glucose level. Which of the following is not appropriate?",
+    "images": [
+      "images/8504ca9a5-05-1.jpg"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "The presence of RBC in the CSF may be associated with worse prognosis."
+      },
+      {
+        "key": "B",
+        "text": "EEG may show periodic lateralized epileptiform discharges over the temporal region."
+      },
+      {
+        "key": "C",
+        "text": "CSF pleocytosis with neutrophil predominance is suggestive of a bacterial infection."
+      },
+      {
+        "key": "D",
+        "text": "Start intravenous acyclovir immediately while awaiting CSF PCR results."
+      },
+      {
+        "key": "E",
+        "text": "In patients with delayed recovery or disease relapse after treatment, testing for anti-NMDA receptor autoantibodies may be considered."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "NICP, Chapter 78 viral encephalitis and meningitis, p.1184-1190.",
+    "source_file": "8504ca9a-______5_.docx",
+    "source_doc": "馬偕_重症5題"
+  },
+  {
     "id": "866ab250202610-01",
     "subject": "神經科專科醫師甄審",
     "chapter": "動作障礙",
@@ -8232,203 +8441,6 @@
     "source": "Stroke. 2023;54:e157-e158. (DOI: 10.1161/STROKEAHA.122.042054)",
     "source_file": "e869dd71-7_____cva____3.docx",
     "source_doc": "CVA"
-  },
-  {
-    "id": "f48fd6745-01",
-    "subject": "神經科專科醫師甄審",
-    "chapter": "重症神經學",
-    "year": "",
-    "type": "single",
-    "format": "A",
-    "rule_text": null,
-    "difficulty": "易",
-    "tags": [
-      "重症神經學"
-    ],
-    "question": "A 58-year-old man suffers an out-of-hospital cardiac arrest and achieves return of spontaneous circulation (ROSC) after 15 minutes of cardiopulmonary resuscitation. He remains comatose after targeted temperature management. Which of the following findings is the LEAST",
-    "images": [],
-    "options": [
-      {
-        "key": "A",
-        "text": "Burst-suppression pattern on EEG."
-      },
-      {
-        "key": "B",
-        "text": "Persist myoclonus during the first 24 hours after ROSC."
-      },
-      {
-        "key": "C",
-        "text": "Lack of motor response to nail-bed compression stimulation."
-      },
-      {
-        "key": "D",
-        "text": "Diffuse cortical hyperintensity in DWI."
-      },
-      {
-        "key": "E",
-        "text": "Bilateral absent N20 in SSEP exam."
-      }
-    ],
-    "answer": [],
-    "explanation": null,
-    "source": "NICP, Chapter 83 anoxic ischemic encephalopathy, p.1270-1275",
-    "source_file": "f48fd674-______5_.docx",
-    "source_doc": "馬偕_重症5題"
-  },
-  {
-    "id": "f48fd6745-02",
-    "subject": "神經科專科醫師甄審",
-    "chapter": "腦中風",
-    "year": "",
-    "type": "single",
-    "format": "A",
-    "rule_text": null,
-    "difficulty": "中等",
-    "tags": [
-      "腦中風",
-      "重症神經學"
-    ],
-    "question": "A 55-year-old woman develops a spontaneous subarachnoid hemorrhage (SAH) following rupture of an Acom aneurysm. On hospital day 6, laboratory studies reveal a serum sodium level of 122 mEq/L and a serum osmolality of 260 mOsm/kg. Urine osmolality is 520 mOsm/kg, and urine sodium is 95 mEq/L. She remains fully responsive and no seizure presented. However, she has marked polyuria, a negative fluid balance, and clinical signs of volume depletion. Which of the following is the most appropriate management?",
-    "images": [],
-    "options": [
-      {
-        "key": "A",
-        "text": "Hydration with isotonic saline to correct sodium and fluid loss."
-      },
-      {
-        "key": "B",
-        "text": "Restrict fluid intake to 800-1,000 mL/day."
-      },
-      {
-        "key": "C",
-        "text": "Administer 3% NaCl to correct hyponatremia immediately."
-      },
-      {
-        "key": "D",
-        "text": "Administer a vasopressin receptor antagonist (e.g., tolvaptan) as first-line therapy to correct the hyponatremia."
-      },
-      {
-        "key": "E",
-        "text": "Administer furosemide to induce diuresis."
-      }
-    ],
-    "answer": [],
-    "explanation": null,
-    "source": "NICP, chapter 50 neuroendocrinology, p.743-745.",
-    "source_file": "f48fd674-______5_.docx",
-    "source_doc": "馬偕_重症5題"
-  },
-  {
-    "id": "f48fd6745-03",
-    "subject": "神經科專科醫師甄審",
-    "chapter": "腦中風",
-    "year": "",
-    "type": "combo",
-    "format": "C",
-    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
-    "difficulty": "易",
-    "tags": [
-      "腦中風",
-      "重症神經學"
-    ],
-    "question": "",
-    "images": [],
-    "options": [
-      {
-        "key": "A",
-        "text": "If successful reperfusion is achieved (mTICI 2b, 2c, 3), blood pressure should be maintained below 140 mmHg during the first 24 hours after EVT."
-      },
-      {
-        "key": "B",
-        "text": "If reperfusion is not achieved (mTICI 0, 1, 2a), maintaining blood pressure below 180/105 mmHg during the first 24 hours after EVT is reasonable."
-      }
-    ],
-    "answer": [],
-    "explanation": null,
-    "source": "AHA/ASA 2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke.",
-    "source_file": "f48fd674-______5_.docx",
-    "source_doc": "馬偕_重症5題"
-  },
-  {
-    "id": "f48fd6745-04",
-    "subject": "神經科專科醫師甄審",
-    "chapter": "腦中風",
-    "year": "",
-    "type": "combo",
-    "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
-    "difficulty": "中等",
-    "tags": [
-      "腦中風",
-      "重症神經學"
-    ],
-    "question": "appropriate?",
-    "images": [],
-    "options": [
-      {
-        "key": "1",
-        "text": "Give osmotic diuretics and consider intubating for temporally hyperventilation, keep PaCO2 <30mmHg."
-      },
-      {
-        "key": "2",
-        "text": "Give Prothrombin complex concentrate (PCC) and Tranexamic acid to reverse tPA effect."
-      },
-      {
-        "key": "3",
-        "text": "Aggressive blood pressure lowering to avoid hematoma enlargement."
-      },
-      {
-        "key": "4",
-        "text": "Obtain an urgent neurosurgical consultation to evaluate the need for decompressive hemicraniectomy."
-      }
-    ],
-    "answer": [],
-    "explanation": null,
-    "source": "AHA/ASA 2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke.",
-    "source_file": "f48fd674-______5_.docx",
-    "source_doc": "馬偕_重症5題"
-  },
-  {
-    "id": "f48fd6745-05",
-    "subject": "神經科專科醫師甄審",
-    "chapter": "重症神經學",
-    "year": "",
-    "type": "single",
-    "format": "A2",
-    "rule_text": null,
-    "difficulty": "中等",
-    "tags": [
-      "重症神經學"
-    ],
-    "question": "A 40-year-old man presents with a 2-day history of fever, headache, and progressive confusion. He was sent to hospital due to generalized tonic-clonic seizure. On neurological examination, he is febrile and confused, with impaired recent memory and mild aphasia. Brain MRI DWI is demonstrated below.  CSF analysis revealed WBC 85 cells/µL, 70% neutrophils, 30% lymphocytes, protein 80mg/dL, and a normal glucose level. Which of the following is not appropriate?",
-    "images": [],
-    "options": [
-      {
-        "key": "A",
-        "text": "The presence of RBC in the CSF may be associated with worse prognosis."
-      },
-      {
-        "key": "B",
-        "text": "EEG may show periodic lateralized epileptiform discharges over the temporal region."
-      },
-      {
-        "key": "C",
-        "text": "CSF pleocytosis with neutrophil predominance is suggestive of a bacterial infection."
-      },
-      {
-        "key": "D",
-        "text": "Start intravenous acyclovir immediately while awaiting CSF PCR results."
-      },
-      {
-        "key": "E",
-        "text": "In patients with delayed recovery or disease relapse after treatment, testing for anti-NMDA receptor autoantibodies may be considered."
-      }
-    ],
-    "answer": [],
-    "explanation": null,
-    "source": "NICP, Chapter 78 viral encephalitis and meningitis, p.1184-1190.",
-    "source_file": "f48fd674-______5_.docx",
-    "source_doc": "馬偕_重症5題"
   },
   {
     "id": "fbca6b8agndement-01",
