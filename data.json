@@ -127,7 +127,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "中等",
     "tags": [
       "腦中風",
@@ -454,7 +454,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "難",
     "tags": [
       "睡眠疾患"
@@ -494,7 +494,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "中等",
     "tags": [
       "睡眠疾患"
@@ -700,7 +700,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "中等",
     "tags": [
       "周邊神經系統疾病",
@@ -931,7 +931,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "中等",
     "tags": [],
     "question": "A 10-year-old boy presented with severe pain in both knees and the right ankle. History indicated a severe sore throat two weeks prior that went untreated. Physical examination showed red, swollen joints with migratory characteristics. Cardiac auscultation revealed a grade 3/6 systolic murmur at the cardiac apex then. After the initial management, the condition stabilized. Six months later, he had an acute onset of chorea.\nAbout the above disease and the management for acute chorea, which of the following is true?",
@@ -1590,7 +1590,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "易",
     "tags": [],
     "question": "Which of the following about Tenecteplase (TNK) in thrombolysis for acute ischemic stroke is correct?",
@@ -1860,19 +1860,11 @@
     "options": [
       {
         "key": "A",
-        "text": "A only"
+        "text": "Return of the bulbocavernosus reflex indicates resolution of spinal shock."
       },
       {
         "key": "B",
-        "text": "B only"
-      },
-      {
-        "key": "C",
-        "text": "Both A and B"
-      },
-      {
-        "key": "D",
-        "text": "Neither A and B"
+        "text": "High dose of Methylprednisolone is first-line treatment for acute spinal cord inury"
       }
     ],
     "answer": [
@@ -1890,7 +1882,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "易",
     "tags": [
       "▓Critical Neurology (incl. CNS infection & metabolic",
@@ -1900,24 +1892,20 @@
     "images": [],
     "options": [
       {
-        "key": "A",
-        "text": "if 1,2,3 are true"
+        "key": "1",
+        "text": "Bilateral absent N20 is usually caused by sedative medication"
       },
       {
-        "key": "B",
-        "text": "if 1,3 are true"
+        "key": "2",
+        "text": "Bilateral absent N20 responses predict poor neurological outcome after cardiac arrest."
       },
       {
-        "key": "C",
-        "text": "if 2,4 are true,"
+        "key": "3",
+        "text": "Sedative medications markedly suppress N20 responses."
       },
       {
-        "key": "D",
-        "text": "if only 4 is true"
-      },
-      {
-        "key": "E",
-        "text": "if all are true"
+        "key": "4",
+        "text": "SSEP should be interpreted together with EEG and clinical examination."
       }
     ],
     "answer": [
@@ -2578,7 +2566,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "中等",
     "tags": [
       "周邊神經系統疾病"
@@ -2876,7 +2864,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 2,3 are true, (C) if 4,5 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 2,3 are true, (C) if 4,5 are true, (D) if only 3 is true, (E) if all are true",
     "difficulty": "易",
     "tags": [
       "去髓鞘疾病"
@@ -2904,7 +2892,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "易",
     "tags": [
       "去髓鞘疾病"
@@ -2942,7 +2930,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "易",
     "tags": [],
     "question": "Which description is correct in intracellular antibody associated paraneoplastic syndrome?",
@@ -3513,7 +3501,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "中等",
     "tags": [
       "癲癇與腦波"
@@ -3841,7 +3829,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "中等",
     "tags": [
       "癲癇與腦波",
@@ -3883,7 +3871,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "易",
     "tags": [
       "動作障礙",
@@ -4851,7 +4839,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "中等",
     "tags": [],
     "question": "A 42-year-old woman with chronic migraine continues to have 14 monthly migraine days despite adequate trials of topiramate, onabotulinumtoxinA, an anti-CGRP monoclonal antibody, and a preventive gepant. She asks whether other mechanism-based treatments are currently being investigated for patients who respond inadequately to CGRP-targeting therapies.\nWhich of the following mechanisms are currently being investigated as potential migraine treatments?",
@@ -5189,7 +5177,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "易",
     "tags": [
       "行為神經學"
@@ -5398,7 +5386,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "中等",
     "tags": [
       "腦中風",
@@ -5761,7 +5749,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "易",
     "tags": [
       "動作障礙"
@@ -5801,7 +5789,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "難",
     "tags": [],
     "question": "Which of the following statements are correct?",
@@ -6495,7 +6483,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "中等",
     "tags": [
       "周邊神經系統疾病"
@@ -7496,7 +7484,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "中等",
     "tags": [
       "行為神經學"
@@ -7822,7 +7810,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "中等",
     "tags": [],
     "question": "Which of the following statements regarding vagus nerve stimulation (VNS) for epilepsy are correct?",
@@ -8100,7 +8088,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "難",
     "tags": [
       "睡眠疾患"
@@ -8444,7 +8432,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "易",
     "tags": [
       "基礎神經科學",
@@ -8525,208 +8513,214 @@
     "source_doc": "北萬雙1.神經行為學組1_7題"
   },
   {
-    "id": "e52aaa835-01",
+    "id": "d7da1ffemovement-01",
     "subject": "神經科專科醫師甄審",
-    "chapter": "重症神經學",
+    "chapter": "動作障礙",
     "year": "",
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "中等",
-    "tags": [
-      "重症神經學"
-    ],
-    "question": "A 45-year-old male presents with subacute headache, vomiting, and progressive visual symptoms. CSF analysis confirms cryptococcal meningitis. Which of the following statements regarding the clinical management of this patient is correct",
+    "difficulty": "易",
+    "tags": [],
+    "question": "A 67-year-old woman reports unsteadiness that begins within seconds of standing still. The symptom disappears when she sits, leans on a support, or starts walking. Surface EMG of both legs shows highly synchronous 15-Hz bursts. Which diagnosis BEST explains this presentation?",
     "images": [],
     "options": [
       {
         "key": "A",
-        "text": "A negative India ink preparation of the CSF specimen definitively rules out cryptococcal meningitis"
+        "text": "Essential tremor"
       },
       {
         "key": "B",
-        "text": "The recommended induction therapy consists of Amphotericin B combined with Flucytosine"
+        "text": "Dystonic tremor"
       },
       {
         "key": "C",
-        "text": "Serial tracking of CSF cryptococcal antigen titers is the most reliable method to monitor real-time drug efficacy"
+        "text": "Primary orthostatic tremor"
       },
       {
         "key": "D",
-        "text": "Routine addition of high-dose Dexamethasone to the induction therapy improves long-term neurological outcomes"
+        "text": "Holmes tremor"
       },
       {
         "key": "E",
-        "text": "Once the patient enters a comatose state surgical VP shunt should be immediately placed within the first week"
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "explanation": null,
-    "source": "Merritt's Neurology 15th Edition Chapter 67 Chronic Meningitis",
-    "source_file": "e52aaa83-____5_.docx",
-    "source_doc": "新光重症5題"
-  },
-  {
-    "id": "e52aaa835-02",
-    "subject": "神經科專科醫師甄審",
-    "chapter": "重症神經學",
-    "year": "",
-    "type": "single",
-    "format": "A",
-    "rule_text": null,
-    "difficulty": "中等",
-    "tags": [
-      "重症神經學"
-    ],
-    "question": "Which of the following statements regarding the diagnosis and management of tuberculous meningitis is correct based on clinical principles ?",
-    "images": [],
-    "options": [
-      {
-        "key": "A",
-        "text": "A negative CSF DNA-PCR result definitively rules out tuberculous meningitis due to its near-perfect sensitivity"
-      },
-      {
-        "key": "B",
-        "text": "Conventional CSF culture on Lowenstein-Jensen medium provides rapid results within 48 hours"
-      },
-      {
-        "key": "C",
-        "text": "CSF acid-fast bacillus smear sensitivity can be optimized when large volume CSF samples (>6 mL) are evaluated"
-      },
-      {
-        "key": "D",
-        "text": "GeneXpert Ultra achieves high sensitivity by targeting and exponentially amplifying specific mycobacterial antigens"
-      },
-      {
-        "key": "E",
-        "text": "Adjunctive corticosteroids are strictly contraindicated regardless of the patient's HIV status"
+        "text": "Functional tremor"
       }
     ],
     "answer": [
       "C"
     ],
     "explanation": null,
-    "source": "Merritt's Neurology 15th Edition Chapter 67 Chronic Meningitis",
-    "source_file": "e52aaa83-____5_.docx",
-    "source_doc": "新光重症5題"
+    "source": "Bradley and Daroff's Neurology in Clinical Practice, 8th ed. (2022), Ch. 24, \"Diagnosis and Assessment of Parkinson Disease and Other Movement Disorders,\" pp. 318–320 (orthostatic tremor).",
+    "source_file": "d7da1ffe-_____Movement_5_.docx",
+    "source_doc": "新竹台大_Movement_5題"
   },
   {
-    "id": "e52aaa835-03",
+    "id": "d7da1ffemovement-02",
     "subject": "神經科專科醫師甄審",
-    "chapter": "重症神經學",
+    "chapter": "動作障礙",
     "year": "",
-    "type": "combo",
-    "format": "C",
-    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
     "difficulty": "易",
-    "tags": [
-      "重症神經學"
-    ],
-    "question": "Which of the following clinical conditions or pathophysiological mechanisms is/are associated with Neurogenic Stunned Myocardium (NSM) in patients with severe acute brain injury?",
+    "tags": [],
+    "question": "A 43-year-old patient develops an abrupt-onset hand tremor of variable amplitude. During contralateral finger tapping at 3 Hz, the tremor shifts to the same frequency and markedly diminishes during a mental distraction task. Which finding provides the STRONGEST positive evidence for functional tremor?",
     "images": [],
     "options": [
       {
         "key": "A",
-        "text": "The condition is primarily driven by massive central sympathetic activation and catecholamine surge, leading to transient, reversible myocardial dysfunction and wall motion abnormalities."
+        "text": "Entrainment to externally paced tapping together with distractibility"
       },
       {
         "key": "B",
-        "text": "Subarachnoid hemorrhage (SAH) is one of the most classic and frequent neurological triggers, though it can also be seen in severe ischemic stroke, traumatic brain injury, or status epilepticus."
-      }
-    ],
-    "answer": [
-      "C"
-    ],
-    "explanation": null,
-    "source": "Lahiri S, Mayer SA. Heart-Brain Interactions. In: Louis ED, Mayer SA, Rowland LP, eds. Merritt's Neurology. 14th ed. Wolters Kluwer; 2021:chap 119",
-    "source_file": "e52aaa83-____5_.docx",
-    "source_doc": "新光重症5題"
-  },
-  {
-    "id": "e52aaa835-04",
-    "subject": "神經科專科醫師甄審",
-    "chapter": "重症神經學",
-    "year": "",
-    "type": "combo",
-    "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
-    "difficulty": "易",
-    "tags": [
-      "重症神經學"
-    ],
-    "question": "Which of the following statements regarding the emergency reversal management of anticoagulant-associated acute spontaneous intracerebral hemorrhage (ICH) are CORRECT according to current clinical guidelines?",
-    "images": [],
-    "options": [
-      {
-        "key": "1",
-        "text": "For patients with warfarin-associated ICH, administration of 4-factor Prothrombin Complex Concentrate (4F-PCC) combined with intravenous Vitamin K is preferred over Fresh Frozen Plasma (FFP) for rapid INR normalization."
+        "text": "A 4–8 Hz action tremor that transiently improves after alcohol"
       },
       {
-        "key": "2",
-        "text": "For patients who have taken direct thrombin inhibitors (e.g., dabigatran), idarucizumab (5 g IV) is the specific reversal agent recommended for rapid neutralization."
+        "key": "C",
+        "text": "A 3–5 Hz resting tremor accompanied by bradykinesia"
       },
       {
-        "key": "3",
-        "text": "For patients on factor Xa inhibitors (e.g., apixaban, rivaroxaban), andexanet alfa or 4-factor PCC (if andexanet alfa is unavailable) should be administered to reverse the anticoagulant effect."
+        "key": "D",
+        "text": "A 14–16 Hz leg tremor occurring only during quiet standing"
       },
       {
-        "key": "4",
-        "text": "Intravenous platelet transfusion should be routinely administered to all acute ICH patients who have taken antiplatelet therapy prior to the hemorrhage, regardless of whether emergency neurosurgical intervention is planned."
+        "key": "E",
+        "text": "A 2–4 Hz intention tremor accompanied by dysmetria"
       }
     ],
     "answer": [
       "A"
     ],
     "explanation": null,
-    "source": "2022 AHA/ASA Guideline for the Management of Patients With Spontaneous Intracerebral Hemorrhage",
-    "source_file": "e52aaa83-____5_.docx",
-    "source_doc": "新光重症5題"
+    "source": "Adams and Victor's Principles of Neurology, 12th ed. (2023), Ch. 4, \"Disorders of Movement and Posture,\" p. 92 (functional/psychogenic tremor).",
+    "source_file": "d7da1ffe-_____Movement_5_.docx",
+    "source_doc": "新竹台大_Movement_5題"
   },
   {
-    "id": "e52aaa835-05",
+    "id": "d7da1ffemovement-03",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "動作障礙",
     "year": "",
     "type": "single",
-    "format": "A2",
+    "format": "A",
     "rule_text": null,
     "difficulty": "易",
     "tags": [],
-    "question": "A 26-year-old male with end-stage renal disease (ESRD) on regular hemodialysis presents to the emergency department after developing acute lethargy and rapid neurologic deterioration following a recent hemodialysis session. On physical examination, his right pupil is fixed, dilated, and unresponsive to light. An emergent axial non-contrast brain CT scan is performed, as shown below:\nBased on the CT image findings and clinical presentation, which of the following statements regarding the neuroanatomical signs and pathophysiological mechanisms of this herniation syndrome is MOST accurate?",
-    "images": [
-      "images/e52aaa835-05-1.jpg"
-    ],
+    "question": "A 70-year-old man has a slowly progressive bilateral postural and kinetic hand tremor that interferes with writing and eating. There is no bradykinesia, rigidity, or cerebellar sign. He has severe asthma and second-degree atrioventricular block. Which oral medication is the MOST appropriate initial treatment?",
+    "images": [],
     "options": [
       {
         "key": "A",
-        "text": "The curved arrow points to the uncus displacing downward across the tentorial incisura, which directly compresses the ipsilateral trochlear nerve (CN IV) causing right-sided pupil dilation."
+        "text": "Propranolol"
       },
       {
         "key": "B",
-        "text": "The double-headed arrow highlights a compressed perimesencephalic cistern on the right side, which is a key early radiological indicator of impending upward cerebellar herniation."
+        "text": "Primidone"
       },
       {
         "key": "C",
-        "text": "The asterisk (*) indicates trapped dilatation of the contralateral temporal horn of the lateral ventricle, caused by compression and obstruction of the contralateral temporal horn outflow or the foramen of Monro due to severe mass effect."
+        "text": "Levodopa/carbidopa"
       },
       {
         "key": "D",
-        "text": "The patient's unilateral dilated pupil is primarily caused by direct ischemic compression of the ipsilateral Edinger-Westphal nucleus in the open medulla."
+        "text": "Trihexyphenidyl"
       },
       {
         "key": "E",
-        "text": "Emergent lumbar puncture is the diagnostic procedure of choice to confirm elevated cerebrospinal fluid (CSF) pressure before deciding on surgical intervention."
+        "text": "Pramipexole"
       }
     ],
     "answer": [
-      "C"
+      "B"
     ],
     "explanation": null,
-    "source": "Riveros Gilardi B, Muñoz Leija MA, Hernández De la Torre E, et al. Types of Cerebral Herniation and Their Imaging Features. RadioGraphics. https://doi.org/10.1148/rg.2019190018",
-    "source_file": "e52aaa83-____5_.docx",
-    "source_doc": "新光重症5題"
+    "source": "Merritt's Neurology, 14th ed. (copyright 2022), Ch. 76, \"Essential Tremor,\" pp. 778–783 (clinical features and treatment).",
+    "source_file": "d7da1ffe-_____Movement_5_.docx",
+    "source_doc": "新竹台大_Movement_5題"
+  },
+  {
+    "id": "d7da1ffemovement-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [],
+    "question": "A 61-year-old patient with Parkinson disease has a clear levodopa response but disabling wearing-off and levodopa-induced dyskinesias despite optimized medical therapy. Cognition and mood are stable, and the patient strongly wishes to reduce dopaminergic medication because of adverse effects. Which statement BEST guides DBS target selection?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "STN DBS generally permits a larger reduction in dopaminergic medication than GPi DBS"
+      },
+      {
+        "key": "B",
+        "text": "GPi DBS is contraindicated when dyskinesia is a major treatment goal"
+      },
+      {
+        "key": "C",
+        "text": "STN DBS reliably improves levodopa-resistant postural instability and falls"
+      },
+      {
+        "key": "D",
+        "text": "VIM DBS is preferred for bradykinesia, rigidity, and motor fluctuations"
+      },
+      {
+        "key": "E",
+        "text": "DBS reverses established dementia in otherwise levodopa-responsive Parkinson disease"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Merritt's Neurology, 14th ed. (copyright 2022), Ch. 86, \"Parkinson Disease,\" pp. 883 and 889; Bradley and Daroff's Neurology in Clinical Practice, 8th ed. (2022), Ch. 96, \"Parkinsonian and Other Movement Disorders,\" pp. 1511–1512.",
+    "source_file": "d7da1ffe-_____Movement_5_.docx",
+    "source_doc": "新竹台大_Movement_5題"
+  },
+  {
+    "id": "d7da1ffemovement-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [],
+    "question": "A 72-year-old patient has severe bilateral tremor that remains disabling despite adequate trials of propranolol, primidone, and topiramate. There is no clinically significant ataxia or cognitive impairment. Which of the following is the least appropriate DBS target for tremor suppression?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Ventro-oralis posterior nucleus (Vop)"
+      },
+      {
+        "key": "B",
+        "text": "Posterior subthalamic nucleus area (PSA)"
+      },
+      {
+        "key": "C",
+        "text": "Ventral intermediate nucleus of the thalamus (VIM)"
+      },
+      {
+        "key": "D",
+        "text": "Anterior nucleus of the thalamus (ANT)"
+      },
+      {
+        "key": "E",
+        "text": "Ventro-oralis anterior nucleus (Voa)"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice, 8th ed. (2022), Ch. 38, \"Intracranial Neuromodulation,\" pp. 484–486; Merritt's Neurology, 14th ed. (copyright 2022), Ch. 76, \"Essential Tremor,\" pp. 781–783.",
+    "source_file": "d7da1ffe-_____Movement_5_.docx",
+    "source_doc": "新竹台大_Movement_5題"
   },
   {
     "id": "dacddfeb5-01",
@@ -8949,213 +8943,207 @@
     "source_doc": "新竹台大臨床神經電生理_5題"
   },
   {
-    "id": "d7da1ffemovement-01",
+    "id": "e52aaa835-01",
     "subject": "神經科專科醫師甄審",
-    "chapter": "動作障礙",
+    "chapter": "重症神經學",
     "year": "",
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
-    "tags": [],
-    "question": "A 67-year-old woman reports unsteadiness that begins within seconds of standing still. The symptom disappears when she sits, leans on a support, or starts walking. Surface EMG of both legs shows highly synchronous 15-Hz bursts. Which diagnosis BEST explains this presentation?",
+    "difficulty": "中等",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "A 45-year-old male presents with subacute headache, vomiting, and progressive visual symptoms. CSF analysis confirms cryptococcal meningitis. Which of the following statements regarding the clinical management of this patient is correct",
     "images": [],
     "options": [
       {
         "key": "A",
-        "text": "Essential tremor"
+        "text": "A negative India ink preparation of the CSF specimen definitively rules out cryptococcal meningitis"
       },
       {
         "key": "B",
-        "text": "Dystonic tremor"
+        "text": "The recommended induction therapy consists of Amphotericin B combined with Flucytosine"
       },
       {
         "key": "C",
-        "text": "Primary orthostatic tremor"
+        "text": "Serial tracking of CSF cryptococcal antigen titers is the most reliable method to monitor real-time drug efficacy"
       },
       {
         "key": "D",
-        "text": "Holmes tremor"
+        "text": "Routine addition of high-dose Dexamethasone to the induction therapy improves long-term neurological outcomes"
       },
       {
         "key": "E",
-        "text": "Functional tremor"
-      }
-    ],
-    "answer": [
-      "C"
-    ],
-    "explanation": null,
-    "source": "Bradley and Daroff's Neurology in Clinical Practice, 8th ed. (2022), Ch. 24, \"Diagnosis and Assessment of Parkinson Disease and Other Movement Disorders,\" pp. 318–320 (orthostatic tremor).",
-    "source_file": "d7da1ffe-_____Movement_5_.docx",
-    "source_doc": "新竹台大_Movement_5題"
-  },
-  {
-    "id": "d7da1ffemovement-02",
-    "subject": "神經科專科醫師甄審",
-    "chapter": "動作障礙",
-    "year": "",
-    "type": "single",
-    "format": "A",
-    "rule_text": null,
-    "difficulty": "易",
-    "tags": [],
-    "question": "A 43-year-old patient develops an abrupt-onset hand tremor of variable amplitude. During contralateral finger tapping at 3 Hz, the tremor shifts to the same frequency and markedly diminishes during a mental distraction task. Which finding provides the STRONGEST positive evidence for functional tremor?",
-    "images": [],
-    "options": [
-      {
-        "key": "A",
-        "text": "Entrainment to externally paced tapping together with distractibility"
-      },
-      {
-        "key": "B",
-        "text": "A 4–8 Hz action tremor that transiently improves after alcohol"
-      },
-      {
-        "key": "C",
-        "text": "A 3–5 Hz resting tremor accompanied by bradykinesia"
-      },
-      {
-        "key": "D",
-        "text": "A 14–16 Hz leg tremor occurring only during quiet standing"
-      },
-      {
-        "key": "E",
-        "text": "A 2–4 Hz intention tremor accompanied by dysmetria"
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "explanation": null,
-    "source": "Adams and Victor's Principles of Neurology, 12th ed. (2023), Ch. 4, \"Disorders of Movement and Posture,\" p. 92 (functional/psychogenic tremor).",
-    "source_file": "d7da1ffe-_____Movement_5_.docx",
-    "source_doc": "新竹台大_Movement_5題"
-  },
-  {
-    "id": "d7da1ffemovement-03",
-    "subject": "神經科專科醫師甄審",
-    "chapter": "動作障礙",
-    "year": "",
-    "type": "single",
-    "format": "A",
-    "rule_text": null,
-    "difficulty": "易",
-    "tags": [],
-    "question": "A 70-year-old man has a slowly progressive bilateral postural and kinetic hand tremor that interferes with writing and eating. There is no bradykinesia, rigidity, or cerebellar sign. He has severe asthma and second-degree atrioventricular block. Which oral medication is the MOST appropriate initial treatment?",
-    "images": [],
-    "options": [
-      {
-        "key": "A",
-        "text": "Propranolol"
-      },
-      {
-        "key": "B",
-        "text": "Primidone"
-      },
-      {
-        "key": "C",
-        "text": "Levodopa/carbidopa"
-      },
-      {
-        "key": "D",
-        "text": "Trihexyphenidyl"
-      },
-      {
-        "key": "E",
-        "text": "Pramipexole"
+        "text": "Once the patient enters a comatose state surgical VP shunt should be immediately placed within the first week"
       }
     ],
     "answer": [
       "B"
     ],
     "explanation": null,
-    "source": "Merritt's Neurology, 14th ed. (copyright 2022), Ch. 76, \"Essential Tremor,\" pp. 778–783 (clinical features and treatment).",
-    "source_file": "d7da1ffe-_____Movement_5_.docx",
-    "source_doc": "新竹台大_Movement_5題"
+    "source": "Merritt's Neurology 15th Edition Chapter 67 Chronic Meningitis",
+    "source_file": "e52aaa83-____5_.docx",
+    "source_doc": "新光重症5題"
   },
   {
-    "id": "d7da1ffemovement-04",
+    "id": "e52aaa835-02",
     "subject": "神經科專科醫師甄審",
-    "chapter": "動作障礙",
+    "chapter": "重症神經學",
     "year": "",
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
-    "tags": [],
-    "question": "A 61-year-old patient with Parkinson disease has a clear levodopa response but disabling wearing-off and levodopa-induced dyskinesias despite optimized medical therapy. Cognition and mood are stable, and the patient strongly wishes to reduce dopaminergic medication because of adverse effects. Which statement BEST guides DBS target selection?",
+    "difficulty": "中等",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "Which of the following statements regarding the diagnosis and management of tuberculous meningitis is correct based on clinical principles ?",
     "images": [],
     "options": [
       {
         "key": "A",
-        "text": "STN DBS generally permits a larger reduction in dopaminergic medication than GPi DBS"
+        "text": "A negative CSF DNA-PCR result definitively rules out tuberculous meningitis due to its near-perfect sensitivity"
       },
       {
         "key": "B",
-        "text": "GPi DBS is contraindicated when dyskinesia is a major treatment goal"
+        "text": "Conventional CSF culture on Lowenstein-Jensen medium provides rapid results within 48 hours"
       },
       {
         "key": "C",
-        "text": "STN DBS reliably improves levodopa-resistant postural instability and falls"
+        "text": "CSF acid-fast bacillus smear sensitivity can be optimized when large volume CSF samples (>6 mL) are evaluated"
       },
       {
         "key": "D",
-        "text": "VIM DBS is preferred for bradykinesia, rigidity, and motor fluctuations"
+        "text": "GeneXpert Ultra achieves high sensitivity by targeting and exponentially amplifying specific mycobacterial antigens"
       },
       {
         "key": "E",
-        "text": "DBS reverses established dementia in otherwise levodopa-responsive Parkinson disease"
+        "text": "Adjunctive corticosteroids are strictly contraindicated regardless of the patient's HIV status"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Merritt's Neurology 15th Edition Chapter 67 Chronic Meningitis",
+    "source_file": "e52aaa83-____5_.docx",
+    "source_doc": "新光重症5題"
+  },
+  {
+    "id": "e52aaa835-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "Which of the following clinical conditions or pathophysiological mechanisms is/are associated with Neurogenic Stunned Myocardium (NSM) in patients with severe acute brain injury?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "The condition is primarily driven by massive central sympathetic activation and catecholamine surge, leading to transient, reversible myocardial dysfunction and wall motion abnormalities."
+      },
+      {
+        "key": "B",
+        "text": "Subarachnoid hemorrhage (SAH) is one of the most classic and frequent neurological triggers, though it can also be seen in severe ischemic stroke, traumatic brain injury, or status epilepticus."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Lahiri S, Mayer SA. Heart-Brain Interactions. In: Louis ED, Mayer SA, Rowland LP, eds. Merritt's Neurology. 14th ed. Wolters Kluwer; 2021:chap 119",
+    "source_file": "e52aaa83-____5_.docx",
+    "source_doc": "新光重症5題"
+  },
+  {
+    "id": "e52aaa835-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "易",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "Which of the following statements regarding the emergency reversal management of anticoagulant-associated acute spontaneous intracerebral hemorrhage (ICH) are CORRECT according to current clinical guidelines?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "For patients with warfarin-associated ICH, administration of 4-factor Prothrombin Complex Concentrate (4F-PCC) combined with intravenous Vitamin K is preferred over Fresh Frozen Plasma (FFP) for rapid INR normalization."
+      },
+      {
+        "key": "2",
+        "text": "For patients who have taken direct thrombin inhibitors (e.g., dabigatran), idarucizumab (5 g IV) is the specific reversal agent recommended for rapid neutralization."
+      },
+      {
+        "key": "3",
+        "text": "For patients on factor Xa inhibitors (e.g., apixaban, rivaroxaban), andexanet alfa or 4-factor PCC (if andexanet alfa is unavailable) should be administered to reverse the anticoagulant effect."
+      },
+      {
+        "key": "4",
+        "text": "Intravenous platelet transfusion should be routinely administered to all acute ICH patients who have taken antiplatelet therapy prior to the hemorrhage, regardless of whether emergency neurosurgical intervention is planned."
       }
     ],
     "answer": [
       "A"
     ],
     "explanation": null,
-    "source": "Merritt's Neurology, 14th ed. (copyright 2022), Ch. 86, \"Parkinson Disease,\" pp. 883 and 889; Bradley and Daroff's Neurology in Clinical Practice, 8th ed. (2022), Ch. 96, \"Parkinsonian and Other Movement Disorders,\" pp. 1511–1512.",
-    "source_file": "d7da1ffe-_____Movement_5_.docx",
-    "source_doc": "新竹台大_Movement_5題"
+    "source": "2022 AHA/ASA Guideline for the Management of Patients With Spontaneous Intracerebral Hemorrhage",
+    "source_file": "e52aaa83-____5_.docx",
+    "source_doc": "新光重症5題"
   },
   {
-    "id": "d7da1ffemovement-05",
+    "id": "e52aaa835-05",
     "subject": "神經科專科醫師甄審",
-    "chapter": "動作障礙",
+    "chapter": "",
     "year": "",
     "type": "single",
-    "format": "A",
+    "format": "A2",
     "rule_text": null,
     "difficulty": "易",
     "tags": [],
-    "question": "A 72-year-old patient has severe bilateral tremor that remains disabling despite adequate trials of propranolol, primidone, and topiramate. There is no clinically significant ataxia or cognitive impairment. Which of the following is the least appropriate DBS target for tremor suppression?",
-    "images": [],
+    "question": "A 26-year-old male with end-stage renal disease (ESRD) on regular hemodialysis presents to the emergency department after developing acute lethargy and rapid neurologic deterioration following a recent hemodialysis session. On physical examination, his right pupil is fixed, dilated, and unresponsive to light. An emergent axial non-contrast brain CT scan is performed, as shown below:\nBased on the CT image findings and clinical presentation, which of the following statements regarding the neuroanatomical signs and pathophysiological mechanisms of this herniation syndrome is MOST accurate?",
+    "images": [
+      "images/e52aaa835-05-1.jpg"
+    ],
     "options": [
       {
         "key": "A",
-        "text": "Ventro-oralis posterior nucleus (Vop)"
+        "text": "The curved arrow points to the uncus displacing downward across the tentorial incisura, which directly compresses the ipsilateral trochlear nerve (CN IV) causing right-sided pupil dilation."
       },
       {
         "key": "B",
-        "text": "Posterior subthalamic nucleus area (PSA)"
+        "text": "The double-headed arrow highlights a compressed perimesencephalic cistern on the right side, which is a key early radiological indicator of impending upward cerebellar herniation."
       },
       {
         "key": "C",
-        "text": "Ventral intermediate nucleus of the thalamus (VIM)"
+        "text": "The asterisk (*) indicates trapped dilatation of the contralateral temporal horn of the lateral ventricle, caused by compression and obstruction of the contralateral temporal horn outflow or the foramen of Monro due to severe mass effect."
       },
       {
         "key": "D",
-        "text": "Anterior nucleus of the thalamus (ANT)"
+        "text": "The patient's unilateral dilated pupil is primarily caused by direct ischemic compression of the ipsilateral Edinger-Westphal nucleus in the open medulla."
       },
       {
         "key": "E",
-        "text": "Ventro-oralis anterior nucleus (Voa)"
+        "text": "Emergent lumbar puncture is the diagnostic procedure of choice to confirm elevated cerebrospinal fluid (CSF) pressure before deciding on surgical intervention."
       }
     ],
     "answer": [
-      "D"
+      "C"
     ],
     "explanation": null,
-    "source": "Bradley and Daroff's Neurology in Clinical Practice, 8th ed. (2022), Ch. 38, \"Intracranial Neuromodulation,\" pp. 484–486; Merritt's Neurology, 14th ed. (copyright 2022), Ch. 76, \"Essential Tremor,\" pp. 781–783.",
-    "source_file": "d7da1ffe-_____Movement_5_.docx",
-    "source_doc": "新竹台大_Movement_5題"
+    "source": "Riveros Gilardi B, Muñoz Leija MA, Hernández De la Torre E, et al. Types of Cerebral Herniation and Their Imaging Features. RadioGraphics. https://doi.org/10.1148/rg.2019190018",
+    "source_file": "e52aaa83-____5_.docx",
+    "source_doc": "新光重症5題"
   }
 ]

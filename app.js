@@ -1,5 +1,118 @@
 let QUESTIONS = [];
 
+// ---------- 詳解投稿（Google 表單 + 試算表，題目下面直接輸入，送出後投稿者馬上看到） ----------
+// 使用方式：
+//   1. 建立一份 Google 表單（欄位：題目編號 / 詳解內容 / 你的姓名暱稱(非必填)），
+//      用「取得預先填寫的連結」，兩個欄位都打上測試文字，拿到 idEntryParam 跟
+//      contentEntryParam（網址裡 entry.xxxxxxx=測試文字 那兩段）。
+//   2. 表單會自動連動一份 Google 試算表，把那份試算表「發布到網路」匯出成 CSV，
+//      把發布出來的網址填進 sheetCsvUrl。
+//   3. 下面三個欄位名稱要跟表單裡實際打的欄位標題一模一樣（含全形/半形符號）。
+// 只要 formBaseUrl / idEntryParam / contentEntryParam / sheetCsvUrl 任何一個是空字串，
+// 這個功能就會自動隱藏，不會噴錯，所以還沒設定好之前完全不影響網站其他功能。
+//
+// 運作方式：送出時直接用瀏覽器背景 POST 到表單的送出網址（不會跳轉頁面），因為 Google
+// 表單的送出端點不會回傳 CORS 標頭，網站讀不到「是否成功」的回應內容，所以送出後會直接
+// 樂觀地把內容加進畫面（投稿者自己馬上看到）；其他訪客則是等 Google 試算表「發布到網路」
+// 的快取更新（通常幾分鐘內）、而且要重新整理頁面，才會看到——這是純前端網站在沒有後端
+// 資料庫的情況下，能做到最接近即時的程度。
+const EXPLANATION_SUBMIT_CONFIG = {
+  formBaseUrl: 'https://docs.google.com/forms/d/e/1FAIpQLSdFLY6T4Tz3SWYizFAaoTlSa5SoeW5QqoLSH5qqbU1QfKwfiQ/viewform',
+  idEntryParam: 'entry.469862127',
+  contentEntryParam: 'entry.1171621119',
+  sheetCsvUrl: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSOuWklpGvB-ebDKSKw8gpuTGHTUP3hU5eXPq0CA6Qz0RnhY0xBIpoj0tIpjqoXY8AoRHLrYf6Ks1Gm/pub?output=csv',
+  idColumn: '題目編號',
+  contentColumn: '詳解內容',
+  nameColumn: '',  // 目前表單沒有姓名/暱稱欄位，留空字串就會自動不顯示署名
+};
+
+// qid -> [{content, name}]，網站載入時從 Google 試算表抓一次，送出後也會樂觀地加進來
+let SUBMITTED_EXPLANATIONS = {};
+
+function inlineSubmitReady() {
+  return !!(EXPLANATION_SUBMIT_CONFIG.formBaseUrl && EXPLANATION_SUBMIT_CONFIG.idEntryParam &&
+    EXPLANATION_SUBMIT_CONFIG.contentEntryParam);
+}
+
+async function submitExplanationInline(qid, content) {
+  if (!inlineSubmitReady()) return { ok: false, reason: 'not_configured' };
+  const formResponseUrl = EXPLANATION_SUBMIT_CONFIG.formBaseUrl.replace(/\/viewform.*$/, '/formResponse');
+  const body = new URLSearchParams();
+  body.set(EXPLANATION_SUBMIT_CONFIG.idEntryParam, qid);
+  body.set(EXPLANATION_SUBMIT_CONFIG.contentEntryParam, content);
+  try {
+    // mode: 'no-cors' ——送出去就好，讀不到回應內容也沒關係，Google 表單的送出端點本來就
+    // 不會回傳可讀取的 CORS 回應；只要 fetch() 本身沒有丟出網路層級的例外，就當作送出成功
+    await fetch(formResponseUrl, { method: 'POST', mode: 'no-cors', body });
+    return { ok: true };
+  } catch (e) {
+    return { ok: false, reason: 'network', error: e };
+  }
+}
+
+// 簡易 CSV 解析（支援雙引號包住的欄位、欄位裡的逗號跟換行）——Google 試算表匯出的 CSV 都是
+// 標準 RFC4180 格式，這個小型解析器就夠用，不需要外部套件
+function parseCsv(text) {
+  const rows = [];
+  let row = [];
+  let field = '';
+  let inQuotes = false;
+  for (let i = 0; i < text.length; i++) {
+    const c = text[i];
+    if (inQuotes) {
+      if (c === '"') {
+        if (text[i + 1] === '"') { field += '"'; i++; }
+        else { inQuotes = false; }
+      } else {
+        field += c;
+      }
+    } else if (c === '"') {
+      inQuotes = true;
+    } else if (c === ',') {
+      row.push(field); field = '';
+    } else if (c === '\n') {
+      row.push(field); field = ''; rows.push(row); row = [];
+    } else if (c === '\r') {
+      // ignore, \n handles the row break
+    } else {
+      field += c;
+    }
+  }
+  if (field !== '' || row.length) { row.push(field); rows.push(row); }
+  return rows;
+}
+
+async function loadSubmittedExplanations() {
+  if (!EXPLANATION_SUBMIT_CONFIG.sheetCsvUrl) return;
+  try {
+    const res = await fetch(EXPLANATION_SUBMIT_CONFIG.sheetCsvUrl, { cache: 'no-store' });
+    if (!res.ok) return;
+    const text = await res.text();
+    const rows = parseCsv(text).filter(r => r.some(c => c.trim()));
+    if (rows.length < 2) return;
+    const header = rows[0].map(h => h.trim());
+    const idIdx = header.indexOf(EXPLANATION_SUBMIT_CONFIG.idColumn);
+    const contentIdx = header.indexOf(EXPLANATION_SUBMIT_CONFIG.contentColumn);
+    const nameIdx = header.indexOf(EXPLANATION_SUBMIT_CONFIG.nameColumn);
+    if (idIdx === -1 || contentIdx === -1) {
+      console.warn('詳解投稿試算表的欄位標題跟設定不符，找不到「' + EXPLANATION_SUBMIT_CONFIG.idColumn + '」或「' + EXPLANATION_SUBMIT_CONFIG.contentColumn + '」');
+      return;
+    }
+    const map = {};
+    for (let i = 1; i < rows.length; i++) {
+      const r = rows[i];
+      const qid = (r[idIdx] || '').trim();
+      const content = (r[contentIdx] || '').trim();
+      if (!qid || !content) continue;
+      const name = nameIdx !== -1 ? (r[nameIdx] || '').trim() : '';
+      (map[qid] = map[qid] || []).push({ content, name });
+    }
+    SUBMITTED_EXPLANATIONS = map;
+  } catch (e) {
+    console.warn('讀取詳解投稿試算表失敗', e);
+  }
+}
+
 // ---------- safety ----------
 function escapeHtml(str) {
   if (str === null || str === undefined) return '';
@@ -106,6 +219,29 @@ function questionImagesHtml(q) {
   return `<div class="qimg-wrap">${q.images.map(src => `<img src="${escapeHtml(src)}" alt="題目附圖" loading="lazy">`).join('')}</div>`;
 }
 
+function submittedExplanationsHtml(q) {
+  const subs = SUBMITTED_EXPLANATIONS[q.id];
+  if (!subs || !subs.length) return '';
+  return `<div class="submitted-explain-wrap">
+    <div class="submitted-explain-label">🙋 同學投稿的詳解（即時顯示，未經審核，僅供參考）</div>
+    ${subs.map(s => `<div class="submitted-explain-box">${escapeHtml(s.content)}${s.name ? `<div class="submitted-explain-name">— ${escapeHtml(s.name)}</div>` : ''}</div>`).join('')}
+  </div>`;
+}
+
+function inlineExplainFormHtml(q) {
+  if (!inlineSubmitReady()) return '';
+  return `
+    <div class="inline-explain-form" data-qid="${escapeHtml(q.id)}">
+      <div class="inline-explain-label">✏️ 新增／補充詳解</div>
+      <textarea class="inline-explain-input" rows="2" placeholder="打上你的詳解，送出後會直接顯示在這一題下面（未經審核，其他同學重新整理頁面後也會看到）…"></textarea>
+      <div class="inline-explain-actions">
+        <button type="button" class="btn secondary inline-explain-submit">送出</button>
+        <span class="inline-explain-status"></span>
+      </div>
+    </div>
+  `;
+}
+
 function questionExtraTagsHtml(q) {
   const extras = [];
   if (q.difficulty) extras.push(`<span class="tag diff-pill ${escapeHtml(q.difficulty)}">難易：${escapeHtml(q.difficulty)}</span>`);
@@ -167,6 +303,10 @@ function renderQuestionCard(q) {
     ? `<div class="explain-box"><strong>詳解：</strong>${escapeHtml(q.explanation)}</div>` : '';
   const revealHint = (!isRevealed && choiceCount > 0)
     ? '<p class="reveal-hint">👆 點選一個選項查看答案</p>' : '';
+  // 同學投稿的詳解跟輸入框都不受「先點選項查看答案」限制——
+  // 不然剛送出的詳解自己也看不到，而且沒有選項資料/還沒標答案的題目永遠也不會顯示。
+  const submittedHtml = submittedExplanationsHtml(q);
+  const inlineFormHtml = inlineExplainFormHtml(q);
 
   return `
     <div class="qcard" data-id="${escapeHtml(q.id)}">
@@ -190,7 +330,9 @@ function renderQuestionCard(q) {
         ${revealHint}
         ${bodyExtra}
         ${explainHtml}
+        ${submittedHtml}
         ${q.source ? `<p class="no-data-note" style="margin-top:8px;">來源：${escapeHtml(q.source)}</p>` : ''}
+        ${inlineFormHtml}
       </div>
     </div>
   `;
@@ -225,6 +367,12 @@ function renderList() {
 // 點選項：標記這一題為「已作答」，只更新該題卡片本身（避免整頁重繪造成捲動位置跳動）
 function setupCardInteractions() {
   document.getElementById('qlist').addEventListener('click', (e) => {
+    const submitBtn = e.target.closest('.inline-explain-submit');
+    if (submitBtn) {
+      handleInlineExplainSubmit(submitBtn);
+      return;
+    }
+
     const optRow = e.target.closest('.option-row[data-key]');
     if (!optRow) return;
     const card = optRow.closest('.qcard');
@@ -234,6 +382,40 @@ function setupCardInteractions() {
     if (!q) return;
     pickedAnswer[qid] = [optRow.dataset.key];
     revealedIds.add(qid);
+    const wrapper = document.createElement('div');
+    wrapper.innerHTML = renderQuestionCard(q).trim();
+    card.replaceWith(wrapper.firstElementChild);
+  });
+}
+
+function handleInlineExplainSubmit(submitBtn) {
+  const wrap = submitBtn.closest('.inline-explain-form');
+  if (!wrap) return;
+  const qid = wrap.dataset.qid;
+  const textarea = wrap.querySelector('.inline-explain-input');
+  const statusEl = wrap.querySelector('.inline-explain-status');
+  const content = (textarea.value || '').trim();
+  if (!content) {
+    statusEl.textContent = '請先輸入詳解內容再送出';
+    return;
+  }
+  submitBtn.disabled = true;
+  textarea.disabled = true;
+  statusEl.textContent = '送出中…';
+
+  submitExplanationInline(qid, content).then(result => {
+    if (!result.ok) {
+      submitBtn.disabled = false;
+      textarea.disabled = false;
+      statusEl.textContent = '送出失敗，請檢查網路連線後再試一次';
+      return;
+    }
+    // 樂觀更新：讀不到 Google 表單的回應內容，但送出沒有丟出錯誤就當作成功，
+    // 直接把內容加進畫面讓投稿的人立刻看到自己剛打的詳解
+    (SUBMITTED_EXPLANATIONS[qid] = SUBMITTED_EXPLANATIONS[qid] || []).push({ content, name: '' });
+    const q = QUESTIONS.find(x => x.id === qid);
+    if (!q) return;
+    const card = wrap.closest('.qcard');
     const wrapper = document.createElement('div');
     wrapper.innerHTML = renderQuestionCard(q).trim();
     card.replaceWith(wrapper.firstElementChild);
@@ -507,6 +689,9 @@ async function init() {
     populateSourceDocFilter(document.getElementById('quizSourceDoc'));
     renderStats();
     renderList();
+
+    // 同學投稿的詳解（Google 試算表）不擋主要題庫的顯示，背景讀取完再補畫一次
+    loadSubmittedExplanations().then(() => renderList());
   } catch (err) {
     document.getElementById('headerSub').textContent = '題庫載入失敗';
     document.getElementById('qlist').innerHTML =
