@@ -1,0 +1,5050 @@
+[
+  {
+    "id": "6815b4e97117-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "行為神經學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "行為神經學",
+      "重症神經學"
+    ],
+    "question": "A patient with autoimmune encephalitis improves after immunotherapy but continues to have persistent deficits in attention and episodic memory. Which antibody-associated syndrome is most commonly associated with residual cognitive impairment despite clinical recovery?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "NMDA receptor"
+      },
+      {
+        "key": "B",
+        "text": "LGI1"
+      },
+      {
+        "key": "C",
+        "text": "mGluR5"
+      },
+      {
+        "key": "D",
+        "text": "Dopamine receptor 2"
+      },
+      {
+        "key": "E",
+        "text": "CASPR2"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Neurology in Clinical Practice, 8th Edition, 2022  p 1264",
+    "source_file": "6815b4e9-7_____1.______17_.docx",
+    "source_doc": "神經行為學組17題"
+  },
+  {
+    "id": "6815b4e97117-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "行為神經學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "難",
+    "tags": [
+      "行為神經學"
+    ],
+    "question": "Which of the following statements about Alzheimer's disease biomarkers is CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Amyloid PET becomes abnormal only after the onset of cognitive symptoms."
+      },
+      {
+        "key": "B",
+        "text": "Plasma p-tau217 is less accurate than CSF Aβ42/40 for detecting brain amyloid pathology."
+      },
+      {
+        "key": "C",
+        "text": "Tau PET becomes abnormal before amyloid PET."
+      },
+      {
+        "key": "D",
+        "text": "Plasma Aβ42/40 becomes abnormal only after amyloid PET positivity."
+      },
+      {
+        "key": "E",
+        "text": "Plasma p-tau 217 has emerged as one of the best-performing blood biomarkers for detecting cerebral amyloid pathology and predicting progression to Alzheimer's disease."
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Cell. 2026 Jul 9;189(14):4193-4224. doi: 10.1016/j.cell.2026.06.006.",
+    "source_file": "6815b4e9-7_____1.______17_.docx",
+    "source_doc": "神經行為學組17題"
+  },
+  {
+    "id": "6815b4e97117-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "動作障礙",
+      "行為神經學"
+    ],
+    "question": "A 69-year-old man is referred to a memory clinic because of progressive cognitive decline over one year. His wife reports REM sleep behavior disorder, obstructive sleep apnea, nocturnal stridor, dysphagia, and gait instability. Brain MRI is unremarkable. Which diagnosis is most likely?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Dementia with Lewy bodies"
+      },
+      {
+        "key": "B",
+        "text": "Corticobasal syndrome"
+      },
+      {
+        "key": "C",
+        "text": "IgLON5 disease"
+      },
+      {
+        "key": "D",
+        "text": "Progressive supranuclear palsy"
+      },
+      {
+        "key": "E",
+        "text": "Alzheimer's disease"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Current Opinion in Neurology. 2024 Apr 1;37(3):316–321",
+    "source_file": "6815b4e9-7_____1.______17_.docx",
+    "source_doc": "神經行為學組17題"
+  },
+  {
+    "id": "6815b4e97117-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "行為神經學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "行為神經學",
+      "重症神經學"
+    ],
+    "question": "A 24-year-old woman fulfills the clinical criteria for probable anti-NMDA receptor encephalitis. CSF antibody results are still pending. What is the best next step?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Await antibody confirmation before treatment."
+      },
+      {
+        "key": "B",
+        "text": "Begin high-dose immunotherapy immediately while searching for an ovarian teratoma."
+      },
+      {
+        "key": "C",
+        "text": "Repeat MRI in three months."
+      },
+      {
+        "key": "D",
+        "text": "Initiate cholinesterase inhibitor therapy."
+      },
+      {
+        "key": "E",
+        "text": "Start antiviral therapy alone and defer immunotherapy until antibody confirmation."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Neurology in Clinical Practice, 8th Edition, 2022  p 1263",
+    "source_file": "6815b4e9-7_____1.______17_.docx",
+    "source_doc": "神經行為學組17題"
+  },
+  {
+    "id": "6815b4e97117-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "基礎神經科學",
+      "行為神經學"
+    ],
+    "question": "Regarding behavioral syndromes associated with frontosubcortical circuits:",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Disruption of the dorsolateral prefrontal circuit primarily causes disinhibition, impulsivity, and socially inappropriate behavior."
+      },
+      {
+        "key": "B",
+        "text": "Disruption of the anterior cingulate circuit is typically associated with hyperactivity, pressured speech, and euphoria."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Neurology in Clinical Practice, 8th Edition, 2022  p76,78",
+    "source_file": "6815b4e9-7_____1.______17_.docx",
+    "source_doc": "神經行為學組17題"
+  },
+  {
+    "id": "6815b4e97117-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "difficulty": "易",
+    "tags": [
+      "基礎神經科學",
+      "行為神經學"
+    ],
+    "question": "Regarding frontal lobe assessment:",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Interpretation of proverbs evaluates abstract thinking"
+      },
+      {
+        "key": "2",
+        "text": "Luria's alternating sequence test evaluates executive function"
+      },
+      {
+        "key": "3",
+        "text": "Fist-side-palm testing is another bedside frontal lobe test"
+      },
+      {
+        "key": "4",
+        "text": "Clock drawing primarily evaluates frontal executive function only"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Neurology in Clinical Practice, 8th Edition, 2022  p60,65",
+    "source_file": "6815b4e9-7_____1.______17_.docx",
+    "source_doc": "神經行為學組17題"
+  },
+  {
+    "id": "6815b4e97117-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "行為神經學",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "行為神經學"
+    ],
+    "question": "A 73-year-old man presents with a 2-year history of progressive cognitive decline. His wife reports recurrent well-formed visual hallucinations, fluctuating attention, and dream enactment behavior during sleep. Neurological examination reveals mild bradykinesia and rigidity. Brain MRI demonstrates relatively preserved medial temporal lobe structures. The following ¹²³I-FP-CIT SPECT (DaTscan) is obtained. Which of the following statements regarding this imaging study is MOST accurate?",
+    "images": [
+      "images/6815b4e97117-07-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "It directly visualizes cerebral α-synuclein deposition."
+      },
+      {
+        "key": "B",
+        "text": "It is an indicative biomarker for dementia with Lewy bodies by demonstrating presynaptic nigrostriatal dopaminergic degeneration."
+      },
+      {
+        "key": "C",
+        "text": "A normal scan completely excludes the diagnosis of dementia with Lewy bodies."
+      },
+      {
+        "key": "D",
+        "text": "It primarily detects cortical amyloid-β deposition."
+      },
+      {
+        "key": "E",
+        "text": "It is most useful for assessing hippocampal neuronal loss."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Lancet Neurol. 2025 Dec;24(12):1053-1065.",
+    "source_file": "6815b4e9-7_____1.______17_.docx",
+    "source_doc": "神經行為學組17題"
+  },
+  {
+    "id": "e869dd717cva3-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "難",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "A 70-year-old male with a history of non-valvular atrial fibrillation and hyperlipidemia presents to the ED 2 hours after acute left-sided weakness and dysarthria (NIHSS = 11). CTA reveals an acute occlusion of the right M1 segment. He takes Rivaroxaban 20 mg QD (last dose taken 14 hours ago). Urgent anti-Xa activity assay is unavailable. Brain CT shows an ASPECTS = 8. Which of the following clinical decisions is MOST APPROPRIATE with current guidelines?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Administer Tenecteplase (TNK) 0.25 mg/kg (max 25 mg) single IV bolus immediately, followed by EVT, since the last dose of Rivaroxaban was taken > 12 hours ago and initial BP is already < 185/110 mmHg."
+      },
+      {
+        "key": "B",
+        "text": "Withhold IVT due to Rivaroxaban ingestion within 24 hours without quantitative anti-Xa testing; proceed directly to EVT while maintaining peri-procedural BP < 180/105 mmHg."
+      },
+      {
+        "key": "C",
+        "text": "Administer Idarucizumab to reverse the anticoagulant effect of Rivaroxaban, then give TNK 0.25 mg/kg IV bolus over 5 seconds prior to transferring the patient for urgent EVT."
+      },
+      {
+        "key": "D",
+        "text": "Initiate dual antiplatelet therapy (Aspirin + Clopidogrel) immediately to cover the large vessel occlusion, and lower systolic blood pressure aggressively to < 130 mmHg within the first 24 hours to minimize hemorrhagic transformation."
+      },
+      {
+        "key": "E",
+        "text": "If baseline LDL-C is 82 mg/dL upon arrival, statin therapy can be safely deferred because the secondary prevention LDL-C target is already achieved (< 100 mg/dL)."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "台灣腦中風學會治療指引 — 急性缺血性腦中風處置建議",
+    "source_file": "e869dd71-7_____cva____3.docx",
+    "source_doc": "CVA"
+  },
+  {
+    "id": "e869dd717cva3-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "According to the current clinical practice protocol for IVT, which of the following patient conditions is classified as a RELATIVE contraindication requiring individual risk-benefit assessment, rather than an ABSOLUTE contraindication?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "History of non-traumatic intracranial hemorrhage (ICH)"
+      },
+      {
+        "key": "B",
+        "text": "Presence of an unruptured intracranial aneurysm measuring 0.6 cm"
+      },
+      {
+        "key": "C",
+        "text": "Gastrointestinal bleeding within the past 14 days"
+      },
+      {
+        "key": "D",
+        "text": "ST-elevation myocardial infarction (STEMI) 5 days ago (not associated with the current stroke onset)"
+      },
+      {
+        "key": "E",
+        "text": "Factor Xa inhibitor (e.g., Rivaroxaban) ingested 12 hours before stroke onset"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "台灣腦中風學會治療指引 — 急性缺血性腦中風處置建議",
+    "source_file": "e869dd71-7_____cva____3.docx",
+    "source_doc": "CVA"
+  },
+  {
+    "id": "e869dd717cva3-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "難",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "A stroke team is evaluating antiplatelet regimens for high-risk TIA or minor acute ischemic stroke. When applying evidence from major landmark trials, which of the following clinical decisions is CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "In patients who carry CYP2C19 loss-of-function alleles (clopidogrel resistance), CHANCE-2 demonstrated that Ticagrelor plus Aspirin is more effective at reducing stroke recurrence than Clopidogrel plus Aspirin."
+      },
+      {
+        "key": "B",
+        "text": "According to the POINT trial, extending dual antiplatelet therapy (Clopidogrel + Aspirin) for a full 90 days carries no significant increase in major bleeding risk compared to Aspirin alone."
+      },
+      {
+        "key": "C",
+        "text": "The THALES trial proved that Ticagrelor plus Aspirin should be routinely continued for 90 days in all acute minor ischemic stroke patients."
+      },
+      {
+        "key": "D",
+        "text": "Both CHANCE and POINT allowed enrollment up to 48 hours after symptom onset, making them applicable for late-arriving stroke patients."
+      },
+      {
+        "key": "E",
+        "text": "The CHANCE trial demonstrated that Clopidogrel monotherapy is superior to Aspirin monotherapy for acute minor stroke within 24 hours."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "台灣腦中風學會治療指引 — 非心因性急性缺血中風的抗血小板藥物治療更新指引",
+    "source_file": "e869dd71-7_____cva____3.docx",
+    "source_doc": "CVA"
+  },
+  {
+    "id": "e869dd717cva3-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "A 68-year-old man with atrial fibrillation develops an acute right MCA territory cardioembolic infarction of moderate severity (NIHSS 10). Brain MRI shows no hemorrhagic transformation. According to the ELAN trial (2023), which of the following statements regarding the timing of direct oral anticoagulant (DOAC) initiation is MOST appropriate?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "DOAC should be delayed for at least 14 days regardless of stroke severity to minimize the risk of hemorrhagic transformation."
+      },
+      {
+        "key": "B",
+        "text": "Early initiation of DOAC (within 48 hours for minor-to-moderate stroke, or at day 6-7 for major stroke) was shown to be safe and did not significantly increase symptomatic intracranial hemorrhage compared with later, guideline-based initiation."
+      },
+      {
+        "key": "C",
+        "text": "Early DOAC initiation significantly increased the risk of recurrent ischemic stroke compared with later initiation."
+      },
+      {
+        "key": "D",
+        "text": "The ELAN trial showed that antiplatelet bridging therapy is superior to early DOAC initiation in reducing hemorrhagic transformation."
+      },
+      {
+        "key": "E",
+        "text": "Anticoagulation should never be initiated within the first week after any cardioembolic stroke, irrespective of infarct size."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Fischer U, Koga M, Strbian D, et al. Early versus Later Anticoagulation for Stroke with Atrial Fibrillation. N Engl J Med. 2023;388:2411-2421",
+    "source_file": "e869dd71-7_____cva____3.docx",
+    "source_doc": "CVA"
+  },
+  {
+    "id": "e869dd717cva3-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "A 45-year-old woman presents with an embolic-appearing ischemic stroke of undetermined source. Extensive workup, including prolonged cardiac monitoring, a hypercoagulability panel, and vessel imaging, is unremarkable. Transesophageal echocardiography reveals a moderate-sized patent foramen ovale (PFO) with an associated atrial septal aneurysm. Which of the following statements regarding management is MOST appropriate?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Because PFO is a common incidental finding in the general population, no intervention beyond antiplatelet therapy is warranted regardless of the stroke's clinical features."
+      },
+      {
+        "key": "B",
+        "text": "Percutaneous PFO closure should be considered, given her age and a moderate-to-large PFO."
+      },
+      {
+        "key": "C",
+        "text": "Long-term warfarin anticoagulation is superior to percutaneous closure for all patients with PFO-associated cryptogenic stroke, regardless of age."
+      },
+      {
+        "key": "D",
+        "text": "PFO closure is contraindicated in the presence of an atrial septal aneurysm because of increased procedural risk."
+      },
+      {
+        "key": "E",
+        "text": "PFO closure should be considered only in patients older than 60 years, as younger patients derive no benefit."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice (NICP), 8th Edition, Chapter 58",
+    "source_file": "e869dd71-7_____cva____3.docx",
+    "source_doc": "CVA"
+  },
+  {
+    "id": "e869dd717cva3-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A nor B",
+    "difficulty": "難",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "Regarding contemporary evidence-based management of carotid artery stenosis, which of the following statement(s) is/are true?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Carotid endarterectomy (CEA) remains an appropriate treatment option for symptomatic patients with 50-99% carotid stenosis when the perioperative risk of stroke or death is less than 6%."
+      },
+      {
+        "key": "B",
+        "text": "In the CREST-2 trial for asymptomatic carotid stenosis, CAS plus intensive medical therapy significantly outperformed medical therapy alone in reducing 4-year stroke risk; whereas CEA plus medical therapy failed to demonstrate significant superiority."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "2021 AHA/ASA Guideline for the Prevention of Stroke in Patients With Stroke and TIA, CREST-2 Trial, N Engl J Med, published online Nov 21, 2025",
+    "source_file": "e869dd71-7_____cva____3.docx",
+    "source_doc": "CVA"
+  },
+  {
+    "id": "e869dd717cva3-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "基礎神經科學",
+      "腦中風",
+      "重症神經學"
+    ],
+    "question": "A 70-year-old patient presents with acute-onset quadriplegia and progressive respiratory failure requiring immediate endotracheal intubation. Neurological evaluation reveals preserved vertical and horizontal extraocular movements. Brain imaging is shown below (Figure A, B).\nWhich of the following neuroanatomical statements regarding this condition is most accurate?",
+    "images": [
+      "images/e869dd717cva3-07-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Pain and temperature sensation in the trunk and limbs is typically lost due to ventral spinothalamic tract infarction."
+      },
+      {
+        "key": "B",
+        "text": "Tongue weakness does not occur because the hypoglossal nerve (CN XII) nucleus is located in the lateral medulla."
+      },
+      {
+        "key": "C",
+        "text": "Loss of vibration and joint position sense occurs due to ischemia of the ascending large sensory fiber tract located in the lateral medulla."
+      },
+      {
+        "key": "D",
+        "text": "Extraocular movements are spared because the midbrain and rostral pontine ocular motor networks are preserved."
+      },
+      {
+        "key": "E",
+        "text": "The classic DWI sign seen in the figure is pathognomonic for occlusion of the anterior inferior cerebellar artery (AICA)."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Stroke. 2023;54:e157-e158. (DOI: 10.1161/STROKEAHA.122.042054)",
+    "source_file": "e869dd71-7_____cva____3.docx",
+    "source_doc": "CVA"
+  },
+  {
+    "id": "86fd8e4c77-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "A 42-year-old male presents with a 4-month history of progressive, symmetric distal limb weakness, a coarse action tremor of the upper extremities, and significant sensory gait ataxia. On examination, deep tendon reflexes are diffusely absent. Nerve conduction studies reveal a severe, demyelinating-dominant polyradiculoneuropathy. CSF analysis shows prominent albuminocytologic dissociation. The patient undergoes two full courses of intravenous immunoglobulin (IVIG) therapy without any clinical improvement. Given his clinical phenotype and poor response to standard treatment, which of the following autoantibodies is MOST likely driving this patient’s condition?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Anti-Neurofascin 155 (NF155) IgG4 antibody"
+      },
+      {
+        "key": "B",
+        "text": "Anti-Contactin-1 (CNTN1) IgG4 antibody"
+      },
+      {
+        "key": "C",
+        "text": "Anti-Contactin-Associated Protein 1 (CASPR1) IgG4 antibody"
+      },
+      {
+        "key": "D",
+        "text": "Anti-Neurofascin 186 (NF186) IgG4 antibody"
+      },
+      {
+        "key": "E",
+        "text": "Anti-Ganglioside GM1 IgM antibody"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Querol L, Dalakas MC. The Discovery of Autoimmune Nodopathies and the Impact of IgG4 Antibodies in Autoimmune Neurology. Neurol Neuroimmunol Neuroinflamm. 2025 Jan;12(1):e200365.",
+    "source_file": "86fd8e4c-7________7_.docx",
+    "source_doc": "周邊神經7題"
+  },
+  {
+    "id": "86fd8e4c77-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "According to the principles of peripheral efferent structural autonomic disorders and drug-induced dysautonomia, which of the following statements is CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Pure Autonomic Failure is a tauopathy that commonly impairs left ventricular contractility and increases the incidence of stroke."
+      },
+      {
+        "key": "B",
+        "text": "In Autoimmune Autonomic Ganglionopathy, the absence of detectable ganglionic nicotinic acetylcholine receptor (AChR) antibodies definitively excludes the diagnosis."
+      },
+      {
+        "key": "C",
+        "text": "The longitudinal progression of diabetic autonomic neuropathy typically begins with severe orthostatic hypotension, while erectile and bowel dysfunction present as late-stage symptoms."
+      },
+      {
+        "key": "D",
+        "text": "Hyperadrenergic orthostatic hypotension, characterized by compensatory tachycardia and sweating, occurs when medications lower blood pressure through volume depletion or direct vasodilation alone."
+      },
+      {
+        "key": "E",
+        "text": "Metronidazole-induced autonomic neuropathy occurs primarily at ultra-low cumulative doses and is considered a first-line neuroprotective agent in patients with pre-existing dysautonomia."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice, 8th Edition (2022), Volume 2, Chapter 107: \"Disorders of the Autonomic Nervous System \"",
+    "source_file": "86fd8e4c-7________7_.docx",
+    "source_doc": "周邊神經7題"
+  },
+  {
+    "id": "86fd8e4c77-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "A 65-year-old male presents with slowly progressive, asymmetric weakness of deep finger flexors and knee extensors, and mild dysphagia. According to the 2024 ENMC criteria for this suspected myopathy, which statement is CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Rimmed vacuoles on biopsy are the sole mandatory diagnostic criterion."
+      },
+      {
+        "key": "B",
+        "text": "MHC class I expression shows a predominantly perifascicular pattern."
+      },
+      {
+        "key": "C",
+        "text": "With this typical clinical phenotype, finding endomysial inflammation on biopsy is sufficient for diagnosis."
+      },
+      {
+        "key": "D",
+        "text": "Positive anti-cN1a autoantibody is a mandatory diagnostic criterion."
+      },
+      {
+        "key": "E",
+        "text": "Lower limb MRI typically shows severe rectus femoris atrophy with vastus medialis sparing"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "272nd ENMC international workshop: 10 Years of progress - revision of the ENMC 2013 diagnostic criteria for inclusion body myositis and clinical trial readiness. Neuromuscular Disorders 37 (2024) 36-51, Table 2.\"",
+    "source_file": "86fd8e4c-7________7_.docx",
+    "source_doc": "周邊神經7題"
+  },
+  {
+    "id": "86fd8e4c77-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "According to the principles of peripheral efferent structural autonomic disorders and drug-induced dysautonomia, which of the following statements is CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Pure Autonomic Failure is a tauopathy that commonly impairs left ventricular contractility and increases the incidence of stroke."
+      },
+      {
+        "key": "B",
+        "text": "In Autoimmune Autonomic Ganglionopathy, the absence of detectable ganglionic nicotinic acetylcholine receptor (AChR) antibodies definitively excludes the diagnosis."
+      },
+      {
+        "key": "C",
+        "text": "The longitudinal progression of diabetic autonomic neuropathy typically begins with severe orthostatic hypotension, while erectile and bowel dysfunction present as late-stage symptoms."
+      },
+      {
+        "key": "D",
+        "text": "Hyperadrenergic orthostatic hypotension, characterized by compensatory tachycardia and sweating, occurs when medications lower blood pressure through volume depletion or direct vasodilation alone."
+      },
+      {
+        "key": "E",
+        "text": "Metronidazole-induced autonomic neuropathy occurs primarily at ultra-low cumulative doses and is considered a first-line neuroprotective agent in patients with pre-existing dysautonomia."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice, 8th Edition (2022), Volume 2, Chapter 107: \"Disorders of the Autonomic Nervous System \"",
+    "source_file": "86fd8e4c-7________7_.docx",
+    "source_doc": "周邊神經7題"
+  },
+  {
+    "id": "86fd8e4c77-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [],
+    "question": "A 29-year-old male presents with distal weakness, grip myotonia with a \"warm-up\" phenomenon, bilateral ptosis, and cataracts. Needle EMG shows the spontaneous activity in the provided image. Which statement is CORRECT?",
+    "images": [
+      "images/86fd8e4c77-05-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "This activity, lacking a waxing component, is characteristic of DM2 (CCTG expansion)."
+      },
+      {
+        "key": "B",
+        "text": "Cooling the muscle to 20°C abolishes these discharges, causing silent contracture."
+      },
+      {
+        "key": "C",
+        "text": "The waveform is generated by muscle fibers, and its waxing/waning pattern suggests a CTG expansion on chromosome 19q."
+      },
+      {
+        "key": "D",
+        "text": "On the short exercise test, CMAP amplitude drops and takes up to 60 minutes to recover."
+      },
+      {
+        "key": "E",
+        "text": "Distal MUAP analysis typically shows large-amplitude, long-duration potentials with reduced recruitment."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Barbara Electromyography and Neuromuscular Disorders, 4th Edition, 2021. Chapter 39: Myotonic Muscle Disorders and Periodic Paralysis Syndromes. (Figure 39.5A, Table 39.1, Table 39.2).",
+    "source_file": "86fd8e4c-7________7_.docx",
+    "source_doc": "周邊神經7題"
+  },
+  {
+    "id": "86fd8e4c77-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "Regarding the clinical features and management of toxic myopathies, which statement is/are true?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Statin-triggered immune-mediated necrotizing myopathy (IMNM) has anti-HMGCR antibodies and requires long-term immunosuppression."
+      },
+      {
+        "key": "B",
+        "text": "Asymptomatic hyperCKemia during statin therapy mandates immediate and permanent statin discontinuation"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Merritt's Neurology, 14th Edition, 2021. Chapter 96: Endocrine and Toxic Myopathies (Christina M. Ulane). Pathobiology & Table 96.4.",
+    "source_file": "86fd8e4c-7________7_.docx",
+    "source_doc": "周邊神經7題"
+  },
+  {
+    "id": "86fd8e4c77-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "difficulty": "中等",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "Which of the following statements are CORRECT regarding the clinical phenotypes, genetic triggers, and management of periodic paralyses and related channelopathies?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Hypokalemic Periodic Paralysis (HypoKPP) is most commonly caused by mutations in the CACNA1S gene, and attacks are typically precipitated by a high-carbohydrate meal or rest after strenuous exercise."
+      },
+      {
+        "key": "2",
+        "text": "Patients with Andersen-Tawil Syndrome (ATS) carry mutations in the KCNJ2 gene and present with a distinct triad: periodic paralysis, dysmorphic features (such as low-set ears and micrognathia), and a high risk of ventricular arrhythmias."
+      },
+      {
+        "key": "3",
+        "text": "Acute attacks of weakness in Hyperkalemic Periodic Paralysis (HyperKPP) can be characteristically palliated or aborted by the ingestion of carbohydrates or the inhalation of a beta-adrenergic agonist."
+      },
+      {
+        "key": "4",
+        "text": "In Hyperkalemic Periodic Paralysis, patients frequently experience severe paralytic attacks that routinely involve the respiratory and facial muscles, often requiring emergent mechanical ventilation."
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "Electromyography and Neuromuscular Disorders, 4th Edition (2021), Ch.39: Myotonic muscle disorder and periodic paralysis syndrome",
+    "source_file": "86fd8e4c-7________7_.docx",
+    "source_doc": "周邊神經7題"
+  },
+  {
+    "id": "dc0f9e2175-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "A 45-year-old male presents with subacute headache, vomiting, and progressive visual symptoms. CSF analysis confirms cryptococcal meningitis. Which of the following statements regarding the clinical management of this patient is correct",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "A negative India ink preparation of the CSF specimen definitively rules out cryptococcal meningitis"
+      },
+      {
+        "key": "B",
+        "text": "The recommended induction therapy consists of Amphotericin B combined with Flucytosine"
+      },
+      {
+        "key": "C",
+        "text": "Serial tracking of CSF cryptococcal antigen titers is the most reliable method to monitor real-time drug efficacy"
+      },
+      {
+        "key": "D",
+        "text": "Routine addition of high-dose Dexamethasone to the induction therapy improves long-term neurological outcomes"
+      },
+      {
+        "key": "E",
+        "text": "Once the patient enters a comatose state surgical VP shunt should be immediately placed within the first week"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Merritt's Neurology 15th Edition Chapter 67 Chronic Meningitis",
+    "source_file": "dc0f9e21-7______5_.docx",
+    "source_doc": "重症5題"
+  },
+  {
+    "id": "dc0f9e2175-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "Which of the following statements regarding the diagnosis and management of tuberculous meningitis is correct based on clinical principles ?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "A negative CSF DNA-PCR result definitively rules out tuberculous meningitis due to its near-perfect sensitivity"
+      },
+      {
+        "key": "B",
+        "text": "Conventional CSF culture on Lowenstein-Jensen medium provides rapid results within 48 hours"
+      },
+      {
+        "key": "C",
+        "text": "CSF acid-fast bacillus smear sensitivity can be optimized when large volume CSF samples (>6 mL) are evaluated"
+      },
+      {
+        "key": "D",
+        "text": "GeneXpert Ultra achieves high sensitivity by targeting and exponentially amplifying specific mycobacterial antigens"
+      },
+      {
+        "key": "E",
+        "text": "Adjunctive corticosteroids are strictly contraindicated regardless of the patient's HIV status"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Merritt's Neurology 15th Edition Chapter 67 Chronic Meningitis",
+    "source_file": "dc0f9e21-7______5_.docx",
+    "source_doc": "重症5題"
+  },
+  {
+    "id": "dc0f9e2175-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "Which of the following clinical conditions or pathophysiological mechanisms is/are associated with Neurogenic Stunned Myocardium (NSM) in patients with severe acute brain injury?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "The condition is primarily driven by massive central sympathetic activation and catecholamine surge, leading to transient, reversible myocardial dysfunction and wall motion abnormalities."
+      },
+      {
+        "key": "B",
+        "text": "Subarachnoid hemorrhage (SAH) is one of the most classic and frequent neurological triggers, though it can also be seen in severe ischemic stroke, traumatic brain injury, or status epilepticus."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Lahiri S, Mayer SA. Heart-Brain Interactions. In: Louis ED, Mayer SA, Rowland LP, eds. Merritt's Neurology. 14th ed. Wolters Kluwer; 2021:chap 119",
+    "source_file": "dc0f9e21-7______5_.docx",
+    "source_doc": "重症5題"
+  },
+  {
+    "id": "dc0f9e2175-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "易",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "Which of the following statements regarding the emergency reversal management of anticoagulant-associated acute spontaneous intracerebral hemorrhage (ICH) are CORRECT according to current clinical guidelines?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "For patients with warfarin-associated ICH, administration of 4-factor Prothrombin Complex Concentrate (4F-PCC) combined with intravenous Vitamin K is preferred over Fresh Frozen Plasma (FFP) for rapid INR normalization."
+      },
+      {
+        "key": "2",
+        "text": "For patients who have taken direct thrombin inhibitors (e.g., dabigatran), idarucizumab (5 g IV) is the specific reversal agent recommended for rapid neutralization."
+      },
+      {
+        "key": "3",
+        "text": "For patients on factor Xa inhibitors (e.g., apixaban, rivaroxaban), andexanet alfa or 4-factor PCC (if andexanet alfa is unavailable) should be administered to reverse the anticoagulant effect."
+      },
+      {
+        "key": "4",
+        "text": "Intravenous platelet transfusion should be routinely administered to all acute ICH patients who have taken antiplatelet therapy prior to the hemorrhage, regardless of whether emergency neurosurgical intervention is planned."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "2022 AHA/ASA Guideline for the Management of Patients With Spontaneous Intracerebral Hemorrhage",
+    "source_file": "dc0f9e21-7______5_.docx",
+    "source_doc": "重症5題"
+  },
+  {
+    "id": "dc0f9e2175-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [],
+    "question": "A 26-year-old male with end-stage renal disease (ESRD) on regular hemodialysis presents to the emergency department after developing acute lethargy and rapid neurologic deterioration following a recent hemodialysis session. On physical examination, his right pupil is fixed, dilated, and unresponsive to light. An emergent axial non-contrast brain CT scan is performed, as shown below:\nBased on the CT image findings and clinical presentation, which of the following statements regarding the neuroanatomical signs and pathophysiological mechanisms of this herniation syndrome is MOST accurate?",
+    "images": [
+      "images/dc0f9e2175-05-1.jpg"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "The curved arrow points to the uncus displacing downward across the tentorial incisura, which directly compresses the ipsilateral trochlear nerve (CN IV) causing right-sided pupil dilation."
+      },
+      {
+        "key": "B",
+        "text": "The double-headed arrow highlights a compressed perimesencephalic cistern on the right side, which is a key early radiological indicator of impending upward cerebellar herniation."
+      },
+      {
+        "key": "C",
+        "text": "The asterisk (*) indicates trapped dilatation of the contralateral temporal horn of the lateral ventricle, caused by compression and obstruction of the contralateral temporal horn outflow or the foramen of Monro due to severe mass effect."
+      },
+      {
+        "key": "D",
+        "text": "The patient's unilateral dilated pupil is primarily caused by direct ischemic compression of the ipsilateral Edinger-Westphal nucleus in the open medulla."
+      },
+      {
+        "key": "E",
+        "text": "Emergent lumbar puncture is the diagnostic procedure of choice to confirm elevated cerebrospinal fluid (CSF) pressure before deciding on surgical intervention."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Riveros Gilardi B, Muñoz Leija MA, Hernández De la Torre E, et al. Types of Cerebral Herniation and Their Imaging Features. RadioGraphics. https://doi.org/10.1148/rg.2019190018",
+    "source_file": "dc0f9e21-7______5_.docx",
+    "source_doc": "重症5題"
+  },
+  {
+    "id": "14c075978228-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "行為神經學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "行為神經學"
+    ],
+    "question": "A 64-year-old man is evaluated for a 3-year history of progressive behavioral changes. The clinician administers the Revised Self-Monitoring Scale (RSMS), which demonstrates marked impairment of social cognition. The RSMS has been shown to be particularly useful in differentiating this disorder from other common dementias. Which of the following is the MOST likely diagnosis?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Alzheimer disease (AD)"
+      },
+      {
+        "key": "B",
+        "text": "Progressive supranuclear palsy (PSP)"
+      },
+      {
+        "key": "C",
+        "text": "Behavioral variant frontotemporal dementia (bvFTD)"
+      },
+      {
+        "key": "D",
+        "text": "Semantic variant primary progressive aphasia (svPPA)"
+      },
+      {
+        "key": "E",
+        "text": "Nonfluent variant primary progressive aphasia (nfvPPA)"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Measuring Behavior and Social Cognition in FTLD, Rankin, Adv Exp Med Biol . 2021:1281:51-65. (2026神經學年會keynote演講)",
+    "source_file": "14c07597-8_____2.____28_.docx",
+    "source_doc": "神經行為28題"
+  },
+  {
+    "id": "14c075978228-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "行為神經學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "行為神經學"
+    ],
+    "question": "According to recent studies of social cognition in Alzheimer's disease, which of the following socioemotional changes is most likely to appear during the prodromal (MCI) stage?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Loss of empathy and social disinhibition"
+      },
+      {
+        "key": "B",
+        "text": "Mental rigidity"
+      },
+      {
+        "key": "C",
+        "text": "Increased anxiety and emotional contagion"
+      },
+      {
+        "key": "D",
+        "text": "Fixed preoccupations and simple compulsive behavior"
+      },
+      {
+        "key": "E",
+        "text": "Severe emotional blunting and alexithymia"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Measuring Behavior and Social Cognition in FTLD, Rankin, Adv Exp Med Biol . 2021:1281:51-65. (2026神經學年會keynote演講)",
+    "source_file": "14c07597-8_____2.____28_.docx",
+    "source_doc": "神經行為28題"
+  },
+  {
+    "id": "14c075978228-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "行為神經學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "行為神經學"
+    ],
+    "question": "Which of the following statements regarding neuropsychiatric manifestations of movement disorders is LEAST accurate?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Depression is one of the non-motor symptoms in Parkinson disease"
+      },
+      {
+        "key": "B",
+        "text": "Impulse control disorders in Parkinson disease are most commonly caused by levodopa monotherapy and patients usually recognize the severity of their behaviors."
+      },
+      {
+        "key": "C",
+        "text": "Patients with dementia with Lewy bodies commonly develop visual hallucinations early in the disease course and are highly sensitive to typical antipsychotic medications."
+      },
+      {
+        "key": "D",
+        "text": "Cognitive and psychiatric symptoms may precede or accompany the motor manifestations of Huntington disease and are not restricted to the terminal stage."
+      },
+      {
+        "key": "E",
+        "text": "Obsessive-compulsive symptoms are common in Tourette syndrome and often persist into adulthood, even when tic severity declines"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Bradley's Neurology in Clinical Practice, 8th Edition, Chapter 9",
+    "source_file": "14c07597-8_____2.____28_.docx",
+    "source_doc": "神經行為28題"
+  },
+  {
+    "id": "14c075978228-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "行為神經學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "行為神經學"
+    ],
+    "question": "A 68-year-old right-handed man is evaluated after a left hemispheric ischemic stroke. On neurological examination, he has normal strength, sensation, coordination, and language comprehension. When asked to demonstrate how to use a hammer or salute, he produces movements with incorrect hand posture and spatial trajectory. He also fails to imitate these gestures accurately. In addition, he is unable to correctly recognize or identify gestures performed by the examiner. Which of the following is the most likely diagnosis?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Ideomotor apraxia, disconnection variant"
+      },
+      {
+        "key": "B",
+        "text": "Dissociation apraxia"
+      },
+      {
+        "key": "C",
+        "text": "Ideomotor apraxia, parietal variant"
+      },
+      {
+        "key": "D",
+        "text": "Conceptual apraxia"
+      },
+      {
+        "key": "E",
+        "text": "Ideational apraxia"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "NICP 8th Ch11",
+    "source_file": "14c07597-8_____2.____28_.docx",
+    "source_doc": "神經行為28題"
+  },
+  {
+    "id": "14c075978228-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "行為神經學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "行為神經學"
+    ],
+    "question": "A 61-year-old woman presents with a 3-year history of progressive difficulty reading, impaired navigation while driving, and trouble locating objects despite normal visual acuity on ophthalmologic examination. Cognitive testing demonstrates simultanagnosia, optic ataxia, and oculomotor apraxia, while episodic memory is relatively preserved. MRI shows predominant parieto-occipital atrophy. Which of the following statements is MOST accurate regarding this syndrome?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Amyloid deposition is disproportionately increased in the occipital cortex than in typical Alzheimer's disease."
+      },
+      {
+        "key": "B",
+        "text": "The most common underlying pathology is Alzheimer disease, and tau deposition is disproportionately increased in the occipital cortex compared with typical Alzheimer's disease."
+      },
+      {
+        "key": "C",
+        "text": "Early severe hippocampal neurofibrillary tangle burden explains the predominant visuospatial symptoms."
+      },
+      {
+        "key": "D",
+        "text": "Cholinesterase inhibitors are contraindicated because randomized controlled trials demonstrated lack of efficacy."
+      },
+      {
+        "key": "E",
+        "text": "Loss of insight is typically an early and prominent clinical feature."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "NICP 8th Ch95",
+    "source_file": "14c07597-8_____2.____28_.docx",
+    "source_doc": "神經行為28題"
+  },
+  {
+    "id": "14c075978228-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "行為神經學",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "行為神經學"
+    ],
+    "question": "A 66-year-old man is evaluated after a left hemispheric ischemic stroke. His speech is slow, effortful, and nonfluent. He has marked difficulty initiating speech and repeatedly makes different articulation errors when asked to say the word \"television\" five consecutive times. His comprehension, reading, and writing are intact. When asked to protrude his tongue, lick his upper lip, or smile on command, he performs all of these movements normally. Which of the following clinical findings is (are) demonstrated in this patient?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Apraxia of speech"
+      },
+      {
+        "key": "B",
+        "text": "Oral (buccofacial) apraxia"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Bradley's Neurology in Clinical Practice, 8th Edition Chapter 14, Language Disorders and Apraxias",
+    "source_file": "14c07597-8_____2.____28_.docx",
+    "source_doc": "神經行為28題"
+  },
+  {
+    "id": "14c075978228-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "行為神經學",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "中等",
+    "tags": [
+      "行為神經學"
+    ],
+    "question": "Choose the feature(s) commonly seen in frontotemporal dementia with right anterior temporal lobe (RATL) predominance",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Prominent verbal semantic impairment"
+      },
+      {
+        "key": "2",
+        "text": "Hyper-religiosity"
+      },
+      {
+        "key": "3",
+        "text": "Visuospatial dysfunction"
+      },
+      {
+        "key": "4",
+        "text": "Person identification deficit"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Ulugut, H., Younes, K., Montembeault, M. et al. Clinical recognition of frontotemporal dementia with right temporal predominance: a consensus statement from the International Working Group. Commun Med 5, 523 (2025) (2026神經學年會keynote演講)",
+    "source_file": "14c07597-8_____2.____28_.docx",
+    "source_doc": "神經行為28題"
+  },
+  {
+    "id": "14c075978228-08",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "行為神經學",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "行為神經學"
+    ],
+    "question": "A 61-year-old woman had a 4-year history of slowly progressive amnestic and topographical disorientation symptoms. [18F]FDG-PET and T2 FLAIR MRI images are shown below. Which of the following clinical presentations is LEAST likely to be seen in this patient?",
+    "images": [
+      "images/14c075978228-08-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Prosopagnosia"
+      },
+      {
+        "key": "B",
+        "text": "Ritualistic behaviors"
+      },
+      {
+        "key": "C",
+        "text": "Visuospatial dysfunction"
+      },
+      {
+        "key": "D",
+        "text": "Non-verbal semantic deficit"
+      },
+      {
+        "key": "E",
+        "text": "Inappropriate emotional expression."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Ulugut, H., Younes, K., Montembeault, M. et al. Clinical recognition of frontotemporal dementia with right temporal predominance: a consensus statement from the International Working Group. Commun Med 5, 523 (2025) Case from [18F]FDG-PET in a case of right temporal lobe variant of frontotemporal dementia. Dement Neuropsychol. 2019",
+    "source_file": "14c07597-8_____2.____28_.docx",
+    "source_doc": "神經行為28題"
+  },
+  {
+    "id": "232f2f01515-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "Regarding adjunctive therapy with corticosteroids for acute bacterial meningitis in adults, which of the following statements is CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Dexamethasone should be initiated only after CSF culture results are confirmed to avoid interfering with antibiotic penetration."
+      },
+      {
+        "key": "B",
+        "text": "The first dose of dexamethasone should be administered 15 to 20 minutes before or at least concomitantly with the first dose of antimicrobial agents."
+      },
+      {
+        "key": "C",
+        "text": "Corticosteroids are only indicated for patients with fungal meningitis to reduce intracranial pressure."
+      },
+      {
+        "key": "D",
+        "text": "Standard brain CT must be performed and found normal before the first dose of antibiotics can be safely administered."
+      },
+      {
+        "key": "E",
+        "text": "The recommended dose for dexamethasone in adults is 0.6 mg/kg daily for at least 14 days"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Merritt's Textbook of Neurology, 14th Edition, Chapter 64",
+    "source_file": "232f2f01-5_____15______.docx",
+    "source_doc": "川神重15"
+  },
+  {
+    "id": "232f2f01515-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "難",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "Which of the following statements regarding the prerequisites and clinical requirements for the determination of brain death in adults is CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "The core body temperature must be maintained at ≥ 35 °C to ensure the clinical examination is not confounded by hypothermia."
+      },
+      {
+        "key": "B",
+        "text": "To exclude the influence of central nervous system depressing medications, current guidelines recommend allowing 5 to 7 times the drug's elimination half-life to pass before evaluation."
+      },
+      {
+        "key": "C",
+        "text": "A minimum Mean Arterial Pressure (MAP) of 50 mmHg is sufficient to proceed with the clinical evaluation and apnea testing."
+      },
+      {
+        "key": "D",
+        "text": "Ancillary testing that supports the clinical diagnosis of brain death includes demonstrating weak flow in the proximal internal carotid artery on 4-vessel catheter angiography."
+      },
+      {
+        "key": "E",
+        "text": "Pupillary reflexes are consistent with brain death if the pupils are fixed in a constricted (pinpoint) position and are non-reactive to bright light."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Merritt's Textbook of Neurology, 14th Edition, Chapter 20; Greer, DM., Kirschen, MP., Lewis, A., et al. (2023). Pediatric and Adult Brain Death/Death by Neurologic Criteria Consensus Guideline: Report of the AAN Guidelines Subcommittee, AAP, CNS, and SCCM. Neurology, 101(24), 1112–1132.",
+    "source_file": "232f2f01-5_____15______.docx",
+    "source_doc": "川神重15"
+  },
+  {
+    "id": "232f2f01515-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "Which of the following is consistent with the classic clinical presentation of serotonin syndrome?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Hyperreflexia and myoclonus on neurological examination"
+      },
+      {
+        "key": "B",
+        "text": "Hyperthermia and autonomic dysfunction"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "2024 神經重症照護與高級神經救命術教科書",
+    "source_file": "232f2f01-5_____15______.docx",
+    "source_doc": "川神重15"
+  },
+  {
+    "id": "232f2f01515-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "difficulty": "中等",
+    "tags": [
+      "周邊神經系統疾病",
+      "重症神經學"
+    ],
+    "question": "A 80-year-old female patient was admitted to the intensive care unit (ICU) due to pneumonia and sepsis. Following treatment, the patient experienced significant diffuse muscle weakness and persistent difficulty weaning from ventilator support. Which of the following statements regarding the most likely diagnosis is correct?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Prime inciting factors for critical illness myopathy (CIM) include the use of corticosteroids and non-depolarizing neuromuscular blocking agents."
+      },
+      {
+        "key": "2",
+        "text": "Critical illness polyneuropath (CIP) typically presents as acute distal limb weakness with preserved tendon reflexes."
+      },
+      {
+        "key": "3",
+        "text": "Nerve conduction studies in CIP usually show signs of axonopathy."
+      },
+      {
+        "key": "4",
+        "text": "Intensive insulin therapy to maintain euglycemia has been shown to increase the risk of developing CIP."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Merritt's Textbook of Neurology, 14th Edition, Chapter 95",
+    "source_file": "232f2f01-5_____15______.docx",
+    "source_doc": "川神重15"
+  },
+  {
+    "id": "232f2f01515-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "A 50-year-old patient presents with chronic headache and cranial nerve palsies. A T1-weighted post-contrast MRI is performed (see figure below). Which diagnosis is most consistent with the basilar meningeal enhancement shown?",
+    "images": [
+      "images/232f2f01515-05-1.jpg"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Herpes Simplex Encephalitis (HSE)"
+      },
+      {
+        "key": "B",
+        "text": "Pyogenic Brain Abscess"
+      },
+      {
+        "key": "C",
+        "text": "Acute Disseminated Encephalomyelitis (ADEM)"
+      },
+      {
+        "key": "D",
+        "text": "Cerebral Venous Sinus Thrombosis"
+      },
+      {
+        "key": "E",
+        "text": "Tuberculous Meningitis (TBM)"
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Merritt's Textbook of Neurology, 14th Edition, Chapter 67, Figure 67.2",
+    "source_file": "232f2f01-5_____15______.docx",
+    "source_doc": "川神重15"
+  },
+  {
+    "id": "b789e20e525-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "According to the 2023 Taiwan Stroke Society Guidelines for the Management of Spontaneous Intracerebral Hemorrhage (ICH), which of the following statements regarding the surgical management of cerebellar hemorrhage is CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "External ventricular drainage (EVD) as a standalone procedure is the preferred treatment for all patients with cerebellar ICH and obstructive hydrocephalus."
+      },
+      {
+        "key": "B",
+        "text": "Surgical intervention for cerebellar ICH is only indicated if the hematoma volume exceeds 30 mL, regardless of brainstem compression."
+      },
+      {
+        "key": "C",
+        "text": "Traditional craniotomy should be delayed for at least 24 hours to ensure the hematoma has stabilized."
+      },
+      {
+        "key": "D",
+        "text": "Conservative medical management is superior to surgery for all posterior fossa hemorrhages."
+      },
+      {
+        "key": "E",
+        "text": "Immediate surgical evacuation of the clot is recommended for patients with a cerebellar hemorrhage > 15 mL who are experiencing neurological deterioration."
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "2023 台灣腦中風學會自發性腦出血處置指引",
+    "source_file": "b789e20e-5_____25______.docx",
+    "source_doc": "川神重25"
+  },
+  {
+    "id": "b789e20e525-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "病理／腫瘤／脊髓疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "病理／腫瘤／脊髓疾病",
+      "重症神經學"
+    ],
+    "question": "Spinal Dural Arteriovenous Fistula (SDAVF) is a well-known cause of progressive myelopathy. Which of the following statements regarding SDAVF is FALSE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "It is the most common type (approximately 80%) of spinal vascular malformation."
+      },
+      {
+        "key": "B",
+        "text": "The pathophysiology involves high pressure in the draining vein causing venous congestion and spinal cord edema."
+      },
+      {
+        "key": "C",
+        "text": "Presenting symptoms may include progressive myeloradiculopathy, low back pain, or cauda equina syndrome with urinary retention."
+      },
+      {
+        "key": "D",
+        "text": "A standard spinal MRI alone is sufficient for the definitive diagnosis and localization of the fistula."
+      },
+      {
+        "key": "E",
+        "text": "On T2-weighted MRI, it typically shows hyperintensity (edema) in the involved spinal cord and sometimes flow voids on the cord surface."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Merritt's Textbook of Neurology, 14th Edition, Chapter 115",
+    "source_file": "b789e20e-5_____25______.docx",
+    "source_doc": "川神重25"
+  },
+  {
+    "id": "b789e20e525-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "A 29-year-old patient develops severe polyuria (urine output > 4-5 L/day) and hypernatremia (serum sodium = 156 mEq/L) on the third day following a transsphenoidal endoscopic surgery for a large pituitary macroadenoma. Which of the diagnoses is likely?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Central Diabetes Insipidus"
+      },
+      {
+        "key": "B",
+        "text": "Syndrome of Inappropriate Antidiuretic Hormone (SIADH)"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Neurology in Clinical Practice, 8th Edition, Chapter 53",
+    "source_file": "b789e20e-5_____25______.docx",
+    "source_doc": "川神重25"
+  },
+  {
+    "id": "b789e20e525-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "difficulty": "中等",
+    "tags": [
+      "腦中風",
+      "重症神經學"
+    ],
+    "question": "Regarding the management of vasospasm and delayed cerebral ischemia (DCI) following aneurysmal subarachnoid hemorrhage (aSAH) in the neuro-ICU, which of the following statements are TRUE?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Enteral nimodipine should be administered to all patients with aSAH to improve neurological outcomes."
+      },
+      {
+        "key": "2",
+        "text": "Intravenous nimodipine is superior to oral nimodipine and should be the preferred first-line route of administration."
+      },
+      {
+        "key": "3",
+        "text": "Transcranial Doppler (TCD) ultrasonography is a useful non-invasive tool for monitoring the development of vasospasm."
+      },
+      {
+        "key": "4",
+        "text": "Prophylactic hypervolemic therapy (aggressive fluid loading in asymptomatic patients) is strongly recommended to prevent vasospasm."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "2023 Guideline for the Management of Patients With Aneurysmal Subarachnoid Hemorrhage: A Guideline From the American Heart Association/American Stroke Association",
+    "source_file": "b789e20e-5_____25______.docx",
+    "source_doc": "川神重25"
+  },
+  {
+    "id": "b789e20e525-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "A 35-year-old male was brought to the ER following a fall from a height. On arrival, his Glasgow Coma Scale (GCS) score was 7. A brain CT scan was immediately performed (as shown in the figure). Which of the following statements regarding this patient's condition is CORRECT?",
+    "images": [
+      "images/b789e20e525-05-1.jpg"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "The source of bleeding is most frequently torn bridging cortical veins."
+      },
+      {
+        "key": "B",
+        "text": "This hematoma typically crosses cranial suture lines freely."
+      },
+      {
+        "key": "C",
+        "text": "The patient's presentation often involves a classic lucid interval followed by rapid deterioration."
+      },
+      {
+        "key": "D",
+        "text": "Conservative non-operative management is always mandated regardless of hematoma volume or midline shift."
+      },
+      {
+        "key": "E",
+        "text": "The condition is anatomically located within the subarachnoid space."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Merritt's Textbook of Neurology, 14th Edition, Chapter 47, Figure 47.9",
+    "source_file": "b789e20e-5_____25______.docx",
+    "source_doc": "川神重25"
+  },
+  {
+    "id": "1bdc82bb5sleepan-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠疾患",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "睡眠疾患"
+    ],
+    "question": "Regarding sleep and epilepsy, which one of the following statements is FALSE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "The tonic seizures of Lennox-Gastaut syndrome are typically much more frequent during NREM sleep than during wakefulness, and are never seen during REM sleep."
+      },
+      {
+        "key": "B",
+        "text": "In Continuous Spikes and Waves during Slow Sleep (CSWS), Electrical Status Epilepticus during Sleep (ESES) typically occurs during the N1 and N2 stages."
+      },
+      {
+        "key": "C",
+        "text": "Self-limited epilepsy with centrotemporal spikes typically occurs during sleep."
+      },
+      {
+        "key": "D",
+        "text": "Self-limited epilepsy with autonomic seizure typically occurs during sleep."
+      },
+      {
+        "key": "E",
+        "text": "Juvenile myoclonic epilepsy is most frequently noted on awakening."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in clinical practice, 8th Edition, 2021, Chapter 101 Sleep and Its Disorders, Page 1714",
+    "source_file": "1bdc82bb-5__Sleep_and_epilepsy______.docx",
+    "source_doc": "Sleep and epilepsy"
+  },
+  {
+    "id": "1bdc82bb5sleepan-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠疾患",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "睡眠疾患"
+    ],
+    "question": "Regarding parasomnias and sleep-related epilepsy, which one of the following statements is FALSE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "NREM parasomnias mostly occur during the N3 stage, whereas Sleep-Related Hypermotor Epilepsy (SHE) mostly occurs during the N1 and N2 stages."
+      },
+      {
+        "key": "B",
+        "text": "If awakened during the event, patients with NREM parasomnias typically exhibit postictal confusion, whereas patients with SHE typically do not."
+      },
+      {
+        "key": "C",
+        "text": "After awakening, patients with NREM parasomnias typically have a lucid recall of the event, whereas patients with SHE typically have no memory of it."
+      },
+      {
+        "key": "D",
+        "text": "Patients with REM Sleep Behavior Disorder (RBD) often have a clear recall of their dreams."
+      },
+      {
+        "key": "E",
+        "text": "The ictal EEG during a SHE episode may be normal."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Merritt's Neurology, 14th Edition. Chapter 118 Sleep disorders Bradley and Daroff's Neurology in clinical practice, 8th Edition, 2021, Chapter 101 Sleep and Its Disorders",
+    "source_file": "1bdc82bb-5__Sleep_and_epilepsy______.docx",
+    "source_doc": "Sleep and epilepsy"
+  },
+  {
+    "id": "1bdc82bb5sleepan-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠疾患",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "睡眠疾患"
+    ],
+    "question": "A 5-year-old child presents with an episode characterized by prolonged vomiting, pallor, and lateralized eye deviation that occurred strictly during sleep. The episode lasted for 20 minutes. EEG shows multifocal, predominantly occipital spikes. This clinical picture is most consistent with:",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Landau-Kleffner syndrome"
+      },
+      {
+        "key": "B",
+        "text": "Juvenile myoclonic epilepsy"
+      },
+      {
+        "key": "C",
+        "text": "Lennox-Gastaut syndrome"
+      },
+      {
+        "key": "D",
+        "text": "Panayiotopoulos syndrome"
+      },
+      {
+        "key": "E",
+        "text": "Childhood absence epilepsy"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "101 Sleep and Its Disorders",
+    "source_file": "1bdc82bb-5__Sleep_and_epilepsy______.docx",
+    "source_doc": "Sleep and epilepsy"
+  },
+  {
+    "id": "1bdc82bb5sleepan-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠疾患",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "睡眠疾患"
+    ],
+    "question": "Which of the following statements regarding the influence of sleep stages on interictal epileptiform discharges (IEDs) and seizures is most accurate?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "REM sleep strongly facilitates the generalization and synchronization of interictal epileptiform discharges."
+      },
+      {
+        "key": "B",
+        "text": "Non-REM (NREM) sleep typically restricts the spatial spread of IEDs."
+      },
+      {
+        "key": "C",
+        "text": "Seizures in Sleep-related Hypermotor Epilepsy (SHE) predominantly occur during REM sleep."
+      },
+      {
+        "key": "D",
+        "text": "NREM sleep facilitates the activation and synchronization of IEDs, making them more frequent and widespread."
+      },
+      {
+        "key": "E",
+        "text": "Sleep deprivation suppresses IEDs and therefore decreases the diagnostic yield of EEG."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "101 Sleep and Its Disorders",
+    "source_file": "1bdc82bb-5__Sleep_and_epilepsy______.docx",
+    "source_doc": "Sleep and epilepsy"
+  },
+  {
+    "id": "1bdc82bb5sleepan-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠疾患",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "睡眠疾患"
+    ],
+    "question": "A 28-year-old man has frequent stereotyped nocturnal attacks with abrupt arousal, dystonic posturing, bicycling leg movements, and vocalization. Each event lasts 20–40 seconds and occurs several times per night. Scalp EEG during the events is obscured by muscle artifact and does not show definite ictal rhythm. Which diagnosis is most likely?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Sleep terror disorder"
+      },
+      {
+        "key": "B",
+        "text": "REM sleep behavior disorder"
+      },
+      {
+        "key": "C",
+        "text": "Sleep-related hypermotor epilepsy"
+      },
+      {
+        "key": "D",
+        "text": "Psychogenic nonepileptic seizure"
+      },
+      {
+        "key": "E",
+        "text": "Benign epilepsy with centrotemporal spikes"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "101 Sleep and Its Disorders",
+    "source_file": "1bdc82bb-5__Sleep_and_epilepsy______.docx",
+    "source_doc": "Sleep and epilepsy"
+  },
+  {
+    "id": "62f5a87f7sleepan-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠疾患",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "睡眠疾患"
+    ],
+    "question": "A 30-year-old woman presented with soreness and discomfort in her lower extremities, accompanied by an urge to move her legs at night. The symptoms could be relieved by stretching or walking. Her symptoms have shown an insidious progression over the years, so she came to the clinics. Both her mother and sister experience similar symptoms. Which of the following statements regarding the management of this condition is FALSE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Pregabalin and gabapentin are recommended first-line medications."
+      },
+      {
+        "key": "B",
+        "text": "Dopamine agonists are the standard choice for long-term maintenance therapy."
+      },
+      {
+        "key": "C",
+        "text": "Levodopa therapy carries a high risk of symptom augmentation."
+      },
+      {
+        "key": "D",
+        "text": "Oral or intravenous iron supplementation should be administered to adults if serum ferritin <75 ng/mL or transferrin saturation is <20%."
+      },
+      {
+        "key": "E",
+        "text": "Clonazepam is not a recommended treatment."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "1. Merritt's Neurology, 14th Edition. Chapter 78 Restless leg syndrome 2. Winkelman JW et al. Treatment of restless legs syndrome and periodic limb movement disorder: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2025 Jan 1;21(1):137-152.",
+    "source_file": "62f5a87f-7__Sleep_and_movement_disorder______.docx",
+    "source_doc": "Sleep and movement disorder"
+  },
+  {
+    "id": "62f5a87f7sleepan-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠疾患",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "睡眠疾患"
+    ],
+    "question": "A 60-year-old male presents with a 1-year history of progressive insomnia and complex nocturnal behaviors including frequent vocalizations and body jerks. A video-polysomnography is performed, revealing an undifferentiated non-rapid eye movement (NREM) sleep at sleep onset, characterized by an absence of vertex waves, sleep spindles, and K-complexes. NREM parasomnia and REM behavior events were found during the exam. Which of the following antibodies is MOST likely to be detected in this patient?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Anti-CASPR2 Ab"
+      },
+      {
+        "key": "B",
+        "text": "Anti-IgLON5 Ab"
+      },
+      {
+        "key": "C",
+        "text": "Anti-LGI1 Ab"
+      },
+      {
+        "key": "D",
+        "text": "Anti-DPPX Ab"
+      },
+      {
+        "key": "E",
+        "text": "Anti-NMDAR Ab"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Merritt's Neurology, 14th Edition. Chapter 118",
+    "source_file": "62f5a87f-7__Sleep_and_movement_disorder______.docx",
+    "source_doc": "Sleep and movement disorder"
+  },
+  {
+    "id": "62f5a87f7sleepan-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠疾患",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "睡眠疾患"
+    ],
+    "question": "Which of the following statements regarding neurological disorders and their characteristic sleep disturbances is FALSE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Dementia with Lewy bodies: REM sleep behavior disorder"
+      },
+      {
+        "key": "B",
+        "text": "Alzheimer's disease: circadian sleep/wake rhythm disturbances"
+      },
+      {
+        "key": "C",
+        "text": "Anti-CASPR2 encephalitis: agrypnia excitata, oneiric stupor, and vigiloneiric state"
+      },
+      {
+        "key": "D",
+        "text": "Fatal familial insomnia: confusional arousal"
+      },
+      {
+        "key": "E",
+        "text": "Amyotrophic lateral sclerosis: sleep-disordered breathing"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "1. Bradley and Daroff's Neurology in clinical practice, 8th Edition, 2021, Chapter 101 2. International-Classification-of-Sleep-Disorders-Third-Edition",
+    "source_file": "62f5a87f-7__Sleep_and_movement_disorder______.docx",
+    "source_doc": "Sleep and movement disorder"
+  },
+  {
+    "id": "62f5a87f7sleepan-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠疾患",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "睡眠疾患"
+    ],
+    "question": "A 28-year-old female presents with sleep disturbance and impaired daytime functioning. She describes an irresistible urge to move her legs accompanied by unpleasant crawling sensations that occur exclusively when lying in bed at night, which are temporarily relieved by stretching. Polysomnography demonstrates 18 periodic limb movements during sleep per hour. Which of the following is(are) the appropriate diagnosis(diagnoses)?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Restless legs syndrome"
+      },
+      {
+        "key": "B",
+        "text": "Periodic limb movement disorder"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "62f5a87f-7__Sleep_and_movement_disorder______.docx",
+    "source_doc": "Sleep and movement disorder"
+  },
+  {
+    "id": "62f5a87f7sleepan-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠疾患",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "睡眠疾患"
+    ],
+    "question": "Which of the following medication(s) may exacerbate restless legs syndrome?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Diphenhydramine"
+      },
+      {
+        "key": "B",
+        "text": "Mirtazapine"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Merritt's Neurology, 14th Edition. Chapter 78",
+    "source_file": "62f5a87f-7__Sleep_and_movement_disorder______.docx",
+    "source_doc": "Sleep and movement disorder"
+  },
+  {
+    "id": "62f5a87f7sleepan-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠疾患",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "difficulty": "難",
+    "tags": [
+      "睡眠疾患"
+    ],
+    "question": "A 35-year-old woman with restless legs syndrome (RLS) managed on Ropinirole 2 mg/day for 5 years presents with symptoms that have progressively worsened over the past year. The onset of symptoms has shifted to earlier in the day, and the relief previously obtained from moving her legs has significantly diminished. What is(are) the appropriate next step(s) in management?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Gradually taper and discontinue Ropinirole."
+      },
+      {
+        "key": "2",
+        "text": "Consider switching the medication to a voltage-dependent calcium channel α2δ subunit ligand."
+      },
+      {
+        "key": "3",
+        "text": "Routinely check serum ferritin levels and transferrin saturation, and give IV ferric carboxymaltose as indicated."
+      },
+      {
+        "key": "4",
+        "text": "Increase the Ropinirole dose to a target of 4 mg/day."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "1. Merritt's Neurology, 14th Edition. Chapter 78 Restless leg syndrome 2. Winkelman JW et al. Treatment of restless legs syndrome and periodic limb movement disorder: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2025 Jan 1;21(1):137-152.",
+    "source_file": "62f5a87f-7__Sleep_and_movement_disorder______.docx",
+    "source_doc": "Sleep and movement disorder"
+  },
+  {
+    "id": "62f5a87f7sleepan-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠疾患",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "睡眠疾患"
+    ],
+    "question": "This is a 2-minute sleep epoch from a diagnostic polysomnogram of a patient. Which of the following descriptions about the polysomnogram is TRUE?",
+    "images": [
+      "images/62f5a87f7sleepan-07-1.jpg"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "The patient is in stage N3 sleep."
+      },
+      {
+        "key": "B",
+        "text": "The findings are highly suggestive of nocturnal frontal lobe epilepsy."
+      },
+      {
+        "key": "C",
+        "text": "The patient exhibits severe obstructive sleep apnea."
+      },
+      {
+        "key": "D",
+        "text": "The patient exhibits periodic leg movements during sleep."
+      },
+      {
+        "key": "E",
+        "text": "It demonstrates REM sleep without atonia."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in clinical practice, 8th Edition, 2021, Chapter 101, Page 1712",
+    "source_file": "62f5a87f-7__Sleep_and_movement_disorder______.docx",
+    "source_doc": "Sleep and movement disorder"
+  },
+  {
+    "id": "62f5a87f7sleepan-08",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠疾患",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "睡眠疾患"
+    ],
+    "question": "A 50-year-old male presents with recurrent episodes of sleep-related vocalizations and complex motor behaviors. The following 30-second epoch is taken from the patient's polysomnogram (PSG). Which of the following diseases is LEAST likely to be the underlying cause of his symptoms?",
+    "images": [
+      "images/62f5a87f7sleepan-08-1.jpg"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Multiple System Atrophy (MSA)"
+      },
+      {
+        "key": "B",
+        "text": "Parkinson's disease"
+      },
+      {
+        "key": "C",
+        "text": "Pontine tegmentum lesion"
+      },
+      {
+        "key": "D",
+        "text": "Anti-IgLON5 autoimmunity syndrome"
+      },
+      {
+        "key": "E",
+        "text": "Frontotemporal dementia"
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in clinical practice, 8th Edition, 2021, Chapter 101",
+    "source_file": "62f5a87f-7__Sleep_and_movement_disorder______.docx",
+    "source_doc": "Sleep and movement disorder"
+  },
+  {
+    "id": "15140145-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "A 68-year-old woman developed sudden aphasia and right-sided weakness 6 hours ago. Her NIHSS score is 12. Noncontrast CT shows no intracranial hemorrhage, and CT angiography shows no large-vessel occlusion. CT perfusion demonstrates an ischemic core of 25 mL, a mismatch volume of 30 mL, and a mismatch ratio of 2.2. She has no other contraindications to intravenous thrombolysis. According to current acute ischemic stroke guidelines, which of the following is the most appropriate management?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "No reperfusion therapy should be given because symptom onset was more than 4.5 hours ago"
+      },
+      {
+        "key": "B",
+        "text": "Intravenous thrombolysis may be considered because she meets perfusion-imaging selection criteria"
+      },
+      {
+        "key": "C",
+        "text": "Treatment should be delayed until MRI confirms a DWI-FLAIR mismatch"
+      },
+      {
+        "key": "D",
+        "text": "Mechanical thrombectomy should be performed immediately"
+      },
+      {
+        "key": "E",
+        "text": "Aspirin plus clopidogrel should be administered without considering thrombolysis"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "2025台灣腦中風學會急性缺血性腦中風靜脈血栓溶解治療指引更新",
+    "source_file": "15140145-___________.docx",
+    "source_doc": "奇美_中風_命題紙格式"
+  },
+  {
+    "id": "15140145-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "A 72-year-old man has chronic kidney disease (CrCl 28 mL/min), nonvalvular atrial fibrillation, and a prior ischemic stroke. He has no active bleeding risk. What is the most appropriate secondary prevention?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Aspirin alone"
+      },
+      {
+        "key": "B",
+        "text": "Clopidogrel alone"
+      },
+      {
+        "key": "C",
+        "text": "Long-term dual antiplatelet therapy"
+      },
+      {
+        "key": "D",
+        "text": "A DOAC selected and dosed according to renal function"
+      },
+      {
+        "key": "E",
+        "text": "No antithrombotic therapy because of CKD"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "2024 台灣腦中風學會及台灣腎臟醫學會慢性腎臟病患者腦中風治療指引",
+    "source_file": "15140145-___________.docx",
+    "source_doc": "奇美_中風_命題紙格式"
+  },
+  {
+    "id": "15140145-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "A patient with atrial fibrillation has a moderate ischemic stroke (NIHSS 10). Follow-up imaging shows no hemorrhagic transformation. When should a DOAC generally be started?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Within 24 hours"
+      },
+      {
+        "key": "B",
+        "text": "Day 3"
+      },
+      {
+        "key": "C",
+        "text": "Days 6-8"
+      },
+      {
+        "key": "D",
+        "text": "Days 12-14"
+      },
+      {
+        "key": "E",
+        "text": "After 28 days"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "2024 台灣腦中風學會非維他命K拮抗劑口服抗凝血劑用於心房纖維顫動病人腦中風預防治療指引更新",
+    "source_file": "15140145-___________.docx",
+    "source_doc": "奇美_中風_命題紙格式"
+  },
+  {
+    "id": "15140145-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "An acute ischemic stroke patient meets the criteria for intravenous thrombolysis. Which comorbidity is compatible with reasonable use of alteplase?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Infective endocarditis"
+      },
+      {
+        "key": "B",
+        "text": "Aortic arch dissection"
+      },
+      {
+        "key": "C",
+        "text": "Extracranial cervical artery dissection"
+      },
+      {
+        "key": "D",
+        "text": "Intracranial artery dissection"
+      },
+      {
+        "key": "E",
+        "text": "Active internal bleeding"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "2025台灣腦中風學會急性缺血性腦中風靜脈血栓溶解治療指引更新",
+    "source_file": "15140145-___________.docx",
+    "source_doc": "奇美_中風_命題紙格式"
+  },
+  {
+    "id": "15140145-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "A patient with acute ischemic stroke otherwise meets the criteria for intravenous thrombolysis. A prior MRI shows 12 cerebral microbleeds. What is the most appropriate approach?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Routinely administer alteplase"
+      },
+      {
+        "key": "B",
+        "text": "Consider thrombolysis absolutely contraindicated"
+      },
+      {
+        "key": "C",
+        "text": "Individualize treatment after weighing benefit and bleeding risk"
+      },
+      {
+        "key": "D",
+        "text": "Use low-dose alteplase"
+      },
+      {
+        "key": "E",
+        "text": "Delay thrombolysis for 24 hours"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "2025台灣腦中風學會急性缺血性腦中風靜脈血栓溶解治療指引更新",
+    "source_file": "15140145-___________.docx",
+    "source_doc": "奇美_中風_命題紙格式"
+  },
+  {
+    "id": "15140145-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "中等",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "A patient receiving amyloid-targeting antibody therapy undergoes brain MRI. FLAIR shows a focal sulcal hyperintensity, while SWI shows a curvilinear hypointensity along the cortical surface. Which statement is correct?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "The former represents sulcal effusion of ARIA-E; the latter represents cortical superficial siderosis of ARIA-H"
+      },
+      {
+        "key": "B",
+        "text": "The former represents microhemorrhage of ARIA-H; the latter represents parenchymal edema of ARIA-E"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "15140145-___________.docx",
+    "source_doc": "奇美_中風_命題紙格式"
+  },
+  {
+    "id": "15140145-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "A 19-year-old woman presents with recurrent stroke-like episodes, seizures, migraine-like headaches, exercise intolerance, sensorineural hearing loss, short stature, and diabetes. The imaging findings are shown below: (A) brain CT; (B and C) T2-weighted brain MRI; and (D) MR spectroscopy. Her mother and maternal uncle have similar manifestations. Which gene is most likely mutated?",
+    "images": [
+      "images/15140145-07-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "NOTCH3"
+      },
+      {
+        "key": "B",
+        "text": "HTRA1"
+      },
+      {
+        "key": "C",
+        "text": "COL4A1"
+      },
+      {
+        "key": "D",
+        "text": "GLA"
+      },
+      {
+        "key": "E",
+        "text": "MT-TL1"
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "doi: 10.1186/1752-1947-3-77",
+    "source_file": "15140145-___________.docx",
+    "source_doc": "奇美_中風_命題紙格式"
+  },
+  {
+    "id": "15140145-08",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "A 42-year-old woman has recurrent lacunar strokes, migraine with aura, mood disturbance, and progressive cognitive decline. Brain MRI shows white-matter lesions and microbleeds (as shown below). Her father and paternal aunt had similar early-onset strokes. Which gene is most likely mutated?",
+    "images": [
+      "images/15140145-08-1.jpg"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "NOTCH3"
+      },
+      {
+        "key": "B",
+        "text": "HTRA1"
+      },
+      {
+        "key": "C",
+        "text": "COL4A1"
+      },
+      {
+        "key": "D",
+        "text": "GLA"
+      },
+      {
+        "key": "E",
+        "text": "MT-TL1"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "doi: 10.1016/S1474-4422(09)70127-9",
+    "source_file": "15140145-___________.docx",
+    "source_doc": "奇美_中風_命題紙格式"
+  },
+  {
+    "id": "ba24192d-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "Which of the following clinical findings should prompt consideration of an alternative diagnosis rather than a typical distal symmetric polyneuropathy?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Stocking sensory loss"
+      },
+      {
+        "key": "B",
+        "text": "Absent ankle reflexes"
+      },
+      {
+        "key": "C",
+        "text": "Burning feet"
+      },
+      {
+        "key": "D",
+        "text": "Early bowel and bladder dysfunction"
+      },
+      {
+        "key": "E",
+        "text": "Distal toes weakness"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "ba24192d-_______.docx",
+    "source_doc": "奇美_自律神經"
+  },
+  {
+    "id": "ba24192d-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A patient with severe orthostatic intolerance undergoes autonomic testing.\nThe QSART and thermoregulatory sweat test are normal.\nHeart-rate response to deep breathing is normal.\nBeat-to-beat blood pressure during the Valsalva maneuver is markedly abnormal.\nPlasma norepinephrine and DHPG are nearly undetectable, while plasma dopamine is markedly elevated.\nThe most likely diagnosis is:",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Pure autonomic failure"
+      },
+      {
+        "key": "B",
+        "text": "Parkinson disease with autonomic failure"
+      },
+      {
+        "key": "C",
+        "text": "Dopamine β-hydroxylase deficiency"
+      },
+      {
+        "key": "D",
+        "text": "Multiple system atrophy"
+      },
+      {
+        "key": "E",
+        "text": "Autoimmune autonomic ganglionopathy"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "ba24192d-_______.docx",
+    "source_doc": "奇美_自律神經"
+  },
+  {
+    "id": "ba24192d-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A patient develops severe neuropathic pain shortly after rapid correction of long-standing hyperglycemia.\nThis syndrome is best known as:",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Diabetic amyotrophy"
+      },
+      {
+        "key": "B",
+        "text": "Hyperglycemic neuropathy"
+      },
+      {
+        "key": "C",
+        "text": "Treatment-induced neuropathy of diabetes"
+      },
+      {
+        "key": "D",
+        "text": "Diabetic lumbosacral radiculoplexus neuropathy"
+      },
+      {
+        "key": "E",
+        "text": "Painful diabetic mononeuropathy"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "ba24192d-_______.docx",
+    "source_doc": "奇美_自律神經"
+  },
+  {
+    "id": "ba24192d-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 42-year-old woman reports burning pain involving the face, trunk, and proximal upper extremities. Neurological examination reveals patchy loss of pinprick sensation without a stocking-glove distribution.\nThis pattern most strongly suggests:",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Length-dependent diabetic neuropathy"
+      },
+      {
+        "key": "B",
+        "text": "Small fiber neuropathy with non-length-dependent involvement"
+      },
+      {
+        "key": "C",
+        "text": "Chronic inflammatory demyelinating polyneuropathy with asymmetric presentation"
+      },
+      {
+        "key": "D",
+        "text": "Sensory neuronopathy due to vitamin B12 deficiency"
+      },
+      {
+        "key": "E",
+        "text": "Mononeuritis multiplex"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "ba24192d-_______.docx",
+    "source_doc": "奇美_自律神經"
+  },
+  {
+    "id": "ba24192d-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 61-year-old woman with newly diagnosed type 2 diabetes complains of severe burning pain in both feet. Examination demonstrates mild loss of pinprick sensation but no foot deformity or ulceration.\nWhich statement is MOST accurate?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Pain usually develops only after profound sensory loss."
+      },
+      {
+        "key": "B",
+        "text": "Painful diabetic neuropathy is more commonly observed early in the disease."
+      },
+      {
+        "key": "C",
+        "text": "Pain predicts impending Charcot arthropathy."
+      },
+      {
+        "key": "D",
+        "text": "Pain indicates predominant sensory nerve involvement and usually confirmed by sensory nerve conduction study."
+      },
+      {
+        "key": "E",
+        "text": "Pain is uncommon in diabetic distal symmetric polyneuropathy."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "ba24192d-_______.docx",
+    "source_doc": "奇美_自律神經"
+  },
+  {
+    "id": "ba24192d-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "",
+    "tags": [],
+    "question": "A 72-year-old man presents with orthostatic hypotension, constipation, erectile dysfunction, and generalized anhidrosis.",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Orthostatic hypotension reflects impairment of the sympathetic adrenergic function."
+      },
+      {
+        "key": "B",
+        "text": "Generalized anhidrosis indicates parasympathetic cholinergic impairment."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "ba24192d-_______.docx",
+    "source_doc": "奇美_自律神經"
+  },
+  {
+    "id": "ba24192d-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "",
+    "tags": [],
+    "question": "A 69-year-old man complains of progressive numbness in both feet for 5 years. He also reports orthostatic dizziness, constipation, erectile dysfunction, and excessive sweating of the trunk. Neurologic examination demonstrates impaired vibration sense, absent ankle reflexes, and mild distal weakness.\nWhich of the following statements are TRUE?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "The patient's autonomic symptoms suggest involvement beyond large somatic sensory fibers."
+      },
+      {
+        "key": "2",
+        "text": "Constipation and erectile dysfunction both reflect impairment of parasympathetic function."
+      },
+      {
+        "key": "3",
+        "text": "Orthostatic hypotension primarily reflects sympathetic adrenergic dysfunction."
+      },
+      {
+        "key": "4",
+        "text": "Excessive sweating of the trunk indicates intact sympathetic sudomotor function."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "ba24192d-_______.docx",
+    "source_doc": "奇美_自律神經"
+  },
+  {
+    "id": "ba24192d-08",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "The following figure shows the continuous blood pressure and heart rate recordings during Valsalva maneuver. Which of the following statements is MOST accurate?",
+    "images": [
+      "images/ba24192d-08-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "The patient has both cardiovagal and adrenergic impairment."
+      },
+      {
+        "key": "B",
+        "text": "The patient has adrenergic impairment with preserved cardiovagal function."
+      },
+      {
+        "key": "C",
+        "text": "The patient has cardiovagal impairment with preserved adrenergic function."
+      },
+      {
+        "key": "D",
+        "text": "A normal subject receiving beta-blocker may show such pattern."
+      },
+      {
+        "key": "E",
+        "text": "Hypovolemia is likely to account for the testing result."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "ba24192d-_______.docx",
+    "source_doc": "奇美_自律神經"
+  },
+  {
+    "id": "ba24192d-09",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 47-year-old woman presents with burning pain and reduced temperature sensation in both feet. Nerve conduction studies are normal. Sudoscan shows reduced electrochemical skin conductance (ESC) on both feet and normal ESC on both hands.\nWhich of the following is the most appropriate interpretation?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "The findings exclude peripheral neuropathy because nerve conduction studies are normal"
+      },
+      {
+        "key": "B",
+        "text": "The findings indicate a preganglionic sympathetic lesion."
+      },
+      {
+        "key": "C",
+        "text": "The findings support distal small fiber neuropathy."
+      },
+      {
+        "key": "D",
+        "text": "The findings indicate parasympathetic cholinergic dysfunction."
+      },
+      {
+        "key": "E",
+        "text": "The findings suggest a central lesion and multiple system atrophy may be considered."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "ba24192d-_______.docx",
+    "source_doc": "奇美_自律神經"
+  },
+  {
+    "id": "ba24192d-10",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "Which of the following statement concerning the H reflex is NOT true?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "It reflects the cumulative time required for the impulses to reach the spinal cord via the sensory fibers, synapse with anterior horn cells, and to be transmitted along motor fibers to the muscle."
+      },
+      {
+        "key": "B",
+        "text": "Stimuli of increasing frequency but low intensity causes a progressive depression and finally obliteration of H waves."
+      },
+      {
+        "key": "C",
+        "text": "It is usually done on tibial nerve and particularly helpful in the diagnosis of S1 radiculopathy."
+      },
+      {
+        "key": "D",
+        "text": "It is usually done in peroneal nerve."
+      },
+      {
+        "key": "E",
+        "text": "H reflex is the earliest and most sensitive electrophysiological abnormality in Guillain-Barré syndrome."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "ba24192d-_______.docx",
+    "source_doc": "奇美_自律神經"
+  },
+  {
+    "id": "daefb634-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "A 34-year-old woman presents with a 1-month history of progressive four-limb weakness accompanied by mild myalgia. She experiences the most difficulty when climbing stairs. Dysarthria and exertional dyspnea are also noted. She denies any abnormal sensory complaints. Upon physical examination, erythematous macules and papules are notably localized on the flexor surfaces of her interphalangeal joints. For this specific subtype of inflammatory myopathy, which of the following statements is CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "High-resolution computed tomography (HRCT) of the chest frequently reveals interstitial lung disease."
+      },
+      {
+        "key": "B",
+        "text": "Extensive calcinosis cutis clustered around the trunk and major joints is a hallmark feature of this adult population."
+      },
+      {
+        "key": "C",
+        "text": "The clinical course carries an extremely high risk of underlying malignancy compared to all other dermatomyositis subtypes."
+      },
+      {
+        "key": "D",
+        "text": "Concomitant erosive polyarthritis is highly characteristic for this disease."
+      },
+      {
+        "key": "E",
+        "text": "Prior exposure to HMG-CoA reductase inhibitors (statins) is highly associated with this disease."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "四肢無力、肌肉痛、無法爬樓梯 -> 肌肉病變(題幹後面也提了)\n構音障礙、運動性呼吸困難 -> 影響bulbar或是影響呼吸肌肉，而運動性呼吸困難要想到Lung involvement\nErythematous macules and papules are notably localized on the flexor surfaces of her interphalangeal joints -> inverse Gottron’s sign\n以上幾點要想到的是DM當中的anti-MDA5 antibody(inverse Gottron’s sign是anti-MDA5 antibody)\nA選項：正確，Anti-MDA-5可能會有嚴重的interstitial lung disease\nB選項：比較是跟NXP-2或是systemic sclerosis in overlap myositis有關，跟Anti-MDA-5有關的另一種皮膚表現為ulcers at the elbows and erythema palmare\nC選項：跟惡性腫瘤高度相關的Dermatomyositis是Anti-TIF-1antibody以及Anti-NXP-2\nD選項：大多數跟idiopathic inflammatory myopathies有關的關節炎為non-erosive arthritis\nE選項：這題考的是anti-MDA5 antibody，非IMNM",
+    "source": "Bradley and Daroff's Neurology in Clinical Practice, 8th Edition, Chapter 109: Disorders of Skeletal Muscle Lancet Neurol. 2025 Sep;24(9):776-788. doi: 10.1016/S1474-4422(25)00233-9.",
+    "source_file": "daefb634-____.docx",
+    "source_doc": "長庚考題"
+  },
+  {
+    "id": "daefb634-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "A 65-year-old male with a diagnosis of non-small cell lung carcinoma (NSCLC) was currently receiving pembrolizumab therapy. Ten days after the third dose of medication, he developed progressive proximal limb weakness, bilateral ptosis, and dyspnea over 4 days. Repetitive nerve stimulation (RNS) at 3 Hz revealed a decrement of greater than 22% in the abductor digiti minimi and orbicularis oculi muscles. Laboratory survey showed a remarkably elevated serum creatine kinase (CK) level. Regarding the management and clinical features of this condition, which of the following statements is CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Given the risk of transient worsening, corticosteroid is not recommended as single first-line therapy."
+      },
+      {
+        "key": "B",
+        "text": "A muscle biopsy must be performed prior to initiating immunosuppressive treatment."
+      },
+      {
+        "key": "C",
+        "text": "Intravenous immunoglobulin (IVIG) is contraindicated because this condition is primarily an IgG4-mediated disorder."
+      },
+      {
+        "key": "D",
+        "text": "A 12-lead electrocardiogram (ECG) is mandatory and may reveal new-onset conduction blocks or tachyarrhythmias."
+      },
+      {
+        "key": "E",
+        "text": "Switching to ipilimumab is a reasonable option to minimize further adverse events."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": "Check point inhibitor導致的Neurological immune-related adverse events (irAEs)包含autoimmune encephalitis, transverse myelitis, myositis, myasthenia gravis, and immune polyneuropathies，其中immune polyneuropathies多為demyelinating，表現上接近GBS, MFS等，iRAE的發生與checkpoint inhibitors的使用具有時間相關性，通常出現在首次治療的2–22周後\n用過check point inhibitor，出現新的MG、myositis的症狀，要想到triple M syndrome (myasthenia gravis、myositis、myocarditis，育祺碰過)\nTriple M syndrome:\n死亡率可達約40%，在題目出處的review中，pembrolizumab最常與3M syndrome相關。治療上，第一線為Corticosteroids、intravenous immunoglobulin (IVIg) or plasma exchange (PLEX)為第二線，更後線的免疫治療目前沒有定論。目前無證據顯示換一種check point inhibitor可以避免Triple M syndrome復發",
+    "source": "Bradley and Daroff's Neurology in Clinical Practice, 8th Edition, Chapter 106: Disorders of Peripheral Nerves, page 1924. Cancers (Basel). 2025 Jun 20;17(13):2063. doi: 10.3390/cancers17132063",
+    "source_file": "daefb634-____.docx",
+    "source_doc": "長庚考題"
+  },
+  {
+    "id": "daefb634-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "Regarding adult-onset myotonic dystrophy type 1 and type 2 (DM1 and DM2), which of the following manifestations is less typical?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Myotonia"
+      },
+      {
+        "key": "B",
+        "text": "Cataract"
+      },
+      {
+        "key": "C",
+        "text": "Hyposomnia"
+      },
+      {
+        "key": "D",
+        "text": "Hypogammaglobulinemia"
+      },
+      {
+        "key": "E",
+        "text": "Insulin resistance"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "C選項：為excessive daytime sleepiness (EDS) or hypersomnia",
+    "source": "Bradley and Daroff's Neurology in Clinical Practice, 8th Edition, Chapter 109: Disorders of Skeletal Muscle, page 1998-2001",
+    "source_file": "daefb634-____.docx",
+    "source_doc": "長庚考題"
+  },
+  {
+    "id": "daefb634-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "發展與遺傳性疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "難",
+    "tags": [
+      "發展與遺傳性疾病"
+    ],
+    "question": "A 19-year-old male presented to the outpatient clinic with insidious onset of limb weakness for several months. Dyspnea had also been noted for several months. Neurological examination revealed hyperreflexia of deep tendon reflexes, tongue fasciculations, and atrophy of the hand intrinsic muscles, including the first dorsal interosseous, abductor pollicis brevis, and hypothenar muscles. Nerve conduction velocity and electromyography studies showed normal sensory nerve conduction, reduced compound muscle action potential amplitudes, widespread fibrillation potentials, positive sharp waves, and fasciculation potentials, with chronic neurogenic motor unit changes. The patient’s family had no similar symptoms; however, one younger brother had been noted since school age to have pes cavus and hammer toes, along with gait disturbance. This patient’s disease is most likely associated with which of the following genes?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "SOD1"
+      },
+      {
+        "key": "B",
+        "text": "Senataxin"
+      },
+      {
+        "key": "C",
+        "text": "VCP"
+      },
+      {
+        "key": "D",
+        "text": "Alsin"
+      },
+      {
+        "key": "E",
+        "text": "GRN"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "這題考得很細，題幹描述了一位19歲男性出現了Upper + lower motor neuron sign，還是會先考慮ALS，但是題幹後面描述了病人的弟弟，症狀上比較像是CMT\nA選項：AD，adult onset，最常見的Familial ALS\nB選項：AD，juvenile onset，slow progression，allelic to CMT2(此基因跟AD ALS、CMT、AR的AOA2相關)\nC選項：AD，此基因的突變也可以導致IBMPFD(Inclusion Body Myopathy with Paget Disease of Bone and/or Frontotemporal Dementia)\nD選項：AR，juvenile onset，會像PLS(補充：最常見的AR ALS基因是SPG 11)\nE選項：比較常見的表現為FTD\n附上Merritt’s的表格",
+    "source": "Merritt's Neurology 14th edition, Chapter 88, page 907",
+    "source_file": "daefb634-____.docx",
+    "source_doc": "長庚考題"
+  },
+  {
+    "id": "daefb634-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "A 19-year-old man presented with a lifelong history of exercise intolerance. He reported that after brief strenuous activities, such as sprinting or climbing stairs, he would quickly develop lower limb fatigue, weakness, shortness of breath, and muscle pain, forcing him to stop. However, with continued low-intensity exercise, such as walking, his symptoms gradually improved. Laboratory studies showed that his blood lactate level failed to rise appropriately after exercise. Which of the following enzyme deficiencies is most likely associated with this condition?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Debrancher enzyme deficiency"
+      },
+      {
+        "key": "B",
+        "text": "Brancher enzyme deficiency"
+      },
+      {
+        "key": "C",
+        "text": "Acid-alpha-glucosidase deficiency"
+      },
+      {
+        "key": "D",
+        "text": "Myophosphorylase deficiency"
+      },
+      {
+        "key": "E",
+        "text": "Phosphofructokinase deficiency"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": "這題看到exercise intolerance、短暫費力的運動做一下就出現肌肉痛、沒辦法繼續，但是較低強度的運動做一陣子之後表現變好要想到second-wind phenomenon，可以選McArdle disease(選項D)，題幹後半描述的是exercise forearm test，在下列病人：phosphorylase, phosphorylase b kinase, phosphoglycerate mutase, phosphoglycerate kinase, lactate dehydrogenase (LDH), and enolase deficiencies的病人，先於前臂on好蝴蝶針抽lactate跟ammonia的baseline，接著請病人做快速的反覆握緊、張開手的動作1分鐘，在動作結束後的第1、2、3、5分鐘抽血，會發現這些病人的lactate不會升高(正常lactate跟ammonia可升高3-4倍)，抽ammonia是因為病人的ammonia會升高，用以確定病人有確實做反覆握緊、張開手的動作。\nA選項：Glycogen Storage Disease Type III\nB選項：Glycogen Storage Disease Type IV\nC選項：Pompe disease\nE選項：AR，臨床上跟phosphorylase deficiency很像，但second-wind phenomenon少見，",
+    "source": "Bradley and Daroff's Neurology in Clinical Practice, 8th Edition, Chapter 109: Disorders of Skeletal Muscle, page 2004-2005",
+    "source_file": "daefb634-____.docx",
+    "source_doc": "長庚考題"
+  },
+  {
+    "id": "daefb634-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "Which of the following diseases is/are caused by mutations in the TATA-binding protein gene?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Spinocerebellar ataxia 17"
+      },
+      {
+        "key": "B",
+        "text": "Huntington disease-like 4"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "A/B就是同一個病，AD，6q27上TBP gene的CAG/CAA repeat expansion，≧41個repeat開始會表現症狀",
+    "source": "Merritt's Neurology, 14th Edition, Chapter 82",
+    "source_file": "daefb634-____.docx",
+    "source_doc": "長庚考題"
+  },
+  {
+    "id": "daefb634-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "Which of the following statements about neuromuscular junction diseases are correctly paired?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Myasthenia gravis - decreased compound muscle action potential - postsynaptic"
+      },
+      {
+        "key": "B",
+        "text": "Lambert-Eaton myasthenic syndrome - normal compound muscle action potential - presynaptic"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice, 8th Edition, Chapter 36: Clinical Electromyography, page 468",
+    "source_file": "daefb634-____.docx",
+    "source_doc": "長庚考題"
+  },
+  {
+    "id": "daefb634-08",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "去髓鞘疾病",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "難",
+    "tags": [
+      "去髓鞘疾病"
+    ],
+    "question": "Regarding special considerations for Multiple Sclerosis (MS), including pregnancy management, vaccination protocols, and environmental risk factors, which of the following statements are true based on current clinical literature and guidelines?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "The annualized relapse rate (ARR) of MS naturally decreases as pregnancy progresses, reaching its lowest point in the third trimester, but is followed by a transient increase during the first 3 to 6 months postpartum."
+      },
+      {
+        "key": "2",
+        "text": "For MS patients actively receiving high-efficacy immunosuppressive DMTs, such as B-cell depleting agents or sphingosine 1-phosphate (S1P) modulators, the administration of live-attenuated vaccines like HBV, MMR and influenza remain safe."
+      },
+      {
+        "key": "3",
+        "text": "Interferon-beta and glatiramer acetate, are clinically considered safe and can be reasonably continued throughout both pregnancy and lactation."
+      },
+      {
+        "key": "4",
+        "text": "Low serum levels of vitamin E, alongside symptomatic Epstein-Barr virus (EBV) infection and cigarette smoking, are widely recognized as risk factors for the development and exacerbation of MS."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "選項1：正確\n選項2：錯誤，Live vaccines should not be administered to patients currently treated with ocrelizumab, rituximab, alemtuzumab, mitoxantrone, fingolimod, and Siponimod. 若是必須的活性疫苗，需要在這些藥物治療開始前4周施打\n選項3：正確，interferon-beta懷孕等級B/C，glatiramer acetate(copaxone)懷孕等級B\n選項4：為Vitamin D deficiency(因1,25-dihydroxyvitamin D3有immunomodulatory properties)",
+    "source": "Merritt’s Neurology 14th Edition p.723-729",
+    "source_file": "daefb634-____.docx",
+    "source_doc": "長庚考題"
+  },
+  {
+    "id": "daefb634-09",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "發展與遺傳性疾病",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "中等",
+    "tags": [
+      "發展與遺傳性疾病"
+    ],
+    "question": "Which of the following statements regarding the genetics, clinical features, and electrophysiological findings of Myotonic Dystrophies are CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "DM1 is caused by a CTG trinucleotide repeat expansion in the DMPK gene, whereas DM2 is caused by a CCTG tetranucleotide repeat in the ZNF9 gene."
+      },
+      {
+        "key": "2",
+        "text": "DM1 is characterized predominantly by distal and facial/neck muscle weakness, whereas DM2 typically presents with early and prominent proximal muscle weakness."
+      },
+      {
+        "key": "3",
+        "text": "In nerve conduction studies, 10 Hz repetitive nerve stimulation typically demonstrates a prominent decremental response in the compound muscle action potential (CMAP) amplitude."
+      },
+      {
+        "key": "4",
+        "text": "During the prolonged exercise test, myotonic dystrophies characteristically exhibit an initial increase in CMAP amplitude immediately after exercise, followed by a significant delayed decrease."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "選項1：正確，兩個病都是AD，DM 1有anticipation，DM 2沒有\n選項2：正確，DM 2的別稱為proximal myotonic myopathy\n選項3：正確\n選項4：Prolonged exercise test(McManis test)通常用於診斷Periodic Paralysis",
+    "source": "Bradley and Daroff's Neurology in Clinical Practice, 8th Edition, p. 1981-1991",
+    "source_file": "daefb634-____.docx",
+    "source_doc": "長庚考題"
+  },
+  {
+    "id": "daefb634-10",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "A 10-year-old boy presented with 3 months of worsening attention and school performance. He had no significant past medical history, but his family history was notable for his mother who had subtle difficulty on ambulation and for an older brother who died unexpectedly after a common viral illness. On examination, he had a tan complexion, poor fine motor skills, a spastic gait, and brisk reflexes. His MRI showed confluent posterior T2-hyperintense signal with enhancement on the leading edge. Based on the clinical vignette and imaging, which of the following statements regarding the underlying pathogenesis and phenotypic spectrum is CORRECT?",
+    "images": [
+      "images/daefb634-10-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Genetic testing in this patient showed an ABCD1 mutation positive, which disrupts peroxisomal function and causes the toxic accumulation of long-chain fatty acids (LCFA) in the central nervous system."
+      },
+      {
+        "key": "B",
+        "text": "Because this is a X-linked recessive disorder, female heterozygotes are merely carriers and will not develop any neurological symptoms throughout their lives."
+      },
+      {
+        "key": "C",
+        "text": "In adulthood, the most common phenotype is Adrenomyeloneuropathy (AMN), which manifests with spastic paraparesis, Addison's disease (primary adrenal insufficiency), hyperpigmentation, testicular failure, and early baldness."
+      },
+      {
+        "key": "D",
+        "text": "For adult patients with pure AMN, HSCT is the definitive treatment capable of regenerating spinal axons and restoring adrenal function, eventually allowing discontinuation of corticosteroid replacement."
+      },
+      {
+        "key": "E",
+        "text": "All of the above."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "一個沒有過去病史的小孩開始出現認知症狀+膚色變深+Pyramidal signs → 要想到ALD，題幹也提到病人的母親有輕微的步態不穩 → 為帶因女性可能出現的AMN的症狀\nALD本身為X-linked recessive disorder with variable expressivity，位置在Xq28，ALD gene本身encodes ATP-binding cassette transporter class of proteins (ABCD1)。ABCD1對神經系統跟腎上腺的影響是獨立的，因此可能會出現以下幾種表現：cerebral adrenoleukodystrophy (CALD), adrenomyeloneuropathy (AMN), primary adrenocortical insufficiency。Image可見posteriorly predominant white matter signal hyperintensity with marginal enhancement。診斷上，需要於血清驗到very-long-chain fatty acid (VLCFAs)升高，而過氧化體的其他功能相對是保留的，並進行ABCD1基因分析以確定診斷。\nA選項：錯誤，為very-long-chain fatty acid (VLCFAs)升高\nB選項：錯誤，女性帶因者可以表現出AMN\nC選項：正確\nD選項：Hematopoietic Stem Cell Transplantation(HSCT)僅適用於疾病初期的病患，且HSCT本身有較多的嚴重併發症風險，且HSCT後，ALD造成的病灶仍會進展12到18個月才停止",
+    "source": "Merritt’s Neurology, 14th Edition, Chapter 139",
+    "source_file": "daefb634-____.docx",
+    "source_doc": "長庚考題"
+  },
+  {
+    "id": "d2ac00e17-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "行為神經學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "行為神經學"
+    ],
+    "question": "Regarding the temporal sequence of Alzheimer's disease (AD) biomarker abnormalities across the preclinical-to-dementia continuum, which of the following statements is TRUE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Core 1 biomarkers, including p-tau217/ p-tau181/ p-tau231 and amyloid PET, generally become abnormal before Core 2 biomarkers, such as tau PET and MTBR-tau243."
+      },
+      {
+        "key": "B",
+        "text": "CSF/plasma Aβ42/40 typically becomes abnormal only after plasma p-tau217 has already crossed its pathological threshold."
+      },
+      {
+        "key": "C",
+        "text": "MTBR-tau243 rises before plasma p-tau217 because it reflects an early, soluble tau species released via synaptic activity."
+      },
+      {
+        "key": "D",
+        "text": "Throughout the disease course, amyloid biomarkers continue to change linearly without reaching a plateau, such as decline in CSF Aβ42 and increase in amyloid PET uptake, whereas tau biomarkers plateau early."
+      },
+      {
+        "key": "E",
+        "text": "CSF total tau (t-tau) becomes abnormal later than Tau PET."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "2024 NIA-AA Revised criteria for diagnosis and staging of Alzheimer's disease: Alzheimer's Association Workgroup; DOI: 10.1002/alz.13859",
+    "source_file": "d2ac00e1-______7______.docx",
+    "source_doc": "彰基_失智7_命題紙格式"
+  },
+  {
+    "id": "d2ac00e17-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "行為神經學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "行為神經學"
+    ],
+    "question": "A 74-year-old man presents with a 3-year history of fluctuating cognitive impairment involving attention and arousal, and mild parkinsonism (bradykinesia, rigidity) that began approximately 6 months after the onset of cognitive symptoms. Which of the following BEST describes the diagnosis of the patient?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Parkinson's disease dementia, because parkinsonism developed within one year of the onset of cognitive decline"
+      },
+      {
+        "key": "B",
+        "text": "Probable dementia with Lewy bodies, since the presence of  ≥2 core clinical features is sufficient to establish a probable diagnosis"
+      },
+      {
+        "key": "C",
+        "text": "Possible dementia with Lewy bodies, since presence of 1 or more core clinical features but no indicative biomarkers."
+      },
+      {
+        "key": "D",
+        "text": "The cingulate island sign on FDG-PET supports the diagnosis of dementia with Lewy bodies, which is the most characteristic indicative biomarkers."
+      },
+      {
+        "key": "E",
+        "text": "Approximately 50-80% of DLB patients are amyloid-positive but the pattern of deposition is not similar to AD."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Neurology in Clinical Practice 8th Edition 2022, Chapter 95, P.1474-1475",
+    "source_file": "d2ac00e1-______7______.docx",
+    "source_doc": "彰基_失智7_命題紙格式"
+  },
+  {
+    "id": "d2ac00e17-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "行為神經學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "行為神經學"
+    ],
+    "question": "A 58-year-old woman presents with a 2-year history of personality change, loss of empathy, and hyperorality, followed by limb weakness and fasciculations. Genetic testing reveals a GGGGCC hexanucleotide repeat expansion. Which of the following statements about her underlying disease is WRONG?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "This mutation is inherited in an autosomal dominant pattern. It also accounts for approximately 6% of sporadic frontotemporal dementia (FTD) and approximately 25% of familial FTD."
+      },
+      {
+        "key": "B",
+        "text": "Penetrance is age-dependent, reaching only about 50% by the late 50s and becoming nearly complete only in the seventh to eighth decade of life."
+      },
+      {
+        "key": "C",
+        "text": "Repeat length usually predict phenotype between FTD with motor neuron disease (MND), amyotrophic lateral sclerosis (ALS), or FTD."
+      },
+      {
+        "key": "D",
+        "text": "While most patients present with FTD or ALS, approximately 30% have FTD-MND. BvFTD is the most common FTD presentation."
+      },
+      {
+        "key": "E",
+        "text": "Fluorodeoxyglucose-positron emission tomography (FDG-PET) may demonstrate bifrontal hypometabolism."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Neurology in Clinical Practice 8th Edition 2022, Chapter 95, P.1485-1487",
+    "source_file": "d2ac00e1-______7______.docx",
+    "source_doc": "彰基_失智7_命題紙格式"
+  },
+  {
+    "id": "d2ac00e17-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "行為神經學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "行為神經學"
+    ],
+    "question": "A 90-year-old man has a 5-year history of very slowly progressive, isolated memory impairment. Over the past year, testing has also revealed emerging difficulty on confrontation naming tasks, and impaired recognition of famous faces and public events. Neuropsychological testing shows rapid forgetting, poor delayed recall, and limited benefit from recognition cues. Amyloid PET shows mild-to-moderate cortical uptake (Centiloid 45). Tau PET shows tracer uptake confined to the medial temporal lobe (entorhinal cortex and hippocampus) without neocortical spread. MRI shows disproportionate hippocampal atrophy, out of proportion to the degree of generalized cortical atrophy. Which of the following is TRUE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "The clinical and biomarker profile is fully explained by primary age-related tauopathy (PART), since tau-PET uptake is confined to the medial temporal lobe without neocortical spread."
+      },
+      {
+        "key": "B",
+        "text": "The description highly reflects concomitant Limbic-predominant age-related TDP-43 encephalopathy superimposed on early-stage Alzheimer's disease neuropathologic change."
+      },
+      {
+        "key": "C",
+        "text": "The clinical presentation is most consistent with the logopenic variant of primary progressive aphasia (lvPPA), which typically reflects underlying Alzheimer's disease pathology."
+      },
+      {
+        "key": "D",
+        "text": "Concurrent TDP-43 pathology is neuropathologically irrelevant and does not meaningfully worsen the amnestic phenotype."
+      },
+      {
+        "key": "E",
+        "text": "Hippocampal sclerosis in this context is diagnostic of a distinct FTLD-TDP subtype and should prompt genetic testing for GRN or C9orf72 mutations."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Neurology in Clinical Practice 8th Edition 2022, Chapter 95, P.1474-1475",
+    "source_file": "d2ac00e1-______7______.docx",
+    "source_doc": "彰基_失智7_命題紙格式"
+  },
+  {
+    "id": "d2ac00e17-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "行為神經學",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "中等",
+    "tags": [
+      "行為神經學"
+    ],
+    "question": "Regarding the 2025 VasCog-2-WSO diagnostic criteria for vascular cognitive impairment and dementia (VCID), which of the following statements is/are TRUE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Personality and mood changes (eg, apathy and depressive symptoms), together with gait disturbance and urinary frequency, are required supportive features for establishing a diagnosis of probable VCID."
+      },
+      {
+        "key": "B",
+        "text": "Probable VCID may be diagnosed either by neuroimaging evidence supporting the clinical criteria, or by clinical criteria combined with genetic evidence of a cerebral small-vessel arteriopathy such as CADASIL."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "2025 Revised Diagnostic Criteria for Vascular Cognitive Impairment and Dementia-The VasCog-2-WSO Criteria. DOI: 10.1001/jamaneurol.2025.3242",
+    "source_file": "d2ac00e1-______7______.docx",
+    "source_doc": "彰基_失智7_命題紙格式"
+  },
+  {
+    "id": "d2ac00e17-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "行為神經學",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "difficulty": "中等",
+    "tags": [
+      "行為神經學"
+    ],
+    "question": "Regarding the neuropsychological evaluation for cognitive impairment, which of the following statements is/are TRUE?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Judgment of Line Orientation assesses visuoperceptual/spatial function through a line-matching task and, unlike Block Design, does not require a constructional or motor response."
+      },
+      {
+        "key": "2",
+        "text": "Digit Span backward requires more mental manipulation than Digit Span forward and places greater demands on working memory."
+      },
+      {
+        "key": "3",
+        "text": "Category verbal fluency depends on lexical-semantic/language networks and is also influenced by executive or frontal lobe function."
+      },
+      {
+        "key": "4",
+        "text": "Stroop test is primarily a measure of visual perceptual discrimination and color recognition ability, mediated by the primary visual cortex."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Neurology in Clinical Practice 8th Edition 2022, Chapter 90, P.1380-1382",
+    "source_file": "d2ac00e1-______7______.docx",
+    "source_doc": "彰基_失智7_命題紙格式"
+  },
+  {
+    "id": "d2ac00e17-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "行為神經學",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "行為神經學"
+    ],
+    "question": "A 78-year-old man presents with a 1-year history of gradually worsening gait (short, shuffling steps, difficulty initiating gait, wide-based stance), followed several months later by urinary urgency and mild inattention/slowed processing speed on cognitive testing. Brain MRI shows below. Which of the following statements about the disease is TRUE?",
+    "images": [
+      "images/d2ac00e17-07-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "The biomarkers may show low CSF Aβ42, normal CSF t-tau and p-tau similar to controls, which reliably distinguishes pure idiopathic normal pressure hydrocephalus (iNPH) from NPH plus comorbid AD."
+      },
+      {
+        "key": "B",
+        "text": "Disproportionately enlarged subarachnoid space hydrocephalus (DESH), characterized by tight high-convexity sulci with dilatation of the Sylvian fissures and focal sulci, confirms iNPH rather than other neurodegenerative disorders."
+      },
+      {
+        "key": "C",
+        "text": "The CAPPAH sign on SPECT represents true hyperperfusion of the high-convexity region and directly predicts reversible ischemia after shunting."
+      },
+      {
+        "key": "D",
+        "text": "Improved gait after CSF tapping predicts a better response to shunting; besides, a negative tap test excludes iNPH and shunt candidacy."
+      },
+      {
+        "key": "E",
+        "text": "Cognitive impairment is characterized primarily by frontal-executive dysfunction, including cognitive slowing, impaired abstract thinking, and impaired set-shifting."
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Neurology in Clinical Practice 8th Edition 2022, Chapter 95, P.1492-1495",
+    "source_file": "d2ac00e1-______7______.docx",
+    "source_doc": "彰基_失智7_命題紙格式"
+  },
+  {
+    "id": "72538aa93-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠疾患",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "睡眠疾患"
+    ],
+    "question": "The following conditions associated headache are usually more intense during sleep, EXCEPT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Cluster headache"
+      },
+      {
+        "key": "B",
+        "text": "Increased intracranial pressure"
+      },
+      {
+        "key": "C",
+        "text": "Ethmoidal sinusitis"
+      },
+      {
+        "key": "D",
+        "text": "Obstructive sleep apnea"
+      },
+      {
+        "key": "E",
+        "text": "Spontaneous intracranial hypotension"
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Merritt's Textbook of Neurology 14th Edition 2022, p 1186, 1190 Principles of Neurology 12th Edition 2023, p 175, 633",
+    "source_file": "72538aa9-_____3______.docx",
+    "source_doc": "彰基_睡眠3_命題紙格式"
+  },
+  {
+    "id": "72538aa93-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠疾患",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "睡眠疾患"
+    ],
+    "question": "About sleep dysfunctions and risk of cognitive impairment, which of the following statement is WRONG?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Decreased circadian rhythm activity and delayed rhythms increase risk of cognitive impairment"
+      },
+      {
+        "key": "B",
+        "text": "Excessive daytime sleepiness is generally not associated with future cognitive decline"
+      },
+      {
+        "key": "C",
+        "text": "More times of intra-sleep awakenings are associated with poor cognitive performance"
+      },
+      {
+        "key": "D",
+        "text": "REM sleep behavior disorder increases risk of dementia"
+      },
+      {
+        "key": "E",
+        "text": "Sleep disorder breathing predicts the probability of incident dementia"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Ann Neurol. 2011 Nov;70(5):722-32. Sleep. 2012 Sep 1;35(9):1201-7 Sleep Med Rev. 2018 Aug;40:4-16",
+    "source_file": "72538aa9-_____3______.docx",
+    "source_doc": "彰基_睡眠3_命題紙格式"
+  },
+  {
+    "id": "72538aa93-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠疾患",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "睡眠疾患"
+    ],
+    "question": "Which of the following statement about treatment of sleep disorders in patients with Alzheimer's dementia (AD) is WRONG?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Melatonin is considered as safe and most effective drug in patients with AD"
+      },
+      {
+        "key": "B",
+        "text": "Suvorexant may increase total nocturnal sleep time in patients with AD without obvious worsening of cognitive function"
+      },
+      {
+        "key": "C",
+        "text": "Trazodone may increase total sleep time without prominent cognitive side effect"
+      },
+      {
+        "key": "D",
+        "text": "Antipsychotics may have a role in ameliorating disturbed sleep or nocturnal agitation but should consider \"black box\" warnings"
+      },
+      {
+        "key": "E",
+        "text": "BZD is generally not recommended in the elderly patients"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Cochrane Database Syst Rev. 2020 Nov 15;11(11):CD009178 Alzheimers Dement. 2020, 16, 541-551 Am J Geriatr Psychiatry. 2014;22(12):1565-74 Drugs Aging. 2021 Nov;38(11):951-966.",
+    "source_file": "72538aa9-_____3______.docx",
+    "source_doc": "彰基_睡眠3_命題紙格式"
+  },
+  {
+    "id": "4bdc23b8-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "去髓鞘疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "去髓鞘疾病"
+    ],
+    "question": "Which lesion is not fulfilled with Criteria for diagnosis of multiple sclerosis to the 2024 revision of the McDonald criteria",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Dissemination in space"
+      },
+      {
+        "key": "B",
+        "text": "Dissemination in time"
+      },
+      {
+        "key": "C",
+        "text": "Optic nerve"
+      },
+      {
+        "key": "D",
+        "text": "Kappa free light chain"
+      },
+      {
+        "key": "E",
+        "text": "Central vein sign"
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "Diagnosis of multiple sclerosis: 2024 revisions of the McDonald criteria. Lancet Neurol. 2025 Oct;24(10):850-865. doi: 10.1016/S1474-4422(25)00270-4",
+    "source_file": "4bdc23b8-_____________.docx",
+    "source_doc": "臺大_神經免疫_命題紙格式"
+  },
+  {
+    "id": "4bdc23b8-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "去髓鞘疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "去髓鞘疾病"
+    ],
+    "question": "健保署於今年上半年異動哪個多發性硬化症疾病改變病程藥物的支付價格及修訂其給付規定，自115年3月1日生效？",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Tecfidera"
+      },
+      {
+        "key": "B",
+        "text": "Teriflunomide"
+      },
+      {
+        "key": "C",
+        "text": "Cladribine"
+      },
+      {
+        "key": "D",
+        "text": "Fingolimod"
+      },
+      {
+        "key": "E",
+        "text": "Natalizumab"
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "",
+    "source_file": "4bdc23b8-_____________.docx",
+    "source_doc": "臺大_神經免疫_命題紙格式"
+  },
+  {
+    "id": "4bdc23b8-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "去髓鞘疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "去髓鞘疾病"
+    ],
+    "question": "Which drug for NMO (neuromyelitis optica) acts on anti-complement C5?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Rituximab (anti-CD20, depletes CD20-expressing B cells and severs B-cell–T-cell interaction)"
+      },
+      {
+        "key": "B",
+        "text": "Tocilizumab (anti-IL-6 receptor, suppresses upregulated IL-6, a main driver of AQP4-antibody-producing plasmablasts and other pathogenetic aspects of AQP4-antibody-seropositive NMOSD)"
+      },
+      {
+        "key": "C",
+        "text": "Satralizumab (anti-IL-6 receptor, a recycling antibody acting longer than tocilizumab)"
+      },
+      {
+        "key": "D",
+        "text": "Eculizumab (anticomplement C5, blocks complement-mediated cytotoxicity to astrocytes, a major pathological mechanism of AQP4-antibody-seropositive NMOSD)"
+      },
+      {
+        "key": "E",
+        "text": "Inebilizumab (anti-CD19, inhibits CD19-expressing B cells including CD20-positive ones and AQP4-antibody-producing plasmablasts)"
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "Curr Opin Neurol 2019, 32:385–394",
+    "source_file": "4bdc23b8-_____________.docx",
+    "source_doc": "臺大_神經免疫_命題紙格式"
+  },
+  {
+    "id": "4bdc23b8-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "去髓鞘疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "去髓鞘疾病"
+    ],
+    "question": "Which drug for NMO (neuromyelitis optica) is not permitted in Taiwan?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Rituximab"
+      },
+      {
+        "key": "B",
+        "text": "Tocilizumab"
+      },
+      {
+        "key": "C",
+        "text": "Satralizumab"
+      },
+      {
+        "key": "D",
+        "text": "Eculizumab"
+      },
+      {
+        "key": "E",
+        "text": "Inebilizumab"
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "Curr Opin Neurol 2019, 32:385–394",
+    "source_file": "4bdc23b8-_____________.docx",
+    "source_doc": "臺大_神經免疫_命題紙格式"
+  },
+  {
+    "id": "4bdc23b8-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "去髓鞘疾病",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "去髓鞘疾病"
+    ],
+    "question": "Central vein sign will appear in which area?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "paraventricular area"
+      },
+      {
+        "key": "B",
+        "text": "infratentorial"
+      }
+    ],
+    "answer": [],
+    "explanation": "CVS 最常見於腦室周圍病灶（94%）及深白質病灶（84%），而皮質、皮質旁、幕下及脊髄區域病灶幾乎不含CVS。",
+    "source": "Curr Opin Neurol 2019, 32:385–394 2024 MAGNIMS–CMSC–NAIMS consensus recommendations on the use of MRI for the diagnosis of multiple sclerosis Lancet Neurol 2025; 24: 866–79",
+    "source_file": "4bdc23b8-_____________.docx",
+    "source_doc": "臺大_神經免疫_命題紙格式"
+  },
+  {
+    "id": "4bdc23b8-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "去髓鞘疾病",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "去髓鞘疾病"
+    ],
+    "question": "Which gene type owned then the patient cannot take Siponimod?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "CYP2C9*3/*3"
+      },
+      {
+        "key": "B",
+        "text": "CYP2C9*1/*1"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Clin Pharmacol Ther. 2021 Sep;110(3):662-676. PharmVar GeneFocus: CYP2C9",
+    "source_file": "4bdc23b8-_____________.docx",
+    "source_doc": "臺大_神經免疫_命題紙格式"
+  },
+  {
+    "id": "4bdc23b8-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "去髓鞘疾病",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "去髓鞘疾病"
+    ],
+    "question": "Which disease modify therapy is for progressive multiple sclerosis?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Ocrelizumab"
+      },
+      {
+        "key": "B",
+        "text": "Siponimod"
+      }
+    ],
+    "answer": [],
+    "explanation": "Ocrelizumab for primary progressive disease\nSiponimod for secondary progressive disease",
+    "source": "Ther Adv Neurol Disord 2019, Vol. 12: 1–11",
+    "source_file": "4bdc23b8-_____________.docx",
+    "source_doc": "臺大_神經免疫_命題紙格式"
+  },
+  {
+    "id": "4bdc23b8-08",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "去髓鞘疾病",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 2,3 are true, (C) if 4,5 are true,",
+    "difficulty": "易",
+    "tags": [
+      "去髓鞘疾病"
+    ],
+    "question": "Which is actually intrathecal inflammation?",
+    "images": [
+      "images/4bdc23b8-08-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "if 1,2,3 are true, (B) if 2,3 are true, (C) if 4,5 are true, (D) if only 3 is true, (E) if all are true"
+      }
+    ],
+    "answer": [],
+    "explanation": "Type I: no band\nType II: OCB in CSF, not in serum, Intrathecal IgG-synthesis\nType III: OCB in CSF, additional identical OCBs in CSF and serum, still intrathecal synthesis\nType IV: Identical OCB in CSF and serum: a systemic not intrathecal immune reaction\nType V: Monoclonal bands in CSF and serum: a paraprotein (monoclonal IgG component)",
+    "source": "Positive cerebrospinal fluid in the 2024 McDonald criteria for multiple sclerosis www.thelancet.com Vol 120 October, 2025",
+    "source_file": "4bdc23b8-_____________.docx",
+    "source_doc": "臺大_神經免疫_命題紙格式"
+  },
+  {
+    "id": "4bdc23b8-09",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "去髓鞘疾病",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "difficulty": "易",
+    "tags": [
+      "去髓鞘疾病"
+    ],
+    "question": "Which is biomarker of CALs (chronic active lesions) of multiple sclerosis?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Paramagnetic rim lesion (PRL)"
+      },
+      {
+        "key": "2",
+        "text": "Slowly expansion lesion (SEL)"
+      },
+      {
+        "key": "3",
+        "text": "TSPO-PET-Positive Lesion"
+      },
+      {
+        "key": "4",
+        "text": "The string of pearls sign"
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "International Journal of Molecular Sciences 2023 Aug",
+    "source_file": "4bdc23b8-_____________.docx",
+    "source_doc": "臺大_神經免疫_命題紙格式"
+  },
+  {
+    "id": "4bdc23b8-10",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "difficulty": "易",
+    "tags": [],
+    "question": "Which description is correct in intracellular antibody associated paraneoplastic syndrome?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "High cancer risk"
+      },
+      {
+        "key": "2",
+        "text": "Associated with Stiff person syndrome"
+      },
+      {
+        "key": "3",
+        "text": "Associated with Opsoclonus-myoclonus"
+      },
+      {
+        "key": "4",
+        "text": "Good response to immune treatment"
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "Biomedicines 2023, 11(5), 1406",
+    "source_file": "4bdc23b8-_____________.docx",
+    "source_doc": "臺大_神經免疫_命題紙格式"
+  },
+  {
+    "id": "4bdc23b8-11",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [],
+    "question": "As to main readiological pattern in autoimmune encephalitis, which one should be differentiated with herpes encephalitis",
+    "images": [
+      "images/4bdc23b8-11-1.png"
+    ],
+    "options": [],
+    "answer": [],
+    "explanation": "Limbic pattern e.g. anti-LGI1, ddx: HSE, SREAT, LGG, post ictal\nStriatal pattern e.g. antiCV2/CRMP5, ddx: CJD\nPerivascular enhancement e.g. anti-GDAP, ddx: LYG, neurosarcoidosis\nDiencephalic/brainstem e.g. anti-Ma2, ddx: Lysteria, Behcet, viral\nCortical pattern e.g. anti-GABAbR, ddx: infectious encephalitis, stroke",
+    "source": "Autoimmune encephalitis: what the radiologist needs to know Neuroradiology Volume 66, pa…(出處引用被截斷)",
+    "source_file": "4bdc23b8-_____________.docx",
+    "source_doc": "臺大_神經免疫_命題紙格式"
+  },
+  {
+    "id": "fbca6b8agndement-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "失智症",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "失智症"
+    ],
+    "question": "According to the 2024 Revised criteria for diagnosis and staging of Alzheimer’s disease, which of the following statements is most accurate regarding biomarkers used for diagnosis and staging of Alzheimer’s disease?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "An abnormal Core 2 biomarker alone is sufficient to establish the initial biological diagnosis of Alzheimer’s disease in most clinical settings."
+      },
+      {
+        "key": "B",
+        "text": "Core 1 biomarkers include amyloid PET, CSF Aβ42/40 ratio, CSF p-tau181/ Aβ42 ratio, CSF t-tau/ Aβ42 ratio, and accurate plasma assays such as plasma p-tau217."
+      },
+      {
+        "key": "C",
+        "text": "Plasma NfL and MRI medial temporal atrophy are considered Core 1 biomarkers because they reflect early Alzheimer’s disease neuropathologic change."
+      },
+      {
+        "key": "D",
+        "text": "Tau PET showing neocortical tau deposition is classified as a non-specific biomarker of neuronal injury rather than a Core Alzheimer’s disease biomarker."
+      },
+      {
+        "key": "E",
+        "text": "CSF total tau elevation alone is a Core 2 biomarker and is recommended as the preferred standalone test for biological staging."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "fbca6b8a-GN_dementia.docx",
+    "source_doc": "GN_dementia"
+  },
+  {
+    "id": "fbca6b8agndement-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "失智症",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "失智症"
+    ],
+    "question": "A 58-year-old man was brought to the neurology clinic by his wife because of progressive personality and behavioral changes over the past 2 years. He became socially inappropriate, frequently made offensive jokes in public, and showed poor judgement in financial decision. He also developed apathy, loss of empathy toward family members, and new repetitive checking behaviors. His wife noticed increased preference for sweets and overeating. His episodic and visuospatial function were relatively preserved in the early stage. His father had early-onset dementia in his early 60s. Which of the following clinical examinations is least necessary in the initial evaluation.",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Brain MRI"
+      },
+      {
+        "key": "B",
+        "text": "Detailed neuropsychological assessment"
+      },
+      {
+        "key": "C",
+        "text": "Screening blood tests for reversible causes of cognitive and behavioral impairment"
+      },
+      {
+        "key": "D",
+        "text": "Nerve conduction study and electromyography"
+      },
+      {
+        "key": "E",
+        "text": "Amyloid PET"
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "fbca6b8a-GN_dementia.docx",
+    "source_doc": "GN_dementia"
+  },
+  {
+    "id": "fbca6b8agndement-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "失智症",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "失智症"
+    ],
+    "question": "A 71-year-old woman was referred for cognitive evaluation because of increasing difficulty organizing daily tasks and following multi-step instructions. During testing, she was slow on Trail Making Test Part A and made multiple set-shifting errors on Trial Making Test Part B. She performed poorly in the Stroop interference condition and generated few words on categorical fluency, but her Boston Naming Test, single word comprehension, and delayed recognition memory were relatively preserved. Which of the following interpretations is most appropriate.",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Her poor Trial Making Test performance is best explained by a primary visuospatial constructional deficit"
+      },
+      {
+        "key": "B",
+        "text": "Her reduced letter fluency most likely reflects primary semantic memory loss."
+      },
+      {
+        "key": "C",
+        "text": "Her preserved delayed recognition memory suggests that the main deficit is less likely to be medial temporal storage failure."
+      },
+      {
+        "key": "D",
+        "text": "Her Stroop impairment is most consistent with impaired confrontation naming."
+      },
+      {
+        "key": "E",
+        "text": "Her preserved Boston Naming Test performance excludes clinically significant language or executive dysfunction."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "fbca6b8a-GN_dementia.docx",
+    "source_doc": "GN_dementia"
+  },
+  {
+    "id": "fbca6b8agndement-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "失智症",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "失智症"
+    ],
+    "question": "A 76-year-old right-handed man was brought to the emergency department because of sudden confusion and reduced spontaneous speech. His family reported that he repeatedly asked the same questions and could not remember recent events. On examination, he was awake but inattentive, with poor short-term recall and impaired mental flexibility. There was no obvious limb weakness, sensory loss, aphasia, or visual field defect. Brain MRI showed and acute ischemic lesion. Which of the following lesion locations best explains his clinical presentation?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Right precentral gyrus."
+      },
+      {
+        "key": "B",
+        "text": "Left medial thalamus"
+      },
+      {
+        "key": "C",
+        "text": "Right occipital pole"
+      },
+      {
+        "key": "D",
+        "text": "Left cerebellar hemisphere"
+      },
+      {
+        "key": "E",
+        "text": "Right lateral medulla"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "fbca6b8a-GN_dementia.docx",
+    "source_doc": "GN_dementia"
+  },
+  {
+    "id": "fbca6b8agndement-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "失智症",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "失智症"
+    ],
+    "question": "Which of the following patients is likely to have underlying Alzheimer’s disease pathology?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "A 64-year-old woman develops progressive word-finding difficulty and frequent pauses during speech over 2 years. Her speech is slow but grammatically correct, without marked motor speech impairment. She has impaired sentence repetition and phonological errors, while single-word comprehension and object knowledge are relatively preserved."
+      },
+      {
+        "key": "B",
+        "text": "A 68-year-old woman develops progressive difficulty reading, judging distances, and navigating familiar places. She often has trouble locating objects in front of her despite normal visual acuity. Neurological examination shows simultanagnosia and impaired visuospatial processing, while episodic memory is relatively preserved."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "fbca6b8a-GN_dementia.docx",
+    "source_doc": "GN_dementia"
+  },
+  {
+    "id": "fbca6b8agndement-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "失智症",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "失智症"
+    ],
+    "question": "You are in the memory clinic evaluating four patients with early Alzheimer’s disease, all being considered for anti-Aβ monoclonal antibody therapy. Please determine whether they are eligible to initiate treatment.",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Patient A, 71-year-old male with mild Alzheimer’s disease, MMSE 24/30. Amyloid PET is positive. He has a permanent pacemaker that is not compatible with MRI, so brain MRI cannot be performed."
+      },
+      {
+        "key": "B",
+        "text": "Patient B, 66-year-old female with progressive visuospatial dysfunction, simultanagnosia, and optic ataxia. Her clinical presentation is compatible with posterior cortical atrophy. MMSE is 23/30, amyloid PET is positive, and baseline brain MRI showed no exclusionary findings."
+      },
+      {
+        "key": "C",
+        "text": "Patient C, 74-year-old female with mild cognitive impairment and positive CSF biomarkers for Alzheimer’s disease, Baseline brain MRI showed diffuse white matter hyperintensities consistent with severe small vessel disease, involving the periventricular and deep white matter bilaterally."
+      },
+      {
+        "key": "D",
+        "text": "Patient D, 69-year-old female with mild Alzheimer’s disease, MMSE 25/30. She is taking aspirin for and old stroke 2 years ago. Baseline MRI shows one deep lacunar infarction and 2 cerebral microhemorrhages, without superficial siderosis or macrohemorrhage."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "fbca6b8a-GN_dementia.docx",
+    "source_doc": "GN_dementia"
+  },
+  {
+    "id": "fbca6b8agndement-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "失智症",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "失智症"
+    ],
+    "question": "A 74-year-old man presented with progressive cognitive decline. Brain FDG-PET is shown below. Which of the following findings is most consistent with his syndrome?",
+    "images": [
+      "images/fbca6b8agndement-07-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Intermittent episodes of reduced alertness, recurrently seeing people or animals in the room the others do not see, and new sensitivity to antipsychotic medication."
+      },
+      {
+        "key": "B",
+        "text": "Early loss of autobiographical memory, impaired recognition of recent events, and bilateral medial temporal atrophy"
+      },
+      {
+        "key": "C",
+        "text": "Progressive difficulty reading, reaching for objects under visual guidance, and identifying multiple objects in a complex visual scene"
+      },
+      {
+        "key": "D",
+        "text": "Prominent loss of word meaning, impaired recognition of familiar people, and surface dyslexia with fluent speech"
+      },
+      {
+        "key": "E",
+        "text": "Marked asymmetry of limb dysfunction with impaired tool use, cortical sensory deficits, and stimulus-sensitive myoclonus"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "fbca6b8a-GN_dementia.docx",
+    "source_doc": "GN_dementia"
+  },
+  {
+    "id": "724c887epn-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 36-year-old male presents with progressive unsteady gait and numbness of distal limbs. Since age 20, he has developed progressive ankle weakness and pes cavus with hammer toes. Examination reveals generalized areflexia, weakness of ankle dorsiflexion and toe extensors (MRC= 4), with normal proximal muscle strength. Nerve conduction studies show diffusely and uniformly slowed motor conduction velocities (25-30 m/s), and absent of bilateral sural nerve sensory nerve action potential. The nerve biopsy specimen stained with Toluidine Blue are shown below.\nWhich of the following is the most likely diagnosis?",
+    "images": [
+      "images/724c887epn-01-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Chronic inflammatory demyelinating polyradiculoneuropathy"
+      },
+      {
+        "key": "B",
+        "text": "Charcot-Marie-Tooth disease type 1A"
+      },
+      {
+        "key": "C",
+        "text": "Lewis Sumner syndrome"
+      },
+      {
+        "key": "D",
+        "text": "Guillain-Barré syndrome"
+      },
+      {
+        "key": "E",
+        "text": "Fabry disease"
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "",
+    "source_file": "724c887e-PN.docx",
+    "source_doc": "PN"
+  },
+  {
+    "id": "724c887epn-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 27-year-old man presents with a 2-year history of progressive difficulty walking and inability to walk on his heels. He denies any difficulty climbing stairs or rising from a chair. Examination reveals bilateral foot drop with marked weakness of ankle dorsiflexion, mild weakness of knee flexion, and preserved knee extensor (quadriceps) strength. Serum creatine kinase is mildly elevated (635 U/L). Electromyography shows a myopathic pattern without evidence of denervation. Muscle biopsy was performed, H&E and Gomori trichrome stains, T1W MRI images of his leg and thigh are showed below\nWhich of the following is the most likely diagnosis?",
+    "images": [
+      "images/724c887epn-02-1.png",
+      "images/724c887epn-02-2.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Becker muscular dystrophy"
+      },
+      {
+        "key": "B",
+        "text": "Inclusion body myositis"
+      },
+      {
+        "key": "C",
+        "text": "GNE myopathy"
+      },
+      {
+        "key": "D",
+        "text": "Emery-Dreifuss muscular dystrophy"
+      },
+      {
+        "key": "E",
+        "text": "Miyoshi myopathy"
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "",
+    "source_file": "724c887e-PN.docx",
+    "source_doc": "PN"
+  },
+  {
+    "id": "a35acf3eepi-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "癲癇與腦波",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "癲癇與腦波"
+    ],
+    "question": "A 32-year-old woman with focal epilepsy is well controlled on oxcarbazepine and uses a combined oral contraceptive. She does not currently plan pregnancy. Which counseling is most appropriate?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Oxcarbazepine increases circulating ethinylestradiol and levonorgestrel concentrations, so contraceptive failure is unlikely."
+      },
+      {
+        "key": "B",
+        "text": "Oxcarbazepine can substantially reduce ethinylestradiol and levonorgestrel exposure; a nonhormonal contraceptive method or an alternative ASM should be considered."
+      },
+      {
+        "key": "C",
+        "text": "Only valproate has clinically relevant interactions with hormonal contraception."
+      },
+      {
+        "key": "D",
+        "text": "Switching from oxcarbazepine to phenytoin would eliminate the risk of contraceptive failure."
+      },
+      {
+        "key": "E",
+        "text": "Monitoring serum sodium is sufficient to prevent contraceptive failure while taking oxcarbazepine."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "癲癇診療指引 第七版 p54-55 常用癲癇藥物手冊 第二版 p117",
+    "source_file": "a35acf3e-EPI.docx",
+    "source_doc": "EPI"
+  },
+  {
+    "id": "a35acf3eepi-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "癲癇與腦波",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "癲癇與腦波"
+    ],
+    "question": "A 47-year-old man with long-standing epilepsy receiving antiseizure medication (ASM) reports decreased libido. Laboratory evaluation shows a reduced serum testosterone level with abnormalities in gonadotropin levels. Which of the following mechanisms best explains how epilepsy or its treatment may contribute to these findings?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Recurrent seizures and ASMs may alter central GABA, glutamate, and serotonin signaling, thereby disrupting regulation of the hypothalamic-pituitary-gonadal axis."
+      },
+      {
+        "key": "B",
+        "text": "Epilepsy primarily impairs male reproductive function by causing vascular endothelial dysfunction without affecting hypothalamic or pituitary regulation."
+      },
+      {
+        "key": "C",
+        "text": "The principal effect of epilepsy on male reproductive function is increased prolactin secretion without affecting GnRH, LH, FSH, and testosterone."
+      },
+      {
+        "key": "D",
+        "text": "ASM-associated reproductive dysfunction is mediated mainly by direct suppression of sperm motility."
+      },
+      {
+        "key": "E",
+        "text": "Reduced testosterone in men with epilepsy is primarily explained by isolated primary testicular failure rather than alterations in central neuroendocrine regulation."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "癲癇診療指引 第七版 p58-59",
+    "source_file": "a35acf3e-EPI.docx",
+    "source_doc": "EPI"
+  },
+  {
+    "id": "a35acf3eepi-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "癲癇與腦波",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "癲癇與腦波"
+    ],
+    "question": "A 29-year-old woman with focal epilepsy records her seizures and menstrual cycles for several months. Seizures reproducibly increase around menstruation and again near ovulation. Which explanation is most consistent with this pattern?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "The principal mechanism is increased renal clearance of all antiseizure medications (ASMs) during ovulation."
+      },
+      {
+        "key": "B",
+        "text": "Progesterone generally increases neuronal excitability, explaining seizure worsening when progesterone levels rise."
+      },
+      {
+        "key": "C",
+        "text": "Menstrual-cycle–related seizure variation is expected only when serum ASM concentrations are subtherapeutic."
+      },
+      {
+        "key": "D",
+        "text": "Changes in ovarian steroid concentrations can alter neuronal excitability and seizure susceptibility during the menstrual cycle."
+      },
+      {
+        "key": "E",
+        "text": "Ovulation produces a transient reduction in cerebral perfusion that facilitates focal seizures."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Merritt’s Neurology, 14th edition. Ch. 61, p. 588.",
+    "source_file": "a35acf3e-EPI.docx",
+    "source_doc": "EPI"
+  },
+  {
+    "id": "a35acf3eepi-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "癲癇與腦波",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "癲癇與腦波"
+    ],
+    "question": "A 30-year-old woman with epilepsy taking phenytoin experiences contraceptive failure while using an oral contraceptive. Her neurologist considers changing the ASM partly to reduce this interaction. Which proposed substitution would be LEAST likely to avoid an ASM-related reduction in oral contraceptive effectiveness?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Lamotrigine"
+      },
+      {
+        "key": "B",
+        "text": "Gabapentin"
+      },
+      {
+        "key": "C",
+        "text": "Brivaracetam"
+      },
+      {
+        "key": "D",
+        "text": "Zonisamide"
+      },
+      {
+        "key": "E",
+        "text": "Topiramate"
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "癲癇診療指引 第七版 p55",
+    "source_file": "a35acf3e-EPI.docx",
+    "source_doc": "EPI"
+  },
+  {
+    "id": "a35acf3eepi-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "癲癇與腦波",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "癲癇與腦波"
+    ],
+    "question": "A 29-year-old woman with epilepsy is planning pregnancy. Her seizures could potentially be controlled with any one of several antiseizure medications as monotherapy. Based on data from major epilepsy-pregnancy registries, which medication is associated with the highest prevalence of major congenital malformations after prenatal monotherapy exposure?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Lamotrigine"
+      },
+      {
+        "key": "B",
+        "text": "Carbamazepine"
+      },
+      {
+        "key": "C",
+        "text": "Valproate"
+      },
+      {
+        "key": "D",
+        "text": "Levetiracetam"
+      },
+      {
+        "key": "E",
+        "text": "Oxcarbazepine"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Perucca P, et al. Epilepsy-pregnancy registries: An update. Epilepsia. 2025 Jan;66(1):47-59.",
+    "source_file": "a35acf3e-EPI.docx",
+    "source_doc": "EPI"
+  },
+  {
+    "id": "a35acf3eepi-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "癲癇與腦波",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "difficulty": "中等",
+    "tags": [
+      "癲癇與腦波"
+    ],
+    "question": "Regarding major congenital malformation (MCM) risks associated with antiseizure medication (ASM) monotherapy during pregnancy, which of the following statements are correct?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Among the commonly used ASMs evaluated in the International Registry of Antiepileptic Drugs and Pregnancy (EURAP), valproate is associated with the highest prevalence of MCMs."
+      },
+      {
+        "key": "2",
+        "text": "Dose-dependent increases in MCM risk have been demonstrated for valproate, carbamazepine, and phenobarbital."
+      },
+      {
+        "key": "3",
+        "text": "Levetiracetam is associated with a lower MCM prevalence than valproate in EURAP."
+      },
+      {
+        "key": "4",
+        "text": "Topiramate is associated with a lower MCM prevalence than lamotrigine."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Perucca P, et al. Epilepsy-pregnancy registries: An update. Epilepsia. 2025 Jan;66(1):47-59.",
+    "source_file": "a35acf3e-EPI.docx",
+    "source_doc": "EPI"
+  },
+  {
+    "id": "a35acf3eepi-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "癲癇與腦波",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "難",
+    "tags": [
+      "癲癇與腦波"
+    ],
+    "question": "A 29-year-old woman with focal epilepsy keeps a seizure and menstrual diary for several months. Her seizures consistently increase during the few days immediately before and after the onset of menstruation. The figure illustrates the temporal relationship between seizure susceptibility and fluctuations in ovarian hormones during a typical menstrual cycle. The shaded areas indicate the three recognized patterns of catamenial seizure exacerbation (C1, C2, and C3), while the curves demonstrate changes in estradiol, progesterone, and allopregnanolone levels.\nWhich of the following best explains this pattern of seizure exacerbation?",
+    "images": [
+      "images/a35acf3eepi-07-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Excessive allopregnanolone production during ovulation reducing GABA receptor sensitivity"
+      },
+      {
+        "key": "B",
+        "text": "Increased progesterone secretion during an anovulatory cycle causing seizure exacerbation"
+      },
+      {
+        "key": "C",
+        "text": "Abrupt withdrawal of progesterone and allopregnanolone during the perimenstrual period, resulting in reduced GABAergic inhibition"
+      },
+      {
+        "key": "D",
+        "text": "A preovulatory decrease in estradiol resulting in increased glutamatergic excitation"
+      },
+      {
+        "key": "E",
+        "text": "Persistently elevated progesterone levels throughout the luteal phase increasing neuronal excitability Figure"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Maguire MJ, Nevitt SJ. Treatments for seizures in catamenial (menstrual-related) epilepsy. Cochrane Database Syst Rev. 2021 Sep 16;9(9):CD013225.",
+    "source_file": "a35acf3e-EPI.docx",
+    "source_doc": "EPI"
+  }
+]
