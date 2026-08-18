@@ -9145,5 +9145,2594 @@
     "source": "Riveros Gilardi B, Muñoz Leija MA, Hernández De la Torre E, et al. Types of Cerebral Herniation and Their Imaging Features. RadioGraphics. https://doi.org/10.1148/rg.2019190018",
     "source_file": "e52aaa83-____5_.docx",
     "source_doc": "新光重症5題"
+  },
+  {
+    "id": "cdd38290cerebro-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "According to the 2025 Taiwan Stroke Society guidelines regarding intravenous thrombolysis (IVT) with alteplase, which of the following conditions is NOT an absolute contraindication for the treatment?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "History of non-traumatic intracranial hemorrhage."
+      },
+      {
+        "key": "B",
+        "text": "Known cerebral amyloid angiopathy (CAA) with a history of prior symptomatic parenchymal hemorrhage."
+      },
+      {
+        "key": "C",
+        "text": "ST-elevation myocardial infarction (STEMI) within the past 7 days, which is not an acute myocardial infarction occurring at the time of stroke onset."
+      },
+      {
+        "key": "D",
+        "text": "Known unruptured intracranial aneurysm with a diameter of 0.8 cm."
+      },
+      {
+        "key": "E",
+        "text": "Ischemic stroke within the past 1 month."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "2025 台灣腦中風學會急性缺血性腦中風處置建議",
+    "source_file": "cdd38290-___cerebro______.docx",
+    "source_doc": "三總_cerebro_命題紙格式"
+  },
+  {
+    "id": "cdd38290cerebro-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "Based on the Taiwan Stroke Society guidelines and treatment consensus, what is the recommended standard dose of tenecteplase (TNK) for patients with acute ischemic stroke presenting within 4.5 hours of symptom onset?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "0.9 mg/kg (maximum 90 mg) as a 1-hour intravenous infusion."
+      },
+      {
+        "key": "B",
+        "text": "0.4 mg/kg as a single intravenous bolus."
+      },
+      {
+        "key": "C",
+        "text": "0.25 mg/kg (maximum 25 mg) as a single intravenous bolus."
+      },
+      {
+        "key": "D",
+        "text": "0.1 mg/kg as a single intravenous bolus for patients with large vessel occlusion."
+      },
+      {
+        "key": "E",
+        "text": "A fixed dose of 50 mg for all patients weighing over 60 kg."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "2026 急性缺血性腦中風 Tenecteplace(TNK)靜脈血栓溶解治療共識、2025 台灣腦中風學會急性缺血性腦中風處置建議",
+    "source_file": "cdd38290-___cerebro______.docx",
+    "source_doc": "三總_cerebro_命題紙格式"
+  },
+  {
+    "id": "cdd38290cerebro-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "Regarding Cerebral Venous Sinus Thrombosis (CVST) associated with pregnancy and the postpartum period, which of the following statements is TRUE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "The risk of CVST is highest during the first trimester of pregnancy compared to postpartum period."
+      },
+      {
+        "key": "B",
+        "text": "In women with history of CVST, prophylaxis with low molecular weight heparin (LMWH) during future pregnancies and in the postpartum period is reasonable."
+      },
+      {
+        "key": "C",
+        "text": "Anticoagulation is absolutely contraindicated during the third trimester of pregnancy, even if CVST is confirmed."
+      },
+      {
+        "key": "D",
+        "text": "Non-contrast brain CT is the definitive gold standard for establishing the diagnosis of CVST."
+      },
+      {
+        "key": "E",
+        "text": "CVST in pregnant patients always presents exclusively as a thunderclap headache without any focal neurological deficits."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Merritt's Textbook of Neurology, 14th Edition, Chapter 41",
+    "source_file": "cdd38290-___cerebro______.docx",
+    "source_doc": "三總_cerebro_命題紙格式"
+  },
+  {
+    "id": "cdd38290cerebro-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "基礎神經科學",
+      "腦中風"
+    ],
+    "question": "A 58-year-old female was brought to the emergency department due to the sudden onset of profound somnolence and vertical gaze palsy. On examination, she was obtunded, opening her eyes only to vigorous painful stimuli, and her pupils were sluggishly reactive to light. A brain MRI performed 6 hours later revealed acute, symmetrical restricted diffusion confined to the bilateral medial thalami and the rostral midbrain. Infarction of which of the following vessels is the most likely cause of this patient's condition?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Recurrent artery of Heubner"
+      },
+      {
+        "key": "B",
+        "text": "Artery of Percheron"
+      },
+      {
+        "key": "C",
+        "text": "Thalamogeniculate artery"
+      },
+      {
+        "key": "D",
+        "text": "Tuberothalamic artery"
+      },
+      {
+        "key": "E",
+        "text": "Long insular artery"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Neurology in Clinical Practice, 8th Edition, Chapter 18 & 65",
+    "source_file": "cdd38290-___cerebro______.docx",
+    "source_doc": "三總_cerebro_命題紙格式"
+  },
+  {
+    "id": "cdd38290cerebro-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "難",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "Regarding Primary Angiitis of the Central Nervous System (PACNS) and other systemic vasculitides with potential neurological manifestations, which of the following statements is TRUE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Takayasu arteritis is a chronic inflammatory disorder that primarily affects small-sized intracranial arteries."
+      },
+      {
+        "key": "B",
+        "text": "Brain magnetic resonance imaging (MRI) in PACNS patients most commonly reveals multifocal ischemic infarcts involving multiple vascular territories."
+      },
+      {
+        "key": "C",
+        "text": "Angiography demonstrating a \"strings and beads\" appearance is pathognomonic for PACNS and effectively excludes Reversible Cerebral Vasoconstriction Syndrome (RCVS)."
+      },
+      {
+        "key": "D",
+        "text": "Giant Cell Arteritis (GCA) is the most common cause of stroke in children and typically involves the carotid bulb and proximal internal carotid artery."
+      },
+      {
+        "key": "E",
+        "text": "Histological evidence of PACNS typically reveals segmental necrotizing vasculitis of the extracranial large arteries."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Merritt's Textbook of Neurology, 14th Edition, Chapter 43",
+    "source_file": "cdd38290-___cerebro______.docx",
+    "source_doc": "三總_cerebro_命題紙格式"
+  },
+  {
+    "id": "cdd38290cerebro-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "Regarding the ischemic core and penumbra on Computed Tomography Perfusion (CTP) imaging, which of the following statements is CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Both the ischemic core and penumbra are characterized by a prolonged Mean Transit Time (MTT)."
+      },
+      {
+        "key": "B",
+        "text": "The penumbra is characterized by a markedly decreased Cerebral Blood Volume (CBV)."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Merritt's Textbook of Neurology, 14th Edition, Chapter 36",
+    "source_file": "cdd38290-___cerebro______.docx",
+    "source_doc": "三總_cerebro_命題紙格式"
+  },
+  {
+    "id": "cdd38290cerebro-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "Based on the provided brain MRI (T2-weighted sequence), which of the following statements is TRUE regarding this patient's underlying condition?",
+    "images": [
+      "images/cdd38290cerebro-07-1.jpg"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "The pathological hallmark of this lesion is the presence of an intervening capillary bed between the feeding arteries and draining veins."
+      },
+      {
+        "key": "B",
+        "text": "In the pediatric population, the most common initial manifestation of this disease is ischemic stroke rather than hemorrhage."
+      },
+      {
+        "key": "C",
+        "text": "Intracerebral hemorrhage (ICH) resulting from this condition most characteristically occurs in patients over 40 years of age."
+      },
+      {
+        "key": "D",
+        "text": "If stereotactic radiosurgery is chosen for treatment, the lesion is immediately protected from the risk of rebleeding following the procedure."
+      },
+      {
+        "key": "E",
+        "text": "This lesion is classified as a high-flow vascular malformation and is a well-known cause of both seizures and intracerebral hemorrhage."
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Merritt's Textbook of Neurology, 14th Edition, Chapter 42, Figure 42.1",
+    "source_file": "cdd38290-___cerebro______.docx",
+    "source_doc": "三總_cerebro_命題紙格式"
+  },
+  {
+    "id": "5a22dcd74-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "Which of the following genotypes is most likely to be associated with reduced antiplatelet efficacy of clopidogrel due to impaired conversion to its active metabolite?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "CYP2C19 *1/*1"
+      },
+      {
+        "key": "B",
+        "text": "CYP2C19 *2/*2"
+      },
+      {
+        "key": "C",
+        "text": "CYP2C9 *3/3"
+      },
+      {
+        "key": "D",
+        "text": "HLA-B1502 positive"
+      },
+      {
+        "key": "E",
+        "text": "CYP2C9 *1/*1"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "5a22dcd7-________4_.docx",
+    "source_doc": "成大_腦血管烤蕈4題"
+  },
+  {
+    "id": "5a22dcd74-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 20-year-old woman presents with recurrent episodes of transient right-sided weakness. Brain MRA reveals bilateral stenosis of the terminal internal carotid arteries with an extensive network of abnormal collateral vessels at the base of the brain. Which of the following statements regarding this patient’s condition is INCORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "The RNF213 p.R4810K variant is a common susceptibility allele identified in East Asian patients with this angiographic pattern."
+      },
+      {
+        "key": "B",
+        "text": "If a pathogenic ACTA2 variant is identified, further evaluation for aortic and other systemic vascular involvement should be pursued"
+      },
+      {
+        "key": "C",
+        "text": "Suzuki staging is determined primarily by diffusion-weighted MRI findings in the affected hemisphere."
+      },
+      {
+        "key": "D",
+        "text": "Indications for surgical revascularization are based primarily on recurrent ischemic symptoms and evidence of impaired cerebral hemodynamic reserve on SPECT or PET, rather than Suzuki stage alone."
+      },
+      {
+        "key": "E",
+        "text": "Indirect revascularization techniques such as encephaloduroarteriosynangiosis are effective in reducing neurological event in pediatric population."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "5a22dcd7-________4_.docx",
+    "source_doc": "成大_腦血管烤蕈4題"
+  },
+  {
+    "id": "5a22dcd74-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 55-year-old woman presents with a history of recurrent lacunar strokes, migraine with aura since her twenties, and progressive subcortical dementia. Brain MRI shows extensive white matter hyperintensities involving the external capsule and anterior temporal poles, along with multiple lacunar infarcts. Genetic testing is being considered. Which of the following statements is INCORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "In Taiwan, the NOTCH3 p.R544C variant in exon 11 is the most common pathogenic variant identified in patients with CADASIL."
+      },
+      {
+        "key": "B",
+        "text": "Compared with NOTCH3 variants in exons 1–6, the R544C variant is associated with more frequent involvement of the anterior temporal white matter on MRI."
+      },
+      {
+        "key": "C",
+        "text": "Classic clinical manifestations of CADASIL include migraine with aura, psychiatric disturbances such as mood disorders, and subcortical vascular dementia."
+      },
+      {
+        "key": "D",
+        "text": "CARASIL, caused by biallelic HTRA1 variants, is classically associated with premature alopecia and lumbar disc disease in addition to cerebral small vessel disease."
+      },
+      {
+        "key": "E",
+        "text": "CARASAL, caused by a heterozygous CTSA variant, follows an autosomal dominant inheritance pattern and is classically associated with therapy-resistant hypertension."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "5a22dcd7-________4_.docx",
+    "source_doc": "成大_腦血管烤蕈4題"
+  },
+  {
+    "id": "5a22dcd74-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 68-year-old woman with atrial fibrillation and a mechanical mitral valve admitted due to ischemic stroke. During hospitalization, her protein C activity level is found to be low. She is started on warfarin. Pharmacogenomic testing reveals a CYP2C9*3/*3 and VKORC1-1639 A/A genotype. Which of the following statements is INCORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "The VKORC1 1639G&gt;A polymorphism reduces hepatic expression of vitamin K epoxide reductase, the pharmacologic target of warfarin, and the 1639 A/A genotype is associated with increased warfarin sensitivity and a lower dose requirement."
+      },
+      {
+        "key": "B",
+        "text": "The CYP2C9 *3/*3 allele markedly reduces the enzymatic clearance of the more potent S-enantiomer of warfarin, and patients with the CYP2C9 *3/*3 genotype require a lower maintenance dose than CYP2C9 *1/*1 patients."
+      },
+      {
+        "key": "C",
+        "text": "For patients with a mechanical heart valve, warfarin remains the preferred anticoagulant over direct oral anticoagulants."
+      },
+      {
+        "key": "D",
+        "text": "A definitive diagnosis of hereditary protein C deficiency cannot be established based on this single low value obtained during the acute thrombotic event, as protein C levels can be transiently decreased during acute thrombosis."
+      },
+      {
+        "key": "E",
+        "text": "Given her suspected protein C deficiency, this patient&#39;s warfarin should be initiated at a higher dose without heparin bridging, since heparin bridging is reserved only for patients without protein C deficiency."
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "5a22dcd7-________4_.docx",
+    "source_doc": "成大_腦血管烤蕈4題"
+  },
+  {
+    "id": "3907a3ebasm-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "癲癇與腦波",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "癲癇與腦波"
+    ],
+    "question": "Regarding the principle of initiating antiseizure medications, which of the following statements is LEAST APPROPRIATE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "For a patient presented with a first-time provoked seizure, antiseizure medications may not be always necessary."
+      },
+      {
+        "key": "B",
+        "text": "Monotherapy may be preferred when initiating antiseizure medications"
+      },
+      {
+        "key": "C",
+        "text": "If the patient had two unprovoked seizure attacks, antiseizure medications should be initiated."
+      },
+      {
+        "key": "D",
+        "text": "Neuropsychiatric effects of antiseizure medications should be considered when initiating the treatment, for example, both gabapentin and levetiracetam may be preferred for patients with anxiety disorder."
+      },
+      {
+        "key": "E",
+        "text": "History of febrile convulsion may be a risk factor for seizure recurrence after a first-time unprovoked seizure."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "癲癇診療指引第7版 第七章",
+    "source_file": "3907a3eb-__asm______.docx",
+    "source_doc": "馬偕asm_命題紙格式"
+  },
+  {
+    "id": "3907a3ebasm-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "癲癇與腦波",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "癲癇與腦波"
+    ],
+    "question": "When talk about the principle of stopping antiseizure medications, which of the following statement is LEAST APPROPRIATE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "If the patient was seizure free for 2 years, we may consider stopping the antiseizure medications, while comprehensive discussion of the benefit and risk of stopping antiseizure medications is necessary."
+      },
+      {
+        "key": "B",
+        "text": "Idiopathic etiology may be a favorable factor when considering stopping antiseizure medications."
+      },
+      {
+        "key": "C",
+        "text": "If a patient had prompt initial antiseizure medication response, it would be an unfavorable factor when stopping antiseizure medications."
+      },
+      {
+        "key": "D",
+        "text": "Antiseizure medications should be tapered slowly, some medications such as benzodiazepine and barbiturate may even need a longer period to tapered."
+      },
+      {
+        "key": "E",
+        "text": "All of the above were correct"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "癲癇診療指引第7版 第七章",
+    "source_file": "3907a3eb-__asm______.docx",
+    "source_doc": "馬偕asm_命題紙格式"
+  },
+  {
+    "id": "3907a3ebasm-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "癲癇與腦波",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "癲癇與腦波"
+    ],
+    "question": "Regarding the side effect of antiseizure medications, which of the following statement may be LEAST APPROPRIATE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Topiramate may increase the risk of renal stone."
+      },
+      {
+        "key": "B",
+        "text": "Valproic acid should be avoided in women with plans to conceive, while it could be used safely in men with no obvious risk of teratogenicity."
+      },
+      {
+        "key": "C",
+        "text": "Long term use of antiseizure medications with enzyme inducing mechanisms may increase the risk of cardiovascular events."
+      },
+      {
+        "key": "D",
+        "text": "Carbamazepine and Oxcarbamazepine may be associated with hyponatremia."
+      },
+      {
+        "key": "E",
+        "text": "For patients with acute porphyria, levetiracetam and gabapentin may be safer choices."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "癲癇診療指引第7版",
+    "source_file": "3907a3eb-__asm______.docx",
+    "source_doc": "馬偕asm_命題紙格式"
+  },
+  {
+    "id": "3907a3ebasm-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "癲癇與腦波",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "癲癇與腦波"
+    ],
+    "question": "Which of the following statement about antiseizure medication is LEAST APPROPRIATE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "At the time of the first seizure, the presence of epileptiform discharges on EEG has high specificity for predicting seizure recurrence."
+      },
+      {
+        "key": "B",
+        "text": "The benefit of monotherapy may include less side effects, less teratogenicity, and better compliance."
+      },
+      {
+        "key": "C",
+        "text": "Combining medications with similar modes of action is the recommended approach if a patient has a seizure recurred under monotherapy."
+      },
+      {
+        "key": "D",
+        "text": "Both titrating and tapering antiseizure medications should go slowly."
+      },
+      {
+        "key": "E",
+        "text": "In patients with newly diagnosed epilepsy, around 60% of patients could achieve good seizure control with monotherapy."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "癲癇診療指引第7版",
+    "source_file": "3907a3eb-__asm______.docx",
+    "source_doc": "馬偕asm_命題紙格式"
+  },
+  {
+    "id": "3907a3ebasm-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "癲癇與腦波",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "癲癇與腦波"
+    ],
+    "question": "Regarding using antiseizure medications in different conditions, which of the following statement is MOST APPROPRIATE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "All patients with early-onset post-stroke seizure need long term antiseizure medication use."
+      },
+      {
+        "key": "B",
+        "text": "Both antiviral medications and vaccines of COVID-19 are at high risk of drug-drug interaction with antiseizure medications."
+      },
+      {
+        "key": "C",
+        "text": "In patients undergoing regular hemodialysis, a supplemental dose is necessary after dialysis, regardless of the type of antiseizure medication used."
+      },
+      {
+        "key": "D",
+        "text": "In elderly, topiramate may be a safer choice due to less cognitive adverse effects."
+      },
+      {
+        "key": "E",
+        "text": "All of the above statements were inappropriate."
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "癲癇診療指引第7版",
+    "source_file": "3907a3eb-__asm______.docx",
+    "source_doc": "馬偕asm_命題紙格式"
+  },
+  {
+    "id": "3907a3ebasm-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "癲癇與腦波",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "中等",
+    "tags": [
+      "癲癇與腦波"
+    ],
+    "question": "Which antiseizure medication may worsen absence seizure?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Carbamazepine"
+      },
+      {
+        "key": "B",
+        "text": "Pregabalin"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "癲癇診療指引第7版",
+    "source_file": "3907a3eb-__asm______.docx",
+    "source_doc": "馬偕asm_命題紙格式"
+  },
+  {
+    "id": "3907a3ebasm-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [],
+    "question": "A 44-year patient presented with episodes of tonic, atonic, and atypical absence seizure. The EEG findings are as follows. Which of the following medications may be LEAST APPROPRIATE?",
+    "images": [
+      "images/3907a3ebasm-07-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Lamotrigine"
+      },
+      {
+        "key": "B",
+        "text": "Valproic acid"
+      },
+      {
+        "key": "C",
+        "text": "Clobazem"
+      },
+      {
+        "key": "D",
+        "text": "Carbamazepine"
+      },
+      {
+        "key": "E",
+        "text": "Cannabidiol"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "3907a3eb-__asm______.docx",
+    "source_doc": "馬偕asm_命題紙格式"
+  },
+  {
+    "id": "9ef553d12026-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "A 55-year-old female, working as a junior high school teacher, presents with a 1-year history of progressive gait disturbance, lower limb weakness, and frequent falls requiring a cane to ambulate. She also noticed clumsiness in fine motor movements and difficulty raising her arms. Neurological examination reveals tongue atrophy and multifocal fasciculations over her four limbs. Motor examination shows muscle atrophy in the bilateral quadriceps and intrinsic hand muscles, accompanied by hypertonia. Reflexes are generally hyperactive with bilateral ankle clonus and positive Hoffmann signs. Sensory, cerebellar, and extrapyramidal examinations are entirely unremarkable.\nSeveral genetic mutations are known to be involved in the pathophysiology of this patient's underlying neurodegenerative disease. Which of the following genes is LEAST likely associated with this condition?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "SOD1"
+      },
+      {
+        "key": "B",
+        "text": "C9orf72"
+      },
+      {
+        "key": "C",
+        "text": "TARDBP"
+      },
+      {
+        "key": "D",
+        "text": "FUS"
+      },
+      {
+        "key": "E",
+        "text": "SMN1."
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Louis, E. D., Mayer, S. A., & Noble, J. M. (2022). Merritt's neurology (14th ed.). Ch88 Motor neuron diseases. Wolters Kluwer.",
+    "source_file": "9ef553d1-________2026______.docx",
+    "source_doc": "高長_筆試命題_2026臨床神經生理"
+  },
+  {
+    "id": "9ef553d12026-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "To confirm the diagnosis, a needle electromyography (EMG) is performed. What characteristic changes in Motor Unit Action Potential (MUAP) are expected to be seen in the affected muscles?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Decreased amplitude, short duration, and early recruitment"
+      },
+      {
+        "key": "B",
+        "text": "Large motor unit potentials with increased duration and/or polyphasia"
+      },
+      {
+        "key": "C",
+        "text": "Normal amplitude, normal duration, but fluctuating configurations"
+      },
+      {
+        "key": "D",
+        "text": "Decreased amplitude, long duration, and early recruitment"
+      },
+      {
+        "key": "E",
+        "text": "Markedly increased amplitude, normal duration, and full recruitment"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Louis, E. D., Mayer, S. A., & Noble, J. M. (2022). Merritt's neurology (14th ed.). Ch88 Motor neuron diseases. Wolters Kluwer. Preston, D. C., & Shapiro, B. E. (2020). Electromyography and neuromuscular disorders: Clinical-electrophysiologic-ultrasound correlations (4th ed.). Elsevier.",
+    "source_file": "9ef553d1-________2026______.docx",
+    "source_doc": "高長_筆試命題_2026臨床神經生理"
+  },
+  {
+    "id": "9ef553d12026-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "Brain MRI is arranged to exclude other diseases and find supportive evidence for the diagnosis. Which of the following brain MRI findings is most characteristic of this disease?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Severe atrophy of the head of the caudate nucleus with ex vacuo enlargement of the frontal horns"
+      },
+      {
+        "key": "B",
+        "text": "Hyperintense signal in the basal ganglia and cortical ribboning on Diffusion-Weighted Imaging (DWI)"
+      },
+      {
+        "key": "C",
+        "text": "Corticospinal tract (CST) hyperintensity on T2-FLAIR imaging and hypointensity in the motor cortex (motor band sign) on SWI/T2* imaging"
+      },
+      {
+        "key": "D",
+        "text": "Periventricular ovoid hyperintense lesions (Dawson's fingers) extending perpendicularly from the corpus callosum"
+      },
+      {
+        "key": "E",
+        "text": "Midbrain tegmentum atrophy appearing as a \"hummingbird sign\" on mid-sagittal T1-weighted imaging"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Louis, E. D., Mayer, S. A., & Noble, J. M. (2022). Merritt's neurology (14th ed.). Ch88 Motor neuron diseases. Wolters Kluwer. Chiò A, Pagani M, Agosta F, Calvo A, Cistaro A, Filippi M. Neuroimaging in amyotrophic lateral sclerosis: insights into structural and functional changes. Lancet Neurol. 2014 Dec;13(12):1228-40. doi: 10.1016/S1474-4422(14)70167-X. Epub 2014 Nov 10. PMID: 25453462.",
+    "source_file": "9ef553d1-________2026______.docx",
+    "source_doc": "高長_筆試命題_2026臨床神經生理"
+  },
+  {
+    "id": "9ef553d12026-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "Following the diagnosis, a comprehensive care plan including pharmacotherapy is discussed. Which of the following statements regarding the potential disease-modifying medications for this condition is INCORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Riluzole acts as an anti-glutamate agent and modulates voltage-gated sodium channels."
+      },
+      {
+        "key": "B",
+        "text": "Riluzole can regenerate upper and lower motor neurons, thereby reversing the existing muscle atrophy and weakness."
+      },
+      {
+        "key": "C",
+        "text": "Edaravone can be administered orally or intravenously and functions primarily as an antioxidant."
+      },
+      {
+        "key": "D",
+        "text": "Tofersen is an antisense oligonucleotide (ASO) administered intrathecally."
+      },
+      {
+        "key": "E",
+        "text": "The mechanism of Tofersen involves RNase H-mediated degradation of SOD1 mRNA."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Louis, E. D., Mayer, S. A., & Noble, J. M. (2022). Merritt's neurology (14th ed.). Ch88 Motor neuron diseases. Wolters Kluwer.",
+    "source_file": "9ef553d1-________2026______.docx",
+    "source_doc": "高長_筆試命題_2026臨床神經生理"
+  },
+  {
+    "id": "9ef553d12026-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "A 12-year-old boy presents to the clinic with recurrent episodes of generalized muscle weakness and stiffness. His symptoms of muscle stiffness are paradoxically worsened by repeated exercise and cold ambient temperatures. On genetic analysis, a mutation in the SCN4A gene is identified. Which of the following electrophysiologic findings is most likely to be observed during exercise testing in this patient?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "An increase in CMAP with a gradual decline during long exercise testing; normal short exercise testing (Fournier pattern V)."
+      },
+      {
+        "key": "B",
+        "text": "An increase in amplitudes with a gradual decrease in both short and long exercise testing (Fournier pattern IV)."
+      },
+      {
+        "key": "C",
+        "text": "A prominent drop in CMAP amplitudes with cooling in both long and short exercise testing (Fournier pattern I)."
+      },
+      {
+        "key": "D",
+        "text": "A transient drop in CMAP amplitude on short exercise testing, with less drop seen during repeated trials (Fournier pattern II)."
+      },
+      {
+        "key": "E",
+        "text": "No changes on both short and long exercise testing, with an immediate increase in CMAP amplitude upon warming."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Louis, E. D., Mayer, S. A., & Noble, J. M. (2022). Merritt's neurology (14th ed.). Ch97 Periodic Paralysis and Other Channelopathies. Wolters Kluwer. Preston, D. C., & Shapiro, B. E. (2020). Electromyography and neuromuscular disorders: Clinical-electrophysiologic-ultrasound correlations (4th ed.). Ch39 Myotonic Muscle Disorders and Periodic Paralysis Syndromes. Elsevier.",
+    "source_file": "9ef553d1-________2026______.docx",
+    "source_doc": "高長_筆試命題_2026臨床神經生理"
+  },
+  {
+    "id": "9ef553d12026-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "難",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "A clinical researcher is reviewing the evolution of diagnostic criteria for Amyotrophic Lateral Sclerosis (ALS), specifically comparing the revised El Escorial (rEEC), Awaji, and the latest Gold Coast criteria. Based on the provided clinical data, which of the following statements regarding the sensitivity and specificity of these criteria is TRUE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "The revised El Escorial criteria offer the highest diagnostic sensitivity among the three, making it the preferred screening tool."
+      },
+      {
+        "key": "B",
+        "text": "The Awaji criteria significantly decrease the diagnostic sensitivity when compared to the revised El Escorial criteria."
+      },
+      {
+        "key": "C",
+        "text": "The Gold Coast criteria yield an increase in overall diagnostic sensitivity compared to previous criteria, while maintaining a highly reliable specificity."
+      },
+      {
+        "key": "D",
+        "text": "The increased sensitivity achieved by the Gold Coast criteria is offset by a massive drop in specificity"
+      },
+      {
+        "key": "E",
+        "text": "All three diagnostic criteria demonstrate the exact same sensitivity, but the Gold Coast criteria have significantly improved the specificity."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Geevasinga N, et el., Diagnostic criteria in amyotrophic lateral sclerosis: A multicenter prospective study. Neurology. 2016 Aug 16;87(7):684-90. doi: 10.1212/WNL.0000000000002988. von Quednow E,et al., Diagnostic accuracy of the Gold Coast Criteria for amyotrophic lateral sclerosis: a systematic review and meta-analysis. Clin Neurophysiol. 2025 Nov;179:2111005. doi: 10.1016/j.clinph.2025.2111005.",
+    "source_file": "9ef553d1-________2026______.docx",
+    "source_doc": "高長_筆試命題_2026臨床神經生理"
+  },
+  {
+    "id": "9ef553d12026-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "難",
+    "tags": [],
+    "question": "Which of the following electromyographic (EMG) or electrophysiologic features is/are characteristic of Andersen-Tawil Syndrome?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Exercise testing demonstrates an immediate increase in CMAP amplitude with a subsequent decline."
+      },
+      {
+        "key": "B",
+        "text": "Needle EMG typically demonstrates spontaneous high-frequency myotonic discharges at rest between attacks of weakness."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Preston, D. C., & Shapiro, B. E. (2020). Electromyography and neuromuscular disorders: Clinical-electrophysiologic-ultrasound correlations (4th ed.). Ch39 Myotonic Muscle Disorders and Periodic Paralysis Syndromes. Elsevier.",
+    "source_file": "9ef553d1-________2026______.docx",
+    "source_doc": "高長_筆試命題_2026臨床神經生理"
+  },
+  {
+    "id": "9ef553d12026-08",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "難",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "Which of the following statements regarding electrophysiologic exercise testing (Fournier patterns) in channelopathies is/are correct?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Fournier pattern I is characterized by a prominent drop in compound muscle action potential (CMAP) amplitudes with cooling in both long and short exercise testing, which is typical for paramyotonia congenita."
+      },
+      {
+        "key": "2",
+        "text": "Fournier pattern IV is characterized by an increase in CMAP amplitudes with a gradual decrease in both short and long exercise testing, classically seen in hyperkalemic periodic paralysis."
+      },
+      {
+        "key": "3",
+        "text": "Fournier pattern V is characterized by an increase in CMAP amplitude with a gradual decline during long exercise testing, while short exercise testing remains normal, typically seen in hypokalemic periodic paralysis."
+      },
+      {
+        "key": "4",
+        "text": "Myotonia congenita classically demonstrates a Fournier pattern II, which shows a drop in CMAP amplitude with slow recovery."
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Preston, D. C., & Shapiro, B. E. (2020). Electromyography and neuromuscular disorders: Clinical-electrophysiologic-ultrasound correlations (4th ed.). Ch39 Myotonic Muscle Disorders and Periodic Paralysis Syndromes. Elsevier.",
+    "source_file": "9ef553d1-________2026______.docx",
+    "source_doc": "高長_筆試命題_2026臨床神經生理"
+  },
+  {
+    "id": "9ef553d12026-09",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "中等",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "Which of the following statements regarding Paramyotonia Congenita (PC) and its electromyographic (EMG) features is/are correct?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Cold ambient temperatures exacerbate both clinical muscle stiffness and weakness."
+      },
+      {
+        "key": "2",
+        "text": "Needle EMG reveals muscle irritability in the form of fibrillations and myotonic discharges at normal room temperatures."
+      },
+      {
+        "key": "3",
+        "text": "As the limb cools down and muscle paralysis develops, myotonic discharges and fibrillations disappear completely."
+      },
+      {
+        "key": "4",
+        "text": "Postexercise myotonic potentials (PEMPs) cannot often be observed following exercise testing."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Louis, E. D., Mayer, S. A., & Noble, J. M. (2022). Merritt's neurology (14th ed.). Ch97 Periodic Paralysis and Other Channelopathies. Wolters Kluwer.",
+    "source_file": "9ef553d1-________2026______.docx",
+    "source_doc": "高長_筆試命題_2026臨床神經生理"
+  },
+  {
+    "id": "9ef553d12026-10",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "中等",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "Regarding the metabolic, biochemical, and hormonal features of SBMA patients, which of the following statements are true?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Serum creatinine levels are typically elevated in SBMA and do not correlate with functional measurements"
+      },
+      {
+        "key": "2",
+        "text": "SBMA patients frequently demonstrate increased insulin resistance"
+      },
+      {
+        "key": "3",
+        "text": "Non-alcoholic steatohepatitis (NASH) is strictly observed only in SBMA patients with a severely elevated Body Mass Index (BMI)"
+      },
+      {
+        "key": "4",
+        "text": "Patients frequently experience features of androgen loss of function, including gynecomastia, sexual dysfunction, and testicular atrophy"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Manzano R, Sorarú G, Grunseich C, Fratta P, Zuccaro E, Pennuto M, Rinaldi C. Beyond motor neurons: expanding the clinical spectrum in Kennedy's disease. J Neurol Neurosurg Psychiatry. 2018 Aug;89(8):808-812. doi: 10.1136/jnnp-2017-316961. Epub 2018 Jan 20.",
+    "source_file": "9ef553d1-________2026______.docx",
+    "source_doc": "高長_筆試命題_2026臨床神經生理"
+  },
+  {
+    "id": "affd4c9d2026-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "去髓鞘疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "去髓鞘疾病"
+    ],
+    "question": "A 58-year-old male presents with a 2-year history of insidious, progressive numbness and weakness in his four limbs. He reports frequent falls, bilateral hand clumsiness, and a stomping gait. Neurological examination reveals symmetric distal muscle weakness (predominant in the lower legs and intrinsic hand muscles), general areflexia, and markedly impaired proprioception and joint position sense. Cranial nerves, cognition, and autonomic functions (except for mild constipation) are relatively spared. The physical examination showed no significant finding at skin, heart sound or joints.\nNerve conduction studies and electromyography demonstrate a severe sensorimotor polyneuropathy with significant distal demyelination, characterized by prolonged distal motor latencies and a notably low terminal latency index, without obvious conduction block or abnormal temporal dispersion. The initial serum test showed no diabetes mellitus or thyroid dysfunction.  Serum protein immunofixation identifies an IgM kappa monoclonal gammopathy.\nBased on the clinical phenotype and electrodiagnostic findings, which of the following specific diagnostic tests should be ordered next, and what is the expected finding?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "A. Plasma vascular endothelial growth factor (VEGF) level; expected to be > 200 pg/mL."
+      },
+      {
+        "key": "B",
+        "text": "Serum anti-myelin-associated glycoprotein (anti-MAG) antibody; expected to be positive with a high titer."
+      },
+      {
+        "key": "C",
+        "text": "Serum anti-disialosyl antibodies; expected to be positive."
+      },
+      {
+        "key": "D",
+        "text": "Subcutaneous abdominal fat aspirate for Congo red stain; expected to show apple-green birefringence under polarized light."
+      },
+      {
+        "key": "E",
+        "text": "Muscle biopsy; expected to show direct malignant lymphocytic invasion of the peripheral nerves."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Beydoun SR, Darki L. Paraproteinemic Neuropathies. Continuum (Minneap Minn). 2023 Oct 1;29(5):1492-1513. doi: 10.1212/CON.0000000000001294. PMID: 37851040.",
+    "source_file": "affd4c9d-_________2026____.docx",
+    "source_doc": "高長_筆試命題紙_2026神經免疫"
+  },
+  {
+    "id": "affd4c9d2026-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "去髓鞘疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "去髓鞘疾病"
+    ],
+    "question": "The coexistence of polyneuropathy and paraproteinemia requires a careful differential diagnosis. Which of the following matchings between the paraproteinemic neuropathy and its characteristic clinical/electrodiagnostic manifestation is INCORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "anti-MAG neuropathy: Late-onset, slowly progressive distal polyneuropathy primarily affecting large sensory fibers, leading to sensory ataxia and mild distal weakness."
+      },
+      {
+        "key": "B",
+        "text": "POEMS syndrome:  Painful sensory symptoms with distal muscle weakness, and typically demyelinating neuropathy on NCS with prominent lower limb involvement."
+      },
+      {
+        "key": "C",
+        "text": "Light chain (AL) amyloidosis neuropathy: Rapidly progressive, length-dependent, sensory-predominant polyneuropathy with early predilection for small-diameter sensory fibers and prominent autonomic dysfunction."
+      },
+      {
+        "key": "D",
+        "text": "CANOMAD syndrome: Chronic neuropathy with sensory ataxia, areflexia, and motor weakness occasionally involving the ocular motor and bulbar muscles."
+      },
+      {
+        "key": "E",
+        "text": "Waldenström macroglobulinemia (WM) neuropathy: Almost exclusively presents as a pure motor demyelinating neuropathy with multifocal conduction blocks, identical to multifocal motor neuropathy (MMN)."
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Beydoun SR, Darki L. Paraproteinemic Neuropathies. Continuum (Minneap Minn). 2023 Oct 1;29(5):1492-1513. doi: 10.1212/CON.0000000000001294. PMID: 37851040.",
+    "source_file": "affd4c9d-_________2026____.docx",
+    "source_doc": "高長_筆試命題紙_2026神經免疫"
+  },
+  {
+    "id": "affd4c9d2026-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "難",
+    "tags": [],
+    "question": "Different paraproteinemic neuropathies are characteristically associated with specific immunoglobulin heavy or light chain subtypes. Which of the following pairings is INCORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Anti-MAG neuropathy: IgM, usually kappa light chain."
+      },
+      {
+        "key": "B",
+        "text": "POEMS syndrome: IgA or IgG, almost always lambda light chain."
+      },
+      {
+        "key": "C",
+        "text": "Light chain (AL) amyloidosis: Exclusively IgM heavy chain with kappa light chain restriction."
+      },
+      {
+        "key": "D",
+        "text": "Type I cryoglobulinemia neuropathy: IgM > IgG > IgA > light chain."
+      },
+      {
+        "key": "E",
+        "text": "CANOMAD syndrome: IgM paraprotein."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Beydoun SR, Darki L. Paraproteinemic Neuropathies. Continuum (Minneap Minn). 2023 Oct 1;29(5):1492-1513. doi: 10.1212/CON.0000000000001294. PMID: 37851040.",
+    "source_file": "affd4c9d-_________2026____.docx",
+    "source_doc": "高長_筆試命題紙_2026神經免疫"
+  },
+  {
+    "id": "affd4c9d2026-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "去髓鞘疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "去髓鞘疾病"
+    ],
+    "question": "The 2024 revisions of the McDonald criteria have officially incorporated several new imaging and fluid biomarkers to improve diagnostic specificity and simplify the diagnostic process. According to the updated guidelines, which of the following statements regarding these new biomarkers is TRUE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Maximal retinal thinning demonstrated on optical coherence tomography(OCT) within 1 month following an acute episode of symptomatic optic neuritis."
+      },
+      {
+        "key": "B",
+        "text": "The Central Vein Sign (CVS) on MRI is considered positive if at least one typical white matter lesion demonstrates a central vein."
+      },
+      {
+        "key": "C",
+        "text": "The demonstration of either the Central Vein Sign (CVS) or Paramagnetic Rim Lesions (PRL) is now strictly mandatory to establish a definitive diagnosis of multiple sclerosis."
+      },
+      {
+        "key": "D",
+        "text": "The kappa free-light chain (kFLC) index is now considered interchangeable with CSF oligoclonal bands and can substitute for them to demonstrate positive CSF."
+      },
+      {
+        "key": "E",
+        "text": "Paramagnetic Rim Lesions (PRLs) are highly sensitive, being found in nearly 100% of multiple sclerosis cases across all MRI scanners, and serve as the primary screening tool."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Montalban, X. et al., (2025). Diagnosis of multiple sclerosis: 2024 revisions of the McDonald criteria. The Lancet. Neurology, 24(10), 850–865. https://doi.org/10.1016/S1474-4422(25)00270-4",
+    "source_file": "affd4c9d-_________2026____.docx",
+    "source_doc": "高長_筆試命題紙_2026神經免疫"
+  },
+  {
+    "id": "affd4c9d2026-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "去髓鞘疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "難",
+    "tags": [
+      "去髓鞘疾病"
+    ],
+    "question": "Under the revised 2024 McDonald criteria, the optic nerve can now serve as a fifth anatomical location to demonstrate dissemination in space (DIS). An optical coherence tomography (OCT) is arranged to detect subclinical demyelinating optic nerve injury. According to the diagnostic guidelines, which of the following OCT findings (inter-eye differences) correctly supports unilateral optic nerve involvement to demonstrate DIS?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "A peripapillary retinal nerve fibre layer (pRNFL) inter-eye difference of ≥ 4 µm, or a macular ganglion cell inner plexiform layer (GCIPL) inter-eye difference of ≥ 6 µm."
+      },
+      {
+        "key": "B",
+        "text": "A peripapillary retinal nerve fibre layer (pRNFL) inter-eye difference of ≥ 6 µm, or a macular ganglion cell inner plexiform layer (GCIPL) inter-eye difference of ≥ 4 µm."
+      },
+      {
+        "key": "C",
+        "text": "An absolute peripapillary retinal nerve fibre layer (pRNFL) thickness of less than 80 µm in both eyes, regardless of the inter-eye difference."
+      },
+      {
+        "key": "D",
+        "text": "Maximal retinal thinning demonstrated on OCT within 1 month following an acute episode of symptomatic optic neuritis."
+      },
+      {
+        "key": "E",
+        "text": "An inter-eye difference exclusively in the composite macular ganglion cell inner plexiform layer (GCIPL) of ≥ 2 µm."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Montalban, X. et al., (2025). Diagnosis of multiple sclerosis: 2024 revisions of the McDonald criteria. The Lancet. Neurology, 24(10), 850–865. https://doi.org/10.1016/S1474-4422(25)00270-4",
+    "source_file": "affd4c9d-_________2026____.docx",
+    "source_doc": "高長_筆試命題紙_2026神經免疫"
+  },
+  {
+    "id": "affd4c9d2026-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [],
+    "question": "Various disease-modifying therapies (DMTs) for multiple sclerosis (MS) target different components of the immune system. Which of the following pairings between the MS medication and its primary mechanism of action is CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Ocrelizumab — A monoclonal antibody directed against CD52 that transiently depletes both T and B cells."
+      },
+      {
+        "key": "B",
+        "text": "Natalizumab — A monoclonal antibody against the α4-subunit of α4β1 integrin that blocks its binding to VCAM-1, preventing T cells from accessing the CNS."
+      },
+      {
+        "key": "C",
+        "text": "Teriflunomide — A sphingosine-1-phosphate receptor modulator that prevents the egress of lymphocytes from peripheral lymph nodes."
+      },
+      {
+        "key": "D",
+        "text": "Dimethyl fumarate — A pyrimidine synthesis inhibitor that slows the expansion of activated effector lymphocytes."
+      },
+      {
+        "key": "E",
+        "text": "Alemtuzumab — A monoclonal antibody against CD20, a surface marker for mature B cells."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Louis, E. D., Mayer, S. A., & Noble, J. M. (2022). Merritt's neurology (14th ed.). Ch71 Multiple Sclerosis and Related CNS Neuroimmune Diseases. Wolters Kluwer.",
+    "source_file": "affd4c9d-_________2026____.docx",
+    "source_doc": "高長_筆試命題紙_2026神經免疫"
+  },
+  {
+    "id": "affd4c9d2026-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "According to the 2023 Lancet Neurology paper by Dalmau and Graus, the accurate recognition of specific clinical syndromes associated with neural antibodies is crucial for diagnosing autoimmune encephalitis. Which of the following pairings between the neural autoantibody and its characteristic clinical/radiological features is CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Anti-IgLON5 antibodies — Primarily affects children and young adults, presenting with prominent seizures and multiple cortical-subcortical fluid-attenuated inversion recovery (FLAIR) lesions on brain MRI."
+      },
+      {
+        "key": "B",
+        "text": "Anti-GABAA receptor antibodies — Typically affects people older than 60 years and progresses as a subacute course featuring a frequent combination of sleep disorders, bulbar symptoms, and movement disorders."
+      },
+      {
+        "key": "C",
+        "text": "Anti-mGluR5 antibodies — Frequently presents with confusion, memory loss, and psychiatric symptoms, and is strongly associated with Hodgkin lymphoma"
+      },
+      {
+        "key": "D",
+        "text": "MOG antibodies — Typically strictly restricted to classical limbic encephalitis without any evidence of cortical grey matter involvement on brain MRI."
+      },
+      {
+        "key": "E",
+        "text": "Anti-GQ1b antibodies — Exclusively associated with acute disseminated encephalomyelitis (ADEM), requiring mandatory CSF testing for definitive diagnosis."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Dalmau, J., & Graus, F. (2023). Diagnostic criteria for autoimmune encephalitis: utility and pitfalls for antibody-negative disease. The Lancet. Neurology, 22(6), 529–540.",
+    "source_file": "affd4c9d-_________2026____.docx",
+    "source_doc": "高長_筆試命題紙_2026神經免疫"
+  },
+  {
+    "id": "affd4c9d2026-08",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "中等",
+    "tags": [],
+    "question": "According to the 2021 PNS criteria, this antibody is classified as a 'lower-risk antibody,' meaning it is associated with cancer in less than 30% of cases.\"",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Anti-LGI1 antibodies"
+      },
+      {
+        "key": "B",
+        "text": "Anti-GAD65 antibodies"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Graus F, Vogrig A, et al., Updated Diagnostic Criteria for Paraneoplastic Neurologic Syndromes. Neurol Neuroimmunol Neuroinflamm. 2021 May 18;8(4):e1014. doi: 10.1212/NXI.0000000000001014.",
+    "source_file": "affd4c9d-_________2026____.docx",
+    "source_doc": "高長_筆試命題紙_2026神經免疫"
+  },
+  {
+    "id": "affd4c9d2026-09",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "中等",
+    "tags": [],
+    "question": "Based on the recommendations for neuronal antibody testing in the 2021 PNS criteria, which of the following statements are TRUE?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Indiscriminate and unfocused testing of neuronal antibodies increases the chances of false-positive and false-negative results."
+      },
+      {
+        "key": "2",
+        "text": "Neuronal IgM or IgA antibodies should be routinely used as primary diagnostic biomarkers alongside IgG."
+      },
+      {
+        "key": "3",
+        "text": "Positive results by commercial line blots or cell-based assays (CBAs) should be confirmed by brain immunohistochemistry, particularly if only serum is tested or the antibody titer is low."
+      },
+      {
+        "key": "4",
+        "text": "Because antibodies against surface antigens (e.g., NMDAR) have equal sensitivity in both biofluids, testing serum alone is completely sufficient to rule out autoimmune encephalitis."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Graus F, Vogrig A, Muñiz-Castrillo S, Antoine JG, Desestret V, Dubey D, Giometto B, Irani SR, Joubert B, Leypoldt F, McKeon A, Prüss H, Psimaras D, Thomas L, Titulaer MJ, Vedeler CA, Verschuuren JJ, Dalmau J, Honnorat J. Updated Diagnostic Criteria for Paraneoplastic Neurologic Syndromes. Neurol Neuroimmunol Neuroinflamm. 2021 May 18;8(4):e1014. doi: 10.1212/NXI.0000000000001014. PMID: 34006622; PMCID: PMC8237398.",
+    "source_file": "affd4c9d-_________2026____.docx",
+    "source_doc": "高長_筆試命題紙_2026神經免疫"
+  },
+  {
+    "id": "affd4c9d2026-10",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "中等",
+    "tags": [],
+    "question": "According to the 2024 revisions of the McDonald criteria, which of the following statements regarding radiologically isolated syndrome (RIS) and diagnosis in older patients are TRUE?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "In patients with RIS fulfilling dissemination in space (DIS), the presence of the select 6 central vein sign (CVS) on MRI is sufficient for diagnosing multiple sclerosis without requiring further evidence."
+      },
+      {
+        "key": "2",
+        "text": "In patients aged 50 years and older or those with significant vascular risk factors, demonstrating 3 or more periventricular lesions is strongly recommended to reliably distinguish multiple sclerosis from age-related small vessel disease."
+      },
+      {
+        "key": "3",
+        "text": "For an RIS patient who fulfills DIS, demonstrating positive CSF (e.g., kFLC index or oligoclonal bands) is sufficient for diagnosing multiple sclerosis even in the absence of dissemination in time (DIT)."
+      },
+      {
+        "key": "4",
+        "text": "RIS is considered a completely separate disease entity from multiple sclerosis, and these patients must wait for a distinct clinical attack before any multiple sclerosis diagnostic criteria can be applied."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Montalban, X. et al., (2025). Diagnosis of multiple sclerosis: 2024 revisions of the McDonald criteria. The Lancet. Neurology, 24(10), 850–865. https://doi.org/10.1016/S1474-4422(25)00270-4",
+    "source_file": "affd4c9d-_________2026____.docx",
+    "source_doc": "高長_筆試命題紙_2026神經免疫"
+  },
+  {
+    "id": "003dfa778-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "癲癇與腦波",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "An elderly patient with atrial fibrillation and post-stroke epilepsy is currently taking the novel oral anticoagulant (NOAC) Apixaban for stroke prevention. Which of the following anti-seizure medications is the safest choice?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Lacosamide"
+      },
+      {
+        "key": "B",
+        "text": "Phenytoin"
+      },
+      {
+        "key": "C",
+        "text": "Oxcarbazepine"
+      },
+      {
+        "key": "D",
+        "text": "Carbamazepine"
+      },
+      {
+        "key": "E",
+        "text": "Valproic acid"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "003dfa77-______8.docx",
+    "source_doc": "彰基_癲癇 8"
+  },
+  {
+    "id": "003dfa778-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "癲癇與腦波",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "When evaluating the risk of developing late-onset seizures (post-stroke epilepsy) in a stroke patient, which of the following characteristics is identified as a significant risk factor according to systematic reviews?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Patient age greater than 65 years."
+      },
+      {
+        "key": "B",
+        "text": "Deep subcortical stroke involvement."
+      },
+      {
+        "key": "C",
+        "text": "History of early-onset seizures."
+      },
+      {
+        "key": "D",
+        "text": "Female sex of the stroke patient."
+      },
+      {
+        "key": "E",
+        "text": "None of the above"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "003dfa77-______8.docx",
+    "source_doc": "彰基_癲癇 8"
+  },
+  {
+    "id": "003dfa778-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "癲癇與腦波",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "Which mechanism is proposed to facilitate the bidirectional relationship between Alzheimer's disease and late-onset epilepsy in the elderly?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "The upregulation of anti-LGI1 antibodies triggered by hippocampal sclerosis."
+      },
+      {
+        "key": "B",
+        "text": "Neurovascular coupling mediated exclusively by blood-brain barrier disruption."
+      },
+      {
+        "key": "C",
+        "text": "The interplay between vascular lesions, amyloid plaques, and Tau proteins."
+      },
+      {
+        "key": "D",
+        "text": "Acute symptomatic seizure response following acute cerebral edema."
+      },
+      {
+        "key": "E",
+        "text": "None of the above"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "003dfa77-______8.docx",
+    "source_doc": "彰基_癲癇 8"
+  },
+  {
+    "id": "003dfa778-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "癲癇與腦波",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "What is the primary clinical recommendation regarding the prophylactic use of anti-seizure medications (ASMs) for post-stroke epilepsy in patients who have not yet experienced a seizure after a stroke?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Routine prophylaxis for 1 week"
+      },
+      {
+        "key": "B",
+        "text": "Prophylaxis only for cortical strokes"
+      },
+      {
+        "key": "C",
+        "text": "Routine prophylaxis for post-stroke epilepsy is not recommended"
+      },
+      {
+        "key": "D",
+        "text": "Prophylaxis only for hemorrhagic strokes"
+      },
+      {
+        "key": "E",
+        "text": "None of the above"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "003dfa77-______8.docx",
+    "source_doc": "彰基_癲癇 8"
+  },
+  {
+    "id": "003dfa778-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "癲癇與腦波",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 70-year-old male patient experienced his first-ever focal to bilateral tonic-clonic seizure on the 14th day after an ischemic stroke. According to the ILAE guidelines and the provided literature, which of the following is the most appropriate management recommendation for this patient?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Prescribe prophylactic ASM for only one month."
+      },
+      {
+        "key": "B",
+        "text": "Withhold ASM until a second seizure occurs."
+      },
+      {
+        "key": "C",
+        "text": "Diagnose as early-onset seizure and observe."
+      },
+      {
+        "key": "D",
+        "text": "Diagnose as epilepsy and initiate ASM."
+      },
+      {
+        "key": "E",
+        "text": "None of above"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "003dfa77-______8.docx",
+    "source_doc": "彰基_癲癇 8"
+  },
+  {
+    "id": "003dfa778-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "癲癇與腦波",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "",
+    "tags": [],
+    "question": "Which antiepileptic drugs are metabolized via uridine glucuronide transferases (UGTs) during their metabolism?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Lamotrigine"
+      },
+      {
+        "key": "B",
+        "text": "Valproic Acid (Valproate)"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "003dfa77-______8.docx",
+    "source_doc": "彰基_癲癇 8"
+  },
+  {
+    "id": "003dfa778-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "癲癇與腦波",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 45-year-old gentleman who suffered a left hemispheric major stroke experienced an episode of generalized Tonic-clonic convulsion 3 days after the onset. Brain CT is shown below. Which of the following descriptions is mandatory for clinical decisions?",
+    "images": [
+      "images/003dfa778-07-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "confirmed diagnosis of epilepsy"
+      },
+      {
+        "key": "B",
+        "text": "Long-term antiseizure medication recommended"
+      },
+      {
+        "key": "C",
+        "text": "seizure recurrence risk up to 60% in 10 years"
+      },
+      {
+        "key": "D",
+        "text": "antiseizure medication prophylaxis for the development of post-stroke epilepsy is not recommended"
+      },
+      {
+        "key": "E",
+        "text": "None of the above"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "003dfa77-______8.docx",
+    "source_doc": "彰基_癲癇 8"
+  },
+  {
+    "id": "003dfa778-08",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "癲癇與腦波",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 60-year-old man who experienced an acute episode of blurred vision and brain CT is shown below on admission. Which of the following descriptions is mandatory for clinical decisions EXCEPT?",
+    "images": [
+      "images/003dfa778-08-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "If this patient experiences clinical epileptic seizures, antiepileptic drugs should be administered."
+      },
+      {
+        "key": "B",
+        "text": "If this patient has altered consciousness and epileptic discharge is present on EEG study, antiepileptic drugs should be considered."
+      },
+      {
+        "key": "C",
+        "text": "In patients with altered consciousness complicated by cerebral hemorrhages, and whose brain injury does not match their clinical symptoms, continuous EEG monitoring may be considered."
+      },
+      {
+        "key": "D",
+        "text": "Prophylactic use of antiepileptic drugs is not recommended."
+      },
+      {
+        "key": "E",
+        "text": "Prophylactic use of antiepileptic drugs is recommended."
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "003dfa77-______8.docx",
+    "source_doc": "彰基_癲癇 8"
+  },
+  {
+    "id": "ec7c67b2atype-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "A 36-year-old woman presents with fatigable ptosis, diplopia, and generalized muscle weakness. Serologic testing is positive for anti-acetylcholine receptor (AChR) antibodies, confirming generalized myasthenia gravis (gMG). Which of the following best describes the pathogenic mechanisms by which anti-AChR antibodies impair neuromuscular transmission?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Inhibition of presynaptic acetylcholine release through blockade of voltage-gated calcium channels"
+      },
+      {
+        "key": "B",
+        "text": "Complement activation, antigenic modulation, and direct functional blockade of AChRs"
+      },
+      {
+        "key": "C",
+        "text": "Selective depletion of acetylcholine-containing synaptic vesicles at the presynaptic terminal"
+      },
+      {
+        "key": "D",
+        "text": "Disruption of neuromuscular junction formation through inhibition of MuSK signaling"
+      },
+      {
+        "key": "E",
+        "text": "Inhibition of acetylcholine synthesis within the presynaptic terminal"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Handb Clin Neurol. 2024;200:283-305",
+    "source_file": "ec7c67b2-___________A_type.docx",
+    "source_doc": "北萬雙 神經肌病學組 A type"
+  },
+  {
+    "id": "ec7c67b2atype-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "A patient with MuSK antibody–positive generalized myasthenia gravis (MuSK-MG) has an inadequate response to conventional immunotherapy. Which of the following therapies has demonstrated particularly strong clinical efficacy in MuSK-MG and is associated with a rapid reduction in pathogenic IgG4 autoantibodies?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Eculizumab"
+      },
+      {
+        "key": "B",
+        "text": "Ravulizumab"
+      },
+      {
+        "key": "C",
+        "text": "Zilucoplan"
+      },
+      {
+        "key": "D",
+        "text": "Sutimlimab"
+      },
+      {
+        "key": "E",
+        "text": "Rituximab"
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "BioDrugs. 2025 Mar;39(2):185-213; Am J Ther. 2026 Jan-Feb;33(1):e46-e49",
+    "source_file": "ec7c67b2-___________A_type.docx",
+    "source_doc": "北萬雙 神經肌病學組 A type"
+  },
+  {
+    "id": "9ce31d74-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "A 75-year-old man with a history of hypertension is known to carry the CYP2C19*3 loss-of-function allele. He presents to the emergency department with acute onset of left-sided hemiparesis and dysarthria. His last known well time was 12 hours before presentation. His NIHSS score is 3. Non-contrast brain CT shows no evidence of intracerebral hemorrhage, and electrocardiography demonstrates sinus rhythm.\nAccording to the latest evidence and current clinical guidelines, which of the following is the MOST appropriate strategy for secondary stroke prevention in this patient?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Aspirin monotherapy"
+      },
+      {
+        "key": "B",
+        "text": "Aspirin plus clopidogrel for the first 21 days, then aspirin monotherapy"
+      },
+      {
+        "key": "C",
+        "text": "Aspirin plus clopidogrel for the first 90 days, then clopidogrel monotherapy"
+      },
+      {
+        "key": "D",
+        "text": "Aspirin plus ticagrelor for the first 21 days, then aspirin monotherapy"
+      },
+      {
+        "key": "E",
+        "text": "Aspirin plus ticagrelor for the first 30 days, then ticagrelor monotherapy"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "2022台灣腦中風學會非心因性急性缺血中風的 抗血小板藥物治療更新指引",
+    "source_file": "9ce31d74-________.docx",
+    "source_doc": "北萬雙 抗血小板"
+  },
+  {
+    "id": "9ce31d74-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "According to the current evidence on dual antiplatelet therapy (DAPT), which of the following statements is CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "According to INSPIRES trial, patients with acute mild ischemic stroke (NIHSS ≤5) or high-risk transient ischemic attack (TIA) presenting within 72 hours of symptom onset who received aspirin plus clopidogrel had a similar risk of bleeding events compared with those receiving aspirin alone."
+      },
+      {
+        "key": "B",
+        "text": "In patients at high risk of recurrent ischemic stroke, combining dipyridamole with aspirin or clopidogrel is considered the optimal treatment strategy compared to aspirin or clopidogrel monotherapy."
+      },
+      {
+        "key": "C",
+        "text": "In patients with severe symptomatic intracranial arterial stenosis and a recent cerebrovascular event, aggressive medical therapy with aspirin plus clopidogrel for the first 21 days is a reasonable treatment strategy and is superior to intracranial stenting."
+      },
+      {
+        "key": "D",
+        "text": "In patients with mild to moderate ischemic stroke, aspirin plus clopidogrel was superior to aspirin alone in reducing early neurological deterioration within 7 days and improving 90-day functional outcomes."
+      },
+      {
+        "key": "E",
+        "text": "In patients with nondisabling acute ischemic stroke presenting within 4.5 hours of symptom onset, aspirin plus clopidogrel was noninferior to intravenous alteplase with respect to 90-day functional outcomes."
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "急性缺血性腦中風處置建議",
+    "source_file": "9ce31d74-________.docx",
+    "source_doc": "北萬雙 抗血小板"
+  },
+  {
+    "id": "9ce31d74-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "Which of the following is the MOST appropriate management regarding antiplatelet therapy before reperfusion treatment?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Administer aspirin 300 mg immediately before intravenous thrombolysis to improve recanalization."
+      },
+      {
+        "key": "B",
+        "text": "Administer dual antiplatelet therapy (aspirin plus clopidogrel) before endovascular thrombectomy to reduce re-occlusion."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "住院醫師再教育課程",
+    "source_file": "9ce31d74-________.docx",
+    "source_doc": "北萬雙 抗血小板"
+  },
+  {
+    "id": "9ce31d74-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "中等",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "Which of the following statements about Tirofiban is(are) correct?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "The dosage of tirofiban should be adjusted according to the patient's age, renal function, and body weight."
+      },
+      {
+        "key": "2",
+        "text": "In patients with non-cardioembolic ischemic stroke who develop early neurological deterioration (increase in NIHSS score >2) within 48 hours of symptom onset, tirofiban may be administered as a loading infusion of 0.4 μg/kg/min for 30 minutes, followed by a maintenance infusion of 0.1 μg/kg/min for up to 48 hours."
+      },
+      {
+        "key": "3",
+        "text": "When transitioning from tirofiban to oral antiplatelet therapy, oral antiplatelet agents should be initiated immediately after discontinuation of the tirofiban infusion."
+      },
+      {
+        "key": "4",
+        "text": "Current evidence has not demonstrated that administration of tirofiban before endovascular thrombectomy improves 90-day functional outcomes."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "急性缺血性腦中風使用Tirofiban之新證據新指引、急性缺血性腦中風處置建議",
+    "source_file": "9ce31d74-________.docx",
+    "source_doc": "北萬雙 抗血小板"
+  },
+  {
+    "id": "9ce31d74-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "A 67-year-old man with no known medical history presents to the neurology outpatient clinic. Two weeks earlier, he experienced sudden-onset left hemiplegia and dysarthria that completely resolved within 2 hours. Brain magnetic resonance angiography (MRA) and digital subtraction angiography (DSA) are shown below. According to the current evidence and clinical guidelines, which of the following management strategies is the MOST inappropriate for this patient?",
+    "images": [
+      "images/9ce31d74-05-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Initiating strict control of vascular risk factors, including maintaining blood pressure below 140/90 mmHg."
+      },
+      {
+        "key": "B",
+        "text": "Initiating high-intensity statin therapy to achieve a low-density lipoprotein cholesterol (LDL-C) level of <70 mg/dL."
+      },
+      {
+        "key": "C",
+        "text": "Initiating dual antiplatelet therapy with aspirin plus clopidogrel for 90 days, if there are no contraindications."
+      },
+      {
+        "key": "D",
+        "text": "Providing aggressive lifestyle modification and secondary stroke prevention, including smoking cessation, regular exercise, and diabetes screening."
+      },
+      {
+        "key": "E",
+        "text": "Referring the patient for percutaneous transluminal angioplasty and stent placement as the initial treatment strategy."
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "急性缺血性腦中風處置建議",
+    "source_file": "9ce31d74-________.docx",
+    "source_doc": "北萬雙 抗血小板"
+  },
+  {
+    "id": "2b64b466sleepdiz-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠與暈眩",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [],
+    "question": "Which of following pathological changes is NOT increased or exacerbated by sleep-wake cycle disruption in the promotion of neuronal death during human Alzheimer's disease pathogenesis?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Accumulation of amyloid β plaques and neurofibrillary tangles"
+      },
+      {
+        "key": "B",
+        "text": "Oxidative stress in neurons"
+      },
+      {
+        "key": "C",
+        "text": "Blood-brain barrier dysfunction"
+      },
+      {
+        "key": "D",
+        "text": "Disruption of CNS pathways driven by central clocks"
+      },
+      {
+        "key": "E",
+        "text": "Efficiency of glymphatic clearance that accelerates the removal of neurotoxic aggregates"
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "",
+    "source_file": "2b64b466-____sleep_dizzy______.docx",
+    "source_doc": "北萬雙_sleep_dizzy_命題紙格式"
+  },
+  {
+    "id": "2b64b466sleepdiz-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠與暈眩",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [],
+    "question": "Which of following choices is/are NOT suggested for the treatment of sleep disturbance in Alzheimer disease?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Treat associated depression or anxiety"
+      },
+      {
+        "key": "B",
+        "text": "Eliminate alcohol or caffeine in the evening"
+      },
+      {
+        "key": "C",
+        "text": "Encourage to take a nap"
+      },
+      {
+        "key": "D",
+        "text": "Institute regular sleep/wake schedule and sleep hygiene"
+      },
+      {
+        "key": "E",
+        "text": "Reduce or eliminate medications that may contribute to sleep disturbance or sleep apnea"
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "",
+    "source_file": "2b64b466-____sleep_dizzy______.docx",
+    "source_doc": "北萬雙_sleep_dizzy_命題紙格式"
+  },
+  {
+    "id": "2b64b466sleepdiz-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠與暈眩",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [],
+    "question": "Which of following pathways is/are associated with elevated intracranial hypertension (ICP) because of obstructive sleep apnea syndrome (OSAS)?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Cerebral vasodilation due to hypoxia and hypercapnia"
+      },
+      {
+        "key": "B",
+        "text": "Increased jugular venous resistance"
+      },
+      {
+        "key": "C",
+        "text": "Abdominal pressure transmission"
+      },
+      {
+        "key": "D",
+        "text": "Increased central venous pressure, impairing cerebral venous outflow"
+      },
+      {
+        "key": "E",
+        "text": "All above are correct"
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "",
+    "source_file": "2b64b466-____sleep_dizzy______.docx",
+    "source_doc": "北萬雙_sleep_dizzy_命題紙格式"
+  },
+  {
+    "id": "2b64b466sleepdiz-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠與暈眩",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [],
+    "question": "Which of following choices is/are suggested in the cognitive and behavioral therapy for insomnia (CBTi)?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Relaxation therapy"
+      },
+      {
+        "key": "B",
+        "text": "Going to bed early to catch up on sleep"
+      },
+      {
+        "key": "C",
+        "text": "Alcohol before bedtime"
+      },
+      {
+        "key": "D",
+        "text": "Record of specific onset-time before sleep"
+      },
+      {
+        "key": "E",
+        "text": "Taking a nap whenever sleepy"
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "",
+    "source_file": "2b64b466-____sleep_dizzy______.docx",
+    "source_doc": "北萬雙_sleep_dizzy_命題紙格式"
+  },
+  {
+    "id": "2b64b466sleepdiz-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠與暈眩",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "易",
+    "tags": [],
+    "question": "Which descriptions regarding the relationship between sleep/circadian rhythm and Alzheimer's disease (AD) is/are correct?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Obstructive sleep apnea (OSA) has been noted to be more frequently associated with the APOE-ε4 allele."
+      },
+      {
+        "key": "2",
+        "text": "Sleep loss may precede the onset of AD symptoms."
+      },
+      {
+        "key": "3",
+        "text": "Sleep in patients with AD is often fragmented and disrupted throughout a 24-hour period."
+      },
+      {
+        "key": "4",
+        "text": "The sundowning symptom typically occurs during the middle or late stages of AD."
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "",
+    "source_file": "2b64b466-____sleep_dizzy______.docx",
+    "source_doc": "北萬雙_sleep_dizzy_命題紙格式"
+  },
+  {
+    "id": "2b64b466sleepdiz-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠與暈眩",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [],
+    "question": "Scenario: A 55-year-old male presented to the Emergency Department (ED) with acute-onset vertigo that began this morning. The symptoms were severe, resulting in profound gait instability that rendered him unable to stand or ambulate independently. He reported no prior history of similar vertiginous episodes or vestibular dysfunction. His medical history is significant for hypertension, diabetes mellitus, and dyslipidemia, all well-controlled on maintenance therapy. Notably, his history includes a previous ischemic infarction in the right posterior cerebral artery (PCA) territory, for which he takes a daily 100 mg regimen of acetylsalicylic acid. An initial non-contrast brain CT performed in the ED revealed no evidence of acute intracranial hemorrhage or space-occupying lesions. As the consulting neurologist, please address the following question based on this clinical presentation.\nWhich of following diseases is LEAST likely to be present in this patient?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Acute unilateral vestibulopathy (AUVP)"
+      },
+      {
+        "key": "B",
+        "text": "The first episode of Meniere disease"
+      },
+      {
+        "key": "C",
+        "text": "Ischemic infarction of the territory of anterior inferior cerebellar artery (AICA)"
+      },
+      {
+        "key": "D",
+        "text": "Benign paroxysmal positional vertigo (BPPV)"
+      },
+      {
+        "key": "E",
+        "text": "Lateral medullary infarction (Wallenberg syndrome)"
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "",
+    "source_file": "2b64b466-____sleep_dizzy______.docx",
+    "source_doc": "北萬雙_sleep_dizzy_命題紙格式"
+  },
+  {
+    "id": "2b64b466sleepdiz-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠與暈眩",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [],
+    "question": "Scenario: A 55-year-old male presented to the Emergency Department (ED) with acute-onset vertigo that began this morning. The symptoms were severe, resulting in profound gait instability that rendered him unable to stand or ambulate independently. He reported no prior history of similar vertiginous episodes or vestibular dysfunction. His medical history is significant for hypertension, diabetes mellitus, and dyslipidemia, all well-controlled on maintenance therapy. Notably, his history includes a previous ischemic infarction in the right posterior cerebral artery (PCA) territory, for which he takes a daily 100 mg regimen of acetylsalicylic acid. An initial non-contrast brain CT performed in the ED revealed no evidence of acute intracranial hemorrhage or space-occupying lesions. As the consulting neurologist, please address the following question based on this clinical presentation.\nWhich of neurological examination findings points toward a central vertigo etiology?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Absence of skew deviation on the alternate cover test"
+      },
+      {
+        "key": "B",
+        "text": "Right catch-up saccade during the head impulse test"
+      },
+      {
+        "key": "C",
+        "text": "Unidirectional horizontal left-beating nystagmus that enhances in leftward gaze"
+      },
+      {
+        "key": "D",
+        "text": "Absence of limbs weakness"
+      },
+      {
+        "key": "E",
+        "text": "New-onset right-side hearing loss"
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "",
+    "source_file": "2b64b466-____sleep_dizzy______.docx",
+    "source_doc": "北萬雙_sleep_dizzy_命題紙格式"
+  },
+  {
+    "id": "2b64b466sleepdiz-08",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠與暈眩",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [],
+    "question": "Scenario: A 55-year-old male presented to the Emergency Department (ED) with acute-onset vertigo that began this morning. The symptoms were severe, resulting in profound gait instability that rendered him unable to stand or ambulate independently. He reported no prior history of similar vertiginous episodes or vestibular dysfunction. His medical history is significant for hypertension, diabetes mellitus, and dyslipidemia, all well-controlled on maintenance therapy. Notably, his history includes a previous ischemic infarction in the right posterior cerebral artery (PCA) territory, for which he takes a daily 100 mg regimen of acetylsalicylic acid. An initial non-contrast brain CT performed in the ED revealed no evidence of acute intracranial hemorrhage or space-occupying lesions. As the consulting neurologist, please address the following question based on this clinical presentation.\nWhich of the following management options is the LEAST appropriate to perform at this stage?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Prescription of dual antiplatelet therapy"
+      },
+      {
+        "key": "B",
+        "text": "Aggressive blood pressure lowering to a target below 140/90 mmHg"
+      },
+      {
+        "key": "C",
+        "text": "Brain MRI with magnetic resonance angiography (MRA)"
+      },
+      {
+        "key": "D",
+        "text": "Audiogram"
+      },
+      {
+        "key": "E",
+        "text": "High-dose intravenous corticosteroid therapy"
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "",
+    "source_file": "2b64b466-____sleep_dizzy______.docx",
+    "source_doc": "北萬雙_sleep_dizzy_命題紙格式"
+  },
+  {
+    "id": "2b64b466sleepdiz-09",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠與暈眩",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [],
+    "question": "A 65-year-old male presents with sudden-onset vertigo, dysphagia, and gait ataxia. Neurological examination reveals left-sided ptosis and miosis, along with vertical diplopia. A skew deviation is confirmed, with the left eye being hypotrophic (lower than the right eye). Based on the clinical presentation and neuroanatomical pathways, which of the following statements is/are correct?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "The patient's lesion is localized to the left lateral medulla"
+      },
+      {
+        "key": "B",
+        "text": "The patient exhibits an ipsiversive skew deviation"
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "",
+    "source_file": "2b64b466-____sleep_dizzy______.docx",
+    "source_doc": "北萬雙_sleep_dizzy_命題紙格式"
+  },
+  {
+    "id": "2b64b466sleepdiz-10",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠與暈眩",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "易",
+    "tags": [],
+    "question": "Which of the following non-pharmacological management is/are appropriate for patients with orthostatic hypotension?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Head-of-the-bed flatting/lowering"
+      },
+      {
+        "key": "2",
+        "text": "Increased dietary sodium intake"
+      },
+      {
+        "key": "3",
+        "text": "Consuming meals high in carbohydrates"
+      },
+      {
+        "key": "4",
+        "text": "Adequate water drinking"
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "",
+    "source_file": "2b64b466-____sleep_dizzy______.docx",
+    "source_doc": "北萬雙_sleep_dizzy_命題紙格式"
   }
 ]
