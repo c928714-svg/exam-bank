@@ -11734,5 +11734,1085 @@
     "source": "",
     "source_file": "2b64b466-____sleep_dizzy______.docx",
     "source_doc": "北萬雙_sleep_dizzy_命題紙格式"
+  },
+  {
+    "id": "8159024dstroke20-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "A 37-year-old woman with a history of heavy smoking and daily alcohol intake presented with acute speechlessness of 2 hours' duration, preceded by transient involuntary movements. Physical examination revealed extensive, irregular, reddish-blue net-like cyanotic cutaneous lesions on her trunk and extremities. Which of the following statements is FALSE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "A skin biopsy obtained from the white center of the livedo lesion typically reveals a prominent, dense transmural leukocytoclastic vasculitis with fibrinoid necrosis during the active phase."
+      },
+      {
+        "key": "B",
+        "text": "Conventional cerebral angiography often demonstrates pruning of small-to-medium-sized distal arteries with a \"moth-eaten\" appearance, rather than signs of classic macrovascular atherosclerosis."
+      },
+      {
+        "key": "C",
+        "text": "The infarction would be multiple and affect the cortical and subcortical white matte."
+      },
+      {
+        "key": "D",
+        "text": "Up to 50% of patients with this syndrome test negative for antiphospholipid antibodies (aPL), and those with negative aPL tend to show a more protracted, slowly progressive clinical course."
+      },
+      {
+        "key": "E",
+        "text": "Non-bacterial thrombotic endocarditis or mitral/aortic valvular thickening can be detected via echocardiography in a significant proportion of these patients."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Merritts Neurology 13th ed: pp347-348",
+    "source_file": "8159024d-___Stroke_______2026.docx",
+    "source_doc": "亞東_Stroke_筆試命題紙_2026"
+  },
+  {
+    "id": "8159024dstroke20-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "Which of the following statements about genetic cerebral small vessel diseases is INCORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "While NOTCH3 exon 11 mutations (particularly the R544C variant) dominate the Taiwanese CADASIL cohort and predominantly cause anterior temporal lobe sparing."
+      },
+      {
+        "key": "B",
+        "text": "Cathepsin A-related arteriopathy with strokes and leukoencephalopathy (CARASAL) is characterized by early and severe involvement of the thalamus and brainstem white matter."
+      },
+      {
+        "key": "C",
+        "text": "In cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy (CARASIL), the lack of NOTCH3-like anterior temporal lobe lesions is coupled with a significantly lower prevalence of migraine compared to CADASIL."
+      },
+      {
+        "key": "D",
+        "text": "In Fabry disease, the \"pulvinar sign\" on brain MRI is characterized by symmetrical hyperintensity in the posterior thalamus on T2-weighted or FLAIR imaging, reflecting focal selective demyelination."
+      },
+      {
+        "key": "E",
+        "text": "Retinal vasculopathy with cerebral leukoencephalopathy and systemic manifestations (RVCL-S), caused by TREX1 mutations, can present in its late stages with ring-enhancing, mass-like pseudotumor lesions accompanied by surrounding vasogenic edema."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Manini A, Pantoni L. Genetic Causes of Cerebral Small Vessel Diseases: A Practical Guide for Neurologists. Neurology. 2023 Apr 18;100(16):766-783. doi: 10.1212/WNL.0000000000201720.",
+    "source_file": "8159024d-___Stroke_______2026.docx",
+    "source_doc": "亞東_Stroke_筆試命題紙_2026"
+  },
+  {
+    "id": "8159024dstroke20-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "Which of the following statements regarding dose adjustment of direct oral anticoagulants (DOACs) is CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "For apixaban, a dose reduction to 2.5 mg twice daily is indicated if the patient has a serum creatinine level ≥ 1.5 mg/dL, regardless of the patient's age or body weight."
+      },
+      {
+        "key": "B",
+        "text": "Rivaroxaban should be dose-reduced from 20 mg once daily to 15 mg once daily when the estimated creatinine clearance (CrCl) falls between 15 and 49 mL/min, and it is strictly contraindicated if CrCl < 15 mL/min."
+      },
+      {
+        "key": "C",
+        "text": "Dabigatran is predominantly metabolized by the liver, meaning its standard dose of 150 mg twice daily remains safe and completely unadjusted even when the patient's CrCl drops below 30 mL/min."
+      },
+      {
+        "key": "D",
+        "text": "Edoxaban requires a mandatory dose reduction to 30 mg once daily exclusively based on renal impairment (CrCl 15–50 mL/min), while body weight and concomitant medications do not alter its standard 60 mg dosing."
+      },
+      {
+        "key": "E",
+        "text": "According to international guidelines, the standard dose of dabigatran (150 mg twice daily) is universally preferred over the reduced dose (110 mg twice daily) for all patients aged over 80 years due to superior efficacy."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "2024台灣腦中風學會非維他命K拮抗劑口服抗凝血劑用於心房纖維顫動病人腦中風預防治療指引更新",
+    "source_file": "8159024d-___Stroke_______2026.docx",
+    "source_doc": "亞東_Stroke_筆試命題紙_2026"
+  },
+  {
+    "id": "8159024dstroke20-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "In regard to stroke patients receiving endovascular thrombectomy (EVT), which of the following statements about blood pressure (BP) control is CORRECT according to the 2026 AHA/ASA guidelines?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Following successful endovascular recanalization (mTICI 2b–3), routine intensive blood pressure lowering to a target systolic BP < 140 mmHg within the first 24 hours is strongly recommended to reduce the risk of hemorrhagic transformation."
+      },
+      {
+        "key": "B",
+        "text": "For patients eligible for EVT who do NOT receive intravenous thrombolysis (IVT), it is reasonable to allow permissive hypertension up to 220/120 mmHg prior to the start of the EVT procedure."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "2026 AHA/ASA guidelines",
+    "source_file": "8159024d-___Stroke_______2026.docx",
+    "source_doc": "亞東_Stroke_筆試命題紙_2026"
+  },
+  {
+    "id": "8159024dstroke20-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "易",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "Which of the following statements regarding Moyamoya disease (MMD) is(are) FALSE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "While pediatric MMD patients predominantly suffer from cerebral ischemic events, adult MMD patients have a significantly higher clinical incidence of intracranial hemorrhagic events."
+      },
+      {
+        "key": "B",
+        "text": "The hallmark angiographic finding in MMD is the presence of stenosis or occlusion of the bilateral supraclinoid ICAs and/or proximal MCAs with resulting proliferation of a fine network of collateral vessels."
+      },
+      {
+        "key": "C",
+        "text": "In East Asian populations, a specific polymorphism in the RNF213 gene (p.R4810K) has been identified as a major genetic susceptibility factor, demonstrating an autosomal dominant inheritance pattern with incomplete penetrance."
+      },
+      {
+        "key": "D",
+        "text": "Pathologically, MMD is characterized by fibrocellular thickening of the tunica adventitia and prominent inflammatory cell infiltration within the medial layer of the affected terminal internal carotid arteries."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Merritts 14th ed, Ch44, p391",
+    "source_file": "8159024d-___Stroke_______2026.docx",
+    "source_doc": "亞東_Stroke_筆試命題紙_2026"
+  },
+  {
+    "id": "71e09f1202-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 58-year-old man presents with a spontaneous intracerebral hemorrhage. Regarding the diagnostic evaluation and acute management of intracerebral hemorrhage, which of the following statements is INCORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Hematoma expansion markers on non-contrast CT include a heterogeneous density within the hematoma and an irregular hematoma margin."
+      },
+      {
+        "key": "B",
+        "text": "Initiating blood pressure lowering treatment within 2 hours of ICH onset and achieving a target systolic blood pressure below 140 mmHg within 1 hour may reduce the risk of hematoma expansion and improve functional outcome."
+      },
+      {
+        "key": "C",
+        "text": "Idarucizumab, a monoclonal antibody fragment, provides rapid and specific reversal of dabigatran’s anticoagulant effect."
+      },
+      {
+        "key": "D",
+        "text": "For warfarin-related ICH with INR ≥ 2.0, four-factor prothrombin complex concentrate combined with intravenous vitamin K is preferred over fresh frozen plasma to rapidly correct the INR and limit hematoma expansion."
+      },
+      {
+        "key": "E",
+        "text": "For patients with cerebellar hemorrhage complicated by neurological deterioration, brainstem compression, or hydrocephalus, placement of an external ventricular drain (EVD) alone, without hematoma evacuation, is an adequate surgical strategy."
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "71e09f12-_____02__.docx",
+    "source_doc": "成大_烤蕈02三題"
+  },
+  {
+    "id": "71e09f1202-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "",
+    "tags": [],
+    "question": "Which of the following statements regarding the management of hereditary disorders associated with stroke are CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Patients with a COL4A1/COL4A2 variant should avoid contact sports and high-impact trauma, and vacuum-assisted delivery should be avoided during childbirth."
+      },
+      {
+        "key": "2",
+        "text": "In MELAS, L-arginine may reduce the frequency of stroke-like episodes."
+      },
+      {
+        "key": "3",
+        "text": "In Marfan syndrome, beta-blocker or losartan therapy with regular aortic imaging surveillance is recommended to slow aortic root dilation."
+      },
+      {
+        "key": "4",
+        "text": "Female carriers of a GLA mutation are asymptomatic and do not require enzyme replacement therapy, since Fabry disease only manifests in hemizygous males."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "71e09f12-_____02__.docx",
+    "source_doc": "成大_烤蕈02三題"
+  },
+  {
+    "id": "71e09f1202-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 28-year-old man presents with an acute ischemic stroke involving the posterior circulation. He has a history of chronic burning pain in his hands and feet since adolescence, as well as decreased sweating. His MR angiography, inguinal skin examination, and corneal examination are as shown below. Which of the following tests is most likely to confirm the underlying diagnosis in this patient?\n左圖：dolichoectasia、中間圖：angiokeratoma、右邊圖：cornea verticillata",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Dried blood spot testing for alpha-galactosidase A enzyme activity and GLA gene sequencing."
+      },
+      {
+        "key": "B",
+        "text": "Serum autoimmune profile including ANA, anti-dsDNA, and antiphospholipid antibodies"
+      },
+      {
+        "key": "C",
+        "text": "NOTCH3 gene sequencing"
+      },
+      {
+        "key": "D",
+        "text": "Transthoracic echocardiography with agitated saline (bubble study)"
+      },
+      {
+        "key": "E",
+        "text": "Genetic testing for RNF213 c.14429G&gt;A variant"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "71e09f12-_____02__.docx",
+    "source_doc": "成大_烤蕈02三題"
+  },
+  {
+    "id": "e1ed6f46movement-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "發展與遺傳性疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "難",
+    "tags": [
+      "發展與遺傳性疾病"
+    ],
+    "question": "A 45-year-old man presents to the neurology clinic with a 3-year history of progressive involuntary, generalized writhing movements involving his face, trunk, and limbs. He had also become increasingly irritable, apathetic, and emotionally labile. Neuropsychological testing reveals significant executive dysfunction and memory impairment. Family history is notable for his father having a similar movement disorder and cognitive decline before passing away at age 62.\nWhich of the following gene mutations is the LEAST likely to be responsible for this patient's clinical presentation?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "HTT"
+      },
+      {
+        "key": "B",
+        "text": "ATN1"
+      },
+      {
+        "key": "C",
+        "text": "TBP"
+      },
+      {
+        "key": "D",
+        "text": "NOP56"
+      },
+      {
+        "key": "E",
+        "text": "C9orf72"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice, 8th Edition, Chapter 96, page 1520-1530",
+    "source_file": "e1ed6f46-___movement_gene______.docx",
+    "source_doc": "林長_movement gene_命題紙格式"
+  },
+  {
+    "id": "e1ed6f46movement-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "發展與遺傳性疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "發展與遺傳性疾病"
+    ],
+    "question": "Which of the following statements about transthyretin (ATTR) amyloidosis is INCORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "The transthyretin (TTR) protein is predominantly synthesized in the liver and functions as a transport protein for thyroxine and vitamin A."
+      },
+      {
+        "key": "B",
+        "text": "Wild-type ATTR amyloidosis typically has a later age of onset compared to the hereditary form. It primarily manifests as cardiomyopathy (ATTR-CM), though polyneuropathy (ATTR-PN) may coexist."
+      },
+      {
+        "key": "C",
+        "text": "In Taiwan, Ala97Ser (A97S) is the most prevalent mutation, characteristically presenting with a late onset and a mixed phenotype of cardiomyopathy and polyneuropathy."
+      },
+      {
+        "key": "D",
+        "text": "In patients with mixed phenotypes, initial presentation with polyneuropathy (ATTR-PN) typically progresses to cardiac involvement much faster than initial cardiomyopathy (ATTR-CM) progressing to neurologic manifestations."
+      },
+      {
+        "key": "E",
+        "text": "Patisiran has more infusion-related reactions since it utilizes lipid nanoparticle (LNP) delivery, whereas vutrisiran uses GalNAc conjugation without the need for routine premedication."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "神經罕病學會 2026 Symposium 課程內容",
+    "source_file": "e1ed6f46-___movement_gene______.docx",
+    "source_doc": "林長_movement gene_命題紙格式"
+  },
+  {
+    "id": "e1ed6f46movement-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "Which of the following statements about diseases associated with chorea is CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Chorea-acanthocytosis is caused by VPS35 mutation and is characterized by acanthocytosis on a peripheral blood smear."
+      },
+      {
+        "key": "B",
+        "text": "Dentatorubral-pallidoluysian atrophy is a CAG repeat expansion disorder that is rarely associated with white matter degeneration."
+      },
+      {
+        "key": "C",
+        "text": "ADCY5-related dyskinesia is characterized by paroxysmal movements that typically improve during the transition to sleep or upon awakening."
+      },
+      {
+        "key": "D",
+        "text": "Lesch-Nyhan syndrome is a disorder of purine metabolism that results in remarkable hyperuricemia and compulsive self-mutilation."
+      },
+      {
+        "key": "E",
+        "text": "Neuroferritinopathy is an autosomal dominant disorder associated with brain iron accumulation and characteristically elevated serum ferritin levels."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Merritt's Neurology, 14th Edition, Chapter 84 / Chapter 139",
+    "source_file": "e1ed6f46-___movement_gene______.docx",
+    "source_doc": "林長_movement gene_命題紙格式"
+  },
+  {
+    "id": "e1ed6f46movement-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "A 30-year-old male presents to the clinic with paroxysmal, brief, and shock-like muscle jerks. Electrophysiological evaluation, including somatosensory evoked potentials (SEP) and surface EMG, reveals giant SEP waves and an EMG burst duration of 32 ms. Which of the following disorders is MOST likely to share similar electrophysiological findings?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Alexander disease"
+      },
+      {
+        "key": "B",
+        "text": "Lance-Adams Syndrome"
+      },
+      {
+        "key": "C",
+        "text": "Hyperekplexia"
+      },
+      {
+        "key": "D",
+        "text": "DYT-SGCE"
+      },
+      {
+        "key": "E",
+        "text": "ADCY5-related dyskinesia"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Merritt's Neurology, 14th Edition, Chapter 81 Bradley and Daroff's Neurology in Clinical Practice, 8th Edition, Chapter 96",
+    "source_file": "e1ed6f46-___movement_gene______.docx",
+    "source_doc": "林長_movement gene_命題紙格式"
+  },
+  {
+    "id": "e1ed6f46movement-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "發展與遺傳性疾病",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "中等",
+    "tags": [
+      "發展與遺傳性疾病"
+    ],
+    "question": "Which of the following combinations of causative gene and disease is/are associated with a duplication mutation?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "D4Z4 - Facioscapulohumeral muscular dystrophy type 1 (FSHD1)"
+      },
+      {
+        "key": "B",
+        "text": "PMP22 - Hereditary neuropathy with liability to pressure palsies (HNPP)"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice, 8th Edition, Chapter 48, page 701 / Chapter 109, page 1984",
+    "source_file": "e1ed6f46-___movement_gene______.docx",
+    "source_doc": "林長_movement gene_命題紙格式"
+  },
+  {
+    "id": "e1ed6f46movement-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙",
+      "周邊神經系統疾病"
+    ],
+    "question": "Which of the following statements is/are correct?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Alpha-sarcoglycan abnormality is associated with symmetrical weakness aournd the hips, shoulders, and thighs."
+      },
+      {
+        "key": "B",
+        "text": "Episilon-sarcoglycan abnormality is associated with action-induced myoclonus and dystonia."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Merritt's Neurology, 14th Edition, Chapter 35 / Chapter 147",
+    "source_file": "e1ed6f46-___movement_gene______.docx",
+    "source_doc": "林長_movement gene_命題紙格式"
+  },
+  {
+    "id": "e1ed6f46movement-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "A 40-year-old woman was admitted to the ward with a 2-month history of progressive, episodic, painful spasms as well as involuntary, jerk-like movements in her limbs and trunk, which could be triggered by external stimuli such as startle, noise, and light touch. Neurological examination documented axial and limb rigidity. Which of the following antibodies may be associated with this condition?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "GAD65 antibodies"
+      },
+      {
+        "key": "2",
+        "text": "Amphiphysin antibodies"
+      },
+      {
+        "key": "3",
+        "text": "Glycine receptor antibodies"
+      },
+      {
+        "key": "4",
+        "text": "CRMP5 antibodies"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Population-Based Study of the Epidemiology of Stiff Person Syndrome in a Large Colorado-Based Health System. Neurology. 2024 Merritt's Neurology, 14th Edition, Chapter 98",
+    "source_file": "e1ed6f46-___movement_gene______.docx",
+    "source_doc": "林長_movement gene_命題紙格式"
+  },
+  {
+    "id": "e1ed6f46movement-08",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "易",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "Which of the following medications that cause myopathy would have rimmed vacuoles in muscle biopsy?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Amiodarone"
+      },
+      {
+        "key": "2",
+        "text": "Vincristine"
+      },
+      {
+        "key": "3",
+        "text": "Colchicine"
+      },
+      {
+        "key": "4",
+        "text": "D-penicillamine"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Merritt's Neurology, 14th edition, Chapter 96",
+    "source_file": "e1ed6f46-___movement_gene______.docx",
+    "source_doc": "林長_movement gene_命題紙格式"
+  },
+  {
+    "id": "e1ed6f46movement-09",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "難",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "A 67-year-old man presented to the clinic with a 1-year history of slowly progressive memory loss, personality change, and abnormal behavior. Recurrent episodes of altered consciousness and occasional urine incontinence were noted. His gait became slow and stride was short, with difficult initiation and turning. The brain MRI DWI sequence is shown in the Figure. Which of the following statements is false?",
+    "images": [
+      "images/e1ed6f46movement-09-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "The disease is caused by GGC trinucleotide repeat expansion in the 3'-untranslated region of the NOTCH2NLC gene."
+      },
+      {
+        "key": "B",
+        "text": "The T2/FLAIR hyperintensities in the middle cerebellar peduncles and paravermis are characteristic of the disease."
+      },
+      {
+        "key": "C",
+        "text": "Skin biopsy demonstrates p62-positive and ubiquitin-positive eosinophilic intranuclear inclusions in sweat gland cells, dermal adipocytes, and fibroblasts."
+      },
+      {
+        "key": "D",
+        "text": "Nerve conduction study may reveal peripheral nerve damage with motor and sensory nerve demyelination and axonal damage."
+      },
+      {
+        "key": "E",
+        "text": "Management is primarily symptomatic and supportive."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "2026 台灣神經年年會上課內容 Neuronal intranuclear inclusion disease in patients with adult-onset non-vascular leukoencephalopathy. Brain. 2022 Neurological disorders caused by novel non-coding repeat expansions: clinical features and differential diagnosis. Lancet Neurol. 2024 Spatial and Temporal Distribution of White Matter Lesions in NOTCH2NLC-Related Neuronal Intranuclear Inclusion Disease. Neurology. 2025",
+    "source_file": "e1ed6f46-___movement_gene______.docx",
+    "source_doc": "林長_movement gene_命題紙格式"
+  },
+  {
+    "id": "e1ed6f46movement-10",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙",
+      "發展與遺傳性疾病"
+    ],
+    "question": "A 15-year-old boy is brought to the neurology clinic by his parents because of progressive difficulty with walking. His parents report that over the past 3 years, he has developed increasing clumsiness, frequent falls, and trouble with coordination. He also complains of worsening fatigue and difficulty with handwriting. On examination, he has a wide-based gait and difficulty with tandem walking. There is loss of vibration and position sense in the lower limbs, dysmetria on finger-to-nose testing, and absent deep tendon reflexes in the legs. Pes cavus and scoliosis are noted. Cardiac auscultation reveals a soft systolic murmur. The brain MRI image is shown below. Regarding the disease that this boy may have, which of the following statements is FALSE?",
+    "images": [
+      "images/e1ed6f46movement-10-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "This disease is caused by an expanded exonic GAA repeat in the first exon of the FXN gene."
+      },
+      {
+        "key": "B",
+        "text": "Blood or saliva frataxin levels have been used as biomarkers."
+      },
+      {
+        "key": "C",
+        "text": "The inheritance pattern is autosomal recessive."
+      },
+      {
+        "key": "D",
+        "text": "Bilateral inferior olivary nucleus T2 hyperintensity can sometimes be observed on a brain MRI."
+      },
+      {
+        "key": "E",
+        "text": "Large fiber sensory neuronopathy is a key feature with pain and temperature sensation relatively preserved."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Merritt neurology, 14th edition, page 2779, 2796",
+    "source_file": "e1ed6f46-___movement_gene______.docx",
+    "source_doc": "林長_movement gene_命題紙格式"
+  },
+  {
+    "id": "8cfc8b2d-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "A 68-year-old woman developed sudden aphasia and right-sided weakness 6 hours ago. Her NIHSS score is 12. Noncontrast CT shows no intracranial hemorrhage, and CT angiography shows no large-vessel occlusion. CT perfusion demonstrates an ischemic core of 25 mL, a mismatch volume of 30 mL, and a mismatch ratio of 2.2. She has no other contraindications to intravenous thrombolysis. According to current acute ischemic stroke guidelines, which of the following is the most appropriate management?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "No reperfusion therapy should be given because symptom onset was more than 4.5 hours ago"
+      },
+      {
+        "key": "B",
+        "text": "Intravenous thrombolysis may be considered because she meets perfusion-imaging selection criteria"
+      },
+      {
+        "key": "C",
+        "text": "Treatment should be delayed until MRI confirms a DWI-FLAIR mismatch"
+      },
+      {
+        "key": "D",
+        "text": "Mechanical thrombectomy should be performed immediately"
+      },
+      {
+        "key": "E",
+        "text": "Aspirin plus clopidogrel should be administered without considering thrombolysis"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "8cfc8b2d-______.docx",
+    "source_doc": "奇美_謝醫師"
+  },
+  {
+    "id": "8cfc8b2d-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "A 72-year-old man has chronic kidney disease (CrCl 28 mL/min), nonvalvular atrial fibrillation, and a prior ischemic stroke. He has no active bleeding risk. What is the most appropriate secondary prevention?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Aspirin alone"
+      },
+      {
+        "key": "B",
+        "text": "Clopidogrel alone"
+      },
+      {
+        "key": "C",
+        "text": "Long-term dual antiplatelet therapy"
+      },
+      {
+        "key": "D",
+        "text": "A DOAC selected and dosed according to renal function"
+      },
+      {
+        "key": "E",
+        "text": "No antithrombotic therapy because of CKD"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "8cfc8b2d-______.docx",
+    "source_doc": "奇美_謝醫師"
+  },
+  {
+    "id": "8cfc8b2d-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "A patient with atrial fibrillation has a moderate ischemic stroke (NIHSS 10). Follow-up imaging shows no hemorrhagic transformation. When should a DOAC generally be started?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Within 24 hours"
+      },
+      {
+        "key": "B",
+        "text": "Day 3"
+      },
+      {
+        "key": "C",
+        "text": "Days 6-8"
+      },
+      {
+        "key": "D",
+        "text": "Days 12-14"
+      },
+      {
+        "key": "E",
+        "text": "After 28 days"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "8cfc8b2d-______.docx",
+    "source_doc": "奇美_謝醫師"
+  },
+  {
+    "id": "8cfc8b2d-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "An acute ischemic stroke patient meets the criteria for intravenous thrombolysis. Which comorbidity is compatible with reasonable use of alteplase?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Infective endocarditis"
+      },
+      {
+        "key": "B",
+        "text": "Aortic arch dissection"
+      },
+      {
+        "key": "C",
+        "text": "Extracranial cervical artery dissection"
+      },
+      {
+        "key": "D",
+        "text": "Intracranial artery dissection"
+      },
+      {
+        "key": "E",
+        "text": "Active internal bleeding"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "8cfc8b2d-______.docx",
+    "source_doc": "奇美_謝醫師"
+  },
+  {
+    "id": "8cfc8b2d-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "A patient with acute ischemic stroke otherwise meets the criteria for intravenous thrombolysis. A prior MRI shows 12 cerebral microbleeds. What is the most appropriate approach?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Routinely administer alteplase"
+      },
+      {
+        "key": "B",
+        "text": "Consider thrombolysis absolutely contraindicated"
+      },
+      {
+        "key": "C",
+        "text": "Individualize treatment after weighing benefit and bleeding risk"
+      },
+      {
+        "key": "D",
+        "text": "Use low-dose alteplase"
+      },
+      {
+        "key": "E",
+        "text": "Delay thrombolysis for 24 hours"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "8cfc8b2d-______.docx",
+    "source_doc": "奇美_謝醫師"
+  },
+  {
+    "id": "8cfc8b2d-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "A patient receiving amyloid-targeting antibody therapy undergoes brain MRI. FLAIR shows a focal sulcal hyperintensity, while SWI shows a curvilinear hypointensity along the cortical surface. Which statement is correct?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "The former represents sulcal effusion of ARIA-E; the latter represents cortical superficial siderosis of ARIA-H"
+      },
+      {
+        "key": "B",
+        "text": "The former represents microhemorrhage of ARIA-H; the latter represents parenchymal edema of ARIA-E"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "8cfc8b2d-______.docx",
+    "source_doc": "奇美_謝醫師"
+  },
+  {
+    "id": "8cfc8b2d-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "",
+    "images": [
+      "images/8cfc8b2d-07-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "NOTCH3"
+      },
+      {
+        "key": "B",
+        "text": "HTRA1"
+      },
+      {
+        "key": "C",
+        "text": "COL4A1"
+      },
+      {
+        "key": "D",
+        "text": "GLA"
+      },
+      {
+        "key": "E",
+        "text": "MT-TL1"
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "",
+    "source_file": "8cfc8b2d-______.docx",
+    "source_doc": "奇美_謝醫師"
+  },
+  {
+    "id": "8cfc8b2d-08",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "",
+    "images": [
+      "images/8cfc8b2d-08-1.jpg"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "NOTCH3"
+      },
+      {
+        "key": "B",
+        "text": "HTRA1"
+      },
+      {
+        "key": "C",
+        "text": "COL4A1"
+      },
+      {
+        "key": "D",
+        "text": "GLA"
+      },
+      {
+        "key": "E",
+        "text": "MT-TL1"
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "",
+    "source_file": "8cfc8b2d-______.docx",
+    "source_doc": "奇美_謝醫師"
   }
 ]
