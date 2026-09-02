@@ -12814,5 +12814,608 @@
     "source": "",
     "source_file": "8cfc8b2d-______.docx",
     "source_doc": "奇美_謝醫師"
+  },
+  {
+    "id": "6c49a154-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [],
+    "question": "Family history of Alzheimer disease AD can provide important risk information. Which description of Alzheimer genetics is wrong?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Down syndrome develop AD pathology after age 40"
+      },
+      {
+        "key": "B",
+        "text": "Mutations in amyloid precursor protein (APP) were the first mutation to be described to cause AD. Since Aβ is the product of APP, APP became a candidate gene"
+      },
+      {
+        "key": "C",
+        "text": "Mutations on chromosome 21 were found in PSEN1 in autosomal dominant AD families. Presenilin is part of the γ secretase complex that cleaves APP"
+      },
+      {
+        "key": "D",
+        "text": "Apolipoprotein E (APOE) is the most important genetic risk factor for late-onset AD"
+      },
+      {
+        "key": "E",
+        "text": "Trem2 variants have recently been identified as rare risk variants for AD dementia"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice, Eighth Edition, Chapter 95",
+    "source_file": "6c49a154-___________.docx",
+    "source_doc": "林長_失智_命題紙格式"
+  },
+  {
+    "id": "6c49a154-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [],
+    "question": "A 72-year-old male went to your clinic due to progressive cognitive decline over the past 2 years. His family noted that he easily forgets daily routines and occasionally gets lost near his home; however, he remains largely independent in activities of daily living (ADL). He presents his genetic test results (revealing APOE ε3/ε3) and a MRI report (revealing no microbleeds on SWI) to discuss initiating Lecanemab therapy. According to Taiwan's Appropriate Use Recommendations (AUR) and current clinical trial evidence, which of the following statements is FALSE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "The patient still requires CSF analysis (e.g., Aβ42/40) or an Amyloid PET scan to establish the diagnosis before initiating anti-amyloid therapy."
+      },
+      {
+        "key": "B",
+        "text": "We suggested regular follow-up MRI in the first 6 months even the patient did not have neurological deficits"
+      },
+      {
+        "key": "C",
+        "text": "If the patient initiates Lecanemab and subsequently suffers an acute ischemic stroke, mechanical thrombectomy (EVT) can be considered if indicated."
+      },
+      {
+        "key": "D",
+        "text": "If follow-up MRI reveals two separate episodes of ARIA-E > 5cm, Lecanemab should be transiently discontinued even if the patient is asymptomatic."
+      },
+      {
+        "key": "E",
+        "text": "If follow-up Amyloid PET scans revert to negative, Lecanemab should be discontinued given no clinical benefit for long-term treatment and an increased hemorrhagic risk."
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "台灣臨床失智症學會 Lecanemab AUR 手冊",
+    "source_file": "6c49a154-___________.docx",
+    "source_doc": "林長_失智_命題紙格式"
+  },
+  {
+    "id": "6c49a154-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [],
+    "question": "A 57-year-old man presented with psychiatric disturbances and progressive memory decline beginning one year prior to admission. He exhibited marked behavioral abnormalities, rapidly progressive dementia, persistent insomnia, abnormal movements, and laryngeal stridor occurring during sleep. MRI of the brain revealed frontotemporal atrophy. Polysomnography showed a lack of effective sleep. CSF 14-3-3 protein testing was negative. Genetic analysis of the prion protein (PRNP) gene identified a D178N mutation. Which of the following statements regarding this disease is correct?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "It is an autosomal recessive inherited disorder."
+      },
+      {
+        "key": "B",
+        "text": "Increased REM sleep and loss of REM atonia are commonly observed."
+      },
+      {
+        "key": "C",
+        "text": "Motor and cognitive symptoms typically appear early."
+      },
+      {
+        "key": "D",
+        "text": "The pathology primarily involves thalamic atrophy with cortical spongiform changes."
+      },
+      {
+        "key": "E",
+        "text": "All of the above are incorrect."
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Medicine (Baltimore). 2021 Oct 15;100(41):e27544. doi: 10.1097/MD.0000000000027544 Merritt's Neurology 14th edition, Page 1807-1808",
+    "source_file": "6c49a154-___________.docx",
+    "source_doc": "林長_失智_命題紙格式"
+  },
+  {
+    "id": "6c49a154-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "行為神經學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "行為神經學"
+    ],
+    "question": "Which of the following statements about amyloid-related imaging abnormalities (ARIA) is FALSE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "ARIA refers to brain MRI findings observed in patients undergoing treatments targeting amyloid plaques."
+      },
+      {
+        "key": "B",
+        "text": "The mechanism underlying ARIA is related to that of cerebral amyloid angiopathy."
+      },
+      {
+        "key": "C",
+        "text": "Homozygosity for the APOE ε4 allele increases the risk of developing ARIA."
+      },
+      {
+        "key": "D",
+        "text": "ARIA-H can present as convexity subarachnoid hemorrhage."
+      },
+      {
+        "key": "E",
+        "text": "Most ARIA cases occur after three months of initiating anti-amyloid therapy."
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Taiwan AUR for Lecanemab: Amyloid-related imaging abnormalities: manifestations, metrics and mechanisms. Nat Rev Neurol. 2025 Apr",
+    "source_file": "6c49a154-___________.docx",
+    "source_doc": "林長_失智_命題紙格式"
+  },
+  {
+    "id": "6c49a154-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [],
+    "question": "Which of the following statements regarding atypical Alzheimer's disease (AD) is INCORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Bálint's syndrome and Gerstmann syndrome are core clinical features of posterior cortical atrophy"
+      },
+      {
+        "key": "B",
+        "text": "Phonological paraphasia is characteristic of logopenic variant primary progressive aphasia"
+      },
+      {
+        "key": "C",
+        "text": "Frontal amyloid burden discriminates behavioural/dysexecutive AD from amnestic AD"
+      },
+      {
+        "key": "D",
+        "text": "The leading mimic to distinguish from frontal-variant AD is behavioural-variant frontotemporal dementia"
+      },
+      {
+        "key": "E",
+        "text": "15-50% of corticobasal syndrome cases are attributable to AD"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Demographic, clinical, biomarker, and neuropathological correlates of posterior cortical atrophy: an international cohort study and individual participant data meta-analysis. Lancet Neurol. 2024 New insights into atypical Alzheimer's disease in the era of biomarkers. Lancet Neurol. 2021 Topographic Distribution of Amyloid-β, Tau, and Atrophy in Patients With Behavioral/Dysexecutive Alzheimer Disease. Neurology. 2021",
+    "source_file": "6c49a154-___________.docx",
+    "source_doc": "林長_失智_命題紙格式"
+  },
+  {
+    "id": "6c49a154-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "中等",
+    "tags": [
+      "基礎神經科學",
+      "發展與遺傳性疾病"
+    ],
+    "question": "According to revised criteria for diagnosis and staging of Alzheimer's disease 2023, which of the following description about the core biomarkers is true?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Core 1 biomarker are more closely linked with the onset of symptoms of Alzheimer's disease than Core 2 biomarkers"
+      },
+      {
+        "key": "B",
+        "text": "Core 2 biomarker can be used as standalone diagnostic tool for Alzheimer's disease."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Revised criteria for diagnosis and staging of Alzheimer's disease 2023",
+    "source_file": "6c49a154-___________.docx",
+    "source_doc": "林長_失智_命題紙格式"
+  },
+  {
+    "id": "6c49a154-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "行為神經學",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "中等",
+    "tags": [
+      "行為神經學"
+    ],
+    "question": "Which of the following disease(s) show(s) pathological change association with amyloid deposition?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Logopenic primary progressive aphasias"
+      },
+      {
+        "key": "B",
+        "text": "Lewy body dementia"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Advances in the genetics and pathology of Lewy body dementia. Lancet Neurol. 2025 Mediation of the Association Between APOE ε4 Genotype, Cognition, and Dementia by Neuropathology Imaging Markers in the Rotterdam Study. Neurology. 2025",
+    "source_file": "6c49a154-___________.docx",
+    "source_doc": "林長_失智_命題紙格式"
+  },
+  {
+    "id": "6c49a154-08",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "行為神經學",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "易",
+    "tags": [
+      "行為神經學"
+    ],
+    "question": "Which of the following statements is/are shared features of limbic-predominant age-related TDP-43 encephalopathy (LATE) and primary age-related tauopathy (PART)?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Both are highly prevalent in advanced age (typically >80 years) and increase in frequency with each decade of life"
+      },
+      {
+        "key": "2",
+        "text": "Both show a limbic-predominant, medial temporal distribution (hippocampus, amygdala, entorhinal cortex) rather than the neocortical spread typical of advanced AD"
+      },
+      {
+        "key": "3",
+        "text": "Both produce an amnestic-predominant syndrome that is easily mistaken for early AD"
+      },
+      {
+        "key": "4",
+        "text": "Both are generally associated with a more indolent course and milder cognitive impairment"
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Alzheimer mimicry: LATE and PART. J Neural Transm (Vienna). 2025",
+    "source_file": "6c49a154-___________.docx",
+    "source_doc": "林長_失智_命題紙格式"
+  },
+  {
+    "id": "6c49a154-09",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "易",
+    "tags": [],
+    "question": "Which specific neuropathological feature is required to distinguish primary age-related tauopathy (PART) from Alzheimer disease neuropathologic change (ADNC)?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "The complete absence or relative lack of significant β-amyloid pathology."
+      },
+      {
+        "key": "2",
+        "text": "The presence of three-repeat (3R) tau instead of four-repeat (4R) tau."
+      },
+      {
+        "key": "3",
+        "text": "PART is largely restricted to the medial temporal lobe, whereas neocortical involvement is a characteristic of later-stage ADNC progression."
+      },
+      {
+        "key": "4",
+        "text": "The absence of hyperphosphorylated tau (p-tau) in the brainstem."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Richardson TE, Walker JM, Farrell K, Oliveira TG, White CL 3rd, Crary JF. Primary age-related tauopathy. Acta Neuropathol. 2025 Oct 9;150",
+    "source_file": "6c49a154-___________.docx",
+    "source_doc": "林長_失智_命題紙格式"
+  },
+  {
+    "id": "6c49a154-10",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [],
+    "question": "A 68-year-old male presented with slowly progressive cognitive decline and clumsiness primarily affecting his left limbs over the past 3 years. On neurological examination, asymmetric parkinsonism, limb apraxia, and cortical sensory loss were noticed in his left limbs. MRI revealed frontoparietal atrophy. Biopsy findings are revealed as the figure below. Regarding this disease, which of the following statements is CORRECT?",
+    "images": [
+      "images/6c49a154-10-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "This pathological finding is prominently found within the deep layers of the cerebral cortex."
+      },
+      {
+        "key": "B",
+        "text": "The abnormal accumulation driving this ballooned appearance consists primarily of alpha-synuclein."
+      },
+      {
+        "key": "C",
+        "text": "Similar enlarged, pale, and argyrophilic \"ballooned neurons\" can be found in Pick's disease, another neurodegenerative disease molecularly classified as a 4R tauopathy."
+      },
+      {
+        "key": "D",
+        "text": "In CSF1R-related leukoencephalopathy, the hallmark \"axonal spheroids\" mimic the pathological findings of this patient and are primarily located within the gray matter structures."
+      },
+      {
+        "key": "E",
+        "text": "In focal cortical dysplasia Type IIb, morphologically identical \"balloon cells\" are scattered throughout the cortex, but they can be differentiated by being negative for vimentin immunostaining."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "6c49a154-___________.docx",
+    "source_doc": "林長_失智_命題紙格式"
+  },
+  {
+    "id": "4a5d478acritical-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "A 52-year-old man presented with acute thromboembolism of the left middle cerebral artery. Endovascular thrombectomy (EVT) was performed, achieving TICI grade 3 reperfusion. Cerebral edema was noted two days after the stroke. Therefore, left decompressive hemicraniectomy was performed. Targeted temperature management (TTM) was also initiated. Regarding neurocritical care, which of the following statements is FALSE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "A reperfusion-guided blood pressure strategy may improve functional outcomes and reduce hemorrhagic transformation after mechanical thrombectomy."
+      },
+      {
+        "key": "B",
+        "text": "During the induction phase of TTM, hypotension, bradycardia, and hypoglycemia are common adverse effects."
+      },
+      {
+        "key": "C",
+        "text": "If shivering involves gross movements of the arms, legs, and trunk, the Bedside Shivering Assessment Scale (BSAS) score is 3."
+      },
+      {
+        "key": "D",
+        "text": "In patients with hypotension or hypovolemia, hypertonic saline is preferred over mannitol because it expands intravascular volume."
+      },
+      {
+        "key": "E",
+        "text": "Dexamethasone has no role in the management of cerebral edema in this patient."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Merritt's Neurology, 14th Edition. Chapter 38 and 111 Camps-Renom P et al. Personalized Blood Pressure Targeting After Endovascular Therapy for Acute Ischemic Stroke: A Randomized Clinical Trial. JAMA Neurol. Published online June 08, 2026.",
+    "source_file": "4a5d478a-___Critical_Neurology______.docx",
+    "source_doc": "高醫_Critical_Neurology_命題紙格式"
+  },
+  {
+    "id": "4a5d478acritical-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "中等",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "A patient with HIV infection presented with stuporous consciousness. His brain MRI is shown below. Which of the following statements is TRUE regarding the most likely diagnosis?",
+    "images": [
+      "images/4a5d478acritical-02-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "It typically occurs when the CD4+ T cell count is around 500."
+      },
+      {
+        "key": "B",
+        "text": "It is caused by the reactivation of the JC virus."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "My own case Bradley and Daroff's Neurology in clinical practice, 8th Edition, 2021, Chapter 77, Page 1167, 1177, 1178",
+    "source_file": "4a5d478a-___Critical_Neurology______.docx",
+    "source_doc": "高醫_Critical_Neurology_命題紙格式"
+  },
+  {
+    "id": "4a5d478acritical-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "中等",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "A 66-year-old woman experienced cardiac arrest and achieved return of spontaneous circulation (ROSC) after cardiopulmonary resuscitation. She remained unconscious, and repetitive jerky movements were observed involving her bilateral upper limbs and trunk. Which of the following is/are correct?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Electroencephalography (EEG) should be performed promptly."
+      },
+      {
+        "key": "2",
+        "text": "Back-averaging techniques using combined EEG–EMG recordings can be used to determine the temporal relationship between cortical discharges (e.g., spikes or bursts) and myoclonic jerks."
+      },
+      {
+        "key": "3",
+        "text": "Myoclonus with a time-locked EEG correlate with any duration can be defined as an electroclinical seizure (ECSz)."
+      },
+      {
+        "key": "4",
+        "text": "Subcortical post-anoxic myoclonus after ROSC is often refractory, and escalation of multiple antiseizure medications and anesthetic agents is required to improve neurological prognosis."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Post-Cardiac Arrest Care: 2025 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. Circulation. American Clinical Neurophysiology Society's Standardized Critical Care EEG Terminology, 2021",
+    "source_file": "4a5d478a-___Critical_Neurology______.docx",
+    "source_doc": "高醫_Critical_Neurology_命題紙格式"
+  },
+  {
+    "id": "4a5d478acritical-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "中等",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "A 60-year-old man experienced cardiac arrest and achieved return of spontaneous circulation (ROSC) after cardiopulmonary resuscitation. He remains comatose and is receiving sedation and targeted temperature management. 24 hours after ICU admission, his family asks about his neurological prognosis. Which of the following statements is/are FALSE?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Neuroprognostication should be completed within 24 hours after ROSC to avoid delaying withdrawal of life-sustaining therapy."
+      },
+      {
+        "key": "2",
+        "text": "Bilaterally absent cortical N20 responses on somatosensory evoked potentials (SSEPs) at ≥48 hours after cardiac arrest may support the prediction of an unfavorable neurological outcome."
+      },
+      {
+        "key": "3",
+        "text": "The absence of bilateral pupillary or corneal reflexes within 24 hours is a reliable predictor of a poor neurological outcome."
+      },
+      {
+        "key": "4",
+        "text": "Extensive areas of restricted diffusion on brain MRI obtained 2–7 days after cardiac arrest may support the prediction of an unfavorable neurological outcome."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Post-Cardiac Arrest Care: 2025 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. Circulation.",
+    "source_file": "4a5d478a-___Critical_Neurology______.docx",
+    "source_doc": "高醫_Critical_Neurology_命題紙格式"
+  },
+  {
+    "id": "4a5d478acritical-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "A 33-year-old man with a history of chronic alcoholism presented with progressive confusion and gait instability over 2 weeks. He was brought to the emergency department in a stuporous state. The MRI findings are shown below. Regarding the diagnosis, which of the following statements is FALSE?",
+    "images": [
+      "images/4a5d478acritical-05-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Bilateral lateral rectus palsy is a characteristic finding."
+      },
+      {
+        "key": "B",
+        "text": "Limb ataxia and scanning speech are common."
+      },
+      {
+        "key": "C",
+        "text": "Acute tachycardia, exertional dyspnea, and postural hypotension are common."
+      },
+      {
+        "key": "D",
+        "text": "Intravenous thiamine should be administered as soon as possible."
+      },
+      {
+        "key": "E",
+        "text": "It may coexist with sensorimotor axonal neuropathy."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "My own case Merritt's Neurology, 14th Edition. Chapter 131",
+    "source_file": "4a5d478a-___Critical_Neurology______.docx",
+    "source_doc": "高醫_Critical_Neurology_命題紙格式"
   }
 ]
