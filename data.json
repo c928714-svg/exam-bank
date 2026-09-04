@@ -13417,5 +13417,676 @@
     "source": "My own case Merritt's Neurology, 14th Edition. Chapter 131",
     "source_file": "4a5d478a-___Critical_Neurology______.docx",
     "source_doc": "高醫_Critical_Neurology_命題紙格式"
+  },
+  {
+    "id": "c98593bd4-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠疾患",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 22-year-old man has a 6-month history of severe excessive daytime sleepiness, brief episodes of bilateral knee buckling triggered by laughter, hypnagogic hallucinations, and sleep paralysis. He is taking venlafaxine for a comorbid condition and it cannot be safely withdrawn, so a valid multiple sleep latency test (MSLT) cannot be obtained. According to the International Classification of Sleep Disorders, third edition, text revision (ICSD-3-TR), which of the following findings would, by itself, be sufficient to establish the diagnosis of narcolepsy type 1 in this patient?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "HLA-DQB1*06:02 positivity"
+      },
+      {
+        "key": "B",
+        "text": "A mean sleep latency of 9 minutes on MSLT without sleep-onset REM periods"
+      },
+      {
+        "key": "C",
+        "text": "A CSF hypocretin-1 (orexin-A) concentration ≤110 pg/mL"
+      },
+      {
+        "key": "D",
+        "text": "A single sleep-onset REM period on overnight polysomnography"
+      },
+      {
+        "key": "E",
+        "text": "An Epworth Sleepiness Scale score of 18"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "c98593bd-______4.docx",
+    "source_doc": "彰基_睡眠 4"
+  },
+  {
+    "id": "c98593bd4-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠疾患",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "",
+    "tags": [],
+    "question": "Regarding the current pharmacologic management of restless legs syndrome (RLS), which of the following statements is/are true?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "In the 2025 American Academy of Sleep Medicine clinical practice guideline, long-term dopamine agonist therapy was downgraded because of accumulating evidence of augmentation, and α2δ calcium channel ligands are now considered the mainstay of pharmacologic therapy."
+      },
+      {
+        "key": "B",
+        "text": "Oral iron supplementation remains highly effective for RLS regardless of iron status, including when the serum ferritin level is above 75 ng/mL."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "c98593bd-______4.docx",
+    "source_doc": "彰基_睡眠 4"
+  },
+  {
+    "id": "c98593bd4-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠疾患",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "",
+    "tags": [],
+    "question": "Which of the following statements about REM sleep behavior disorder (RBD) is/are true?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Episodes of dream-enactment behavior in RBD typically cluster in the first third of the night, when slow-wave sleep predominates."
+      },
+      {
+        "key": "2",
+        "text": "Definitive diagnosis of RBD requires polysomnographic demonstration of REM sleep without atonia."
+      },
+      {
+        "key": "3",
+        "text": "Serotonergic antidepressants such as SSRIs and venlafaxine typically improve RBD and are used as first-line therapy."
+      },
+      {
+        "key": "4",
+        "text": "Isolated (idiopathic) RBD is strongly associated with later development of an α-synucleinopathy (Parkinson disease, dementia with Lewy bodies, or multiple system atrophy), with phenoconversion exceeding 90% in cohorts followed for 14 years."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "c98593bd-______4.docx",
+    "source_doc": "彰基_睡眠 4"
+  },
+  {
+    "id": "c98593bd4-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠疾患",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 72-year-old man with chronic heart failure (left ventricular ejection fraction 25%) complains of fragmented sleep and witnessed pauses in breathing. Polysomnography shows recurrent central apneas alternating with a crescendo–decrescendo pattern of hyperpnea with a cycle length of approximately 60 seconds, occurring predominantly in stages N1 and N2 and attenuating during REM sleep; the central apnea-hypopnea index is 34 events/hour. Which of the following treatments is CONTRAINDICATED in this patient?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Optimization of guideline-directed medical therapy for heart failure"
+      },
+      {
+        "key": "B",
+        "text": "A trial of continuous positive airway pressure (CPAP)"
+      },
+      {
+        "key": "C",
+        "text": "Nocturnal supplemental oxygen"
+      },
+      {
+        "key": "D",
+        "text": "Adaptive servo-ventilation (ASV)"
+      },
+      {
+        "key": "E",
+        "text": "Transvenous phrenic nerve stimulation"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "c98593bd-______4.docx",
+    "source_doc": "彰基_睡眠 4"
+  },
+  {
+    "id": "9e3de1854-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 61-year-old man presents with a 3-year history of progressive akinetic-rigid parkinsonism that responds poorly to levodopa (up to 900 mg/day). He has recurrent syncope with a documented drop in systolic blood pressure of 30 mmHg within 3 minutes of standing, urinary urge incontinence with a post-void residual volume of 120 mL, nocturnal inspiratory stridor, and disproportionate antecollis. According to the 2022 Movement Disorder Society (MDS) diagnostic criteria for multiple system atrophy (MSA), which of the following is additionally REQUIRED before this patient can be classified as clinically established (rather than clinically probable) MSA?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Pathologic confirmation of glial cytoplasmic α-synuclein inclusions"
+      },
+      {
+        "key": "B",
+        "text": "Polysomnography-confirmed REM sleep behavior disorder"
+      },
+      {
+        "key": "C",
+        "text": "At least one supportive brain MRI marker of MSA (e.g., putaminal atrophy or the “hot cross bun” sign)"
+      },
+      {
+        "key": "D",
+        "text": "Reduced cardiac [123I]MIBG uptake on scintigraphy"
+      },
+      {
+        "key": "E",
+        "text": "A cerebellar syndrome in addition to parkinsonism"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "9e3de185-______4.docx",
+    "source_doc": "彰基_動障 4"
+  },
+  {
+    "id": "9e3de1854-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "",
+    "tags": [],
+    "question": "Regarding the pharmacologic treatment of chorea in Huntington disease, which of the following statements is/are true?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Tetrabenazine, deutetrabenazine, and valbenazine are all vesicular monoamine transporter 2 (VMAT2) inhibitors available for the treatment of chorea in Huntington disease."
+      },
+      {
+        "key": "B",
+        "text": "VMAT2 inhibitors reduce chorea primarily by enhancing presynaptic dopamine release into the synaptic cleft."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "9e3de185-______4.docx",
+    "source_doc": "彰基_動障 4"
+  },
+  {
+    "id": "9e3de1854-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "",
+    "tags": [],
+    "question": "Which of the following clinical features support(s) a diagnosis of progressive supranuclear palsy–Richardson syndrome (PSP-RS) according to the 2017 Movement Disorder Society diagnostic criteria?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Vertical supranuclear gaze palsy"
+      },
+      {
+        "key": "2",
+        "text": "Repeated unprovoked falls within 3 years of symptom onset"
+      },
+      {
+        "key": "3",
+        "text": "Slowing of vertical saccades"
+      },
+      {
+        "key": "4",
+        "text": "Marked and sustained improvement of motor symptoms with levodopa"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "9e3de185-______4.docx",
+    "source_doc": "彰基_動障 4"
+  },
+  {
+    "id": "9e3de1854-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 70-year-old woman who has taken flunarizine for chronic dizziness for 2 years develops relatively symmetric bradykinesia, rigidity, and a mild bilateral rest tremor. Dopamine transporter (DAT) SPECT with 99mTc-TRODAT-1 is arranged to differentiate drug-induced parkinsonism from degenerative Parkinson disease. Which of the following DAT-SPECT findings would most strongly support a diagnosis of degenerative Parkinson disease?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Symmetric, normal tracer uptake throughout the bilateral caudate and putamen"
+      },
+      {
+        "key": "B",
+        "text": "Asymmetric reduction of striatal tracer uptake, most marked in the posterior putamen"
+      },
+      {
+        "key": "C",
+        "text": "Diffusely increased striatal tracer uptake"
+      },
+      {
+        "key": "D",
+        "text": "Reduced tracer uptake confined to the caudate with preserved putaminal uptake"
+      },
+      {
+        "key": "E",
+        "text": "Reduced cortical tracer uptake with preserved striatal uptake"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "9e3de185-______4.docx",
+    "source_doc": "彰基_動障 4"
+  },
+  {
+    "id": "385a0378-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "Which statement of the normal pressure hydrocephalus (NPH) is wrong?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "NPH leads to dysfunction and degeneration of white matter"
+      },
+      {
+        "key": "B",
+        "text": "NPH gait is wide based."
+      },
+      {
+        "key": "C",
+        "text": "Failure of shunting more common in patients with dementia and incontinence"
+      },
+      {
+        "key": "D",
+        "text": "The opening CSF pressure in the upper range of normal may be indicative of a better likelihood of benefit from CSF shunting"
+      },
+      {
+        "key": "E",
+        "text": "Advanced age appears to be a significant predictor of poor response to shunting"
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Merritt's Textbook of Neurology 14th Edition 2022, chapter 110, page 3655-3658",
+    "source_file": "385a0378-__________.docx",
+    "source_doc": "義大動障_命題紙格式"
+  },
+  {
+    "id": "385a0378-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "Which statement of the Huntington Disease is wrong",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Psychomotor symptoms may begin 10 to 15 years prior to motor onset"
+      },
+      {
+        "key": "B",
+        "text": "The cognitive dysfunction is mainly of visuospatial domain."
+      },
+      {
+        "key": "C",
+        "text": "Language is not prominently involved until late in the illness."
+      },
+      {
+        "key": "D",
+        "text": "Obsessive-compulsive symptoms are common."
+      },
+      {
+        "key": "E",
+        "text": "Psychosis is rare."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Merritt's Textbook of Neurology 14th Edition 2022, chapter 85, page 2957-2859",
+    "source_file": "385a0378-__________.docx",
+    "source_doc": "義大動障_命題紙格式"
+  },
+  {
+    "id": "385a0378-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "Which of the following statement about cerebellum and tremor is correct ?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Cerebellum is anatomically abnormal in cases of essential tremor"
+      },
+      {
+        "key": "B",
+        "text": "Dentato-olivo-cerebellar loop is an excitatory pathway."
+      },
+      {
+        "key": "C",
+        "text": "Cerebrocerebellar loop is an inhibitory pathway"
+      },
+      {
+        "key": "D",
+        "text": "A pure resting tremor of 4–6 Hz exclusively seen in the absence of any structural brain injury."
+      },
+      {
+        "key": "E",
+        "text": "Isolated degeneration of the Guillain-Mollaret triangle results from primary inferior olivary hypertrophy"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Acta Neurologica Taiwanica 35(2):p 88-95, Apr-Jun 2026",
+    "source_file": "385a0378-__________.docx",
+    "source_doc": "義大動障_命題紙格式"
+  },
+  {
+    "id": "385a0378-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "Which statement of the normal pressure hydrocephalus (NIID) is true ?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "It is caused by abnormal GCC repeat expansions in the NOTCH2NLC gene"
+      },
+      {
+        "key": "B",
+        "text": "Symptoms include dementia, neuropathy, and encephalitis-like events."
+      },
+      {
+        "key": "C",
+        "text": "Neuronal intranuclear inclusions deposit exclusively in neurons."
+      },
+      {
+        "key": "D",
+        "text": "The corticomedullary hyperintensities on diffusion-weighted imaging (DWI) is static over time"
+      },
+      {
+        "key": "E",
+        "text": "EEG shows 1-2 Hz periodic sharp-wave complexes."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Acta Neurologica Taiwanica 35(2):p 112-115, Apr-Jun 2026.",
+    "source_file": "385a0378-__________.docx",
+    "source_doc": "義大動障_命題紙格式"
+  },
+  {
+    "id": "385a0378-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "難",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "Which statement(s) about movement disorders in pregnancy is (are) true ?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Chorea Gravidarum is the most common movement disorder of pregnancy"
+      },
+      {
+        "key": "B",
+        "text": "Parkinson disease may worsens during pregnancy"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Merritt's Textbook of Neurology 14th Edition 2022, chapter 85, page 4206-4207",
+    "source_file": "385a0378-__________.docx",
+    "source_doc": "義大動障_命題紙格式"
+  },
+  {
+    "id": "385a0378-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "難",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "Which statement(s) about periodic limb movements in sleep (PLMS) is (are) true ?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "PLMS are more frequently observed in individuals with symptoms of restless legs syndrome (RLS) than in those without RLS symptoms."
+      },
+      {
+        "key": "B",
+        "text": "PLMS can also occur in the arms and axial muscles."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Merritt's Textbook of Neurology 14th Edition 2022, chapter 118, page 3873",
+    "source_file": "385a0378-__________.docx",
+    "source_doc": "義大動障_命題紙格式"
+  },
+  {
+    "id": "385a0378-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "難",
+    "tags": [
+      "動作障礙",
+      "重症神經學"
+    ],
+    "question": "Which of the following autoantibodies may presented with myoclonus ?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "LGI1"
+      },
+      {
+        "key": "2",
+        "text": "Ma2"
+      },
+      {
+        "key": "3",
+        "text": "CASPR2"
+      },
+      {
+        "key": "4",
+        "text": "Hu (ANNA-1)"
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Merritt's Textbook of Neurology 14th Edition 2022, chapter 108, page 3596",
+    "source_file": "385a0378-__________.docx",
+    "source_doc": "義大動障_命題紙格式"
+  },
+  {
+    "id": "385a0378-08",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "According to the Hunter Serotonin Toxicity Criteria, which of the followings are signs of serotonin syndrome ?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Spontaneous clonus"
+      },
+      {
+        "key": "2",
+        "text": "Inducible clonus"
+      },
+      {
+        "key": "3",
+        "text": "Hypertonia"
+      },
+      {
+        "key": "4",
+        "text": "Tremor"
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "International Journal of Tryptophan Research. 2019;12. 2026 動作障礙學會 Video Session",
+    "source_file": "385a0378-__________.docx",
+    "source_doc": "義大動障_命題紙格式"
+  },
+  {
+    "id": "385a0378-09",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "The 46-year-old male had an acute onset of fever followed by drowsiness. Later her developed cerebellar ataxia. He did not have limb weakness but had prominent muscle soreness. The blood test showed thrombocytopenia. His brain MRI is as following. Which is the most possible diagnosis ?",
+    "images": [
+      "images/385a0378-09-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "COVID-19"
+      },
+      {
+        "key": "B",
+        "text": "Japanese encephalitis"
+      },
+      {
+        "key": "C",
+        "text": "Herpes simplex encephalitis"
+      },
+      {
+        "key": "D",
+        "text": "Dengue fever encephalitis"
+      },
+      {
+        "key": "E",
+        "text": "Creutzfeldt-Jakob disease"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Cureus. 2022 Sep 11;14(9):e29048 Mov Disord Clin Pract, 6: 426-433",
+    "source_file": "385a0378-__________.docx",
+    "source_doc": "義大動障_命題紙格式"
   }
 ]
