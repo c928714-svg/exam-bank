@@ -970,8 +970,10 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "",
-    "tags": [],
+    "difficulty": "中等",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
     "question": "A 36-year-old male presents with progressive unsteady gait and numbness of distal limbs. Since age 20, he has developed progressive ankle weakness and pes cavus with hammer toes. Examination reveals generalized areflexia, weakness of ankle dorsiflexion and toe extensors (MRC= 4), with normal proximal muscle strength. Nerve conduction studies show diffusely and uniformly slowed motor conduction velocities (25-30 m/s), and absent of bilateral sural nerve sensory nerve action potential. The nerve biopsy specimen stained with Toluidine Blue are shown below.\nWhich of the following is the most likely diagnosis?",
     "images": [
       "images/2baaf655pn2-01-1.png"
@@ -998,9 +1000,11 @@
         "text": "Fabry disease"
       }
     ],
-    "answer": [],
+    "answer": [
+      "B"
+    ],
     "explanation": null,
-    "source": "",
+    "source": "Neurology in Clinical Practice 8th edition, chapter 106 p 1877",
     "source_file": "2baaf655-___PN_2_.docx",
     "source_doc": "北榮_PN_2題"
   },
@@ -1012,8 +1016,10 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "",
-    "tags": [],
+    "difficulty": "中等",
+    "tags": [
+      "Peripheral nervous system disorders"
+    ],
     "question": "A 27-year-old man presents with a 2-year history of progressive difficulty walking and inability to walk on his heels. He denies any difficulty climbing stairs or rising from a chair. Examination reveals bilateral foot drop with marked weakness of ankle dorsiflexion, mild weakness of knee flexion, and preserved knee extensor (quadriceps) strength. Serum creatine kinase is mildly elevated (635 U/L). Electromyography shows a myopathic pattern without evidence of denervation. Muscle biopsy was performed, H&E and Gomori trichrome stains, T1W MRI images of his leg and thigh are showed below\nWhich of the following is the most likely diagnosis?",
     "images": [
       "images/2baaf655pn2-02-1.png",
@@ -1041,7 +1047,9 @@
         "text": "Miyoshi myopathy"
       }
     ],
-    "answer": [],
+    "answer": [
+      "C"
+    ],
     "explanation": null,
     "source": "",
     "source_file": "2baaf655-___PN_2_.docx",
@@ -1055,7 +1063,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "中等",
+    "difficulty": "易",
     "tags": [
       "行為神經學"
     ],
@@ -1099,7 +1107,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "中等",
+    "difficulty": "易",
     "tags": [
       "行為神經學"
     ],
@@ -1187,7 +1195,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "中等",
+    "difficulty": "易",
     "tags": [
       "行為神經學"
     ],
@@ -1231,7 +1239,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "中等",
+    "difficulty": "易",
     "tags": [
       "行為神經學"
     ],
@@ -12483,7 +12491,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "",
+    "difficulty": "中等",
     "tags": [
       "腦中風"
     ],
@@ -12515,7 +12523,7 @@
       "B"
     ],
     "explanation": null,
-    "source": "",
+    "source": "2025台灣腦中風學會急性缺血性腦中風靜脈血栓溶解治療指引更新",
     "source_file": "8cfc8b2d-______.docx",
     "source_doc": "奇美_謝醫師"
   },
@@ -12527,7 +12535,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "",
+    "difficulty": "易",
     "tags": [
       "腦中風"
     ],
@@ -12559,7 +12567,7 @@
       "D"
     ],
     "explanation": null,
-    "source": "",
+    "source": "2024 台灣腦中風學會及台灣腎臟醫學會慢性腎臟病患者腦中風治療指引",
     "source_file": "8cfc8b2d-______.docx",
     "source_doc": "奇美_謝醫師"
   },
@@ -12571,7 +12579,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "",
+    "difficulty": "易",
     "tags": [
       "腦中風"
     ],
@@ -12603,7 +12611,7 @@
       "C"
     ],
     "explanation": null,
-    "source": "",
+    "source": "2024 台灣腦中風學會非維他命K拮抗劑口服抗凝血劑用於心房纖維顫動病人腦中風預防治療指引更新",
     "source_file": "8cfc8b2d-______.docx",
     "source_doc": "奇美_謝醫師"
   },
@@ -12615,7 +12623,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "",
+    "difficulty": "易",
     "tags": [
       "腦中風"
     ],
@@ -12647,7 +12655,7 @@
       "C"
     ],
     "explanation": null,
-    "source": "",
+    "source": "2025台灣腦中風學會急性缺血性腦中風靜脈血栓溶解治療指引更新",
     "source_file": "8cfc8b2d-______.docx",
     "source_doc": "奇美_謝醫師"
   },
@@ -12659,7 +12667,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "",
+    "difficulty": "易",
     "tags": [
       "腦中風"
     ],
@@ -12691,7 +12699,7 @@
       "C"
     ],
     "explanation": null,
-    "source": "",
+    "source": "2025台灣腦中風學會急性缺血性腦中風靜脈血栓溶解治療指引更新",
     "source_file": "8cfc8b2d-______.docx",
     "source_doc": "奇美_謝醫師"
   },
@@ -12703,7 +12711,7 @@
     "type": "combo",
     "format": "C",
     "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
-    "difficulty": "",
+    "difficulty": "中等",
     "tags": [
       "腦中風"
     ],
@@ -12735,11 +12743,11 @@
     "type": "single",
     "format": "A2",
     "rule_text": null,
-    "difficulty": "",
+    "difficulty": "易",
     "tags": [
       "腦中風"
     ],
-    "question": "",
+    "question": "A 19-year-old woman presents with recurrent stroke-like episodes, seizures, migraine-like headaches, exercise intolerance, sensorineural hearing loss, short stature, and diabetes. The imaging findings are shown below: (A) brain CT; (B and C) T2-weighted brain MRI; and (D) MR spectroscopy. Her mother and maternal uncle have similar manifestations. Which gene is most likely mutated?",
     "images": [
       "images/8cfc8b2d-07-1.png"
     ],
@@ -12765,9 +12773,11 @@
         "text": "MT-TL1"
       }
     ],
-    "answer": [],
+    "answer": [
+      "E"
+    ],
     "explanation": null,
-    "source": "",
+    "source": "doi: 10.1186/1752-1947-3-77",
     "source_file": "8cfc8b2d-______.docx",
     "source_doc": "奇美_謝醫師"
   },
@@ -12779,11 +12789,11 @@
     "type": "single",
     "format": "A2",
     "rule_text": null,
-    "difficulty": "",
+    "difficulty": "易",
     "tags": [
       "腦中風"
     ],
-    "question": "",
+    "question": "A 42-year-old woman has recurrent lacunar strokes, migraine with aura, mood disturbance, and progressive cognitive decline. Brain MRI shows white-matter lesions and microbleeds (as shown below). Her father and paternal aunt had similar early-onset strokes. Which gene is most likely mutated?",
     "images": [
       "images/8cfc8b2d-08-1.jpg"
     ],
@@ -12809,9 +12819,11 @@
         "text": "MT-TL1"
       }
     ],
-    "answer": [],
+    "answer": [
+      "A"
+    ],
     "explanation": null,
-    "source": "",
+    "source": "doi: 10.1016/S1474-4422(09)70127-9",
     "source_file": "8cfc8b2d-______.docx",
     "source_doc": "奇美_謝醫師"
   },
@@ -14088,5 +14100,211 @@
     "source": "Cureus. 2022 Sep 11;14(9):e29048 Mov Disord Clin Pract, 6: 426-433",
     "source_file": "385a0378-__________.docx",
     "source_doc": "義大動障_命題紙格式"
+  },
+  {
+    "id": "f12afd24pns52026-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "Which of the following statement of myotonic discharges on electromyography is incorrect ?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "It is a type of abnormal insertional activity, appears as a sustained run of sharp positive waves, each followed by a slow negative component of longer duration, or as a sustained run of negative spikes with a small initial positivity."
+      },
+      {
+        "key": "B",
+        "text": "Their frequency ranges from 20 to 150 Hz and gives rise to a characteristic noise over the loudspeaker, simulating an accelerating or decelerating motorcycle or chainsaw."
+      },
+      {
+        "key": "C",
+        "text": "They are often abundant in myotonic dystrophies, myotonia congenita, paramyotonia congenita, Schwartz-Jampel syndrome, and Isaac's syndrome."
+      },
+      {
+        "key": "D",
+        "text": "They may also accompany other myopathies, such as acid maltase deficiency, colchicine myopathy, and statin myopathy."
+      },
+      {
+        "key": "E",
+        "text": "They are rarely seen in patients with hyperkalemic periodic paralysis when tested between attacks and in patients with polymyositis or dermatomyositis."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Bradley's Neurology in Clinical Practice, 8th edition (2022), p.460.",
+    "source_file": "f12afd24-________PNS_5__2026.docx",
+    "source_doc": "北萬雙 神經生理PNS_5題 2026"
+  },
+  {
+    "id": "f12afd24pns52026-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "Selective involvement of the dorsal root ganglia is a characteristic pathological feature of sensory neuronopathy. Which of the following disorders is least likely to cause a sensory neuronopathy ?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Sjögren syndrome"
+      },
+      {
+        "key": "B",
+        "text": "Pyridoxine (vitamin B6) abuse"
+      },
+      {
+        "key": "C",
+        "text": "RFC1-related CANVAS syndrome"
+      },
+      {
+        "key": "D",
+        "text": "Anti-Hu paraneoplastic syndrome"
+      },
+      {
+        "key": "E",
+        "text": "POEMS syndrome"
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Bradley's Neurology in Clinical Practice, 8th edition (2022), p.1841.",
+    "source_file": "f12afd24-________PNS_5__2026.docx",
+    "source_doc": "北萬雙 神經生理PNS_5題 2026"
+  },
+  {
+    "id": "f12afd24pns52026-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "Which of the following diseases is more likely to initially involve the gastrocnemius muscle ?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "GNE myopathy"
+      },
+      {
+        "key": "B",
+        "text": "Miyoshi myopathy"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Bradley's Neurology in Clinical Practice, 8th edition (2022), p.1997-1998.",
+    "source_file": "f12afd24-________PNS_5__2026.docx",
+    "source_doc": "北萬雙 神經生理PNS_5題 2026"
+  },
+  {
+    "id": "f12afd24pns52026-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "中等",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "Which of the following neurogenetic disorders can be diagnosed by whole exome sequencing (WES)?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Adrenomyeloneuropathy"
+      },
+      {
+        "key": "2",
+        "text": "Kennedy disease"
+      },
+      {
+        "key": "3",
+        "text": "Charcot-Marie-Tooth disease type X1"
+      },
+      {
+        "key": "4",
+        "text": "Myotonic dystrophy type 1"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Bradley's Neurology in Clinical Practice, 8th edition (2022), p.707",
+    "source_file": "f12afd24-________PNS_5__2026.docx",
+    "source_doc": "北萬雙 神經生理PNS_5題 2026"
+  },
+  {
+    "id": "f12afd24pns52026-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "Which of the following disorders is least likely to demonstrate the electrodiagnostic findings shown below (black arrow) ?",
+    "images": [
+      "images/f12afd24pns52026-05-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Acute inflammatory demyelinating polyradiculoneuropathy"
+      },
+      {
+        "key": "B",
+        "text": "Chronic inflammatory demyelinating polyradiculoneuropathy"
+      },
+      {
+        "key": "C",
+        "text": "Entrapment neuropathy of the ulnar nerve"
+      },
+      {
+        "key": "D",
+        "text": "Charcot-Marie-Tooth disease type 1A"
+      },
+      {
+        "key": "E",
+        "text": "Multifocal motor neuropathy"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Bradley's Neurology in Clinical Practice, 8th edition (2022), p.455, 1876",
+    "source_file": "f12afd24-________PNS_5__2026.docx",
+    "source_doc": "北萬雙 神經生理PNS_5題 2026"
   }
 ]
