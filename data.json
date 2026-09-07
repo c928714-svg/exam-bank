@@ -1401,7 +1401,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "For patients with acute ischemic stroke with an onset-to-door time within 4.5-9 hours, which of the following neuroimaging criteria on CT perfusion is eligible for thrombolytic therapy?",
     "images": [],
@@ -1443,7 +1443,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "Which of the following descriptions of cerebral arterial dissection is false?",
     "images": [],
@@ -1485,7 +1485,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "Which of the following descriptions of fusiform aneurysm is true?",
     "images": [],
@@ -1527,7 +1527,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "Which of the following descriptions of cerebral venous thrombosis (CVT) is false?",
     "images": [],
@@ -1569,7 +1569,7 @@
     "type": "combo",
     "format": "C",
     "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "Which statements about acute ischemic stroke management in patients with amyloid-targeting treatment (ATT) are true?",
     "images": [],
@@ -1599,7 +1599,7 @@
     "type": "combo",
     "format": "K",
     "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "Which of the following about Tenecteplase (TNK) in thrombolysis for acute ischemic stroke is correct?",
     "images": [],
@@ -1637,7 +1637,7 @@
     "type": "single",
     "format": "A2",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "A 60-year-old male experienced a subacute onset of headache for 2 weeks. At the Neurology Clinic, physical examination demonstrated left ocular chemosis and conjunctival congestion. An ocular color Doppler ultrasound revealed some abnormalities of the left superior ophthalmic vein (SOV, Figure). The diameter of SOV was 5 mm. Which of the following is the most likely diagnosis?",
     "images": [
@@ -2613,7 +2613,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [
       "去髓鞘疾病"
     ],
@@ -2655,7 +2655,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [
       "去髓鞘疾病"
     ],
@@ -2697,7 +2697,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [
       "去髓鞘疾病"
     ],
@@ -2739,7 +2739,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [
       "去髓鞘疾病"
     ],
@@ -2781,7 +2781,7 @@
     "type": "combo",
     "format": "C",
     "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [
       "去髓鞘疾病"
     ],
@@ -2811,7 +2811,7 @@
     "type": "combo",
     "format": "C",
     "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [
       "去髓鞘疾病"
     ],
@@ -2843,7 +2843,7 @@
     "type": "combo",
     "format": "C",
     "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [
       "去髓鞘疾病"
     ],
@@ -2873,7 +2873,7 @@
     "type": "combo",
     "format": "K",
     "rule_text": "(A) if 1,2,3 are true, (B) if 2,3 are true, (C) if 4,5 are true, (D) if only 3 is true, (E) if all are true",
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [
       "去髓鞘疾病"
     ],
@@ -2901,7 +2901,7 @@
     "type": "combo",
     "format": "K",
     "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [
       "去髓鞘疾病"
     ],
@@ -2939,7 +2939,7 @@
     "type": "combo",
     "format": "K",
     "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "Which description is correct in intracellular antibody associated paraneoplastic syndrome?",
     "images": [],
@@ -2975,7 +2975,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "As to main readiological pattern in autoimmune encephalitis, which one should be differentiated with herpes encephalitis",
     "images": [
@@ -2996,7 +2996,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [
       "失智症"
     ],
@@ -3040,7 +3040,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [
       "失智症"
     ],
@@ -3084,7 +3084,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [
       "失智症"
     ],
@@ -3128,7 +3128,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [
       "失智症"
     ],
@@ -3172,7 +3172,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [
       "失智症"
     ],
@@ -3204,7 +3204,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [
       "失智症"
     ],
@@ -3244,7 +3244,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [
       "失智症"
     ],
@@ -4420,7 +4420,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [
       "睡眠疾患"
     ],
@@ -4464,7 +4464,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [
       "睡眠疾患"
     ],
@@ -4508,7 +4508,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [
       "睡眠疾患"
     ],
@@ -8528,7 +8528,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "A 67-year-old woman reports unsteadiness that begins within seconds of standing still. The symptom disappears when she sits, leans on a support, or starts walking. Surface EMG of both legs shows highly synchronous 15-Hz bursts. Which diagnosis BEST explains this presentation?",
     "images": [],
@@ -8570,7 +8570,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "A 43-year-old patient develops an abrupt-onset hand tremor of variable amplitude. During contralateral finger tapping at 3 Hz, the tremor shifts to the same frequency and markedly diminishes during a mental distraction task. Which finding provides the STRONGEST positive evidence for functional tremor?",
     "images": [],
@@ -8612,7 +8612,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "A 70-year-old man has a slowly progressive bilateral postural and kinetic hand tremor that interferes with writing and eating. There is no bradykinesia, rigidity, or cerebellar sign. He has severe asthma and second-degree atrioventricular block. Which oral medication is the MOST appropriate initial treatment?",
     "images": [],
@@ -8654,7 +8654,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "A 61-year-old patient with Parkinson disease has a clear levodopa response but disabling wearing-off and levodopa-induced dyskinesias despite optimized medical therapy. Cognition and mood are stable, and the patient strongly wishes to reduce dopaminergic medication because of adverse effects. Which statement BEST guides DBS target selection?",
     "images": [],
@@ -8696,7 +8696,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "A 72-year-old patient has severe bilateral tremor that remains disabling despite adequate trials of propranolol, primidone, and topiramate. There is no clinically significant ataxia or cognitive impairment. Which of the following is the least appropriate DBS target for tremor suppression?",
     "images": [],
@@ -9629,7 +9629,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [
       "癲癇與腦波"
     ],
@@ -9673,7 +9673,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [
       "癲癇與腦波"
     ],
@@ -9717,7 +9717,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [
       "癲癇與腦波"
     ],
@@ -9805,7 +9805,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [
       "癲癇與腦波"
     ],
@@ -9881,7 +9881,7 @@
     "type": "single",
     "format": "A2",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "A 44-year patient presented with episodes of tonic, atonic, and atypical absence seizure. The EEG findings are as follows. Which of the following medications may be LEAST APPROPRIATE?",
     "images": [
@@ -11371,7 +11371,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "Which of following pathological changes is NOT increased or exacerbated by sleep-wake cycle disruption in the promotion of neuronal death during human Alzheimer's disease pathogenesis?",
     "images": [],
@@ -11411,7 +11411,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "Which of following choices is/are NOT suggested for the treatment of sleep disturbance in Alzheimer disease?",
     "images": [],
@@ -11451,7 +11451,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "Which of following pathways is/are associated with elevated intracranial hypertension (ICP) because of obstructive sleep apnea syndrome (OSAS)?",
     "images": [],
@@ -11491,7 +11491,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "Which of following choices is/are suggested in the cognitive and behavioral therapy for insomnia (CBTi)?",
     "images": [],
@@ -11531,7 +11531,7 @@
     "type": "combo",
     "format": "K",
     "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "Which descriptions regarding the relationship between sleep/circadian rhythm and Alzheimer's disease (AD) is/are correct?",
     "images": [],
@@ -11567,7 +11567,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "Scenario: A 55-year-old male presented to the Emergency Department (ED) with acute-onset vertigo that began this morning. The symptoms were severe, resulting in profound gait instability that rendered him unable to stand or ambulate independently. He reported no prior history of similar vertiginous episodes or vestibular dysfunction. His medical history is significant for hypertension, diabetes mellitus, and dyslipidemia, all well-controlled on maintenance therapy. Notably, his history includes a previous ischemic infarction in the right posterior cerebral artery (PCA) territory, for which he takes a daily 100 mg regimen of acetylsalicylic acid. An initial non-contrast brain CT performed in the ED revealed no evidence of acute intracranial hemorrhage or space-occupying lesions. As the consulting neurologist, please address the following question based on this clinical presentation.\nWhich of following diseases is LEAST likely to be present in this patient?",
     "images": [],
@@ -11607,7 +11607,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "Scenario: A 55-year-old male presented to the Emergency Department (ED) with acute-onset vertigo that began this morning. The symptoms were severe, resulting in profound gait instability that rendered him unable to stand or ambulate independently. He reported no prior history of similar vertiginous episodes or vestibular dysfunction. His medical history is significant for hypertension, diabetes mellitus, and dyslipidemia, all well-controlled on maintenance therapy. Notably, his history includes a previous ischemic infarction in the right posterior cerebral artery (PCA) territory, for which he takes a daily 100 mg regimen of acetylsalicylic acid. An initial non-contrast brain CT performed in the ED revealed no evidence of acute intracranial hemorrhage or space-occupying lesions. As the consulting neurologist, please address the following question based on this clinical presentation.\nWhich of neurological examination findings points toward a central vertigo etiology?",
     "images": [],
@@ -11647,7 +11647,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "Scenario: A 55-year-old male presented to the Emergency Department (ED) with acute-onset vertigo that began this morning. The symptoms were severe, resulting in profound gait instability that rendered him unable to stand or ambulate independently. He reported no prior history of similar vertiginous episodes or vestibular dysfunction. His medical history is significant for hypertension, diabetes mellitus, and dyslipidemia, all well-controlled on maintenance therapy. Notably, his history includes a previous ischemic infarction in the right posterior cerebral artery (PCA) territory, for which he takes a daily 100 mg regimen of acetylsalicylic acid. An initial non-contrast brain CT performed in the ED revealed no evidence of acute intracranial hemorrhage or space-occupying lesions. As the consulting neurologist, please address the following question based on this clinical presentation.\nWhich of the following management options is the LEAST appropriate to perform at this stage?",
     "images": [],
@@ -11687,7 +11687,7 @@
     "type": "combo",
     "format": "C",
     "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "A 65-year-old male presents with sudden-onset vertigo, dysphagia, and gait ataxia. Neurological examination reveals left-sided ptosis and miosis, along with vertical diplopia. A skew deviation is confirmed, with the left eye being hypotrophic (lower than the right eye). Based on the clinical presentation and neuroanatomical pathways, which of the following statements is/are correct?",
     "images": [],
@@ -11715,7 +11715,7 @@
     "type": "combo",
     "format": "K",
     "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "Which of the following non-pharmacological management is/are appropriate for patients with orthostatic hypotension?",
     "images": [],
@@ -12835,7 +12835,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "Family history of Alzheimer disease AD can provide important risk information. Which description of Alzheimer genetics is wrong?",
     "images": [],
@@ -12877,7 +12877,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "A 72-year-old male went to your clinic due to progressive cognitive decline over the past 2 years. His family noted that he easily forgets daily routines and occasionally gets lost near his home; however, he remains largely independent in activities of daily living (ADL). He presents his genetic test results (revealing APOE ε3/ε3) and a MRI report (revealing no microbleeds on SWI) to discuss initiating Lecanemab therapy. According to Taiwan's Appropriate Use Recommendations (AUR) and current clinical trial evidence, which of the following statements is FALSE?",
     "images": [],
@@ -12919,7 +12919,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "A 57-year-old man presented with psychiatric disturbances and progressive memory decline beginning one year prior to admission. He exhibited marked behavioral abnormalities, rapidly progressive dementia, persistent insomnia, abnormal movements, and laryngeal stridor occurring during sleep. MRI of the brain revealed frontotemporal atrophy. Polysomnography showed a lack of effective sleep. CSF 14-3-3 protein testing was negative. Genetic analysis of the prion protein (PRNP) gene identified a D178N mutation. Which of the following statements regarding this disease is correct?",
     "images": [],
@@ -12961,7 +12961,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [
       "行為神經學"
     ],
@@ -13005,7 +13005,7 @@
     "type": "single",
     "format": "A",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "Which of the following statements regarding atypical Alzheimer's disease (AD) is INCORRECT?",
     "images": [],
@@ -13112,7 +13112,7 @@
     "type": "combo",
     "format": "K",
     "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [
       "行為神經學"
     ],
@@ -13152,7 +13152,7 @@
     "type": "combo",
     "format": "K",
     "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "Which specific neuropathological feature is required to distinguish primary age-related tauopathy (PART) from Alzheimer disease neuropathologic change (ADNC)?",
     "images": [],
@@ -13190,7 +13190,7 @@
     "type": "single",
     "format": "A2",
     "rule_text": null,
-    "difficulty": "易",
+    "difficulty": "",
     "tags": [],
     "question": "A 68-year-old male presented with slowly progressive cognitive decline and clumsiness primarily affecting his left limbs over the past 3 years. On neurological examination, asymmetric parkinsonism, limb apraxia, and cortical sensory loss were noticed in his left limbs. MRI revealed frontoparietal atrophy. Biopsy findings are revealed as the figure below. Regarding this disease, which of the following statements is CORRECT?",
     "images": [
@@ -14306,5 +14306,555 @@
     "source": "Bradley's Neurology in Clinical Practice, 8th edition (2022), p.455, 1876",
     "source_file": "f12afd24-________PNS_5__2026.docx",
     "source_doc": "北萬雙 神經生理PNS_5題 2026"
+  },
+  {
+    "id": "6322ae7amovement-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 68-year-old man presents with a 1-year history of progressive slowness of his right hand, a resting tremor that diminishes with voluntary movement, and increased tone on passive examination of the limb. Which of the following is considered a cardinal (core) motor feature of idiopathic Parkinson's disease?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Bradykinesia"
+      },
+      {
+        "key": "B",
+        "text": "Chorea"
+      },
+      {
+        "key": "C",
+        "text": "Myoclonus"
+      },
+      {
+        "key": "D",
+        "text": "Action (kinetic) tremor"
+      },
+      {
+        "key": "E",
+        "text": "Dystonic posturing"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "6322ae7a-___Movement______.docx",
+    "source_doc": "台大_Movement_命題紙格式"
+  },
+  {
+    "id": "6322ae7amovement-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 55-year-old woman reports a several-year history of bilateral hand tremor that occurs when holding a cup or writing, and that improves noticeably after drinking a small amount of alcohol. There is no rest tremor, bradykinesia, or rigidity. Which of the following best describes this tremor?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Resting tremor"
+      },
+      {
+        "key": "B",
+        "text": "Postural/kinetic tremor"
+      },
+      {
+        "key": "C",
+        "text": "Cerebellar intention tremor"
+      },
+      {
+        "key": "D",
+        "text": "Orthostatic tremor"
+      },
+      {
+        "key": "E",
+        "text": "Psychogenic tremor"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "6322ae7a-___Movement______.docx",
+    "source_doc": "台大_Movement_命題紙格式"
+  },
+  {
+    "id": "6322ae7amovement-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 72-year-old woman treated with metoclopramide for gastroparesis develops bilateral bradykinesia, rigidity, and a mild resting tremor over 2 months; her symptoms improve after the drug is discontinued. Which of the following mechanisms best explains this presentation?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Selective loss of nigrostriatal dopaminergic neurons"
+      },
+      {
+        "key": "B",
+        "text": "Postsynaptic dopamine D2-receptor blockade"
+      },
+      {
+        "key": "C",
+        "text": "Excessive dopamine release from surviving nigral neurons"
+      },
+      {
+        "key": "D",
+        "text": "Autoimmune destruction of the subthalamic nucleus"
+      },
+      {
+        "key": "E",
+        "text": "Copper accumulation in the basal ganglia"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "6322ae7a-___Movement______.docx",
+    "source_doc": "台大_Movement_命題紙格式"
+  },
+  {
+    "id": "6322ae7amovement-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 19-year-old man presents with dysarthria, dystonic posturing of the arms, and mild jaundice. Slit-lamp examination reveals brownish rings at the corneal periphery. Which of the following laboratory findings would most strongly support the suspected diagnosis?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Elevated serum ceruloplasmin"
+      },
+      {
+        "key": "B",
+        "text": "Reduced serum ceruloplasmin with increased 24-hour urinary copper excretion"
+      },
+      {
+        "key": "C",
+        "text": "Elevated serum ferritin with normal transferrin saturation"
+      },
+      {
+        "key": "D",
+        "text": "Positive anti-GAD65 antibody"
+      },
+      {
+        "key": "E",
+        "text": "Reduced serum ceruloplasmin with reduced urinary copper excretion"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "6322ae7a-___Movement______.docx",
+    "source_doc": "台大_Movement_命題紙格式"
+  },
+  {
+    "id": "6322ae7amovement-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 64-year-old man has a 2-year history of falls occurring within the first year of symptom onset, prominent postural instability, and difficulty with voluntary downgaze on examination with preserved oculocephalic (doll's-eye) eye movements. Bradykinesia and axial rigidity are present, resting tremor is absent, and levodopa response has been minimal. Which of the following is the most likely diagnosis?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Idiopathic Parkinson's disease"
+      },
+      {
+        "key": "B",
+        "text": "Progressive supranuclear palsy (Richardson syndrome)"
+      },
+      {
+        "key": "C",
+        "text": "Multiple system atrophy, parkinsonian type"
+      },
+      {
+        "key": "D",
+        "text": "Corticobasal degeneration"
+      },
+      {
+        "key": "E",
+        "text": "Dementia with Lewy bodies"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "6322ae7a-___Movement______.docx",
+    "source_doc": "台大_Movement_命題紙格式"
+  },
+  {
+    "id": "6322ae7amovement-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "",
+    "tags": [],
+    "question": "Which of the following is characterized by a marked and sustained motor improvement with levodopa therapy? A. Idiopathic Parkinson's disease  B. Multiple system atrophy, parkinsonian type (MSA-P)",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Idiopathic Parkinson's disease"
+      },
+      {
+        "key": "B",
+        "text": "Multiple system atrophy, parkinsonian type (MSA-P)"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "6322ae7a-___Movement______.docx",
+    "source_doc": "台大_Movement_命題紙格式"
+  },
+  {
+    "id": "6322ae7amovement-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "",
+    "tags": [],
+    "question": "Regarding deep brain stimulation (DBS) for Parkinson's disease, which of the following statements are true?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Subthalamic nucleus (STN) DBS typically allows a substantial reduction in dopaminergic medication dosage postoperatively."
+      },
+      {
+        "key": "2",
+        "text": "Globus pallidus interna (GPi) DBS is generally preferred over STN DBS in patients with significant pre-existing cognitive impairment or depression."
+      },
+      {
+        "key": "3",
+        "text": "Significant dementia is considered a contraindication to DBS surgery."
+      },
+      {
+        "key": "4",
+        "text": "DBS reliably improves axial symptoms such as freezing of gait and postural instability that are unresponsive to levodopa."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "6322ae7a-___Movement______.docx",
+    "source_doc": "台大_Movement_命題紙格式"
+  },
+  {
+    "id": "6322ae7amovement-08",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 60-year-old woman presents with a 3-year history of gradually progressive gait unsteadiness and slowness. Examination shows symmetric bradykinesia and rigidity, cerebellar dysarthria, and gait ataxia. She also reports recurrent orthostatic lightheadedness and has developed urinary urgency with several episodes of incontinence over the past year. Brain MRI shows cerebellar and pontine atrophy with a 'hot cross bun' sign in the pons. Which of the following is the most likely diagnosis?",
+    "images": [
+      "images/6322ae7amovement-08-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Multiple system atrophy, cerebellar type (MSA-C)"
+      },
+      {
+        "key": "B",
+        "text": "Idiopathic Parkinson's disease with autonomic dysfunction"
+      },
+      {
+        "key": "C",
+        "text": "Spinocerebellar ataxia type 3"
+      },
+      {
+        "key": "D",
+        "text": "Progressive supranuclear palsy"
+      },
+      {
+        "key": "E",
+        "text": "Dementia with Lewy bodies Figure 1 (left). Axial section of patient's Brain MRI T2 Flair Image.  Figure 2 (right). Saggital section of patient's Brain MRI T2 Flair Image."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "6322ae7a-___Movement______.docx",
+    "source_doc": "台大_Movement_命題紙格式"
+  },
+  {
+    "id": "a457d92c-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "According to the 2022 Taiwan Guidelines for Preventive Treatment of Migraine, which of the following medications is classified as a first-line agent for the prevention of episodic migraine?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Verapamil"
+      },
+      {
+        "key": "B",
+        "text": "Amitriptyline"
+      },
+      {
+        "key": "C",
+        "text": "Topiramate"
+      },
+      {
+        "key": "D",
+        "text": "Gabapentin"
+      },
+      {
+        "key": "E",
+        "text": "Galcanezumab"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "a457d92c-___________.docx",
+    "source_doc": "北榮＿頭痛_命題紙格式"
+  },
+  {
+    "id": "a457d92c-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "Which of the following is a mandatory diagnostic criterion for primary stabbing headache?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Pain must be a accompanied by at least one ipsilateral cranial autonomic symptom, such as lacrimation."
+      },
+      {
+        "key": "B",
+        "text": "Each stab must last between 5 and 60 minutes to distinguish it from cluster headache."
+      },
+      {
+        "key": "C",
+        "text": "The headache must occur in a fixed, sharply-contoured area of the scalp 1–6 cm in diameter."
+      },
+      {
+        "key": "D",
+        "text": "Pain must be exclusively triggered by innocuous stimuli to the face, such as washing or shaving."
+      },
+      {
+        "key": "E",
+        "text": "Cranial autonomic symptoms must be absent."
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "a457d92c-___________.docx",
+    "source_doc": "北榮＿頭痛_命題紙格式"
+  },
+  {
+    "id": "a457d92c-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 28-year-old woman presents with recurrent episodes over the past year. She describes seeing a shimmering zigzag line that starts near her central vision and slowly expands outward over about 10 minutes, followed by a scotoma. About 20 minutes after the visual disturbance begins, she develops a throbbing, unilateral headache with photophobia and nausea. She has no limb weakness, no speech disturbance, and reports the visual symptoms are always confined to one side of her visual field at a time. Neurological examination between attacks is normal. Based on the ICHD-3 diagnostic criteria, which of the following is one of the mandatory requirements for the aura symptoms in this presentation?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "At least one aura symptom must last more than 60 minutes to be considered typical"
+      },
+      {
+        "key": "B",
+        "text": "The aura must include at least one symptom of motor weakness or reversible limb paralysis."
+      },
+      {
+        "key": "C",
+        "text": "At least one aura symptom must spread gradually over a period of 5 minutes or longer."
+      },
+      {
+        "key": "D",
+        "text": "The headache must always precede the onset of the aura symptoms."
+      },
+      {
+        "key": "E",
+        "text": "Aura symptoms must be strictly bilateral to distinguish them from a transient ischemic attack."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "a457d92c-___________.docx",
+    "source_doc": "北榮＿頭痛_命題紙格式"
+  },
+  {
+    "id": "a457d92c-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "Regarding the International Headache Society's new concept of higher standards for migraine prevention, which statement is CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Insufficient control is defined as >10 days per month with migraine or moderate-to-severe headache."
+      },
+      {
+        "key": "B",
+        "text": "Optimal control is defined as no days with migraine or moderate-to-severe headache."
+      },
+      {
+        "key": "C",
+        "text": "In patients with migraine without aura, headache attacks that do not fulfill the diagnostic criteria for migraine but respond to sumatriptan should not be considered migraine days."
+      },
+      {
+        "key": "D",
+        "text": "In patients with migraine with aura, a day with a visual aura lasting 5–60 minutes but without a headache attack should not be considered a migraine day."
+      },
+      {
+        "key": "E",
+        "text": "For individuals with chronic or refractory migraine, a ≥30% reduction has also been considered an acceptable threshold for a meaningful response."
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "a457d92c-___________.docx",
+    "source_doc": "北榮＿頭痛_命題紙格式"
+  },
+  {
+    "id": "a457d92c-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "",
+    "tags": [],
+    "question": "Headache disorder that responds absolutely to therapeutic doses of Indomethacin.",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Paroxysmal Hemicrania"
+      },
+      {
+        "key": "B",
+        "text": "Hemicrania Continua"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "a457d92c-___________.docx",
+    "source_doc": "北榮＿頭痛_命題紙格式"
+  },
+  {
+    "id": "a457d92c-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "",
+    "tags": [],
+    "question": "According to the Taiwan Headache Society treatment guidelines, which statement is/are CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Flunarizine may be used during pregnancy."
+      },
+      {
+        "key": "B",
+        "text": "CGRP monoclonal antibodies are recommended for migraine prevention during pregnancy."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "a457d92c-___________.docx",
+    "source_doc": "北榮＿頭痛_命題紙格式"
   }
 ]
