@@ -16481,5 +16481,390 @@
     "source": "Chen KS, Chen R. Principles of Electrophysiological Assessments for Movement Disorders. J Mov Disord. 2020 Jan;13(1):27-38. (Figure 3)\nDhar D, Kamble N, Pal PK. Long Latency Reflexes in Clinical Neurology: A Systematic Review. Can J Neurol Sci. 2023 Sep;50(5):751-763.",
     "source_file": "4d532ab5-_________10.docx",
     "source_doc": "北萬雙_動作障礙 10"
+  },
+  {
+    "id": "5b6f6d85-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "A patient presenting with foot drop is found to have decreased compound muscle action potential (CMAP) amplitude of the peroneal nerve recorded from the extensor digitorum brevis. Electromyography reveals abnormalities in the tibialis anterior and peroneus longus muscles, while the biceps femoris and gastrocnemius muscles are normal. What is the most likely site of the nerve lesion?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Deep peroneal nerve"
+      },
+      {
+        "key": "B",
+        "text": "Common peroneal nerve at the fibular head"
+      },
+      {
+        "key": "C",
+        "text": "Sciatic nerve"
+      },
+      {
+        "key": "D",
+        "text": "Lumbosacral plexus"
+      },
+      {
+        "key": "E",
+        "text": "L4/L5 nerve roots"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Electromyography and Neuromuscular Disorders, 4th ed, Chap 25",
+    "source_file": "5b6f6d85-_______.docx",
+    "source_doc": "高醫_神經生理"
+  },
+  {
+    "id": "5b6f6d85-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "Which of the following diseases is LEAST likely to show abnormalities in the first dorsal interosseous muscle during an electromyographic examination?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "C8/T1 radiculopathy"
+      },
+      {
+        "key": "B",
+        "text": "Polyneuropathy"
+      },
+      {
+        "key": "C",
+        "text": "Lateral cord plexopathy"
+      },
+      {
+        "key": "D",
+        "text": "Neurogenic thoracic outlet syndrome"
+      },
+      {
+        "key": "E",
+        "text": "Ulnar neuropathy"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Electromyography and Neuromuscular Disorders, 4th edition, Chap 29, 33",
+    "source_file": "5b6f6d85-_______.docx",
+    "source_doc": "高醫_神經生理"
+  },
+  {
+    "id": "5b6f6d85-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "Regarding the principles of Nerve Conduction Studies (NCS), which of the following statements is CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Tissue cooling results in higher compound muscle action potential (CMAP) and sensory nerve action potentials (SNAP) amplitudes, as well as a prolonged response duration."
+      },
+      {
+        "key": "B",
+        "text": "The absence of lower extremity SNAPs in older adults is invariably a pathological finding."
+      },
+      {
+        "key": "C",
+        "text": "A focal conduction block is never observed at any stage following an acute axonal injury."
+      },
+      {
+        "key": "D",
+        "text": "Because temporal dispersion affects SNAPs more significantly than CMAPs, sensory potentials are the preferred modality to evaluate temporal dispersion for diagnosing a conduction block."
+      },
+      {
+        "key": "E",
+        "text": "None of the above"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice, 8th ed., Chapter 36, pg.451",
+    "source_file": "5b6f6d85-_______.docx",
+    "source_doc": "高醫_神經生理"
+  },
+  {
+    "id": "5b6f6d85-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "A 55-year-old woman presents with a 2-year history of progressive right-sided hearing impairment and tinnitus. Examination reveals Bruns nystagmus and right peripheral facial palsy. MRI demonstrates a right cerebellopontine angle tumor. Which of the following statements is FALSE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "In typical Bruns nystagmus, the large-amplitude/low-frequency component appears on leftward gaze, and the small-amplitude/high-frequency component on rightward gaze."
+      },
+      {
+        "key": "B",
+        "text": "Brainstem auditory evoked potentials (BAEP) on the right may show prolonged wave I–III interpeak latency or absent later waves."
+      },
+      {
+        "key": "C",
+        "text": "With right facial nerve involvement, stimulation of the right supraorbital nerve may show abnormal R1 and right R2, while the left R2 is preserved."
+      },
+      {
+        "key": "D",
+        "text": "Following the tumor resection, she may develop facial synkinesis as a result of aberrant reinnervation secondary to facial nerve axonal injury."
+      },
+      {
+        "key": "E",
+        "text": "None of the above."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Neurology in Clinical Practice, 8th ed., 2022, Chap18, 35\nElectromyography and Neuromuscular Disorders, 4th ed, Chap 28",
+    "source_file": "5b6f6d85-_______.docx",
+    "source_doc": "高醫_神經生理"
+  },
+  {
+    "id": "5b6f6d85-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "Regarding the correlation between clinical diseases and the needle electromyography findings, which of the following statements is FALSE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Patients with amyotrophic lateral sclerosis (ALS) typically demonstrate poor activation and reduced recruitment."
+      },
+      {
+        "key": "B",
+        "text": "Myokymic discharges in the facial muscles may be associated with a pontine lesion, Guillain-Barré syndrome, or the delayed phase of Bell’s palsy."
+      },
+      {
+        "key": "C",
+        "text": "Prominent denervation potentials, including fibrillation and positive sharp waves, are common in patients with inclusion body myositis (IBM)."
+      },
+      {
+        "key": "D",
+        "text": "In Pompe disease, motor unit action potentials (MUAPs) in the proximal muscles are typically large-amplitude, long-duration, and polyphasic."
+      },
+      {
+        "key": "E",
+        "text": "None of the above."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Neurology in Clinical Practice, 8th ed., 2022, Chap 36\nElectromyography and Neuromuscular Disorders, 4th ed, Chap 15, 38",
+    "source_file": "5b6f6d85-_______.docx",
+    "source_doc": "高醫_神經生理"
+  },
+  {
+    "id": "5b6f6d85-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "Which of the following descriptions about single-fiber electromyography (SFEMG) is(are) TRUE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "SFEMG measures conduction velocity of motor nerves."
+      },
+      {
+        "key": "B",
+        "text": "Increased jitter on SFEMG confirms disorders of the neuromuscular junction."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Neurology in Clinical Practice, 8th ed., Chapter 36",
+    "source_file": "5b6f6d85-_______.docx",
+    "source_doc": "高醫_神經生理"
+  },
+  {
+    "id": "5b6f6d85-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "difficulty": "易",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "Regarding the use of physical examination findings to assist in differential diagnosis of lower extremity nerve lesions, which of the following statements is/are CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Hip adduction is impaired in femoral neuropathy."
+      },
+      {
+        "key": "2",
+        "text": "Ankle inversion is impaired in common peroneal neuropathy."
+      },
+      {
+        "key": "3",
+        "text": "Hamstring muscle weakness occurs in popliteal fossa lesions."
+      },
+      {
+        "key": "4",
+        "text": "A positive FAIR (flexion, adduction, and internal rotation) test and tenderness over the sciatic notch suggest piriformis syndrome."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "DeJong's The Neurologic Examination 8th ed, 2020, Chap 18",
+    "source_file": "5b6f6d85-_______.docx",
+    "source_doc": "高醫_神經生理"
+  },
+  {
+    "id": "5b6f6d85-08",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "難",
+    "tags": [
+      "基礎神經科學",
+      "周邊神經系統疾病"
+    ],
+    "question": "A 35-year-old man was referred with a 2-year history of slowly progressive bilateral foot drop, causing him to trip while walking. Examination revealed wasting of the distal leg and foot muscles, as well as pes cavus. All reflexes were absent. There was a subtle stocking distribution of sensory loss to vibration and light touch. Nerves were palpable and enlarged. The Nerve Conduction Study (NCS) results are shown below. Regarding his condition, which of the following statements is TRUE?",
+    "images": [
+      "images/5b6f6d85-08-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "The conduction block is shown in the NCS."
+      },
+      {
+        "key": "B",
+        "text": "PMP22 gene duplication on chromosome 17p11.2 is the most likely genetic cause."
+      },
+      {
+        "key": "C",
+        "text": "Intravenous immunoglobulin (IVIG) would be an effective first-line treatment."
+      },
+      {
+        "key": "D",
+        "text": "Anti-GM1 IgM antibodies should be tested to confirm the diagnosis."
+      },
+      {
+        "key": "E",
+        "text": "Testing for anti-NF155, anti-CNTN1, anti-Caspr1, and anti-NF186 antibodies is indicated given the poor response to standard immunotherapy."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Electromyography and Neuromuscular Disorders 4th edition, chapter 29",
+    "source_file": "5b6f6d85-_______.docx",
+    "source_doc": "高醫_神經生理"
+  },
+  {
+    "id": "5b6f6d85-09",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "Based on the electromyography (EMG) shown below, which of the following is the LEAST likely diagnosis?",
+    "images": [
+      "images/5b6f6d85-09-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Amyotrophic lateral sclerosis"
+      },
+      {
+        "key": "B",
+        "text": "Guillain-Barré syndrome, acute motor axonal neuropathy variant"
+      },
+      {
+        "key": "C",
+        "text": "Immune-mediated necrotizing myopathy"
+      },
+      {
+        "key": "D",
+        "text": "Duchenne muscular dystrophy"
+      },
+      {
+        "key": "E",
+        "text": "Chronic steroid myopathy"
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Neurology in Clinical Practice, 8th ed., Chap 36, p.458-459",
+    "source_file": "5b6f6d85-_______.docx",
+    "source_doc": "高醫_神經生理"
   }
 ]
