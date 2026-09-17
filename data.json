@@ -14856,5 +14856,1630 @@
     "source": "",
     "source_file": "a457d92c-___________.docx",
     "source_doc": "北榮＿頭痛_命題紙格式"
+  },
+  {
+    "id": "acf1ddf3-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "一位 1 歲幼兒因反覆發熱誘發全身性或半側發作與癲癇持續狀態（Status Epilepticus），基因檢測證實為SCN1A 基因 Drop-out/Loss-of-function 突變並診斷為 Dravet Syndrome。關於此病症之病理機轉與用藥原則，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "SCN1A突變主要導致椎體神經元（Pyramidal Neurons）電壓門控鈉通道過度活化"
+      },
+      {
+        "key": "B",
+        "text": "應優先選用 Carbamazepine 或 Phenytoin 以精準阻斷異常過度活化的鈉離子通道"
+      },
+      {
+        "key": "C",
+        "text": "機轉為 GABAergic 間質神經元（Interneurons）上Na_V1.1 通道功能喪失，導致抑制能力下降"
+      },
+      {
+        "key": "D",
+        "text": "乙琥胺（Ethosuximide）為此類患者控制肌陣攣與發熱發作的首選第一線單獨用藥"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "acf1ddf3-________.docx",
+    "source_doc": "中山_命題紙格式"
+  },
+  {
+    "id": "acf1ddf3-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "關於國際抗癲癇聯盟（ILAE）最新發佈之癲癇發作分類與定義修訂，下列何者為關鍵之觀念轉變？",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "劃分發作類型的關鍵點由起始部位（Onset）轉移為臨床是否合併痙攣（Convulsive）"
+      },
+      {
+        "key": "B",
+        "text": "意識評估基準由僅評估單一「覺知能力」（Awareness）改為整合「覺知與反應性」（Awareness & Responsiveness）之「Consciousness」"
+      },
+      {
+        "key": "C",
+        "text": "「癲癇緩解/解決」（Resolved）定義為連續 5 年無發作且停藥至少 2 年"
+      },
+      {
+        "key": "D",
+        "text": "凡單次無誘因發作（Unprovoked seizure），即便影像與 EEG 正常，亦可直接診斷為癲癇症（Epilepsy）"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "acf1ddf3-________.docx",
+    "source_doc": "中山_命題紙格式"
+  },
+  {
+    "id": "acf1ddf3-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "一位 55 歲男性因全身強直陣攣癲癇持續狀態（Convulsive Status Epilepticus）被送至急診。關於急救處置流程與臨床試驗實證，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "根據 RAMPART 試驗，未建立靜脈管路（IV）時，院前首選為肌肉注射 Midazolam (10 mg)"
+      },
+      {
+        "key": "B",
+        "text": "第一線 Benzodiazepine 劑量足夠下若發作未終止，應立即進行全身麻醉劑（如 Propofol）插管"
+      },
+      {
+        "key": "C",
+        "text": "ESETT 試驗證實 Levetiracetam 在終止第二線難治性發作的成功率顯著優於 Fosphenytoin"
+      },
+      {
+        "key": "D",
+        "text": "第一線藥物首選為靜脈慢速滴註 Diazepam 5 mg，以避免引起呼吸抑制"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "acf1ddf3-________.docx",
+    "source_doc": "中山_命題紙格式"
+  },
+  {
+    "id": "acf1ddf3-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "關於抗癲癇藥物（ASMs）的藥物動力學交互作用與基因篩檢指引，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Valproate 會誘發 UGT1A4 酵素，若併用 Lamotrigine 需將後者劑量加倍"
+      },
+      {
+        "key": "B",
+        "text": "台灣漢人族群開立 Carbamazepine 前，應篩檢HLA-B1502* 基因以預防 Stevens-Johnson 症候群（SJS）"
+      },
+      {
+        "key": "C",
+        "text": "Levetiracetam 主要經由肝臟 Cytochrome P450 (CYP3A4) 代謝，與許多藥物有強烈交互作用"
+      },
+      {
+        "key": "D",
+        "text": "Lacosamide 主要機轉為快速失活（Fast inactivation）鈉通道，對慢速失活（Slow inactivation）無影響"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "acf1ddf3-________.docx",
+    "source_doc": "中山_命題紙格式"
+  },
+  {
+    "id": "acf1ddf3-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "一名 16 歲青少年被診斷為少年肌陣攣癲癇（Juvenile Myoclonic Epilepsy, JME）。開立抗癲癇藥物時，下列何者為應避免使用且可能加重肌陣攣發作（Myoclonic seizures）的禁忌藥物？",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Valproate"
+      },
+      {
+        "key": "B",
+        "text": "Levetiracetam"
+      },
+      {
+        "key": "C",
+        "text": "Carbamazepine"
+      },
+      {
+        "key": "D",
+        "text": "Topiramate"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "acf1ddf3-________.docx",
+    "source_doc": "中山_命題紙格式"
+  },
+  {
+    "id": "c952f6882026neur-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "腦中風"
+    ],
+    "question": "A 65-year-old man presents with acute, persistent vertigo. Bedside neurological examination reveals unidirectional left-beating horizontal-torsional spontaneous nystagmus, which increases in amplitude on left gaze. During the head impulse test, a corrective saccade is observed when the head is rapidly turned to the right. No skew deviation is noted. He also reports new-onset hearing loss in the right ear.\nWhich of the following is the most appropriate interpretation of these findings?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "The abnormal right head impulse test essentially excludes a central vestibular lesion."
+      },
+      {
+        "key": "B",
+        "text": "The unidirectional horizontal-torsional nystagmus strongly favors vestibular neuritis, regardless of the auditory symptoms."
+      },
+      {
+        "key": "C",
+        "text": "The findings fulfill a peripheral HINTS pattern. Therefore, a negative brain MRI with diffusion-weighted imaging obtained within 48 hours of symptom onset can reliably exclude an acute ischemic stroke."
+      },
+      {
+        "key": "D",
+        "text": "New-onset unilateral hearing loss should raise concern for an AICA territory infarction despite an abnormal head impulse test."
+      },
+      {
+        "key": "E",
+        "text": "New-onset unilateral hearing loss favors an acute peripheral audiovestibular disorder and therefore makes a central ischemic lesion less likely."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Merritt’s Textbook of Neurology, 14th Edition, 2022; Chapter 5.\nKim JS, Newman-Toker DE, Kerber KA, Jahn K, Bertholon P, Waterston J, Lee H, Bisdorff A, Strupp M. Vascular vertigo and dizziness: Diagnostic criteria. J Vestib Res. 2022;32(3):205-222.",
+    "source_file": "c952f688-___2026_Neuro-otology.docx",
+    "source_doc": "中榮_2026 Neuro-otology"
+  },
+  {
+    "id": "c952f6882026neur-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "基礎神經科學",
+      "周邊神經系統疾病"
+    ],
+    "question": "Regarding the diagnosis and neuro-otological findings of acute unilateral vestibulopathy (AUVP/vestibular neuritis), which of the following statements is CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Because bedside head impulse testing (HIT) has limited sensitivity and specificity, caloric testing is preferred over video HIT as the first-line quantitative test for suspected AUVP."
+      },
+      {
+        "key": "B",
+        "text": "Subjective visual vertical (SVV) typically deviates toward the unaffected ear in AUVP and is useful for distinguishing peripheral from central vestibular lesions."
+      },
+      {
+        "key": "C",
+        "text": "New-onset unilateral audiological symptoms, such as hearing loss or tinnitus, may occur in AUVP and suggest more extensive involvement of the vestibulocochlear nerve."
+      },
+      {
+        "key": "D",
+        "text": "Typical spontaneous nystagmus in AUVP is direction-fixed, generally horizontal-torsional, and obeys Alexander’s law. Reduced vestibulo-ocular reflex function is demonstrated on the side opposite to the fast phase of the spontaneous nystagmus."
+      },
+      {
+        "key": "E",
+        "text": "AUVP more commonly affects the inferior vestibular nerve. Ocular VEMP (oVEMP) and cervical VEMP (cVEMP) testing can help distinguish inferior from superior AUVP."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Strupp M, Bisdorff A, Furman J, Hornibrook J, Jahn K, Maire R, Newman-Toker D, Magnusson M. Acute unilateral vestibulopathy/vestibular neuritis: Diagnostic criteria. J Vestib Res. 2022;32(5):389-406.",
+    "source_file": "c952f688-___2026_Neuro-otology.docx",
+    "source_doc": "中榮_2026 Neuro-otology"
+  },
+  {
+    "id": "c952f6882026neur-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "基礎神經科學",
+      "行為神經學"
+    ],
+    "question": "Regarding the proposed pathophysiologic mechanisms of persistent postural-perceptual dizziness (PPPD), determine which of the following statement(s) is/are correct.",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Patients with PPPD may have a lower threshold for detecting self-motion and tend to overestimate head tilt and postural sway, suggesting that misperception of motion may contribute to the persistence of symptoms."
+      },
+      {
+        "key": "B",
+        "text": "In the contemporary pathophysiologic model of PPPD, persistent misperception of motion may maintain a high-risk postural control strategy, shifting movement control priorities from smooth locomotion toward postural stability and promoting continued excessive reliance on visual cues for spatial orientation."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "1. Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): Consensus document of the committee for the Classification of Vestibular Disorders of the Bárány Society. J Vestib Res. 2017;27(4):191-208.\n2. Staab JP. Persistent Postural-Perceptual Dizziness: Review and Update on Key Mechanisms of the Most Common Functional Neuro-otologic Disorder. Neurol Clin. 2023 Nov;41(4):647-664.",
+    "source_file": "c952f688-___2026_Neuro-otology.docx",
+    "source_doc": "中榮_2026 Neuro-otology"
+  },
+  {
+    "id": "c952f6882026neur-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "difficulty": "難",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "Regarding the phase-dependent evolution of vestibular findings during attacks of unilateral Meniere disease, which of the following statements are correct?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "In right-sided Meniere disease, spontaneous nystagmus may initially beat toward the right ear during the irritative phase, reverse toward the left ear during the paretic phase, and then beat toward the right ear again during the recovery phase."
+      },
+      {
+        "key": "2",
+        "text": "Caloric–head impulse test dissociation, characterized by caloric canal paresis despite a relatively preserved video head impulse test, is frequently observed in Meniere disease and may serve as a useful diagnostic marker."
+      },
+      {
+        "key": "3",
+        "text": "During the irritative or recovery phase, paradoxical caloric hyper-responsiveness of the affected ear may occur and can mimic contralesional canal paresis."
+      },
+      {
+        "key": "4",
+        "text": "Vibration-induced nystagmus typically changes direction in parallel with spontaneous nystagmus, beating toward the affected ear during the irritative/recovery phases and toward the healthy ear during the paretic phase."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Lee SU, Park E, Kim HJ, Choi JY, Kim JS. Evolution of Vestibular Findings During and Between the Attacks of Meniere Disease: Update. Neurol Clin Pract. 2024 Apr;14(2):e200235.",
+    "source_file": "c952f688-___2026_Neuro-otology.docx",
+    "source_doc": "中榮_2026 Neuro-otology"
+  },
+  {
+    "id": "c952f6882026neur-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "A 56-year-old man presents with acute-onset persistent vertigo, nausea, and gait unsteadiness. His symptoms gradually improve over the following several days. There is no newly developed hearing loss or other focal neurological deficit. Vestibular function tests are performed, with the results shown in the following figure. The results of the caloric test are shown in panel A, and the findings of the video head impulse test (vHIT) are shown in panel B.\nWhich of the following is the most appropriate interpretation of these vestibular findings?",
+    "images": [
+      "images/c952f6882026neur-05-1.jpeg"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "The caloric test indicates left-sided vestibular hypofunction because the directional preponderance (DP) shows an 18% stronger left-beating response."
+      },
+      {
+        "key": "B",
+        "text": "The caloric test demonstrates right-sided unilateral weakness (UW). The reduced vestibulo-ocular reflex (VOR) gain during rightward head impulses with corrective saccades provides concordant evidence of right-sided peripheral vestibular hypofunction."
+      },
+      {
+        "key": "C",
+        "text": "The preserved total caloric response of 49°/s excludes a clinically significant vestibular hypofunction."
+      },
+      {
+        "key": "D",
+        "text": "The marked covert corrective saccades during rightward head impulses suggest a central vestibular lesion despite the caloric asymmetry."
+      },
+      {
+        "key": "E",
+        "text": "The findings represent caloric–vHIT dissociation because the caloric test is abnormal whereas the vHIT response of the affected side is preserved."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "1. Merritt’s Textbook of Neurology, 14th Edition, 2022; Chapter 29.\n2. Striteska M, Wexler D, Tichacek O, Mohamad A, Chovanec M, Schneider E. Vestibular asymmetry in caloric and video head impulse testing: Do we interpret it correctly? J Vestib Res. 2026 Jan;36(1):3-14.",
+    "source_file": "c952f688-___2026_Neuro-otology.docx",
+    "source_doc": "中榮_2026 Neuro-otology"
+  },
+  {
+    "id": "ec8ca390stroke6-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風（CVA）",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 72-year-old man with hypertension was brought to the emergency department 2 hours after sudden onset of slurred speech and numbness of the right hand. On examination he had mild dysarthria and decreased pinprick sensation over the right hand, without limb weakness, and he was able to walk unassisted. His NIHSS score was 2 (000 000 0000 01010). Non-contrast brain CT showed ASPECTS 10 without hemorrhage, and CT angiography revealed no large vessel occlusion. Which of the following statements is NOT correct?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "For minor non-disabling stroke, intravenous thrombolysis is not strongly recommended; best medical treatment with early antithrombotic therapy is preferred."
+      },
+      {
+        "key": "B",
+        "text": "In PRISMS, alteplase did not improve 90-day outcome versus aspirin in minor non-disabling stroke, and symptomatic ICH occurred only in the alteplase group."
+      },
+      {
+        "key": "C",
+        "text": "In ARAMIS, aspirin plus ticagrelor was non-inferior to intravenous alteplase for 90-day excellent outcome in minor non-disabling stroke."
+      },
+      {
+        "key": "D",
+        "text": "\"Disabling\" should be judged individually. Isolated hand clumsiness may be disabling if the patient's job requires fine motor function."
+      },
+      {
+        "key": "E",
+        "text": "If the patient’s upper limb strength worsens and his NIHSS increases to 5 (000 001 2000 11000), and the time from onset is still within 4 hours, intravenous thrombolysis can still be considered."
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "",
+    "source_file": "ec8ca390-__-Stroke-6____.docx",
+    "source_doc": "台大-Stroke-6題無答案"
+  },
+  {
+    "id": "ec8ca390stroke6-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風（CVA）",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "Which statement is incorrect regarding early (<24 h) post-thrombolysis antithrombotic use?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Intravenous aspirin should not be used due to increased risk of hemorrhage."
+      },
+      {
+        "key": "B",
+        "text": "Intravenous eptifibatide may be associated with higher mortality based on the MOST trial"
+      },
+      {
+        "key": "C",
+        "text": "Intravenous tirofiban can improve functional outcome without increasing intracranial hemorrhage, based on the RESCUE BT 2 trial."
+      },
+      {
+        "key": "D",
+        "text": "Early (<24 h) antiplatelet use can be considered in patients who received acute stenting for tandem lesions immediately after thrombolysis."
+      },
+      {
+        "key": "E",
+        "text": "Routine use of dual antiplatelets in patients with post-thrombolysis NIHSS <5 is not recommended."
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "",
+    "source_file": "ec8ca390-__-Stroke-6____.docx",
+    "source_doc": "台大-Stroke-6題無答案"
+  },
+  {
+    "id": "ec8ca390stroke6-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風（CVA）",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 68-year-old man underwent primary PCI for an anterior wall ST-elevation myocardial infarction (STEMI) 5 days ago and is still hospitalized. He suddenly develops left hemiparesis and gaze deviation. NIHSS is 12, and he arrives at the stroke unit 90 minutes after onset. Non-contrast brain CT shows no hemorrhage and ASPECTS 9; blood pressure and coagulation parameters are within acceptable limits. Which of the following statements is correct?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Because more than 72 hours have elapsed since the STEMI, intravenous thrombolysis can be given according to the standard protocol."
+      },
+      {
+        "key": "B",
+        "text": "Intravenous thrombolysis is not recommended in this setting, as guidelines advise against thrombolysis for ischemic stroke occurring within one week after STEMI."
+      },
+      {
+        "key": "C",
+        "text": "Had his cardiac event 5 days ago been an NSTEMI instead, intravenous thrombolysis would likewise be contraindicated."
+      },
+      {
+        "key": "D",
+        "text": "Among STEMI subtypes, inferior wall infarction carries the highest risk of left ventricular thrombus and cardiac complications after thrombolysis."
+      },
+      {
+        "key": "E",
+        "text": "When acute myocardial infarction and acute ischemic stroke occur simultaneously, thrombolysis is contraindicated until cardiac enzymes normalize."
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "",
+    "source_file": "ec8ca390-__-Stroke-6____.docx",
+    "source_doc": "台大-Stroke-6題無答案"
+  },
+  {
+    "id": "ec8ca390stroke6-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風（CVA）",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "",
+    "tags": [],
+    "question": "Which of the following condition is contraindicated to intravenous thrombolysis?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Ischemic stroke 3 weeks ago."
+      },
+      {
+        "key": "B",
+        "text": "Laparoscopic colectomy 10 days ago"
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "",
+    "source_file": "ec8ca390-__-Stroke-6____.docx",
+    "source_doc": "台大-Stroke-6題無答案"
+  },
+  {
+    "id": "ec8ca390stroke6-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風（CVA）",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "",
+    "tags": [],
+    "question": "Which of the following statement about intravenous thrombolysis is true?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "In patients with cerebral amyloid angiopathy who have a known history of symptomatic intracerebral hemorrhage, convexity subarachnoid hemorrhage, or disseminated cortical superficial siderosis, IVT is not recommended. "
+      },
+      {
+        "key": "2",
+        "text": "CADASIL is regarded as an absolute contraindication to IVT because of the severity of the underlying small vessel arteriopathy."
+      },
+      {
+        "key": "3",
+        "text": "In a patient with a known unruptured, untreated intracranial aneurysm smaller than 10 mm, IVT is reasonable. "
+      },
+      {
+        "key": "4",
+        "text": "Adult moyamoya disease carries a high hemorrhagic risk that IVT should be withheld."
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "",
+    "source_file": "ec8ca390-__-Stroke-6____.docx",
+    "source_doc": "台大-Stroke-6題無答案"
+  },
+  {
+    "id": "ec8ca390stroke6-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風（CVA）",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 64-year-old man suffered from right MCA M2 occlusion, NIHSS=7, status post intravenous thrombolysis within 1 hour of onset. However, 12 hours later the CT showed the above findings. Which of the following management is incorrect?\n選項：",
+    "images": [
+      "images/ec8ca390stroke6-06-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Check hemoglobin, platelet, PT, PTT, and fibrinogen."
+      },
+      {
+        "key": "B",
+        "text": "Administer cryopecipitate 10-12U immediately."
+      },
+      {
+        "key": "C",
+        "text": "If fibrinogen level is 100 mg/dL after infusion of cryoprecipitate, repeat infusion can be considered."
+      },
+      {
+        "key": "D",
+        "text": "Tranexamic acid is contraindicated in this patient."
+      },
+      {
+        "key": "E",
+        "text": "Consult neurosurgeon immediately."
+      }
+    ],
+    "answer": [],
+    "explanation": null,
+    "source": "",
+    "source_file": "ec8ca390-__-Stroke-6____.docx",
+    "source_doc": "台大-Stroke-6題無答案"
+  },
+  {
+    "id": "c7337c35pns10-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "周邊神經系統疾病",
+      "重症神經學"
+    ],
+    "question": "Which of the following statements regarding Guillain-Barré syndrome (GBS) is FALSE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "The acute motor axonal neuropathy (AMAN) subtype is frequently associated with preceding Campylobacter jejuni infection and the presence of anti-GM1 or anti-GD1a antibodies."
+      },
+      {
+        "key": "B",
+        "text": "The classic clinical course of GBS is a monophasic illness characterized by progressive, relatively symmetrical weakness that typically reaches its nadir within 4 weeks of symptom onset."
+      },
+      {
+        "key": "C",
+        "text": "Intravenous immunoglobulin (IVIg) and plasma exchange (PE) are equally effective in treating GBS, a combination therapy (such as IVIg followed by PE) is routinely recommended as it provides significantly better clinical outcomes than either treatment alone."
+      },
+      {
+        "key": "D",
+        "text": "The modified Erasmus GBS Outcome Score (mEGOS), which incorporates the patient's age, presence of preceding diarrhea, and MRC sum score, is a valuable tool for predicting the probability of regaining independent walking at 6 months."
+      },
+      {
+        "key": "E",
+        "text": "The Erasmus GBS Respiratory Insufficiency Score (EGRIS) is used to predict the risk of requiring mechanical ventilation within the first week of admission, evaluating factors including days between onset and admission, presence of facial/bulbar weakness, and MRC sum score."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "European Academy of Neurology/Peripheral Nerve Society Guideline on diagnosis and treatment of Guillain– Barré syndrome. Eur J Neurol. 2023;30:3646-3674.",
+    "source_file": "c7337c35-________PNS_10_.docx",
+    "source_doc": "北萬雙 神經生理PNS_10題"
+  },
+  {
+    "id": "c7337c35pns10-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "Which of the following statement(s) regarding autonomic function tests is (are) correct?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Heart-rate variability during cyclic deep breathing primarily evaluates cardiovagal function."
+      },
+      {
+        "key": "B",
+        "text": "The blood-pressure response during a head-up tilt test primarily evaluates sympathetic adrenergic function."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Merritt’s Neurology 14th E, Chapter 28",
+    "source_file": "c7337c35-________PNS_10_.docx",
+    "source_doc": "北萬雙 神經生理PNS_10題"
+  },
+  {
+    "id": "c7337c35pns10-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "Which of the following statements regarding the late responses (F-wave and H-reflex) in nerve conduction studies is (are) TRUE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "The F-wave is a pure motor response resulting from antidromic activation of anterior horn cells, whereas the H-reflex is a true reflex primarily mediated by a monosynaptic pathway involving Ia sensory afferent fibers."
+      },
+      {
+        "key": "B",
+        "text": "In routine clinical electrodiagnostic practice, the H-reflex is commonly obtained from the tibial nerve, while F-waves can be readily obtained from almost any motor nerve (e.g., median, ulnar, tibial, and peroneal nerves)."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Electromyography and Neuromuscular Disorders: Clinical-Electrophysiologic-Ultrasound Correlations, Fourth Edition (David C. Preston, MD & Barbara E. Shapiro, MD, PhD)",
+    "source_file": "c7337c35-________PNS_10_.docx",
+    "source_doc": "北萬雙 神經生理PNS_10題"
+  },
+  {
+    "id": "c7337c35pns10-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "difficulty": "中等",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "Regarding the clinical features of systemic vasculitides involving the peripheral nervous system, which of the following statements are correct?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Peripheral nerve involvement occurs in approximately 50%–75% of patients with polyarteritis nodosa."
+      },
+      {
+        "key": "2",
+        "text": "Peripheral nerve lesions are exceedingly rare in giant cell arteritis, occurring in fewer than 1% of patients."
+      },
+      {
+        "key": "3",
+        "text": "Eosinophilic granulomatosis with polyangiitis typically presents with asthma, sinusitis, and eosinophilia."
+      },
+      {
+        "key": "4",
+        "text": "Mixed cryoglobulinemia predominantly affects medium-sized vessels and is classified as a medium-vessel vasculitis."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Neurology in Clinical Practice. 8th edition. Chapter 106",
+    "source_file": "c7337c35-________PNS_10_.docx",
+    "source_doc": "北萬雙 神經生理PNS_10題"
+  },
+  {
+    "id": "c7337c35pns10-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "difficulty": "難",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "A 58-year-old man without diabetes presents with a 2-year history of progressive numbness and burning pain in both feet, followed by distal leg weakness. He also reports orthostatic dizziness, alternating diarrhea and constipation, and a history of bilateral carpal tunnel release. His father had progressive gait difficulty and died of unexplained cardiomyopathy at the age of 65. Regarding the diagnosis and treatment of this patient, which of the following statements are correct?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "The A97S variant is the most common transthyretin (TTR) variant associated with hereditary transthyretin amyloidosis (ATTR) in Taiwan."
+      },
+      {
+        "key": "2",
+        "text": "Grade 2 or 3 myocardial uptake on technetium (99mTc)-based tracer scintigraphy scanning, together with the absence of a clonal plasma cell process, has a high positive predictive value for ATTR amyloidosis."
+      },
+      {
+        "key": "3",
+        "text": "Patisiran and vutrisiran are RNA interference therapies that reduce TTR production, whereas tafamidis acts by stabilizing the TTR tetramer."
+      },
+      {
+        "key": "4",
+        "text": "Liver transplantation prevents further disease progression across different ATTR genotypes and remains the preferred treatment for most patients."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Neurology in Clinical Practice. 8th edition. Chapter 106\nKaram, Chafic et al. “Diagnosis and treatment of hereditary transthyretin amyloidosis with polyneuropathy in the United States: Recommendations from a panel of experts.” Muscle & nerve vol. 69,3 (2024): 273-287.",
+    "source_file": "c7337c35-________PNS_10_.docx",
+    "source_doc": "北萬雙 神經生理PNS_10題"
+  },
+  {
+    "id": "c7337c35pns10-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "difficulty": "中等",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "Regarding diabetic lumbosacral radiculoplexus neuropathy (DLRPN), also known as diabetic amyotrophy, which of the following statements is(are) TRUE?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "The typical clinical syndrome begins with painful, predominantly proximal weakness in one leg and then spreads to the distal legs during the ensuing months."
+      },
+      {
+        "key": "2",
+        "text": "Aggressive glycemic control is a key disease-modifying factor and can significantly reverse the neuropathy."
+      },
+      {
+        "key": "3",
+        "text": "Imaging findings in persons with DLRPN may be completely normal, and electromyography and nerve conduction studies can help support the diagnosis."
+      },
+      {
+        "key": "4",
+        "text": "Profound weight loss is rarely seen in this condition, and its presence strongly suggests other potential malignancies."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "N Engl J Med 2026;394:2460-9. Case 18-2026: A 53-Year-Old Man with Leg Weakness, Pain, and Weight Loss. (Page 2465, 2468)",
+    "source_file": "c7337c35-________PNS_10_.docx",
+    "source_doc": "北萬雙 神經生理PNS_10題"
+  },
+  {
+    "id": "c7337c35pns10-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "A 38-year-old woman presents with acute right-sided facial weakness involving both the upper and lower face. She has no limb weakness, sensory loss, dysarthria, or ataxia. Which of the following blink reflex patterns support the diagnosis of right Bell’s palsy? (1. represents the normal pattern)",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Only pattern 2"
+      },
+      {
+        "key": "B",
+        "text": "Only pattern 4"
+      },
+      {
+        "key": "C",
+        "text": "Pattern 2 and 3"
+      },
+      {
+        "key": "D",
+        "text": "Pattern 2 and 4"
+      },
+      {
+        "key": "E",
+        "text": "Pattern 3 and 4"
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Electromyography and Neuromuscular Disorders: Clinical-Electrophysiologic-Ultrasound Correlations, Fourth Edition (David C. Preston, MD & Barbara E. Shapiro, MD, PhD), Chapter 5",
+    "source_file": "c7337c35-________PNS_10_.docx",
+    "source_doc": "北萬雙 神經生理PNS_10題"
+  },
+  {
+    "id": "c7337c35pns10-08",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "難",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "A 45-year-old female migrant worker presented with a 2-year history of progressive, painless weakness and numbness involving his bilateral hands and feet. She also noticed multiple hypopigmented skin patches with diminished temperature and pain sensation over her trunk and limbs. Neurological examination revealed palpable, nodular enlargement of the bilateral ulnar, great auricular, and common peroneal nerves, along with asymmetric sensory loss.\nA left sural nerve biopsy was performed. The clinical image of the affected nerve (Figure 1) and the histopathological findings of the sural nerve biopsy (Figure 2) are shown below. (A) H&E stain (B,C) toluidine blue stain (D) Wade stain.\nWhat is the MOST LIKELY diagnosis?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Leprous neuropathy"
+      },
+      {
+        "key": "B",
+        "text": "Amyloid neuropathy"
+      },
+      {
+        "key": "C",
+        "text": "HIV neuropathy"
+      },
+      {
+        "key": "D",
+        "text": "Sarcoid neuropathy"
+      },
+      {
+        "key": "E",
+        "text": "Vasculitic neuropathy"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Boegle AK, Narayanaswami P. Infectious Neuropathies. Continuum (Minneap Minn). 2023;29(5):1418-1443. doi:10.1212/CON.0000000000001334",
+    "source_file": "c7337c35-________PNS_10_.docx",
+    "source_doc": "北萬雙 神經生理PNS_10題"
+  },
+  {
+    "id": "c7337c35pns10-09",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "A 35-year-old man presents to the neurology clinic with progressive weakness in his distal limbs and difficulty releasing his grip after shaking hands. Physical examination reveals frontal balding, bilateral ptosis, and wasting of the temporalis and masseter muscles. A needle electromyography (EMG) is performed. Based on the clinical and EMG findings, what is the MOST LIKELY diagnosis?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Amyotrophic lateral sclerosis"
+      },
+      {
+        "key": "B",
+        "text": "Inclusion body myositis"
+      },
+      {
+        "key": "C",
+        "text": "Kennedy disease"
+      },
+      {
+        "key": "D",
+        "text": "Myotonic dystrophy type 1"
+      },
+      {
+        "key": "E",
+        "text": "Isaacs syndrome"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Electromyography and Neuromuscular Disorders: Clinical-Electrophysiologic-Ultrasound Correlations, Fourth Edition (David C. Preston, MD & Barbara E. Shapiro, MD, PhD), Chapter 39",
+    "source_file": "c7337c35-________PNS_10_.docx",
+    "source_doc": "北萬雙 神經生理PNS_10題"
+  },
+  {
+    "id": "a5c0a73b25-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "A 22-year-old man presented to the clinic with a 1-year history of progressive difficulty in standing on his tiptoes. He first noticed the symptom when he could no longer reach for items on the top shelf of his closet and had trouble stretching upward during daily chores. He also reported that while walking on flat ground felt relatively normal, running or climbing stairs had become noticeably clumsy and required significant effort during the push-off phase. On physical examination, there was visible bilateral atrophy of the calves, particularly affecting the gastrocnemius muscles. He was entirely unable to perform a single-leg heel raise on either side, though ankle dorsiflexion strength remained fully preserved. Which of the following diseases shares the same gene mutation as this 22-year-old man's condition?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Welander distal myopathy"
+      },
+      {
+        "key": "B",
+        "text": "GNE myopathy"
+      },
+      {
+        "key": "C",
+        "text": "Emery-Dreifuss muscular dystrophy"
+      },
+      {
+        "key": "D",
+        "text": "Dysferlinopathy"
+      },
+      {
+        "key": "E",
+        "text": "Limb-girdle muscular dystrophy R12"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice, 8th edition, Chapter 109",
+    "source_file": "a5c0a73b-_____25_.docx",
+    "source_doc": "林長_基因25題"
+  },
+  {
+    "id": "a5c0a73b25-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "A 60-year-old male presented to the neurology clinic with a 2-year history of progressive gait instability, frequent stumbling, and intermittent dizziness. He recalled that during the first year, his symptoms were strictly episodic, with bouts of severe imbalance lasting several hours that were occasionally triggered by alcohol consumption, but he completely recovered between episodes. However, his walking difficulty has recently become constant. Physical examination revealed a wide-based gait, mild dysarthria, bilateral past-pointing, and a prominent downbeat nystagmus on lateral and downward gaze. Brain MRI showed isolated mild cerebellar atrophy. Which of the following diseases shares the same repeat expansion sequence (nucleotide motif) as the condition described above?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Neuronal intranuclear inclusion disease"
+      },
+      {
+        "key": "B",
+        "text": "Friedreich's ataxia"
+      },
+      {
+        "key": "C",
+        "text": "Kennedy disease"
+      },
+      {
+        "key": "D",
+        "text": "Oculopharyngeal muscular dystrophy"
+      },
+      {
+        "key": "E",
+        "text": "C9orf72-associated amyotrophic lateral sclerosis/frontotemporal dementia"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Yomtoob J et al. Pearls & Oy-sters: SCA27B as an Elusive Genetic Cause of Episodic Neurologic Symptoms in Later Adulthood. Neurology. 2026 Mar 24;106(6):e214754.\nReetz K et al. Friedreich's ataxia-a rare multisystem disease. Lancet Neurol. 2025 Jul;24(7):614-624.",
+    "source_file": "a5c0a73b-_____25_.docx",
+    "source_doc": "林長_基因25題"
+  },
+  {
+    "id": "a5c0a73b25-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙",
+      "發展與遺傳性疾病"
+    ],
+    "question": "Regarding the genetics, clinical features, and targeted treatments of treatable genetic ataxias, which of the following statements is INCORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Cerebrotendinous xanthomatosis (CYP27A1 mutation) presents with ataxia, juvenile cataracts, and tendon xanthomas, and can be treated with chenodeoxycholic acid (CDCA)."
+      },
+      {
+        "key": "B",
+        "text": "SCA27B (FGF14 CAG repeat expansion) features episodic ataxia and downbeat nystagmus, responding favorably to 4-Aminopyridine."
+      },
+      {
+        "key": "C",
+        "text": "Glut1 deficiency (SLC2A1 mutation) causes paroxysmal exertion-induced ataxia and is primarily treated with a ketogenic diet."
+      },
+      {
+        "key": "D",
+        "text": "Ataxia with vitamin E deficiency (TTPA mutation) mimics Friedreich's ataxia and requires lifelong high-dose oral vitamin E supplementation."
+      },
+      {
+        "key": "E",
+        "text": "Niemann-Pick disease type C (NPC mutation) features ataxia and vertical supranuclear gaze palsy, and is treated with miglustat via substrate reduction therapy."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Stezin A et al. Treatable Ataxias: How to Find the Needle in the Haystack?. J Mov Disord. 2022;15(3):206-226.\nBradley and Daroff's Neurology in Clinical Practice, 8th Edition, Chapter 23",
+    "source_file": "a5c0a73b-_____25_.docx",
+    "source_doc": "林長_基因25題"
+  },
+  {
+    "id": "a5c0a73b25-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "發展與遺傳性疾病",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "發展與遺傳性疾病"
+    ],
+    "question": "Which of the following gene-mutation-associated movement disorders is characteristically associated with the \"Ears of the Lynx\" sign on brain MRI?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "SPAST"
+      },
+      {
+        "key": "B",
+        "text": "ZFYVE26"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Merritt's Neurology, 14th Edition, Chapter 115",
+    "source_file": "a5c0a73b-_____25_.docx",
+    "source_doc": "林長_基因25題"
+  },
+  {
+    "id": "a5c0a73b25-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "發展與遺傳性疾病",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "發展與遺傳性疾病"
+    ],
+    "question": "A 20-year-old male presents to the neurology clinic due to progressive bilateral ptosis and diplopia for 3 years. He also notices proximal muscle weakness and has difficulty climbing stairs. Neurological examinations external ophthalmoplegia and pigmentary retinopathy. An electrocardiogram (ECG) demonstrates a second-degree atrioventricular (AV) block. A muscle biopsy is performed, and the histopathological findings are shown below (A: Modified Gomori trichrome stain; B: Succinate dehydrogenase [SDH] stain; C: Cytochrome c oxidase [COX] stain). Similar muscle biopsy findings (characterized by ragged-red, SDH-hyperreactive, and COX-deficient fibers) are MOST likely to be found in a patient with a mutation in which of the following genes?",
+    "images": [
+      "images/a5c0a73b25-05-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "A homoplasmic m.14484T>C mutation in MT-ND6"
+      },
+      {
+        "key": "B",
+        "text": "A heteroplasmic m.8993T>G mutation in MT-ATP6"
+      },
+      {
+        "key": "C",
+        "text": "An autosomal recessive mutation in NAXE"
+      },
+      {
+        "key": "D",
+        "text": "A homozygous loss-of-function mutation in the nuclear POLG gene"
+      },
+      {
+        "key": "E",
+        "text": "An autosomal dominant mutation in the DMD gene A: Modified Gomori trichrome stain; B: Succinate dehydrogenase (SDH) stain; C: Cytochrome c oxidase (COX) stain."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "a5c0a73b-_____25_.docx",
+    "source_doc": "林長_基因25題"
+  },
+  {
+    "id": "4d532ab510-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "A patient with Parkinson disease presents with high fever, severe rigidity, and autonomic instability shortly after discontinuing their carbidopa/levodopa. Which movement disorder emergency should be suspected?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Dystonic storm"
+      },
+      {
+        "key": "B",
+        "text": "Parkinsonian hyperpyrexia"
+      },
+      {
+        "key": "C",
+        "text": "Neuroleptic malignant syndrome"
+      },
+      {
+        "key": "D",
+        "text": "Serotonin syndrome"
+      },
+      {
+        "key": "E",
+        "text": "Malignant hyperthemia"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Merritt's Neurology 14ed Chapter 13, Table 13.5",
+    "source_file": "4d532ab5-_________10.docx",
+    "source_doc": "北萬雙_動作障礙 10"
+  },
+  {
+    "id": "4d532ab510-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "Which characteristic finding on a physical exam would help differentiate a functional (psychogenic) movement disorder from an organic one?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Overflow"
+      },
+      {
+        "key": "B",
+        "text": "Worsening during finger-to-nose testing"
+      },
+      {
+        "key": "C",
+        "text": "Entrainment of the tremor frequency"
+      },
+      {
+        "key": "D",
+        "text": "Improvement with alcohol consumption"
+      },
+      {
+        "key": "E",
+        "text": "Task specificity"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Merritt's Neurology 14ed Chapter 13, Table 13.4",
+    "source_file": "4d532ab5-_________10.docx",
+    "source_doc": "北萬雙_動作障礙 10"
+  },
+  {
+    "id": "4d532ab510-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "Which specific respiratory complication is associated with Multiple System Atrophy (MSA) and may necessitate a tracheostomy?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Bronchospasm"
+      },
+      {
+        "key": "B",
+        "text": "Aspiration pneumonia"
+      },
+      {
+        "key": "C",
+        "text": "Diaphragmatic paralysis"
+      },
+      {
+        "key": "D",
+        "text": "Central sleep apnea"
+      },
+      {
+        "key": "E",
+        "text": "Stridor"
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Merritt's Neurology 14ed Chapter 87, Table 13.4",
+    "source_file": "4d532ab5-_________10.docx",
+    "source_doc": "北萬雙_動作障礙 10"
+  },
+  {
+    "id": "4d532ab510-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "What is the characteristic featured to distinguish 'classic tardive dyskinesia' from typical 'chorea'?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Tardive dyskinesias are always rhythmic and oscillatory"
+      },
+      {
+        "key": "B",
+        "text": "Classic chorea is strictly limited to the orobuccolingual region"
+      },
+      {
+        "key": "C",
+        "text": "Tardive dyskinesias are purely semivoluntary and suppressible"
+      },
+      {
+        "key": "D",
+        "text": "Tardive dyskinesias are often more stereotyped and may include dystonic features"
+      },
+      {
+        "key": "E",
+        "text": "Tardive dyskinesia is triggered only by sudden auditory startle"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Merritt's Neurology 14ed Chapter 83",
+    "source_file": "4d532ab5-_________10.docx",
+    "source_doc": "北萬雙_動作障礙 10"
+  },
+  {
+    "id": "4d532ab510-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙",
+      "發展與遺傳性疾病"
+    ],
+    "question": "Regarding to the genetics of movement disorders, which statement is INCORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Mutation in the PRKN gene cause autosomal recessive juvenile parkinsonism, leading to loss of E3 ubiquitin ligase activity and impaired mitophagy"
+      },
+      {
+        "key": "B",
+        "text": "MAPT mutations are associated with tau-positive includions, whereas GRN mutations typically result in TDP-43-positive inclusions"
+      },
+      {
+        "key": "C",
+        "text": "The most common genetic risk factor for the development of both Parkinson's disease and Lewy body dementia is mutations in the GBA gene"
+      },
+      {
+        "key": "D",
+        "text": "The anticipation is observed in Huntington disease, typically occurring when the CAG expansion is inherited from the mother"
+      },
+      {
+        "key": "E",
+        "text": "Friedreich ataxia is caused by a GAA repeat expansion in intron 1 of FXN gene, leading to transcriptional silencing and frataxin deficiency"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Merritt's Neurology 14ed Chapter 53, 82, 85, 86",
+    "source_file": "4d532ab5-_________10.docx",
+    "source_doc": "北萬雙_動作障礙 10"
+  },
+  {
+    "id": "4d532ab510-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "Wilson disease is an important 'can't miss' genetic movement disorder. Mutations in the ATP7B gene primarily affect which physiological process?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "The intestinal absorption of dietary iron and its storage in the liver"
+      },
+      {
+        "key": "B",
+        "text": "The lysosomal degradation of glycosphingolipids in neurons"
+      },
+      {
+        "key": "C",
+        "text": "The transport of manganese across the blood-brain barrier into the basal ganglia"
+      },
+      {
+        "key": "D",
+        "text": "The biliary excretion of copper and its incorporation into ceruloplasmin"
+      },
+      {
+        "key": "E",
+        "text": "The resorption of copper in the proximal renal tubules"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Merritt's Neurology 14ed Chapter 139",
+    "source_file": "4d532ab5-_________10.docx",
+    "source_doc": "北萬雙_動作障礙 10"
+  },
+  {
+    "id": "4d532ab510-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "A 58-year-old patient is suspected of having Multiple System Atrophy (MSA). Inspiratory stridor is a life-threatening respiratory complication of MSA. Which of the following statements are correct?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Clinical interventions include nasal continuous positive airway pressure (CPAP) or local botulinum toxin injections into the thyroarytenoid muscles can be helpful."
+      },
+      {
+        "key": "B",
+        "text": "The medications of choice is combination of high-dose intravenous bromocriptine and dantrolene."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Merritt's Neurology 14ed Chapter 87",
+    "source_file": "4d532ab5-_________10.docx",
+    "source_doc": "北萬雙_動作障礙 10"
+  },
+  {
+    "id": "4d532ab510-08",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "When performing history taking and neurological physical examinations on patients with Parkinson's disease, which of the following clinical observations or exam findings are correct?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "The \"pull test\" is performed primarily to evaluate a patient's postural instability caused by basal ganglia pathology."
+      },
+      {
+        "key": "2",
+        "text": "Freezing of gait is most easily provoked during a clinical examination when the patient attempts to walk through a broad hallway or crosswalk."
+      },
+      {
+        "key": "3",
+        "text": "The Myerson sign (glabellar reflex) is commonly positive, manifesting as a failure of the blinking response to habituate when the patient's glabella is repeatedly tapped."
+      },
+      {
+        "key": "4",
+        "text": "In the early stage of typical Parkinson's disease, the most common continuous gait characteristics are a wide base of support, high step height, and foot drop."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "",
+    "source_file": "4d532ab5-_________10.docx",
+    "source_doc": "北萬雙_動作障礙 10"
+  },
+  {
+    "id": "4d532ab510-09",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "The pictures showed a patient presenting with a progressive gait disorder. Which ONE of the following description is INCORRECT?",
+    "images": [
+      "images/4d532ab510-09-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "This patient was working in ferromanganese alloy factor."
+      },
+      {
+        "key": "B",
+        "text": "The patient was a case of spinocerebellar ataxia type 3"
+      },
+      {
+        "key": "C",
+        "text": "SLC30A10 and SLC39A14 can be the genetic cause in childhood onset cases"
+      },
+      {
+        "key": "D",
+        "text": "Chelation therapy can prevent or at least partly reverse symptoms."
+      },
+      {
+        "key": "E",
+        "text": "Brain MRI showed hyperintense signal on T2WI in basal ganglia"
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Huang CC, Chu NS, Lu CS, Calne DB. Cock gait in manganese intoxication. Mov Disord. 1997 Sep;12(5):807-8. (Figure 1)\nMerritt's Neurology 14ed Chapter 79, Table 79.11\nRocha E, Vale TC, Kok F, Pedroso JL, Barsottini OG. Teaching NeuroImages: Spinocerebellar ataxia type 3 presenting with a cock-walk gait phenotype. Neurology. 2017 Oct 10;89(15):e192.",
+    "source_file": "4d532ab5-_________10.docx",
+    "source_doc": "北萬雙_動作障礙 10"
+  },
+  {
+    "id": "4d532ab510-10",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "A patient received electrophysiological assessment. The electrical stimulation was applied on the median nerve at the wrist, with the thumb, kept abducted at 20% of maximal force. Surface EMG recording is obtained from abductor pollicis brevis, filtered at 10–3000 Hz, rectified, and averaged over 64–256 sweeps. Which ONE of the following description is CORRECT?",
+    "images": [
+      "images/4d532ab510-10-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "This is a characteristic finding for subcortical myoclonus."
+      },
+      {
+        "key": "B",
+        "text": "This test is called short latency reflex"
+      },
+      {
+        "key": "C",
+        "text": "It usually appears between 20 and 40 ms post-stimulus, sitting between fast spinal reflexes and slow voluntary movements."
+      },
+      {
+        "key": "D",
+        "text": "LLR magnitude and duration correlated with the hypertonia in patients with Parkinson's disease."
+      },
+      {
+        "key": "E",
+        "text": "Shorter LLR-II latency is common in multiple sclerosis."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Chen KS, Chen R. Principles of Electrophysiological Assessments for Movement Disorders. J Mov Disord. 2020 Jan;13(1):27-38. (Figure 3)\nDhar D, Kamble N, Pal PK. Long Latency Reflexes in Clinical Neurology: A Systematic Review. Can J Neurol Sci. 2023 Sep;50(5):751-763.",
+    "source_file": "4d532ab5-_________10.docx",
+    "source_doc": "北萬雙_動作障礙 10"
   }
 ]
