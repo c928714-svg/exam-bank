@@ -2981,7 +2981,28 @@
     "images": [
       "images/4bdc23b8-11-1.png"
     ],
-    "options": [],
+    "options": [
+      {
+        "key": "A",
+        "text": ""
+      },
+      {
+        "key": "B",
+        "text": ""
+      },
+      {
+        "key": "C",
+        "text": ""
+      },
+      {
+        "key": "D",
+        "text": ""
+      },
+      {
+        "key": "E",
+        "text": ""
+      }
+    ],
     "answer": [],
     "explanation": "Limbic pattern e.g. anti-LGI1, ddx: HSE, SREAT, LGG, post ictal\nStriatal pattern e.g. antiCV2/CRMP5, ddx: CJD\nPerivascular enhancement e.g. anti-GDAP, ddx: LYG, neurosarcoidosis\nDiencephalic/brainstem e.g. anti-Ma2, ddx: Lysteria, Behcet, viral\nCortical pattern e.g. anti-GABAbR, ddx: infectious encephalitis, stroke",
     "source": "Autoimmune encephalitis: what the radiologist needs to know Neuroradiology Volume 66, pa…(出處引用被截斷)",
@@ -18098,5 +18119,3246 @@
     "source": "Neurology in Clinical Practice, 8th ed., Chapter 35",
     "source_file": "1750d69f-___Neurophysiology_2.docx",
     "source_doc": "高醫_Neurophysiology 2"
+  },
+  {
+    "id": "5954c65e-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "An 18-year-old lady with a history of absence epilepsy presented to the clinic with a 6-month history of unsteady gait and abnormal posture in the lower limbs. In addition, paroxysmal involuntary movements following prolonged exercise were noted. Which of the following statements is FALSE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "The syndrome results from heterozygous mutations in the SLC2A1 gene."
+      },
+      {
+        "key": "B",
+        "text": "The phenotypic spectrum is broad and age-dependent, and paroxysmal exertional dyskinesia can be one of the presentations."
+      },
+      {
+        "key": "C",
+        "text": "Trigger factors include fasting and exercise."
+      },
+      {
+        "key": "D",
+        "text": "Low glucose and high lactate levels in the CSF are characteristic of this syndrome."
+      },
+      {
+        "key": "E",
+        "text": "Ketogenic diet therapy (KDT) is the primary treatment."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Mochel F et al. Prospective Multicenter Validation of a Simple Blood Test for the Diagnosis of Glut1 Deficiency Syndrome. Neurology. 2023 Jun 6;100(23):e2360-e2373.\nDe Giorgis V et al. GLUT1 deficiency syndrome 2013: current state of the art. Seizure. 2013 Dec;22(10):803-11.\nMerritt's Neurology, 14th Edition, Chapter 79",
+    "source_file": "5954c65e-______5_.docx",
+    "source_doc": "林長_動障_5題"
+  },
+  {
+    "id": "5954c65e-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "A 20-year-old female comes to your clinic complaining of gradually progressing muscle stiffness and slow muscle relaxation after contraction. She also complained of excessive sweating. She does not have unique facial appearances nor short stature. EMG presented with a very high firing rate (150-250 Hz). Which of the following is most likely FALSE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "This condition is associated with VGKC autoantibodies."
+      },
+      {
+        "key": "B",
+        "text": "The mechanism for intermittent myokymia is identical to those of episodic ataxia 1."
+      },
+      {
+        "key": "C",
+        "text": "Malignancy screening should be done in this patient."
+      },
+      {
+        "key": "D",
+        "text": "The stiffness disappears during sleep or under general anesthesia."
+      },
+      {
+        "key": "E",
+        "text": "The muscle contraction symptoms can be treated with anticonvulsants such as carbamazepine."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Merritt’s Neurology, 14th edition, Chapter 98\nBradley and Daroff’s Neurology in Clinical Practice, 8th edition, Chapter 98",
+    "source_file": "5954c65e-______5_.docx",
+    "source_doc": "林長_動障_5題"
+  },
+  {
+    "id": "5954c65e-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙",
+      "發展與遺傳性疾病"
+    ],
+    "question": "Which of the following Parkinson's disease-associated genes is/are characterized by a pathogenic mutation that leads to decreased enzymatic activity?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "LRRK2"
+      },
+      {
+        "key": "B",
+        "text": "GBA1"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Merritt's Neurology, 14th Edition, Chapter 86, page 874",
+    "source_file": "5954c65e-______5_.docx",
+    "source_doc": "林長_動障_5題"
+  },
+  {
+    "id": "5954c65e-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "發展與遺傳性疾病",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "difficulty": "中等",
+    "tags": [
+      "發展與遺傳性疾病"
+    ],
+    "question": "Which of the following genetic disorders typically exhibit the phenomenon of clinical anticipation?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "DMPK gene mutation in myotonic dystrophy type 1."
+      },
+      {
+        "key": "2",
+        "text": "ZNF9 gene mutation in myotonic dystrophy type 2."
+      },
+      {
+        "key": "3",
+        "text": "HTT gene mutation in Huntington's disease."
+      },
+      {
+        "key": "4",
+        "text": "C9orf72 repeat expansion in FTD/ALS."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice, 8th Edition, Chapter 95 / Chapter 97 / Chapter 109",
+    "source_file": "5954c65e-______5_.docx",
+    "source_doc": "林長_動障_5題"
+  },
+  {
+    "id": "5954c65e-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙",
+      "發展與遺傳性疾病"
+    ],
+    "question": "A patient presents with early-onset progressive extrapyramidal symptoms. A representative T2-weighted brain MRI is shown below. Which of the following statements regarding the most likely diagnosis is CORRECT?",
+    "images": [
+      "images/5954c65e-05-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "It is the most common form of neurodegeneration with brain iron accumulation (NBIA) and is caused by autosomal recessive mutations in the PLAN gene."
+      },
+      {
+        "key": "B",
+        "text": "The radiological sign shown features a dark rim due to copper accumulation and a bright center caused by edema and necrosis."
+      },
+      {
+        "key": "C",
+        "text": "This specific MRI finding is also the classic radiological hallmark of Wilson disease and neuroferritinopathy."
+      },
+      {
+        "key": "D",
+        "text": "Widespread alpha-synuclein-positive Lewy bodies and hyperphosphorylated tau tangles are the primary pathological findings."
+      },
+      {
+        "key": "E",
+        "text": "In addition to the prominent extrapyramidal symptoms, typical early-onset patients frequently develop pigmentary retinopathy."
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice, 8th Edition, Chapter 96, page 15208",
+    "source_file": "5954c65e-______5_.docx",
+    "source_doc": "林長_動障_5題"
+  },
+  {
+    "id": "433e48eb-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 71-year-old cognitively unimpaired man participating in a research cohort has a plasma phosphorylated-tau 217 (p-tau217) concentration above the validated cut-point. Amyloid PET is positive and CSF Abeta42/40 is abnormal. Tau PET is negative. Formal neuropsychological testing is entirely normal and neither he nor his informant reports any decline over the past 3 years. According to the 2024 Alzheimer's Association Workgroup revised criteria for diagnosis and staging of Alzheimer's disease, which statement is MOST accurate?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Alzheimer's disease cannot be diagnosed because he has no cognitive symptoms."
+      },
+      {
+        "key": "B",
+        "text": "He has biological Alzheimer's disease at Stage 1; an abnormal Core 1 biomarker is sufficient to establish the diagnosis, yet such testing is not recommended for clinical purposes in cognitively unimpaired persons."
+      },
+      {
+        "key": "C",
+        "text": "The negative tau PET excludes Alzheimer's disease regardless of amyloid status."
+      },
+      {
+        "key": "D",
+        "text": "Plasma p-tau217 is a Core 2 biomarker, so this result establishes biological stage rather than diagnosis."
+      },
+      {
+        "key": "E",
+        "text": "Amyloid-lowering monoclonal antibody therapy should be offered because amyloid pathology is biomarker-confirmed."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Jack CR Jr, et al. Revised criteria for diagnosis and staging of Alzheimer's disease: Alzheimer's Association Workgroup. Alzheimers Dement. 2024;20(8):5143-5169. PMID 38934362",
+    "source_file": "433e48eb-________.docx",
+    "source_doc": "馬偕_失智症考題"
+  },
+  {
+    "id": "433e48eb-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A memory clinic proposes replacing amyloid PET with a commercially marketed plasma assay in its diagnostic pathway for patients with objective cognitive impairment. According to the 2025 Alzheimer's Association Clinical Practice Guideline on blood-based biomarkers (BBM) in specialized care settings, which statement is MOST accurate?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Any commercially available plasma p-tau assay may substitute for amyloid PET or CSF testing."
+      },
+      {
+        "key": "B",
+        "text": "A BBM test may substitute for amyloid PET or CSF biomarker testing only when it achieves at least 90% sensitivity and 90% specificity in the intended population; many marketed assays do not meet this bar."
+      },
+      {
+        "key": "C",
+        "text": "BBM testing is recommended for population screening of cognitively unimpaired adults older than 65 years in primary care."
+      },
+      {
+        "key": "D",
+        "text": "Plasma Abeta42/40 has the highest standalone accuracy and is therefore the preferred first-line BBM."
+      },
+      {
+        "key": "E",
+        "text": "In a patient with objective cognitive impairment, a positive BBM result is sufficient for diagnosis irrespective of pretest probability."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Palmqvist S, et al. Alzheimer's Association Clinical Practice Guideline on the use of blood-based biomarkers in the diagnostic workup of suspected Alzheimer's disease within specialized care settings. Alzheimers Dement. 2025;21",
+    "source_file": "433e48eb-________.docx",
+    "source_doc": "馬偕_失智症考題"
+  },
+  {
+    "id": "433e48eb-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 61-year-old woman has a 3-year history of progressive difficulty judging distances, reaching for objects, and reading (letters and words appear to jumble on the page). She gets lost in familiar buildings and struggles to dress herself. She cannot locate an item on a cluttered table even when it is in plain view. Formal ophthalmological examination, including visual acuity and visual fields, is normal. On testing she shows simultanagnosia, optic ataxia, and severely impaired copying of the Rey-Osterrieth figure; episodic memory and language are comparatively preserved. There is no parkinsonism, no dream-enactment behaviour, and no cognitive fluctuation. MMSE is 24. Her functional and molecular imaging is shown below.",
+    "images": [
+      "images/433e48eb-03-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Posterior cortical atrophy — most commonly an atypical, visual presentation of Alzheimer's disease neuropathologic change, in which amyloid and tau biomarkers are typically positive."
+      },
+      {
+        "key": "B",
+        "text": "Dementia with Lewy bodies, because occipital hypometabolism together with prominent visuospatial failure is essentially diagnostic of that disorder."
+      },
+      {
+        "key": "C",
+        "text": "Bilateral occipital infarction producing cortical blindness with denial (Anton syndrome)."
+      },
+      {
+        "key": "D",
+        "text": "The Heidenhain variant of Creutzfeldt-Jakob disease, given the predominantly visual presentation."
+      },
+      {
+        "key": "E",
+        "text": "Semantic variant primary progressive aphasia with visual agnosia."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice, 8th ed., Ch. 95 Alzheimer Disease and Other Dementias — Fig. 95.4",
+    "source_file": "433e48eb-________.docx",
+    "source_doc": "馬偕_失智症考題"
+  },
+  {
+    "id": "433e48eb-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "difficulty": "",
+    "tags": [],
+    "question": "Regarding the published Appropriate Use Recommendations (AUR) for anti-amyloid monoclonal antibodies in early symptomatic Alzheimer's disease, which of the following statements are CORRECT? [版本1: MRI監測時程版]",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "APOE genotyping should be performed before initiating either lecanemab or donanemab, in order to inform the individual's risk of amyloid-related imaging abnormalities (ARIA)."
+      },
+      {
+        "key": "2",
+        "text": "The lecanemab AUR recommend surveillance MRI before the 5th, 7th, and 14th infusions, whereas the donanemab AUR recommend surveillance MRI before the 2nd, 3rd, 4th, and 7th infusions."
+      },
+      {
+        "key": "3",
+        "text": "The lecanemab AUR recommend that patients receiving therapeutic anticoagulation NOT be treated."
+      },
+      {
+        "key": "4",
+        "text": "Tau PET is required to establish treatment eligibility for donanemab."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Cummings J et al. Lecanemab: Appropriate Use Recommendations. J Prev Alzheimers Dis. 2023;10(3):362-377. PMID 37357276.\nRabinovici GD, et al. Donanemab: Appropriate use recommendations. J Prev Alzheimers Dis. 2025;12(8):1001",
+    "source_file": "433e48eb-________.docx",
+    "source_doc": "馬偕_失智症考題"
+  },
+  {
+    "id": "433e48eb-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "difficulty": "",
+    "tags": [],
+    "question": "Regarding the published Appropriate Use Recommendations (AUR) for anti-amyloid monoclonal antibodies in early symptomatic Alzheimer's disease, which of the following statements are CORRECT? [版本2: ARIA風險版]",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "APOE genotyping should be performed before initiating either lecanemab or donanemab, in order to counsel patients regarding the risk of ARIA."
+      },
+      {
+        "key": "2",
+        "text": "Concomitant therapeutic anticoagulation (e.g., warfarin, direct oral anticoagulants) substantially increases the risk of severe intracerebral hemorrhage if ARIA develops."
+      },
+      {
+        "key": "3",
+        "text": "Intravenous thrombolysis (IV tPA) for acute ischemic stroke is generally contraindicated in patients actively receiving anti-amyloid monoclonal antibodies."
+      },
+      {
+        "key": "4",
+        "text": "Baseline brain MRI showing more than 4 cerebral microbleeds or any prior area of cortical superficial siderosis is considered an exclusion criterion."
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Cummings J et al. Lecanemab: Appropriate Use Recommendations. J Prev Alzheimers Dis. 2023;10(3):362-377. PMID 37357276.\nRabinovici GD, et al. Donanemab: Appropriate use recommendations. J Prev Alzheimers Dis. 2025;12(8):1001",
+    "source_file": "433e48eb-________.docx",
+    "source_doc": "馬偕_失智症考題"
+  },
+  {
+    "id": "433e48eb-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "Which of the following is classified as an INDICATIVE biomarker (rather than a supportive biomarker) in the fourth consensus report of the Dementia with Lewy Bodies Consortium?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Generalized low uptake on perfusion SPECT/PET with occipital hypometabolism."
+      },
+      {
+        "key": "B",
+        "text": "Reduced striatal dopamine transporter uptake on SPECT or PET."
+      },
+      {
+        "key": "C",
+        "text": "Relative preservation of medial temporal lobe structures on CT or MRI."
+      },
+      {
+        "key": "D",
+        "text": "Prominent posterior slow-wave activity on EEG with pre-alpha/theta range fluctuations."
+      },
+      {
+        "key": "E",
+        "text": "The cingulate island sign on FDG-PET."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "McKeith IG, et al. Diagnosis and management of dementia with Lewy bodies: Fourth consensus report of the DLB Consortium. Neurology. 2017;89(1):88-100. PMID 28592453",
+    "source_file": "433e48eb-________.docx",
+    "source_doc": "馬偕_失智症考題"
+  },
+  {
+    "id": "433e48eb-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 58-year-old man is brought by his wife because of 2 years of progressive disinhibition, apathy, loss of empathy, and hyperorality with a marked preference for sweet foods. Episodic memory and visuospatial function are relatively preserved. MRI shows mild bifrontal and right anterior insular atrophy. His father died of a rapidly progressive weakness syndrome diagnosed as amyotrophic lateral sclerosis, and a paternal aunt had an early-onset behavioural dementia. The MOST likely genetic basis is:",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "C9orf72 hexanucleotide repeat expansion."
+      },
+      {
+        "key": "B",
+        "text": "MAPT mutation, which characteristically produces the frontotemporal dementia-amyotrophic lateral sclerosis phenotype."
+      },
+      {
+        "key": "C",
+        "text": "GRN mutation, which typically produces symmetric anterior temporal atrophy with prominent loss of word meaning."
+      },
+      {
+        "key": "D",
+        "text": "PRNP mutation."
+      },
+      {
+        "key": "E",
+        "text": "None — this is sporadic behavioural variant frontotemporal dementia, in which family history carries no diagnostic weight."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Merritt's Neurology, 14th ed., Ch. 52 Frontotemporal Dementia; Bradley and Daroff's Neurology in Clinical Practice, 8th ed., Ch. 95 Alzheimer Disease and Other Dementias.",
+    "source_file": "433e48eb-________.docx",
+    "source_doc": "馬偕_失智症考題"
+  },
+  {
+    "id": "433e48eb-08",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 64-year-old man has 3 years of progressive difficulty with word meaning. He asks what common words denote ('What is a ladle?'), cannot name or describe the use of familiar objects, and reads irregular words phonetically (surface dyslexia). Speech remains fluent, well articulated and grammatically correct, and sentence repetition and digit span are normal. Episodic memory for recent events and visuospatial function are comparatively preserved. He has developed rigid food preferences. His T1 coronal MRI is shown. On the basis of the atrophy pattern shown, which additional deficit is MOST likely to emerge as his disease progresses, and for what anatomical reason?",
+    "images": [
+      "images/433e48eb-08-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Prosopagnosia with impaired recognition of familiar people, as degeneration extends into the contralateral (right) anterior temporal lobe."
+      },
+      {
+        "key": "B",
+        "text": "Ideomotor limb apraxia, from progressive involvement of the left inferior parietal lobule."
+      },
+      {
+        "key": "C",
+        "text": "Simultanagnosia with optic ataxia, from bilateral parieto-occipital involvement."
+      },
+      {
+        "key": "D",
+        "text": "Progressive apraxia of speech, from involvement of the superior premotor and supplementary motor cortices."
+      },
+      {
+        "key": "E",
+        "text": "Rapid forgetting of recent events out of proportion to other deficits, from selective early hippocampal CA1 neuronal loss."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice, 8th ed., Ch. 95 Alzheimer Disease and Other Dementias — Fig. 95.18",
+    "source_file": "433e48eb-________.docx",
+    "source_doc": "馬偕_失智症考題"
+  },
+  {
+    "id": "433e48eb-09",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 67-year-old right-handed woman has 3 years of progressive word-finding difficulty. Speech is fluent in short bursts but interrupted by frequent phonological errors and long word-retrieval pauses; sentence repetition and digit span are clearly impaired. Single-word comprehension and object knowledge are preserved, and grammar is intact. Confrontation naming is moderately impaired. Behaviour is unremarkable. The MOST likely variant and its MOST likely underlying neuropathology are:",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Semantic variant primary progressive aphasia; TDP-43 type C."
+      },
+      {
+        "key": "B",
+        "text": "Nonfluent/agrammatic variant primary progressive aphasia; a 4-repeat tauopathy."
+      },
+      {
+        "key": "C",
+        "text": "Logopenic variant primary progressive aphasia; Alzheimer's disease neuropathologic change."
+      },
+      {
+        "key": "D",
+        "text": "Semantic variant primary progressive aphasia; Alzheimer's disease neuropathologic change."
+      },
+      {
+        "key": "E",
+        "text": "Nonfluent/agrammatic variant primary progressive aphasia; TDP-43 type A."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice, 8th ed., Ch. 13 Aphasia and Aphasic Syndromes; Merritt's Neurology, 14th ed., Ch. 12 Dementia and Memory Loss.",
+    "source_file": "433e48eb-________.docx",
+    "source_doc": "馬偕_失智症考題"
+  },
+  {
+    "id": "433e48eb-10",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "difficulty": "",
+    "tags": [],
+    "question": "Regarding limbic-predominant age-related TDP-43 encephalopathy (LATE) and the 2025 clinical criteria, which of the following statements are CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "The neuropathologic substrate (LATE-NC) is defined by limbic-predominant TDP-43 proteinopathy."
+      },
+      {
+        "key": "2",
+        "text": "The characteristic clinical course is a rapidly progressive dementia evolving over weeks to a few months."
+      },
+      {
+        "key": "3",
+        "text": "A diagnosis of PROBABLE LATE requires that Alzheimer's disease amyloid biomarkers be negative."
+      },
+      {
+        "key": "4",
+        "text": "Hippocampal sclerosis is only rarely associated with LATE-NC."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Wolk DA, et al. Clinical criteria for limbic-predominant age-related TDP-43 encephalopathy. Alzheimers Dement. 2025;21(1):e14202. PMID 39807681. (Supporting background: Nelson PT, et al. LATE: consensus working group report, Brain)",
+    "source_file": "433e48eb-________.docx",
+    "source_doc": "馬偕_失智症考題"
+  },
+  {
+    "id": "433e48eb-11",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 68-year-old man presents with 2 years of progressive cognitive decline and recurrent stereotyped episodes of spreading paresthesia lasting several minutes. MRI shows ONE strictly lobar cerebral microbleed, more than 20 visible perivascular spaces in the centrum semiovale of one hemisphere, and no deep hemorrhagic lesions. There is no history of head trauma or coagulopathy. Applying the Boston criteria version 2.0, the MOST appropriate classification is:",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Probable cerebral amyloid angiopathy — one strictly lobar hemorrhagic lesion plus one white matter feature satisfies the probable category."
+      },
+      {
+        "key": "B",
+        "text": "Possible cerebral amyloid angiopathy, because at least two strictly lobar hemorrhagic lesions are mandatory for the probable category."
+      },
+      {
+        "key": "C",
+        "text": "Not cerebral amyloid angiopathy, because transient focal neurological episodes are not an accepted qualifying presentation."
+      },
+      {
+        "key": "D",
+        "text": "Probable cerebral amyloid angiopathy with supporting pathology."
+      },
+      {
+        "key": "E",
+        "text": "Definite cerebral amyloid angiopathy."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Charidimou A, et al. The Boston criteria version 2.0 for cerebral amyloid angiopathy: a multicentre, retrospective, MRI-neuropathology diagnostic accuracy study. Lancet Neurol. 2022;21(8):714-725. PMID 35841410",
+    "source_file": "433e48eb-________.docx",
+    "source_doc": "馬偕_失智症考題"
+  },
+  {
+    "id": "433e48eb-12",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 64-year-old man has a 3-month history of rapidly progressive cognitive decline with startle myoclonus and gait ataxia. Brain MRI shows cortical ribboning on diffusion-weighted imaging together with caudate and putaminal hyperintensity. EEG shows diffuse slowing but NO periodic sharp wave complexes. CSF real-time quaking-induced conversion (RT-QuIC) is positive and CSF 14-3-3 protein is negative. Which interpretation is MOST accurate?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "The absence of periodic sharp wave complexes argues strongly against sporadic Creutzfeldt-Jakob disease."
+      },
+      {
+        "key": "B",
+        "text": "A negative CSF 14-3-3 protein effectively excludes prion disease."
+      },
+      {
+        "key": "C",
+        "text": "CSF RT-QuIC has high specificity for prion disease, and its positivity supports sporadic Creutzfeldt-Jakob disease despite the EEG and 14-3-3 findings."
+      },
+      {
+        "key": "D",
+        "text": "Brain biopsy is required before sporadic Creutzfeldt-Jakob disease can be diagnosed during life."
+      },
+      {
+        "key": "E",
+        "text": "Diffusion-weighted cortical ribboning is a nonspecific finding that carries no diagnostic weight in this setting."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Adams and Victor's Principles of Neurology, 12th ed., Ch. 32 Viral Infections of the Nervous System and Prion Diseases; Merritt's Neurology, 14th ed., Ch. 55 Prion Diseases.",
+    "source_file": "433e48eb-________.docx",
+    "source_doc": "馬偕_失智症考題"
+  },
+  {
+    "id": "433e48eb-13",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [],
+    "question": "A 76-year-old man is referred for 14 months of progressive gait disturbance described as broad-based and 'magnetic', with difficulty initiating turns, followed by urinary urgency and then mild inattention and psychomotor slowing. He is not aphasic and has no parkinsonian rest tremor; there is no response to levodopa. MRI is shown. Lumbar puncture shows an opening pressure of 14 cmH2O. CSF analysis returns a LOW amyloid-beta 42 concentration with NORMAL total tau and NORMAL phosphorylated tau. Which interpretation and plan is MOST appropriate?",
+    "images": [
+      "images/433e48eb-13-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "The low CSF amyloid-beta 42 establishes concomitant Alzheimer's disease as the cause of his cognitive decline; anti-amyloid therapy should be considered instead of shunting."
+      },
+      {
+        "key": "B",
+        "text": "The imaging and syndrome are consistent with normal pressure hydrocephalus; a low CSF amyloid-beta 42 with normal total tau and phosphorylated tau is described in NPH itself and does not establish Alzheimer's disease, so proceed to a high-volume lumbar tap test or extended lumbar drainage with quantified gait assessment before and after."
+      },
+      {
+        "key": "C",
+        "text": "A normal opening pressure excludes normal pressure hydrocephalus, so no further hydrocephalus workup is warranted."
+      },
+      {
+        "key": "D",
+        "text": "The ventricular enlargement represents hydrocephalus ex vacuo from atrophy; only symptomatic treatment is appropriate."
+      },
+      {
+        "key": "E",
+        "text": "Proceed directly to ventriculoperitoneal shunting, since the clinical triad plus imaging is sufficient and further CSF testing adds no predictive value."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice, 8th ed., Ch. 95 Alzheimer Disease and Other Dementias — Fig. 95.27",
+    "source_file": "433e48eb-________.docx",
+    "source_doc": "馬偕_失智症考題"
+  },
+  {
+    "id": "29de88ce-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "The cervical vestibular evoked myogenic potential (VEMP) test primarily evaluates the function of which inner ear structure and nerve?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Saccule and superior vestibular nerve"
+      },
+      {
+        "key": "B",
+        "text": "Utricle and superior vestibular nerve"
+      },
+      {
+        "key": "C",
+        "text": "Saccule and inferior vestibular nerve"
+      },
+      {
+        "key": "D",
+        "text": "Utricle and inferior vestibular nerve"
+      },
+      {
+        "key": "E",
+        "text": "Posterior semicircular canal and inferior vestibular nerve"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 22 Neuro-Otology: Diagnosis and Management of Neuro-Otological Disorders P.284",
+    "source_file": "29de88ce-________5.docx",
+    "source_doc": "北萬雙_頭暈題庫5"
+  },
+  {
+    "id": "29de88ce-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "What is the typical finding in a patient with horizontal canal benign paroxysmal positional vertigo during the supine roll test?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Unidirectional horizontal nystagmus regardless of head position"
+      },
+      {
+        "key": "B",
+        "text": "Direction-changing horizontal nystagmus"
+      },
+      {
+        "key": "C",
+        "text": "Upbeat torsional nystagmus"
+      },
+      {
+        "key": "D",
+        "text": "Downbeat torsional nystagmus"
+      },
+      {
+        "key": "E",
+        "text": "Nystagmus is only provoked when turning to the affected side, with no response on the healthy side"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 22 Neuro-Otology: Diagnosis and Management of Neuro-Otological Disorders P.271",
+    "source_file": "29de88ce-________5.docx",
+    "source_doc": "北萬雙_頭暈題庫5"
+  },
+  {
+    "id": "29de88ce-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "What is the classic clinical course of autoimmune inner ear disease (AIED)?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Sudden unilateral irreversible deafness over hours"
+      },
+      {
+        "key": "B",
+        "text": "Symmetric high-frequency hearing loss progressing over decades"
+      },
+      {
+        "key": "C",
+        "text": "Congenital bilateral profound deafness"
+      },
+      {
+        "key": "D",
+        "text": "Chronic vertigo without any hearing impairment"
+      },
+      {
+        "key": "E",
+        "text": "Rapidly progressive bilateral sensorineural hearing loss over weeks to months"
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 22 Neuro-Otology: Diagnosis and Management of Neuro-Otological Disorders P.276, 280",
+    "source_file": "29de88ce-________5.docx",
+    "source_doc": "北萬雙_頭暈題庫5"
+  },
+  {
+    "id": "29de88ce-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "難",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "A 65-year-old patient presents with chronic progressive gait ataxia, sensory neuropathy, and chronic cough. Examination reveals abnormalities in smooth pursuit and the vestibulo-ocular reflex. This syndrome is most likely associated with mutation in which of the following genes?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "RFC1"
+      },
+      {
+        "key": "B",
+        "text": "FXN"
+      },
+      {
+        "key": "C",
+        "text": "ATXN3"
+      },
+      {
+        "key": "D",
+        "text": "PRKCG"
+      },
+      {
+        "key": "E",
+        "text": "CACNA1A"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 23 Cerebellar Ataxia TABLE 23.7",
+    "source_file": "29de88ce-________5.docx",
+    "source_doc": "北萬雙_頭暈題庫5"
+  },
+  {
+    "id": "29de88ce-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "難",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "A patient exhibits specific nystagmus in the primary position, where the direction of the horizontal nystagmus spontaneously reverses approximately every two minutes. Which of the following medications is the treatment of choice for this specific acquired nystagmus?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Levetiracetam"
+      },
+      {
+        "key": "B",
+        "text": "Gabapentin"
+      },
+      {
+        "key": "C",
+        "text": "Baclofen"
+      },
+      {
+        "key": "D",
+        "text": "Carbamazepine"
+      },
+      {
+        "key": "E",
+        "text": "Clonazepam"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 18 Neuro-Ophthalmology: Ocular Motor System TABLE 18.5 and P.231, 233",
+    "source_file": "29de88ce-________5.docx",
+    "source_doc": "北萬雙_頭暈題庫5"
+  },
+  {
+    "id": "29de88ce-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "During an auditory brainstem response test, if Wave I is present with a normal absolute latency, but the interpeak latency between Wave I and Wave III is significantly prolonged, this finding strongly suggests a lesion in which of the following locations?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Hair cells within the cochlea"
+      },
+      {
+        "key": "B",
+        "text": "The distal portion of the eighth cranial nerve"
+      },
+      {
+        "key": "C",
+        "text": "The proximal portion of the eighth cranial nerve or the cochlear nucleus region in the pons."
+      },
+      {
+        "key": "D",
+        "text": "Superior olive complex in the pons"
+      },
+      {
+        "key": "E",
+        "text": "In the midbrain near the inferior colliculus."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 22 Neuro-Otology: Diagnosis and Management of Neuro-Otological Disorders P.286",
+    "source_file": "29de88ce-________5.docx",
+    "source_doc": "北萬雙_頭暈題庫5"
+  },
+  {
+    "id": "29de88ce-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "腦中風",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "腦中風",
+      "頭痛與疼痛"
+    ],
+    "question": "The ocular tilt reaction (OTR) consists of skew deviation, conjugate ocular torsion, and head tilt. If a lesion is localized to the vestibular nucleus in the right medulla, which of the following clinical manifestations is expected?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "The patient's head will tilt to the right."
+      },
+      {
+        "key": "B",
+        "text": "The patient's right eye will be upper than the left."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 18 Neuro-Ophthalmology: Ocular Motor System P.224",
+    "source_file": "29de88ce-________5.docx",
+    "source_doc": "北萬雙_頭暈題庫5"
+  },
+  {
+    "id": "29de88ce-08",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "difficulty": "中等",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "Which of the following statements regarding central nystagmus localization are TRUE?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Downbeat nystagmus in the primary position strongly suggests a lesion involving the cerebellar flocculonodular lobe."
+      },
+      {
+        "key": "2",
+        "text": "Upbeat nystagmus in the primary position is frequently associated with lesions of the cervicomedullary junction."
+      },
+      {
+        "key": "3",
+        "text": "Periodic alternating nystagmus is an acquired central nystagmus that typically responds well to baclofen"
+      },
+      {
+        "key": "4",
+        "text": "Seesaw nystagmus is classically associated with lateral medullary infarctions."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 18 Neuro-Ophthalmology: Ocular Motor System TABLE 18.4, 18.5 and P. 232, 233",
+    "source_file": "29de88ce-________5.docx",
+    "source_doc": "北萬雙_頭暈題庫5"
+  },
+  {
+    "id": "29de88ce-09",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "difficulty": "中等",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "Regarding vestibular evoked myogenic potentials (VEMP) pathways, which of the following statements are TRUE?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "The cervical VEMP evaluates the saccule and the inferior vestibular nerve."
+      },
+      {
+        "key": "2",
+        "text": "The cervical VEMP evaluates the uncrossed inhibitory reflex."
+      },
+      {
+        "key": "3",
+        "text": "The ocular VEMP evaluates the utricle and the superior vestibular nerve."
+      },
+      {
+        "key": "4",
+        "text": "The ocular VEMP evaluates the uncrossed excitatory reflex."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 22 Neuro-Otology: Diagnosis and Management of Neuro-Otological Disorders P.284",
+    "source_file": "29de88ce-________5.docx",
+    "source_doc": "北萬雙_頭暈題庫5"
+  },
+  {
+    "id": "29de88ce-10",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "The effects of auditory stimuli can be studied using a procedure called brainstem auditory evoked responses or potentials (BAERs or BAEPs). It has been established that each of the first five waves is generated by a specific brainstem structure. Which of the following structures generates the wave indicated by the arrow?",
+    "images": [
+      "images/29de88ce-10-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Auditory nerve"
+      },
+      {
+        "key": "B",
+        "text": "Cochlear nuclei"
+      },
+      {
+        "key": "C",
+        "text": "Superior olive"
+      },
+      {
+        "key": "D",
+        "text": "Lateral lemniscus"
+      },
+      {
+        "key": "E",
+        "text": "Inferior colliculus"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Adams and Victor's Principles of Neurology (2023, 12e) Chapter 2 Diagnostic Testing in Neurologic Disease Figure 2-9 and P. 37",
+    "source_file": "29de88ce-________5.docx",
+    "source_doc": "北萬雙_頭暈題庫5"
+  },
+  {
+    "id": "c93a8803-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "Which of these is the most typical location for a schwannoma?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Facial nerve"
+      },
+      {
+        "key": "B",
+        "text": "Trigeminal nerve"
+      },
+      {
+        "key": "C",
+        "text": "Nervus intermedius"
+      },
+      {
+        "key": "D",
+        "text": "Vestibular portion of vestibulocochlear nerve"
+      },
+      {
+        "key": "E",
+        "text": "Cochlear portion of vestibulocochlear nerve"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 40 Structural Imaging Using Magnetic Resonance Imaging and Computed Tomography TABLE 40.2 and P. 503; CHAPTER 72 Pathology and Molecular Genetics P.1095",
+    "source_file": "c93a8803-________4.docx",
+    "source_doc": "北萬雙_頭暈題庫4"
+  },
+  {
+    "id": "c93a8803-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "What is the MRI finding for oculopalatal myoclonus?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Demyelinating plaques in the corpus callosum"
+      },
+      {
+        "key": "B",
+        "text": "Midbrain 'hummingbird' sign"
+      },
+      {
+        "key": "C",
+        "text": "Atrophy of the cerebellar vermis"
+      },
+      {
+        "key": "D",
+        "text": "Enhancement of the vestibular nerve"
+      },
+      {
+        "key": "E",
+        "text": "Hypertrophic olivary degeneration"
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 18 Neuro-Ophthalmology: Ocular Motor System TABLE 18.4 and P.230",
+    "source_file": "c93a8803-________4.docx",
+    "source_doc": "北萬雙_頭暈題庫4"
+  },
+  {
+    "id": "c93a8803-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "Episodic Ataxia type 2 (EA2) is characterized by recurrent attacks of ataxia and vertigo. It is caused by mutations in which gene?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "KCNA1"
+      },
+      {
+        "key": "B",
+        "text": "CACNA1A"
+      },
+      {
+        "key": "C",
+        "text": "ATP1A2"
+      },
+      {
+        "key": "D",
+        "text": "PRNP"
+      },
+      {
+        "key": "E",
+        "text": "SCN1A"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 98 Channelopathies: Episodic and Electrical Disorders of the Nervous System TABLE 98.1 and P.1569",
+    "source_file": "c93a8803-________4.docx",
+    "source_doc": "北萬雙_頭暈題庫4"
+  },
+  {
+    "id": "c93a8803-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "Which finding strongly points to a central lesion (e.g., stroke) rather than a peripheral one?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Severe nausea and vomiting without hearing loss"
+      },
+      {
+        "key": "B",
+        "text": "Unidirectional, horizontal-torsional nystagmus"
+      },
+      {
+        "key": "C",
+        "text": "Positive skew deviation"
+      },
+      {
+        "key": "D",
+        "text": "Nystagmus that suppression with visual fixation"
+      },
+      {
+        "key": "E",
+        "text": "Positive head-thrust test"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 22 Neuro-Otology: Diagnosis and Management of Neuro-Otological Disorders TABLE 22.1 and 22.2 and P.271",
+    "source_file": "c93a8803-________4.docx",
+    "source_doc": "北萬雙_頭暈題庫4"
+  },
+  {
+    "id": "c93a8803-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "Which of the following is the characteristic clinical presentation of Cogan syndrome",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Recurrent oral ulcers, genital ulcers, and uveitis"
+      },
+      {
+        "key": "B",
+        "text": "Optic neuritis and transverse myelitis"
+      },
+      {
+        "key": "C",
+        "text": "Non-syphilitic interstitial keratitis, vestibular dysfunction, and deafness"
+      },
+      {
+        "key": "D",
+        "text": "Glomerulonephritis and pulmonary hemorrhage"
+      },
+      {
+        "key": "E",
+        "text": "Dry eyes, dry mouth, and sensory neuropathy"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 22 Neuro-Otology: Diagnosis and Management of Neuro-Otological Disorders P.276; CHAPTER 65 Ischemic Cerebrovascular Disease P.983",
+    "source_file": "c93a8803-________4.docx",
+    "source_doc": "北萬雙_頭暈題庫4"
+  },
+  {
+    "id": "c93a8803-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "Bilateral vestibular schwannomas are diagnostic for which inherited condition?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Neurofibromatosis type 1"
+      },
+      {
+        "key": "B",
+        "text": "Neurofibromatosis type 2"
+      },
+      {
+        "key": "C",
+        "text": "Sturge-Weber syndrome"
+      },
+      {
+        "key": "D",
+        "text": "Tuberous sclerosis"
+      },
+      {
+        "key": "E",
+        "text": "von Hippel-Lindau disease"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 72 Pathology and Molecular Genetics P.1095",
+    "source_file": "c93a8803-________4.docx",
+    "source_doc": "北萬雙_頭暈題庫4"
+  },
+  {
+    "id": "c93a8803-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "What is the typical pattern on a pure-tone audiogram for a patient with presbycusis?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Unilateral high-frequency sensorineural hearing loss"
+      },
+      {
+        "key": "B",
+        "text": "Bilateral symmetric high-frequency sensorineural hearing loss"
+      },
+      {
+        "key": "C",
+        "text": "Unilateral low-frequency sensorineural hearing loss"
+      },
+      {
+        "key": "D",
+        "text": "Bilateral symmetric low-frequency sensorineural hearing loss"
+      },
+      {
+        "key": "E",
+        "text": "Unilateral low-frequency sensorineural hearing loss"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 22 Neuro-Otology: Diagnosis and Management of Neuro-Otological Disorders P.281",
+    "source_file": "c93a8803-________4.docx",
+    "source_doc": "北萬雙_頭暈題庫4"
+  },
+  {
+    "id": "c93a8803-08",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "A patient suddenly develops vertigo, unilateral hearing loss, and ipsilateral facial weakness. Based on vascular territories, which artery is most likely occluded?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Superior cerebellar artery"
+      },
+      {
+        "key": "B",
+        "text": "Anterior inferior cerebellar artery"
+      },
+      {
+        "key": "C",
+        "text": "Posterior inferior cerebellar artery"
+      },
+      {
+        "key": "D",
+        "text": "Basilar artery"
+      },
+      {
+        "key": "E",
+        "text": "None of these are correct"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 23 Cerebellar Ataxia P.296; CHAPTER 65 Ischemic Cerebrovascular Disease P.973, 974",
+    "source_file": "c93a8803-________4.docx",
+    "source_doc": "北萬雙_頭暈題庫4"
+  },
+  {
+    "id": "1ad01652-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "Which of the following is NOT a typical clinical manifestation of Meniere disease?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Loss of consciousness during drop attacks"
+      },
+      {
+        "key": "B",
+        "text": "Tinnitus in the affected ear"
+      },
+      {
+        "key": "C",
+        "text": "Episodic vertigo"
+      },
+      {
+        "key": "D",
+        "text": "Fluctuating sensorineural hearing loss"
+      },
+      {
+        "key": "E",
+        "text": "Aural fullness"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 22 Neuro-Otology: Diagnosis and Management of Neuro-Otological Disorders TABLE 22.2 and P. 275",
+    "source_file": "1ad01652-________3.docx",
+    "source_doc": "北萬雙_頭暈題庫3"
+  },
+  {
+    "id": "1ad01652-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "A patient presents with acute, severe, continuous vertigo, nausea, and unsteady gait. Examination reveals unidirectional horizontal-torsional nystagmus beating away from the affected side, an abnormal head impulse test toward the affected side, and normal hearing. What is the most likely diagnosis?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Labyrinthitis"
+      },
+      {
+        "key": "B",
+        "text": "Anterior inferior cerebellar artery (AICA) infarction."
+      },
+      {
+        "key": "C",
+        "text": "Meniere disease."
+      },
+      {
+        "key": "D",
+        "text": "Vestibular schwannoma."
+      },
+      {
+        "key": "E",
+        "text": "Vestibular neuritis"
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 22 Neuro-Otology: Diagnosis and Management of Neuro-Otological Disorders TABLE 22.1, 22.2 and P. 275",
+    "source_file": "1ad01652-________3.docx",
+    "source_doc": "北萬雙_頭暈題庫3"
+  },
+  {
+    "id": "1ad01652-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "According to the Bárány Society, which statement regarding persistent postural perceptual dizziness (PPPD) is INCORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "The disorder is triggering by an event that causes vertigo, unsteadiness, dizziness."
+      },
+      {
+        "key": "B",
+        "text": "Symptoms are exacerbated by exposure to moving visual stimuli or complex visual patterns."
+      },
+      {
+        "key": "C",
+        "text": "Symptoms are exacerbated by upright posture."
+      },
+      {
+        "key": "D",
+        "text": "Symptoms are present on most days for 3 months or more."
+      },
+      {
+        "key": "E",
+        "text": "Vestibular function tests usually show severe, uncompensated bilateral vestibular loss."
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 22 Neuro-Otology: Diagnosis and Management of Neuro-Otological Disorders P. 278; CHAPTER 113 Functional and Dissociative Neurological Symptoms and Disorders P. 2084",
+    "source_file": "1ad01652-________3.docx",
+    "source_doc": "北萬雙_頭暈題庫3"
+  },
+  {
+    "id": "1ad01652-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "The Tullio phenomenon is a characteristic clinical sign of which vestibular disorder?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Vestibular paroxysmia"
+      },
+      {
+        "key": "B",
+        "text": "Vestibular neuritis"
+      },
+      {
+        "key": "C",
+        "text": "Mal de débarquement syndrome"
+      },
+      {
+        "key": "D",
+        "text": "Bilateral vestibulopathy"
+      },
+      {
+        "key": "E",
+        "text": "Superior canal dehiscence syndrome"
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 22 Neuro-Otology: Diagnosis and Management of Neuro-Otological Disorders P. 276",
+    "source_file": "1ad01652-________3.docx",
+    "source_doc": "北萬雙_頭暈題庫3"
+  },
+  {
+    "id": "1ad01652-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "Which of the following statements about vestibular paroxysmia is TRUE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "A positive family history is mandatory for diagnosis."
+      },
+      {
+        "key": "B",
+        "text": "Vertigo attacks usually last for several days to weeks."
+      },
+      {
+        "key": "C",
+        "text": "It is thought to be caused by microvascular compression of the eighth cranial nerve."
+      },
+      {
+        "key": "D",
+        "text": "It generally does not respond to treatment with carbamazepine."
+      },
+      {
+        "key": "E",
+        "text": "It presents typically with progressive, severe bilateral hearing loss."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 22 Neuro-Otology: Diagnosis and Management of Neuro-Otological Disorders TABLE 22.2 and P. 275",
+    "source_file": "1ad01652-________3.docx",
+    "source_doc": "北萬雙_頭暈題庫3"
+  },
+  {
+    "id": "1ad01652-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "Downbeat nystagmus (DBN) in primary position strongly suggests a lesion involving which anatomical region?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Basal ganglia"
+      },
+      {
+        "key": "B",
+        "text": "Frontal lobe"
+      },
+      {
+        "key": "C",
+        "text": "Lower cervical spine"
+      },
+      {
+        "key": "D",
+        "text": "Peripheral vestibular labyrinth"
+      },
+      {
+        "key": "E",
+        "text": "Craniocervical junction"
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 18 Neuro-Ophthalmology: Ocular Motor System TABLE 18.4, BOX 18.14 and P. 228",
+    "source_file": "1ad01652-________3.docx",
+    "source_doc": "北萬雙_頭暈題庫3"
+  },
+  {
+    "id": "1ad01652-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "Prolonged use of which class of medications is the most common cause of bilateral vestibulopathy, leading to oscillopsia and imbalance?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Selective serotonin reuptake Inhibitors"
+      },
+      {
+        "key": "B",
+        "text": "Triptans"
+      },
+      {
+        "key": "C",
+        "text": "Beta-blockers"
+      },
+      {
+        "key": "D",
+        "text": "Corticosteroids"
+      },
+      {
+        "key": "E",
+        "text": "Aminoglycoside antibiotics"
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 22 Neuro-Otology: Diagnosis and Management of Neuro-Otological Disorders TABLE 22.2 and P. 276; CHAPTER 58 Neurological Complications of Systemic Disease: Adults and P. 877",
+    "source_file": "1ad01652-________3.docx",
+    "source_doc": "北萬雙_頭暈題庫3"
+  },
+  {
+    "id": "1ad01652-08",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "Which of the following maneuvers is effective in treating patients with posterior canal benign paroxysmal positional vertigo (BPPV)?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Epley maneuver"
+      },
+      {
+        "key": "B",
+        "text": "Valsalva maneuver"
+      },
+      {
+        "key": "C",
+        "text": "Lempert maneuver"
+      },
+      {
+        "key": "D",
+        "text": "Gufoni maneuver"
+      },
+      {
+        "key": "E",
+        "text": "Dix-Hallpike maneuver"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 22 Neuro-Otology: Diagnosis and Management of Neuro-Otological Disorders P. 272",
+    "source_file": "1ad01652-________3.docx",
+    "source_doc": "北萬雙_頭暈題庫3"
+  },
+  {
+    "id": "52c0badd-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "Which of the following peripheral vertigo is characterized by brief episodes triggered by specific head position changes?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Vestibular neuritis"
+      },
+      {
+        "key": "B",
+        "text": "Benign paroxysmal positional vertigo"
+      },
+      {
+        "key": "C",
+        "text": "Superior canal dehiscence"
+      },
+      {
+        "key": "D",
+        "text": "Vestibular paroxysmia"
+      },
+      {
+        "key": "E",
+        "text": "Meniere disease"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 22 Neuro-Otology: Diagnosis and Management of Neuro-Otological Disorders TABLE 22.2 and P. 275",
+    "source_file": "52c0badd-________2.docx",
+    "source_doc": "北萬雙_頭暈題庫2"
+  },
+  {
+    "id": "52c0badd-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "Which of the etiology of following peripheral vertigo is presumed to be viral?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Vestibular neuritis"
+      },
+      {
+        "key": "B",
+        "text": "Benign paroxysmal positional vertigo"
+      },
+      {
+        "key": "C",
+        "text": "Superior canal dehiscence"
+      },
+      {
+        "key": "D",
+        "text": "Vestibular paroxysmia"
+      },
+      {
+        "key": "E",
+        "text": "Meniere disease"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 22 Neuro-Otology: Diagnosis and Management of Neuro-Otological Disorders TABLE 22.2 and P. 275",
+    "source_file": "52c0badd-________2.docx",
+    "source_doc": "北萬雙_頭暈題庫2"
+  },
+  {
+    "id": "52c0badd-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "Which of the following peripheral vertigo is triggered by increasing intracranial pressure or increasing middle ear pressure?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Vestibular neuritis"
+      },
+      {
+        "key": "B",
+        "text": "Benign paroxysmal positional vertigo"
+      },
+      {
+        "key": "C",
+        "text": "Superior canal dehiscence"
+      },
+      {
+        "key": "D",
+        "text": "Vestibular paroxysmia"
+      },
+      {
+        "key": "E",
+        "text": "Meniere disease"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 22 Neuro-Otology: Diagnosis and Management of Neuro-Otological Disorders TABLE 22.2 and P. 276",
+    "source_file": "52c0badd-________2.docx",
+    "source_doc": "北萬雙_頭暈題庫2"
+  },
+  {
+    "id": "52c0badd-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "Which of the following statements regarding superior canal dehiscence is WRONG?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Dehiscence of the bone overlying the superior canal results in a fistula between the superior canal and the middle cranial fossa."
+      },
+      {
+        "key": "B",
+        "text": "A break in the bony capsule of the semicircular canals can redirect some of the sound or pressure to the semicircular canals, causing vestibular activation."
+      },
+      {
+        "key": "C",
+        "text": "Most patients have a poor response to conservative management."
+      },
+      {
+        "key": "D",
+        "text": "Surgically repairing the defect can be attempted if the patient is debilitated by the symptoms"
+      },
+      {
+        "key": "E",
+        "text": "All of the above statements are correct."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 22 Neuro-Otology: Diagnosis and Management of Neuro-Otological Disorders TABLE 22.2 and P. 276",
+    "source_file": "52c0badd-________2.docx",
+    "source_doc": "北萬雙_頭暈題庫2"
+  },
+  {
+    "id": "52c0badd-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "Symptoms of a perilymphatic fistula are classically provoked by which of the following?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Closing the eyes while standing"
+      },
+      {
+        "key": "B",
+        "text": "Valsalva maneuver or loud noises"
+      },
+      {
+        "key": "C",
+        "text": "Hyperventilation"
+      },
+      {
+        "key": "D",
+        "text": "Dietary sodium intake"
+      },
+      {
+        "key": "E",
+        "text": "Exposure to moving visual scenes"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 22 Neuro-Otology: Diagnosis and Management of Neuro-Otological Disorders TABLE 22.2 and P. 276",
+    "source_file": "52c0badd-________2.docx",
+    "source_doc": "北萬雙_頭暈題庫2"
+  },
+  {
+    "id": "52c0badd-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "According to clinical caloric testing, what is the normal eyes response when cold water is irrigated into the right ear of an awake patient?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Slow phase downward, fast phase upward"
+      },
+      {
+        "key": "B",
+        "text": "Slow phase upward, fast phase downward"
+      },
+      {
+        "key": "C",
+        "text": "Slow phase to the right, no fast phase"
+      },
+      {
+        "key": "D",
+        "text": "Slow phase to the right, fast phase to the left"
+      },
+      {
+        "key": "E",
+        "text": "Slow phase to the left, fast phase to the right"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 5 Stupor and Coma P. 46",
+    "source_file": "52c0badd-________2.docx",
+    "source_doc": "北萬雙_頭暈題庫2"
+  },
+  {
+    "id": "52c0badd-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "According to clinical caloric testing, what is the normal eyes response when cold water is irrigated simultaneously into bilateral ear of an awake patient?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Slow phase downward, fast phase upward"
+      },
+      {
+        "key": "B",
+        "text": "Slow phase upward, fast phase downward"
+      },
+      {
+        "key": "C",
+        "text": "Slow phase to the right, no fast phase"
+      },
+      {
+        "key": "D",
+        "text": "Slow phase to the right, fast phase to the left"
+      },
+      {
+        "key": "E",
+        "text": "Slow phase to the left, fast phase to the right"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 5 Stupor and Coma P. 46",
+    "source_file": "52c0badd-________2.docx",
+    "source_doc": "北萬雙_頭暈題庫2"
+  },
+  {
+    "id": "52c0badd-08",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "Which of the following nystagmus characteristics strongly suggests a central nervous system lesion rather than a peripheral vestibular lesion?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Unidirectional horizontal-torsional nystagmus"
+      },
+      {
+        "key": "B",
+        "text": "Pure vertical or pure torsional nystagmus"
+      },
+      {
+        "key": "C",
+        "text": "Nystagmus whose velocity increases when looking in the direction of the fast phase"
+      },
+      {
+        "key": "D",
+        "text": "Nystagmus associated with severe nausea and vomiting"
+      },
+      {
+        "key": "E",
+        "text": "Nystagmus that is suppressed by visual fixation"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice CHAPTER 22 Neuro-Otology: Diagnosis and Management of Neuro-Otological Disorders TABLE 22.1 and P. 271",
+    "source_file": "52c0badd-________2.docx",
+    "source_doc": "北萬雙_頭暈題庫2"
+  },
+  {
+    "id": "72fa9d77-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "According to the 2022 Taiwan Guidelines for Preventive Treatment of Migraine, which of the following medications is classified as a first-line agent for the prevention of episodic migraine?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Verapamil"
+      },
+      {
+        "key": "B",
+        "text": "Amitriptyline"
+      },
+      {
+        "key": "C",
+        "text": "Topiramate"
+      },
+      {
+        "key": "D",
+        "text": "Gabapentin"
+      },
+      {
+        "key": "E",
+        "text": "Galcanezumab"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "2022 台灣偏頭痛預防性治療準則",
+    "source_file": "72fa9d77-_______10.docx",
+    "source_doc": "三總_頭痛10"
+  },
+  {
+    "id": "72fa9d77-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "Which of the following is a mandatory diagnostic criterion for primary stabbing headache?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Pain must be accompanied by at least one ipsilateral cranial autonomic symptom, such as lacrimation."
+      },
+      {
+        "key": "B",
+        "text": "Each stab must last between 5 and 60 minutes to distinguish it from cluster headache."
+      },
+      {
+        "key": "C",
+        "text": "The headache must occur in a fixed, sharply-contoured area of the scalp 1–6 cm in diameter."
+      },
+      {
+        "key": "D",
+        "text": "Pain must be exclusively triggered by innocuous stimuli to the face, such as washing or shaving."
+      },
+      {
+        "key": "E",
+        "text": "Cranial autonomic symptoms must be absent."
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "ICHD-3, Chapter 4",
+    "source_file": "72fa9d77-_______10.docx",
+    "source_doc": "三總_頭痛10"
+  },
+  {
+    "id": "72fa9d77-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "A 28-year-old woman presents with recurrent episodes over the past year. She describes seeing a shimmering zigzag line that starts near her central vision and slowly expands outward over about 10 minutes, followed by a scotoma. About 20 minutes after the visual disturbance begins, she develops a throbbing, unilateral headache with photophobia and nausea. She has no limb weakness, no speech disturbance, and reports the visual symptoms are always confined to one side of her visual field at a time. Neurological examination between attacks is normal. Based on the ICHD-3 diagnostic criteria, which of the following is one of the mandatory requirements for the aura symptoms in this presentation?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "At least one aura symptom must last more than 60 minutes to be considered typical."
+      },
+      {
+        "key": "B",
+        "text": "The aura must include at least one symptom of motor weakness or reversible limb paralysis."
+      },
+      {
+        "key": "C",
+        "text": "At least one aura symptom must spread gradually over a period of 5 minutes or longer."
+      },
+      {
+        "key": "D",
+        "text": "The headache must always precede the onset of the aura symptoms."
+      },
+      {
+        "key": "E",
+        "text": "Aura symptoms must be strictly bilateral to distinguish them from a transient ischemic attack."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "ICHD-3, Chapter 1",
+    "source_file": "72fa9d77-_______10.docx",
+    "source_doc": "三總_頭痛10"
+  },
+  {
+    "id": "72fa9d77-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "Regarding current treatment guidelines for cluster headache therapy in Taiwan, which statement is CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "High-flow 100% oxygen via a simple mask is the first-line acute therapy."
+      },
+      {
+        "key": "B",
+        "text": "Verapamil remains the first-line choice for maintenance prophylaxis."
+      },
+      {
+        "key": "C",
+        "text": "Galcanezumab is a first-line option for both episodic and chronic cluster headache maintenance prophylaxis therapy."
+      },
+      {
+        "key": "D",
+        "text": "Fremanezumab is an evidence-based option for Verapamil-refractory chronic cluster headache."
+      },
+      {
+        "key": "E",
+        "text": "Oral steroids serve as an effective transitional prophylaxis and should be continued indefinitely as long as they remain effective."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "2022 台灣叢發性頭痛治療準則",
+    "source_file": "72fa9d77-_______10.docx",
+    "source_doc": "三總_頭痛10"
+  },
+  {
+    "id": "72fa9d77-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "Regarding Calcitonin Gene-Related Peptide (CGRP) targeted therapies for headache disorders, which of the following statements is CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Erenumab is a humanized monoclonal antibody that targets the CGRP ligand, while Galcanezumab targets the CGRP receptor."
+      },
+      {
+        "key": "B",
+        "text": "Eptinezumab is typically administered via intravenous (IV) injection every three months."
+      },
+      {
+        "key": "C",
+        "text": "Gepants are large-molecule CGRP receptor antagonists that are contraindicated in patients with cardiovascular disease due to their potent vasoconstrictive effects"
+      },
+      {
+        "key": "D",
+        "text": "A delayed CGRP-induced headache is a common phenomenon observed in both healthy individuals and migraine patients."
+      },
+      {
+        "key": "E",
+        "text": "CGRP monoclonal antibodies are insurance-covered preventive treatments for episodic migraine in Taiwan."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "2022 台灣偏頭痛預防性治療準則\nICHD-3, Chapter 8",
+    "source_file": "72fa9d77-_______10.docx",
+    "source_doc": "三總_頭痛10"
+  },
+  {
+    "id": "72fa9d77-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "難",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "Regarding Short-lasting Unilateral Neuralgiform headache attacks with Conjunctival injection and Tearing (SUNCT) and Short-lasting Unilateral Neuralgiform headache attacks with cranial Autonomic symptoms (SUNA), which of the following statements is CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Unlike Trigeminal Neuralgia, SUNCT/SUNA attacks are typically associated with a prominent refractory period after each attack."
+      },
+      {
+        "key": "B",
+        "text": "The frequency of attacks in SUNCT/SUNA is typically much lower than in Cluster Headache, averaging 1–2 attacks per day."
+      },
+      {
+        "key": "C",
+        "text": "Attacks must be associated with both conjunctival injection and tearing to meet the criteria for SUNA."
+      },
+      {
+        "key": "D",
+        "text": "Both SUNCT and SUNA are characterized by short-lasting (1–600 seconds) stabs of pain that are typically unilateral and orbital/supraorbital in location."
+      },
+      {
+        "key": "E",
+        "text": "Oral Verapamil is the absolute first-line treatment of choice for acute relief of SUNCT attacks."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "ICHD-3, Chapter 3",
+    "source_file": "72fa9d77-_______10.docx",
+    "source_doc": "三總_頭痛10"
+  },
+  {
+    "id": "72fa9d77-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "Headache disorder that responds absolutely to therapeutic doses of Indomethacin.",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Paroxysmal Hemicrania"
+      },
+      {
+        "key": "B",
+        "text": "Hemicrania Continua"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "ICHD-3, Chapter 3",
+    "source_file": "72fa9d77-_______10.docx",
+    "source_doc": "三總_頭痛10"
+  },
+  {
+    "id": "72fa9d77-08",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "difficulty": "中等",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "Regarding the pathogenesis of Trigeminal Neuralgia, which of the following are correct:",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Classical cases are often related to neurovascular compression of the trigeminal nerve by the superior cerebellar artery."
+      },
+      {
+        "key": "2",
+        "text": "The focal demyelination of axons at the root entry zone is a hypothesized pathological feature, leading to ectopic and repetitive neural discharges."
+      },
+      {
+        "key": "3",
+        "text": "Attacks of trigeminal neuralgia are most common in the second and third divisions of the nerve."
+      },
+      {
+        "key": "4",
+        "text": "It is primarily caused by an inflammatory response in the paranasal sinuses."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Neurology in Clinical Practice, 8th Edition, Chapter 102",
+    "source_file": "72fa9d77-_______10.docx",
+    "source_doc": "三總_頭痛10"
+  },
+  {
+    "id": "72fa9d77-09",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "A 40-year-old male presents to the clinic with a long-standing history of Migraine with Aura. His father suffered from early-onset dementia and multiple strokes in his fifties. A brain MRI (FLAIR) is performed (see figure below). What is the most likely diagnosis?",
+    "images": [
+      "images/72fa9d77-09-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Idiopathic Intracranial Hypertension (IIH)"
+      },
+      {
+        "key": "B",
+        "text": "Amyloid Beta-related Angiitis"
+      },
+      {
+        "key": "C",
+        "text": "Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts and Leukoencephalopathy (CADASIL)"
+      },
+      {
+        "key": "D",
+        "text": "Hypertensive Microbleeds"
+      },
+      {
+        "key": "E",
+        "text": "Cerebral Amyloid Angiopathy (CAA)"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "ICHD-3, Chapter 6\nNeurology in Clinical Practice, 8th Edition, Chapter 65, Fig 65.20",
+    "source_file": "72fa9d77-_______10.docx",
+    "source_doc": "三總_頭痛10"
+  },
+  {
+    "id": "72fa9d77-10",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "頭痛與疼痛",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "頭痛與疼痛"
+    ],
+    "question": "A 45-year-old patient presents with a severe orthostatic headache. A sagittal T1-weighted brain MRI is performed (see figure below). Based on the image, what is the most likely diagnosis?",
+    "images": [
+      "images/72fa9d77-10-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Chiari Malformation Type I"
+      },
+      {
+        "key": "B",
+        "text": "Pituitary Adenoma"
+      },
+      {
+        "key": "C",
+        "text": "Spontaneous Intracranial Hypotension"
+      },
+      {
+        "key": "D",
+        "text": "Colloid cyst of the third ventricle"
+      },
+      {
+        "key": "E",
+        "text": "Idiopathic Intracranial Hypertension"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Neurology in Clinical Practice, 8th Edition, Chapter 102, eFig 102.3",
+    "source_file": "72fa9d77-_______10.docx",
+    "source_doc": "三總_頭痛10"
+  },
+  {
+    "id": "93580268-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "Which statement about Lambert-Eaton myasthenic syndrome is False?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Small cell lung carcinoma (SCLC) is the most common associated malignancy."
+      },
+      {
+        "key": "B",
+        "text": "Decrease DTR may be present"
+      },
+      {
+        "key": "C",
+        "text": "Proximal limb weakness without significant muscle atrophy is the most common clinical finding."
+      },
+      {
+        "key": "D",
+        "text": "An incremental response of >100% after 3 Hz repetitive nerve stimulation is the diagnostic hallmark."
+      },
+      {
+        "key": "E",
+        "text": "Diffused reduction in CMAP amplitude with relatively preserved SNAP is the typical NCV finding."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Merritt’s Neurology, section XIII, 93\nPRACTICAL NEUROLOGY 2024 diagnosis-and-treatment-of-lambert-eaton-myasthenic-syndrome/32113/",
+    "source_file": "93580268-___PNS.docx",
+    "source_doc": "高醫_PNS"
+  },
+  {
+    "id": "93580268-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "Which statement about Lambert-Eaton myasthenic syndrome is true?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "A postsynaptic neuromuscular junction disorder."
+      },
+      {
+        "key": "B",
+        "text": "Associated with autoantibody against ligand-gated calcium channel."
+      },
+      {
+        "key": "C",
+        "text": "Associates with autoantibody against acetylcholine receptor."
+      },
+      {
+        "key": "D",
+        "text": "Intact release of acetylcholine"
+      },
+      {
+        "key": "E",
+        "text": "Autonomic dysfunction is a common comorbid symptom."
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Merritt’s Neurology, section XIII, 93\nPRACTICAL NEUROLOGY 2024 diagnosis-and-treatment-of-lambert-eaton-myasthenic-syndrome/32113/",
+    "source_file": "93580268-___PNS.docx",
+    "source_doc": "高醫_PNS"
+  },
+  {
+    "id": "93580268-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "difficulty": "中等",
+    "tags": [],
+    "question": "What is the typical electrophysiological finding(s) of Lambert-Eaton myasthenic syndrome?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Decrease in amplitude of compound muscle action potential (CMAP)"
+      },
+      {
+        "key": "2",
+        "text": "Decremental changes on slow frequency repetitive nerve stimulation"
+      },
+      {
+        "key": "3",
+        "text": "Incremental changes on high frequency repetitive nerve stimulation"
+      },
+      {
+        "key": "4",
+        "text": "Incremental changes on post-exercise conditions"
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Merritt’s Neurology, section XIII, 93\nPRACTICAL NEUROLOGY 2024 diagnosis-and-treatment-of-lambert-eaton-myasthenic-syndrome/32113/",
+    "source_file": "93580268-___PNS.docx",
+    "source_doc": "高醫_PNS"
+  },
+  {
+    "id": "93580268-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "What is the common clinical finding(s) of Lambert-Eaton myasthenic syndrome beyond repetitive nerve stimulation?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Proximal muscle weakness"
+      },
+      {
+        "key": "B",
+        "text": "Diffused low CMAP amplitude"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Merritt’s Neurology, section XIII, 93\nPRACTICAL NEUROLOGY 2024 diagnosis-and-treatment-of-lambert-eaton-myasthenic-syndrome/32113/",
+    "source_file": "93580268-___PNS.docx",
+    "source_doc": "高醫_PNS"
+  },
+  {
+    "id": "93580268-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "A male patient with general weakness received repetitive nerve stimulation study (20Hz), and the results are shown in the figure below. Which of the following statements regarding the diagnosis based on this figure is INCORRECT?",
+    "images": [
+      "images/93580268-05-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "A disorder caused by autoantibodies against P/Q-type voltage-gated calcium channels"
+      },
+      {
+        "key": "B",
+        "text": "Up to 60% of cases are associated with malignancy."
+      },
+      {
+        "key": "C",
+        "text": "Post-exercise may produce a similar facilitation response."
+      },
+      {
+        "key": "D",
+        "text": "3,4-diaminopyridine is a treatment option."
+      },
+      {
+        "key": "E",
+        "text": "Most cases have known malignancy at the time of diagnosis."
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Merritt’s Neurology, section XIII, 93\nPRACTICAL NEUROLOGY 2024 diagnosis-and-treatment-of-lambert-eaton-myasthenic-syndrome/32113/",
+    "source_file": "93580268-___PNS.docx",
+    "source_doc": "高醫_PNS"
+  },
+  {
+    "id": "7d64e03c-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "難",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "Which of the following statements regarding peripheral and central non-invasive neurostimulation for migraine is FALSE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "External trigeminal nerve stimulation (eTNS) delivers transcutaneous stimulation to the ophthalmic (V1) branch of the trigeminal nerve, blocking pain signal transmission and desensitizing trigeminal afferents."
+      },
+      {
+        "key": "B",
+        "text": "eTNS is effective for acute migraine treatment, but not for migraine prevention."
+      },
+      {
+        "key": "C",
+        "text": "Non-invasive vagus nerve stimulation (nVNS) has FDA approval for both cluster headache and migraine."
+      },
+      {
+        "key": "D",
+        "text": "Single-pulse transcranial magnetic stimulation (sTMS) is applied over the occiput to disrupt cortical spreading depression underlying migraine with aura."
+      },
+      {
+        "key": "E",
+        "text": "Repetitive transcranial magnetic stimulation (rTMS) currently lacks FDA approval for the treatment of migraine."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Reuter U et al. Non-invasive neuromodulation for migraine and cluster headache: a systematic review of clinical trials. J Neurol Neurosurg Psychiatry. 2019 Jul;90(7):796-804.",
+    "source_file": "7d64e03c-_______3.docx",
+    "source_doc": "高醫_神經生理3"
+  },
+  {
+    "id": "7d64e03c-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "Regarding repetitive transcranial magnetic stimulation (rTMS), which of the following statements is FALSE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "High-frequency rTMS applied to the primary motor cortex (M1) contralateral to the side of pain has an effective analgesic effect."
+      },
+      {
+        "key": "B",
+        "text": "High-frequency rTMS applied to the left dorsolateral prefrontal cortex has an effective antidepressant effect."
+      },
+      {
+        "key": "C",
+        "text": "High-frequency rTMS applied to the contralesional primary motor cortex (M1) is effective for promoting hand motor recovery in the post-acute stage of stroke."
+      },
+      {
+        "key": "D",
+        "text": "Low-frequency rTMS applied to the right inferior frontal gyrus has probable efficacy for treating non-fluent aphasia in the chronic post-stroke stage."
+      },
+      {
+        "key": "E",
+        "text": "High-frequency rTMS applied to bilateral primary motor cortex (M1) regions has probable efficacy for improving motor impairment in Parkinson's disease."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Lefaucheur JP et al. Clin Neurophysiol. 2020 Feb;131(2):474-528.",
+    "source_file": "7d64e03c-_______3.docx",
+    "source_doc": "高醫_神經生理3"
+  },
+  {
+    "id": "7d64e03c-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "Which statement regarding the clinical use of transcranial magnetic stimulation (TMS) and motor evoked potentials (MEPs) is true?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "MEP elicited by TMS can only assess corticospinal tract integrity."
+      },
+      {
+        "key": "B",
+        "text": "MEP monitoring is not affected by anesthesia."
+      },
+      {
+        "key": "C",
+        "text": "TMS can be used to evaluate intracortical inhibition and facilitation."
+      },
+      {
+        "key": "D",
+        "text": "Central motor conduction time (CMCT) is calculated without considering peripheral conduction."
+      },
+      {
+        "key": "E",
+        "text": "Shortened CMCT suggests dysfunction of corticospinal pathways."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice, 8th ed., Chapter 37",
+    "source_file": "7d64e03c-_______3.docx",
+    "source_doc": "高醫_神經生理3"
+  },
+  {
+    "id": "7d64e03c-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "A healthy 25-year-old medical student volunteers for a normal needle EMG demonstration. The examiner inserts a concentric needle electrode into her fully relaxed abductor pollicis brevis muscle. After the initial insertional activity settles, the audio monitor emits a sound resembling that of a seashell held to the ear. On the screen, the baseline is shifted by a steady stream of small, high-frequency, irregularly firing, and predominantly monophasic negative potentials. What is the most accurate clinical interpretation of this finding?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Intermittent spikes may also occur in this zone, representing single muscle fiber discharges triggered by needle irritation of intramuscular nerve terminals."
+      },
+      {
+        "key": "B",
+        "text": "The student is subtly contracting her muscle, and the sweep speed must be adjusted to isolate the motor unit."
+      },
+      {
+        "key": "C",
+        "text": "This is an early indicator of subclinical, asymptomatic axonal mononeuropathy of the median nerve."
+      },
+      {
+        "key": "D",
+        "text": "This represents a complex repetitive discharge (CRD) in its earliest incubation phase."
+      },
+      {
+        "key": "E",
+        "text": "The electrode has penetrated an intramuscular blood vessel, recording turbulent erythrocyte blood flow."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice, 8th ed., Chapter 36, pg.458",
+    "source_file": "7d64e03c-_______3.docx",
+    "source_doc": "高醫_神經生理3"
+  },
+  {
+    "id": "7d64e03c-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "易",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "Which of the following are indicated for MR-guided focused ultrasound (MRgFUS) thalamotomy?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Essential tremor, with the ventral intermediate nucleus (VIM) of the thalamus as the ablation target."
+      },
+      {
+        "key": "B",
+        "text": "Tremor-dominant Parkinson's disease, with the ventral intermediate nucleus (VIM) of the thalamus as the ablation target."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "FDA Approves Bilateral Focused Ultrasound Treatment for Parkinson’s Disease, 2025, July 8\nElias WJ et al. A Randomized Trial of Focused Ultrasound Thalamotomy for Essential Tremor. N Engl J Med. 2016 Aug 25;375(8):730-9.\nBond AE et al. Ultrasound Thalamotomy for Patients With Medication-Refractory, Tremor-Dominant Parkinson Disease: A Randomized Clinical Trial. JAMA Neurol. 2017 Dec 1;74(12):1412-1418.",
+    "source_file": "7d64e03c-_______3.docx",
+    "source_doc": "高醫_神經生理3"
+  },
+  {
+    "id": "7d64e03c-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "difficulty": "難",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "A patient undergoes full-field left monocular stimulation for a visual evoked potential (VEP) study. The results are shown in the following figure. Which of the following statements regarding this finding is(are) correct? (LO: left occipital, MO: mid-occipital, RO: right occipital, and MF: mid-frontal)",
+    "images": [
+      "images/7d64e03c-06-1.png"
+    ],
+    "options": [
+      {
+        "key": "1",
+        "text": "The lesion is likely located in the left cerebral lobe."
+      },
+      {
+        "key": "2",
+        "text": "The lesion is likely located in the right occipital lobe."
+      },
+      {
+        "key": "3",
+        "text": "It suggests a possible right visual field defect."
+      },
+      {
+        "key": "4",
+        "text": "Half-field stimulation should be performed."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Practical Guide for Clinical Neurophysiologic Testing: EP, LTM/ccEEG, IOM, PSG, and NCS/EMG, 2011, Chapter 2",
+    "source_file": "7d64e03c-_______3.docx",
+    "source_doc": "高醫_神經生理3"
+  },
+  {
+    "id": "7d64e03c-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "difficulty": "易",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "Which of the following statements regarding nerve conduction studies (NCS) is/are TRUE?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "A significant drop in the ulnar compound muscle action potential (CMAP) amplitude between the wrist and below-elbow stimulation sites definitively indicates a conduction block of the ulnar nerve."
+      },
+      {
+        "key": "2",
+        "text": "Reduced amplitudes necessarily imply an axonal loss lesion."
+      },
+      {
+        "key": "3",
+        "text": "Conduction blocks, as well as abnormal temporal dispersion, can be observed across all types of demyelinating disorders."
+      },
+      {
+        "key": "4",
+        "text": "Any motor, sensory, or mixed nerve conduction velocity slower than 35 m/s in the upper extremities usually indicates a demyelinating process."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Electromyography and Neuromuscular Disorders 4th edition, chapter 3",
+    "source_file": "7d64e03c-_______3.docx",
+    "source_doc": "高醫_神經生理3"
+  },
+  {
+    "id": "7d64e03c-08",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "Based on the pattern-shift visual evoked potentials (VEP) shown below, which of the following is the MOST likely diagnosis?",
+    "images": [
+      "images/7d64e03c-08-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Left occipital lobe infarction"
+      },
+      {
+        "key": "B",
+        "text": "Left ischemic optic neuropathy"
+      },
+      {
+        "key": "C",
+        "text": "Brain metastasis involved left optic tract"
+      },
+      {
+        "key": "D",
+        "text": "Left optic neuritis, post-acute phase"
+      },
+      {
+        "key": "E",
+        "text": "Pituitary adenoma"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Practical Guide for Clinical Neurophysiologic Testing: EP, LTM/ccEEG, IOM, PSG, and NCS/EMG, 2011, Chapter 2",
+    "source_file": "7d64e03c-_______3.docx",
+    "source_doc": "高醫_神經生理3"
+  },
+  {
+    "id": "7d64e03c-09",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "基礎神經科學"
+    ],
+    "question": "Based on the blink reflex findings, which of the following is the most likely diagnosis?",
+    "images": [
+      "images/7d64e03c-09-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Left trigeminal nerve lesion."
+      },
+      {
+        "key": "B",
+        "text": "Left facial nerve lesion."
+      },
+      {
+        "key": "C",
+        "text": "Left medullary lesion."
+      },
+      {
+        "key": "D",
+        "text": "Left pontine lesion"
+      },
+      {
+        "key": "E",
+        "text": "Right medullary lesion."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Electromyography and Neuromuscular Disorders, 4th ed, Chap 5",
+    "source_file": "7d64e03c-_______3.docx",
+    "source_doc": "高醫_神經生理3"
   }
 ]
