@@ -21582,5 +21582,125 @@
     "source": "Chapter 118 Rapid Eye Movement Sleep Parasomnias 1101.e7",
     "source_file": "255aa63f-______5_.docx",
     "source_doc": "北萬雙_睡眠_5題"
+  },
+  {
+    "id": "07033788-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "A 64-year-old man with type 2 diabetes (HbA1c 7.1%) develops severe right anterior thigh pain for 6 weeks, followed by progressive proximal leg weakness and weight loss. Examination shows right iliopsoas, quadriceps, and hip adductor weakness (MRC 2/5), and an absent right knee jerk. Two weeks later, similar pain and weakness appears in the left thigh.\nSerum CK is 85 U/L (normal); lumbar spine and pelvic/plexus MRI show no compressive lesion; CSF protein 52 mg/dL with 0 WBC/μL. NCS shows reduced right femoral and peroneal CMAP amplitudes without conduction block.\nWhich of the following statements is TRUE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "It typically occurs in patients with long-standing, poorly controlled diabetes and parallels the severity of distal symmetric polyneuropathy."
+      },
+      {
+        "key": "B",
+        "text": "Needle EMG characteristically shows denervation confined to L2–L4 myotomes, with sparing of the paraspinal muscles and distal leg muscles."
+      },
+      {
+        "key": "C",
+        "text": "Nerve biopsy frequently demonstrates ischemic injury with microvasculitis, including perivascular inflammation and multifocal fiber loss."
+      },
+      {
+        "key": "D",
+        "text": "Randomized controlled trials have shown that IVIG significantly improves motor recovery and is the standard first-line treatment."
+      },
+      {
+        "key": "E",
+        "text": "The prognosis is poor. Most patients remain permanently wheelchair-dependent despite glycemic control."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "1. Dyck PJB, Windebank AJ. Diabetic and nondiabetic lumbosacral radiculoplexus neuropathies: new insights into pathophysiology and treatment. Muscle Nerve. 2002;25(4):477–491.\n2. Adams and victor's principles of neurology. Chap 43",
+    "source_file": "07033788-___PNS2.docx",
+    "source_doc": "高醫_PNS2"
+  },
+  {
+    "id": "07033788-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "A 46-year-old man presents with a 3-month history of weight loss, followed by left foot drop and numbness and weakness in the right ulnar distribution. Examination reveals livedo reticularis and a subcutaneous nodule. Biopsy of the nodule shows necrotizing arteritis without granulomas. HBsAg and HBeAg are positive, with a high HBV DNA level. ANCA is negative, and urinalysis shows no red cell casts. Which of the following statements regarding this patient's condition is TRUE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Renal insufficiency and hypertension may occur, but glomerulonephritis is not expected."
+      },
+      {
+        "key": "B",
+        "text": "Central nervous system involvement is uncommon."
+      },
+      {
+        "key": "C",
+        "text": "The disease primarily affects medium-sized arteries."
+      },
+      {
+        "key": "D",
+        "text": "Antiviral therapy combined with a short course of glucocorticoids, with or without plasma exchange, is the recommended treatment."
+      },
+      {
+        "key": "E",
+        "text": "All of the above are true."
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Merritt's Neurology 14th edition, Chap 91. Polyarteritis nodosa",
+    "source_file": "07033788-___PNS2.docx",
+    "source_doc": "高醫_PNS2"
+  },
+  {
+    "id": "07033788-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "重症神經學",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "中等",
+    "tags": [
+      "重症神經學"
+    ],
+    "question": "Regarding the mechanisms of disease-modifying therapies for hereditary transthyretin amyloidosis with polyneuropathy (formerly known as familial amyloid polyneuropathy [FAP]), which of the following statements is TRUE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Patisiran is an antisense oligonucleotide that binds TTR mRNA and induces its degradation through RNase H1."
+      },
+      {
+        "key": "B",
+        "text": "Tafamidis binds to the thyroxine-binding sites of the TTR tetramer, stabilizing it and slowing its dissociation into monomers, which is the rate-limiting step of amyloidogenesis."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Adams D, Gonzalez-Duarte A, O'Riordan WD, et al. Patisiran, an RNAi therapeutic, for hereditary transthyretin amyloidosis. N Engl J Med. 2018;379(1):11–21.\nCoelho T, Maia LF, Martins da Silva A, et al. Tafamidis for transthyretin familial amyloid polyneuropathy: a randomized, controlled trial. Neurology. 2012;79(8):785–792.",
+    "source_file": "07033788-___PNS2.docx",
+    "source_doc": "高醫_PNS2"
   }
 ]
