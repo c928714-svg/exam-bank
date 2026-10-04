@@ -2013,7 +2013,7 @@
     "explanation": null,
     "source": "2025台灣腦中風學會急性缺血性腦中風靜脈血栓溶解治療指引更新",
     "source_file": "3f2a38c8-___________.docx",
-    "source_doc": "奇美_中風_命題紙格式"
+    "source_doc": "奇美_中風_命題紙格式(即奇美_謝醫師)"
   },
   {
     "id": "3f2a38c8-02",
@@ -2057,7 +2057,7 @@
     "explanation": null,
     "source": "2024 台灣腦中風學會及台灣腎臟醫學會慢性腎臟病患者腦中風治療指引",
     "source_file": "3f2a38c8-___________.docx",
-    "source_doc": "奇美_中風_命題紙格式"
+    "source_doc": "奇美_中風_命題紙格式(即奇美_謝醫師)"
   },
   {
     "id": "3f2a38c8-03",
@@ -2101,7 +2101,7 @@
     "explanation": null,
     "source": "2024 台灣腦中風學會非維他命K拮抗劑口服抗凝血劑用於心房纖維顫動病人腦中風預防治療指引更新",
     "source_file": "3f2a38c8-___________.docx",
-    "source_doc": "奇美_中風_命題紙格式"
+    "source_doc": "奇美_中風_命題紙格式(即奇美_謝醫師)"
   },
   {
     "id": "3f2a38c8-04",
@@ -2145,7 +2145,7 @@
     "explanation": null,
     "source": "2025台灣腦中風學會急性缺血性腦中風靜脈血栓溶解治療指引更新",
     "source_file": "3f2a38c8-___________.docx",
-    "source_doc": "奇美_中風_命題紙格式"
+    "source_doc": "奇美_中風_命題紙格式(即奇美_謝醫師)"
   },
   {
     "id": "3f2a38c8-05",
@@ -2189,7 +2189,7 @@
     "explanation": null,
     "source": "2025台灣腦中風學會急性缺血性腦中風靜脈血栓溶解治療指引更新",
     "source_file": "3f2a38c8-___________.docx",
-    "source_doc": "奇美_中風_命題紙格式"
+    "source_doc": "奇美_中風_命題紙格式(即奇美_謝醫師)"
   },
   {
     "id": "3f2a38c8-06",
@@ -2221,7 +2221,7 @@
     "explanation": null,
     "source": "",
     "source_file": "3f2a38c8-___________.docx",
-    "source_doc": "奇美_中風_命題紙格式"
+    "source_doc": "奇美_中風_命題紙格式(即奇美_謝醫師)"
   },
   {
     "id": "3f2a38c8-07",
@@ -2267,7 +2267,7 @@
     "explanation": null,
     "source": "doi: 10.1186/1752-1947-3-77",
     "source_file": "3f2a38c8-___________.docx",
-    "source_doc": "奇美_中風_命題紙格式"
+    "source_doc": "奇美_中風_命題紙格式(即奇美_謝醫師)"
   },
   {
     "id": "3f2a38c8-08",
@@ -2313,7 +2313,7 @@
     "explanation": null,
     "source": "doi: 10.1016/S1474-4422(09)70127-9",
     "source_file": "3f2a38c8-___________.docx",
-    "source_doc": "奇美_中風_命題紙格式"
+    "source_doc": "奇美_中風_命題紙格式(即奇美_謝醫師)"
   },
   {
     "id": "478417457-01",
@@ -12503,350 +12503,6 @@
     "source": "Merritt neurology, 14th edition, page 2779, 2796",
     "source_file": "e1ed6f46-___movement_gene______.docx",
     "source_doc": "林長_movement gene_命題紙格式"
-  },
-  {
-    "id": "8cfc8b2d-01",
-    "subject": "神經科專科醫師甄審",
-    "chapter": "腦中風",
-    "year": "",
-    "type": "single",
-    "format": "A",
-    "rule_text": null,
-    "difficulty": "中等",
-    "tags": [
-      "腦中風"
-    ],
-    "question": "A 68-year-old woman developed sudden aphasia and right-sided weakness 6 hours ago. Her NIHSS score is 12. Noncontrast CT shows no intracranial hemorrhage, and CT angiography shows no large-vessel occlusion. CT perfusion demonstrates an ischemic core of 25 mL, a mismatch volume of 30 mL, and a mismatch ratio of 2.2. She has no other contraindications to intravenous thrombolysis. According to current acute ischemic stroke guidelines, which of the following is the most appropriate management?",
-    "images": [],
-    "options": [
-      {
-        "key": "A",
-        "text": "No reperfusion therapy should be given because symptom onset was more than 4.5 hours ago"
-      },
-      {
-        "key": "B",
-        "text": "Intravenous thrombolysis may be considered because she meets perfusion-imaging selection criteria"
-      },
-      {
-        "key": "C",
-        "text": "Treatment should be delayed until MRI confirms a DWI-FLAIR mismatch"
-      },
-      {
-        "key": "D",
-        "text": "Mechanical thrombectomy should be performed immediately"
-      },
-      {
-        "key": "E",
-        "text": "Aspirin plus clopidogrel should be administered without considering thrombolysis"
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "explanation": null,
-    "source": "2025台灣腦中風學會急性缺血性腦中風靜脈血栓溶解治療指引更新",
-    "source_file": "8cfc8b2d-______.docx",
-    "source_doc": "奇美_謝醫師"
-  },
-  {
-    "id": "8cfc8b2d-02",
-    "subject": "神經科專科醫師甄審",
-    "chapter": "腦中風",
-    "year": "",
-    "type": "single",
-    "format": "A",
-    "rule_text": null,
-    "difficulty": "易",
-    "tags": [
-      "腦中風"
-    ],
-    "question": "A 72-year-old man has chronic kidney disease (CrCl 28 mL/min), nonvalvular atrial fibrillation, and a prior ischemic stroke. He has no active bleeding risk. What is the most appropriate secondary prevention?",
-    "images": [],
-    "options": [
-      {
-        "key": "A",
-        "text": "Aspirin alone"
-      },
-      {
-        "key": "B",
-        "text": "Clopidogrel alone"
-      },
-      {
-        "key": "C",
-        "text": "Long-term dual antiplatelet therapy"
-      },
-      {
-        "key": "D",
-        "text": "A DOAC selected and dosed according to renal function"
-      },
-      {
-        "key": "E",
-        "text": "No antithrombotic therapy because of CKD"
-      }
-    ],
-    "answer": [
-      "D"
-    ],
-    "explanation": null,
-    "source": "2024 台灣腦中風學會及台灣腎臟醫學會慢性腎臟病患者腦中風治療指引",
-    "source_file": "8cfc8b2d-______.docx",
-    "source_doc": "奇美_謝醫師"
-  },
-  {
-    "id": "8cfc8b2d-03",
-    "subject": "神經科專科醫師甄審",
-    "chapter": "腦中風",
-    "year": "",
-    "type": "single",
-    "format": "A",
-    "rule_text": null,
-    "difficulty": "易",
-    "tags": [
-      "腦中風"
-    ],
-    "question": "A patient with atrial fibrillation has a moderate ischemic stroke (NIHSS 10). Follow-up imaging shows no hemorrhagic transformation. When should a DOAC generally be started?",
-    "images": [],
-    "options": [
-      {
-        "key": "A",
-        "text": "Within 24 hours"
-      },
-      {
-        "key": "B",
-        "text": "Day 3"
-      },
-      {
-        "key": "C",
-        "text": "Days 6-8"
-      },
-      {
-        "key": "D",
-        "text": "Days 12-14"
-      },
-      {
-        "key": "E",
-        "text": "After 28 days"
-      }
-    ],
-    "answer": [
-      "C"
-    ],
-    "explanation": null,
-    "source": "2024 台灣腦中風學會非維他命K拮抗劑口服抗凝血劑用於心房纖維顫動病人腦中風預防治療指引更新",
-    "source_file": "8cfc8b2d-______.docx",
-    "source_doc": "奇美_謝醫師"
-  },
-  {
-    "id": "8cfc8b2d-04",
-    "subject": "神經科專科醫師甄審",
-    "chapter": "腦中風",
-    "year": "",
-    "type": "single",
-    "format": "A",
-    "rule_text": null,
-    "difficulty": "易",
-    "tags": [
-      "腦中風"
-    ],
-    "question": "An acute ischemic stroke patient meets the criteria for intravenous thrombolysis. Which comorbidity is compatible with reasonable use of alteplase?",
-    "images": [],
-    "options": [
-      {
-        "key": "A",
-        "text": "Infective endocarditis"
-      },
-      {
-        "key": "B",
-        "text": "Aortic arch dissection"
-      },
-      {
-        "key": "C",
-        "text": "Extracranial cervical artery dissection"
-      },
-      {
-        "key": "D",
-        "text": "Intracranial artery dissection"
-      },
-      {
-        "key": "E",
-        "text": "Active internal bleeding"
-      }
-    ],
-    "answer": [
-      "C"
-    ],
-    "explanation": null,
-    "source": "2025台灣腦中風學會急性缺血性腦中風靜脈血栓溶解治療指引更新",
-    "source_file": "8cfc8b2d-______.docx",
-    "source_doc": "奇美_謝醫師"
-  },
-  {
-    "id": "8cfc8b2d-05",
-    "subject": "神經科專科醫師甄審",
-    "chapter": "腦中風",
-    "year": "",
-    "type": "single",
-    "format": "A",
-    "rule_text": null,
-    "difficulty": "易",
-    "tags": [
-      "腦中風"
-    ],
-    "question": "A patient with acute ischemic stroke otherwise meets the criteria for intravenous thrombolysis. A prior MRI shows 12 cerebral microbleeds. What is the most appropriate approach?",
-    "images": [],
-    "options": [
-      {
-        "key": "A",
-        "text": "Routinely administer alteplase"
-      },
-      {
-        "key": "B",
-        "text": "Consider thrombolysis absolutely contraindicated"
-      },
-      {
-        "key": "C",
-        "text": "Individualize treatment after weighing benefit and bleeding risk"
-      },
-      {
-        "key": "D",
-        "text": "Use low-dose alteplase"
-      },
-      {
-        "key": "E",
-        "text": "Delay thrombolysis for 24 hours"
-      }
-    ],
-    "answer": [
-      "C"
-    ],
-    "explanation": null,
-    "source": "2025台灣腦中風學會急性缺血性腦中風靜脈血栓溶解治療指引更新",
-    "source_file": "8cfc8b2d-______.docx",
-    "source_doc": "奇美_謝醫師"
-  },
-  {
-    "id": "8cfc8b2d-06",
-    "subject": "神經科專科醫師甄審",
-    "chapter": "腦中風",
-    "year": "",
-    "type": "combo",
-    "format": "C",
-    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
-    "difficulty": "中等",
-    "tags": [
-      "腦中風"
-    ],
-    "question": "A patient receiving amyloid-targeting antibody therapy undergoes brain MRI. FLAIR shows a focal sulcal hyperintensity, while SWI shows a curvilinear hypointensity along the cortical surface. Which statement is correct?",
-    "images": [],
-    "options": [
-      {
-        "key": "A",
-        "text": "The former represents sulcal effusion of ARIA-E; the latter represents cortical superficial siderosis of ARIA-H"
-      },
-      {
-        "key": "B",
-        "text": "The former represents microhemorrhage of ARIA-H; the latter represents parenchymal edema of ARIA-E"
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "explanation": null,
-    "source": "",
-    "source_file": "8cfc8b2d-______.docx",
-    "source_doc": "奇美_謝醫師"
-  },
-  {
-    "id": "8cfc8b2d-07",
-    "subject": "神經科專科醫師甄審",
-    "chapter": "腦中風",
-    "year": "",
-    "type": "single",
-    "format": "A2",
-    "rule_text": null,
-    "difficulty": "易",
-    "tags": [
-      "腦中風"
-    ],
-    "question": "A 19-year-old woman presents with recurrent stroke-like episodes, seizures, migraine-like headaches, exercise intolerance, sensorineural hearing loss, short stature, and diabetes. The imaging findings are shown below: (A) brain CT; (B and C) T2-weighted brain MRI; and (D) MR spectroscopy. Her mother and maternal uncle have similar manifestations. Which gene is most likely mutated?",
-    "images": [
-      "images/8cfc8b2d-07-1.png"
-    ],
-    "options": [
-      {
-        "key": "A",
-        "text": "NOTCH3"
-      },
-      {
-        "key": "B",
-        "text": "HTRA1"
-      },
-      {
-        "key": "C",
-        "text": "COL4A1"
-      },
-      {
-        "key": "D",
-        "text": "GLA"
-      },
-      {
-        "key": "E",
-        "text": "MT-TL1"
-      }
-    ],
-    "answer": [
-      "E"
-    ],
-    "explanation": null,
-    "source": "doi: 10.1186/1752-1947-3-77",
-    "source_file": "8cfc8b2d-______.docx",
-    "source_doc": "奇美_謝醫師"
-  },
-  {
-    "id": "8cfc8b2d-08",
-    "subject": "神經科專科醫師甄審",
-    "chapter": "腦中風",
-    "year": "",
-    "type": "single",
-    "format": "A2",
-    "rule_text": null,
-    "difficulty": "易",
-    "tags": [
-      "腦中風"
-    ],
-    "question": "A 42-year-old woman has recurrent lacunar strokes, migraine with aura, mood disturbance, and progressive cognitive decline. Brain MRI shows white-matter lesions and microbleeds (as shown below). Her father and paternal aunt had similar early-onset strokes. Which gene is most likely mutated?",
-    "images": [
-      "images/8cfc8b2d-08-1.jpg"
-    ],
-    "options": [
-      {
-        "key": "A",
-        "text": "NOTCH3"
-      },
-      {
-        "key": "B",
-        "text": "HTRA1"
-      },
-      {
-        "key": "C",
-        "text": "COL4A1"
-      },
-      {
-        "key": "D",
-        "text": "GLA"
-      },
-      {
-        "key": "E",
-        "text": "MT-TL1"
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "explanation": null,
-    "source": "doi: 10.1016/S1474-4422(09)70127-9",
-    "source_file": "8cfc8b2d-______.docx",
-    "source_doc": "奇美_謝醫師"
   },
   {
     "id": "6c49a154-01",
