@@ -21360,5 +21360,227 @@
     "source": "Electromyography and Neuromuscular Disorders, 4th ed, Chap 5",
     "source_file": "7d64e03c-_______3.docx",
     "source_doc": "高醫_神經生理3"
+  },
+  {
+    "id": "255aa63f-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠疾患",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "睡眠疾患"
+    ],
+    "question": "According to the patient's bed partner, each nighttime episode begins with the same specific movements and abnormal gasping. This characteristic most strongly suggests which of the following nocturnal events?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Disorder of arousal"
+      },
+      {
+        "key": "B",
+        "text": "Epileptic seizure"
+      },
+      {
+        "key": "C",
+        "text": "Panic disorder"
+      },
+      {
+        "key": "D",
+        "text": "REM sleep behavior disorder"
+      },
+      {
+        "key": "E",
+        "text": "Obstructive sleep apnea"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "1070.e2 PART II • Section 14 Parasomnias",
+    "source_file": "255aa63f-______5_.docx",
+    "source_doc": "北萬雙_睡眠_5題"
+  },
+  {
+    "id": "255aa63f-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠疾患",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "睡眠疾患"
+    ],
+    "question": "A 26-year-old man presents with involuntary weight gain. His partner observes that several times each night, the patient gets out of bed during sleep, walks to the kitchen, and eats in a disorganized manner, such as eating potato chips or ice cream directly from the package or container. The patient has no recollection of these episodes the following day. What is the most likely diagnosis?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Nocturnal eating syndrome"
+      },
+      {
+        "key": "B",
+        "text": "Sleep-related eating disorder (SRED)"
+      },
+      {
+        "key": "C",
+        "text": "Kleine-Levin syndrome"
+      },
+      {
+        "key": "D",
+        "text": "Sleepwalking"
+      },
+      {
+        "key": "E",
+        "text": "Binge-eating disorder (BED)"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Chapter 117 Sleep-Related Eating Disorder 1092.e3",
+    "source_file": "255aa63f-______5_.docx",
+    "source_doc": "北萬雙_睡眠_5題"
+  },
+  {
+    "id": "255aa63f-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠疾患",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "睡眠疾患"
+    ],
+    "question": "A 58-year-old man develops REM sleep behavior disorder (RBD). At that time, his neurological examination findings are normal. Ten years later, he is diagnosed with a neurodegenerative disease. Which of the following is the most likely diagnosis?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Alzheimer disease"
+      },
+      {
+        "key": "B",
+        "text": "Frontotemporal dementia"
+      },
+      {
+        "key": "C",
+        "text": "Progressive supranuclear palsy"
+      },
+      {
+        "key": "D",
+        "text": "Dementia with Lewy bodies"
+      },
+      {
+        "key": "E",
+        "text": "Multiple system atrophy (MSA)"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Chapter 118 Rapid Eye Movement Sleep Parasomnias 1101.e7",
+    "source_file": "255aa63f-______5_.docx",
+    "source_doc": "北萬雙_睡眠_5題"
+  },
+  {
+    "id": "255aa63f-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠疾患",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "睡眠疾患"
+    ],
+    "question": "A 68-year-old woman has been noted by her husband over the past several years to sometimes punch, kick, mumble, or talk in her sleep. On one occasion, she was gesturing during a dream; when awakened, she recalled that she had been arguing with a neighbor in the dream. Her EEG findings are normal, and she has no history of syncope. Her polysomnography (PSG) findings are shown below. Which of the following statements is FALSE?",
+    "images": [
+      "images/255aa63f-04-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "A common clinical feature of this disorder is increased chin muscle tone during REM sleep"
+      },
+      {
+        "key": "B",
+        "text": "Clonazepam (0.5–2 mg at bedtime) is a commonly used treatment because it can reduce tonic REM sleep"
+      },
+      {
+        "key": "C",
+        "text": "The use of antidepressants should first be ruled out"
+      },
+      {
+        "key": "D",
+        "text": "Melatonin (3–9 mg at bedtime) is a treatment option because it can increase atonic REM sleep"
+      },
+      {
+        "key": "E",
+        "text": "The disorder is characterized by loss of muscle atonia during non-REM sleep"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "1094 PART II • Section 14 Parasomnias.",
+    "source_file": "255aa63f-______5_.docx",
+    "source_doc": "北萬雙_睡眠_5題"
+  },
+  {
+    "id": "255aa63f-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "睡眠疾患",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "睡眠疾患"
+    ],
+    "question": "A 67-year-old man presents with a history of twice-weekly episodes over the past 9 months of shouting, flailing his arms, and kicking during sleep. He has kicked his wife but not injured her. He has not fallen out of bed. Neurologic examination findings are normal. The most appropriate next step in management is:",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Electroencephalogram (EEG), both awake and asleep recordings"
+      },
+      {
+        "key": "B",
+        "text": "Magnetic resonance imaging (MRI) of the head"
+      },
+      {
+        "key": "C",
+        "text": "Video EEG polysomnography"
+      },
+      {
+        "key": "D",
+        "text": "Empirical treatment with clonazepam"
+      },
+      {
+        "key": "E",
+        "text": "Sleep deprivation study followed by multiple sleep latency test (MSLT)"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Chapter 118 Rapid Eye Movement Sleep Parasomnias 1101.e7",
+    "source_file": "255aa63f-______5_.docx",
+    "source_doc": "北萬雙_睡眠_5題"
   }
 ]
