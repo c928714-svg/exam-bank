@@ -15197,7 +15197,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "難",
     "tags": [
       "基礎神經科學"
@@ -15618,7 +15618,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "中等",
     "tags": [
       "周邊神經系統疾病"
@@ -15658,7 +15658,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "難",
     "tags": [
       "周邊神經系統疾病"
@@ -15698,7 +15698,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "中等",
     "tags": [
       "周邊神經系統疾病"
@@ -16378,7 +16378,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "中等",
     "tags": [
       "動作障礙"
@@ -16762,7 +16762,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "易",
     "tags": [
       "基礎神經科學"
@@ -17018,7 +17018,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "",
     "tags": [
       "腦中風",
@@ -17303,7 +17303,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "",
     "tags": [],
     "question": "Evaluate the following statements regarding the clinical characteristics of nystagmus in the dizzy patient:",
@@ -17341,7 +17341,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "",
     "tags": [],
     "question": "Evaluate the following statements regarding audiologic testing and the diagnosis of hearing loss:",
@@ -17379,7 +17379,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "",
     "tags": [],
     "question": "Evaluate the following statements regarding the diagnosis and management of vertigo and hearing loss:",
@@ -17417,7 +17417,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "",
     "tags": [],
     "question": "Evaluate the following statements regarding the diagnosis of specific neuro-otologic conditions:",
@@ -17921,7 +17921,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "中等",
     "tags": [
       "基礎神經科學"
@@ -17961,7 +17961,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "中等",
     "tags": [
       "基礎神經科學"
@@ -18001,7 +18001,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "難",
     "tags": [
       "基礎神經科學"
@@ -18041,7 +18041,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "中等",
     "tags": [
       "基礎神經科學"
@@ -18248,7 +18248,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "中等",
     "tags": [
       "發展與遺傳性疾病"
@@ -18463,7 +18463,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "",
     "tags": [],
     "question": "Regarding the published Appropriate Use Recommendations (AUR) for anti-amyloid monoclonal antibodies in early symptomatic Alzheimer's disease, which of the following statements are CORRECT? [版本1: MRI監測時程版]",
@@ -18501,7 +18501,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "",
     "tags": [],
     "question": "Regarding the published Appropriate Use Recommendations (AUR) for anti-amyloid monoclonal antibodies in early symptomatic Alzheimer's disease, which of the following statements are CORRECT? [版本2: ARIA風險版]",
@@ -18709,7 +18709,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "",
     "tags": [],
     "question": "Regarding limbic-predominant age-related TDP-43 encephalopathy (LATE) and the 2025 clinical criteria, which of the following statements are CORRECT?",
@@ -19172,7 +19172,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "中等",
     "tags": [
       "頭痛與疼痛"
@@ -19212,7 +19212,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "中等",
     "tags": [
       "頭痛與疼痛"
@@ -20650,7 +20650,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "中等",
     "tags": [
       "頭痛與疼痛"
@@ -20870,7 +20870,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "中等",
     "tags": [],
     "question": "What is the typical electrophysiological finding(s) of Lambert-Eaton myasthenic syndrome?",
@@ -21194,7 +21194,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "難",
     "tags": [
       "基礎神經科學"
@@ -21236,7 +21236,7 @@
     "year": "",
     "type": "combo",
     "format": "K",
-    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true,",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "易",
     "tags": [
       "基礎神經科學"
