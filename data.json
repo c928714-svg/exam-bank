@@ -21358,5 +21358,348 @@
     "source": "Adams D, Gonzalez-Duarte A, O'Riordan WD, et al. Patisiran, an RNAi therapeutic, for hereditary transthyretin amyloidosis. N Engl J Med. 2018;379(1):11–21.\nCoelho T, Maia LF, Martins da Silva A, et al. Tafamidis for transthyretin familial amyloid polyneuropathy: a randomized, controlled trial. Neurology. 2012;79(8):785–792.",
     "source_file": "07033788-___PNS2.docx",
     "source_doc": "高醫_PNS2"
+  },
+  {
+    "id": "5e56cdc88-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "基礎神經科學",
+      "周邊神經系統疾病",
+      "去髓鞘疾病"
+    ],
+    "question": "A 26-year-old male suffered from subacute progressive ascending paresthesia, followed by rapidly progressive quadriparesis and dyspnea within 1 month. He came to your hospital for help, and a lumbar puncture revealed remarkable albuminocytological dissociation. After admission, his symptoms still progressed to respiratory failure and autonomic dysfunction despite initial IVIG treatment, leading to intensive care unit monitoring. Which of the following statements is CORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "His nerve conduction studies may reveal a remarkable conduction block without temporal dispersion."
+      },
+      {
+        "key": "B",
+        "text": "Increased Terminal Latency Index and decreased Intermediate segment F-ratio are characteristic of this disease."
+      },
+      {
+        "key": "C",
+        "text": "If the patient has features of prominent tremor and ataxia, autoantibodies targeting neurofascin 186 (NF186) should be highly suspected."
+      },
+      {
+        "key": "D",
+        "text": "If the patient has features of remarkable neuropathic pain, autoantibodies targeting CASPR2 should be highly suspected."
+      },
+      {
+        "key": "E",
+        "text": "This patient is likely to test positive for pan-neurofascin antibodies (reacting to NF140, NF155, and NF186) and have an ineffective response to rituximab."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Eur J Neurol. 2021 Nov;28(11):3556-3583. doi: 10.1111/ene.14959.\n神經學年會神經肌病與神經免疫課程內容",
+    "source_file": "5e56cdc8-_________8_.docx",
+    "source_doc": "林長_神免2"
+  },
+  {
+    "id": "5e56cdc88-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "周邊神經系統疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "周邊神經系統疾病"
+    ],
+    "question": "Which of the following statements regarding neuromuscular junction(NMJ) disorders is the MOST accurate?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Congenital myasthenic syndromes (CMS) are a group of genetic NMJ disorders where treatment with acetylcholinesterase inhibitors universally provides symptomatic improvement and serves as the standard first-line therapy across all genetic subtypes."
+      },
+      {
+        "key": "B",
+        "text": "Botulism blocks the release of ACh from the presynaptic motor nerve terminal. Neuromuscular symptoms usually begin 12–36 hours after ingestion of contaminated food, presenting with marked limb weakness but typically with limited respiratory paralysis."
+      },
+      {
+        "key": "C",
+        "text": "Lambert-Eaton Myasthenic Syndrome (LEMS) is an autoimmune disease of the presynaptic neuromuscular junction, and antibodies are directed against the P/Q-type voltage-gated potassium channels in peripheral motor nerve terminals."
+      },
+      {
+        "key": "D",
+        "text": "Features that favor MG include prominent ocular muscle weakness, limb weakness that predominates in the arms, and normal muscle stretch reflexes. Features that favor LEMS include weakness that predominates in the hip girdle muscles, hypoactive or absent reflexes, and autonomic symptoms, especially dry mouth."
+      },
+      {
+        "key": "E",
+        "text": "All of the above."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Merritt’s Neurology 14th Edition p.974-977",
+    "source_file": "5e56cdc8-_________8_.docx",
+    "source_doc": "林長_神免2"
+  },
+  {
+    "id": "5e56cdc88-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "去髓鞘疾病",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "去髓鞘疾病"
+    ],
+    "question": "Regarding the 2024 revisions of the McDonald criteria for the diagnosis of Multiple Sclerosis (MS), which of the following statements is FALSE?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Optic nerve involvement fulfills a topographic location for dissemination in space (DIS) if demonstrated by orbital MRI (short-segment), an inter-eye difference of ≥6 μm in the peripapillary retinal nerve fiber layer (pRNFL) or ≥4 μm in the composite macular ganglion cell inner plexiform layer (mGCIPL) on OCT, or a VEP P100 latency delay > 2.5 standard deviations."
+      },
+      {
+        "key": "B",
+        "text": "The kappa free light chain (kFLC) index is now considered a valid paraclinical substitute for the presence of CSF-restricted oligoclonal bands (OCBs) for satisfying the requirement for dissemination in time."
+      },
+      {
+        "key": "C",
+        "text": "In patients with primary progressive MS (PPMS), the dissemination in space (DIS) requirement can be satisfied by the objective demonstration of at least 2 characteristic spinal cord lesions alone, regardless of brain MRI or CSF findings."
+      },
+      {
+        "key": "D",
+        "text": "In a patient presenting with a typical clinically isolated syndrome (CIS) and objective lesion in 2 anatomical locations (e.g., periventricular and infratentorial), the presence of paramagnetic rim lesion (PRL) is a sufficient standalone substitute for dissemination in time (DIT)."
+      },
+      {
+        "key": "E",
+        "text": "For patient presenting with a typical symptomatic attack, the requirement for dissemination in time (DIT) is entirely waived if characteristic MS lesions are identified in at least 4 of the 5 defined topographic areas."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Diagnosis of multiple sclerosis: 2024 revisions of the McDonald criteria",
+    "source_file": "5e56cdc8-_________8_.docx",
+    "source_doc": "林長_神免2"
+  },
+  {
+    "id": "5e56cdc88-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "基礎神經科學",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "基礎神經科學",
+      "周邊神經系統疾病"
+    ],
+    "question": "A 52-year-old male presents with an 8-month history of progressive, asymmetric weakness. The weakness began with a right wrist drop and has recently involved left ankle dorsiflexion. On examination, he has prominent muscle atrophy and fasciculations in the weak limbs. Deep tendon reflexes are absent in the upper limbs and hypoactive in the lower limbs. Sensory examination to pinprick and vibration is clinically intact. Which of the following statements regarding the differentiation and management of these conditions is INCORRECT?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "High titers of serum IgM anti-GM1 antibodies strongly support Multifocal Motor Neuropathy(MMN); however, confirmed cases should be treated exclusively with IVIG, as corticosteroids can paradoxically worsen symptoms."
+      },
+      {
+        "key": "B",
+        "text": "Prominent hypertrophy and T2 hyperintensity of the cervical nerve roots in brachial plexus MRI favor immune-mediated demyelinating neuropathies (MMN/CIDP) over ALS."
+      },
+      {
+        "key": "C",
+        "text": "On electrodiagnostic studies, definite motor conduction blocks at non-entrapment sites with strictly normal sensory nerve action potentials (SNAPs) across the identical segments distinguish MMN from typical CIDP."
+      },
+      {
+        "key": "D",
+        "text": "Cerebrospinal fluid (CSF) analysis in MMN frequently reveals marked albuminocytologic dissociation (total protein often >100 mg/dL), serving as a biomarker to differentiate them from ALS."
+      },
+      {
+        "key": "E",
+        "text": "The emergence of bulbar symptoms (e.g., dysphagia) combined with generalized hyperreflexia effectively excludes MMN and suggests ALS."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Bradley and Daroff's Neurology in Clinical Practice, 8th Edition, chapter 106, p. 1896-1898",
+    "source_file": "5e56cdc8-_________8_.docx",
+    "source_doc": "林長_神免2"
+  },
+  {
+    "id": "5e56cdc88-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "去髓鞘疾病",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "中等",
+    "tags": [
+      "去髓鞘疾病"
+    ],
+    "question": "Evaluate the following two statements regarding the diagnostic criteria for optic nerve involvement in Multiple Sclerosis based on the latest 2024 McDonald Criteria. Which of the options below is correct?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Under the 2024 McDonald criteria, OCT provides paraclinical evidence of optic neuritis if the inter-eye difference is >= 6 μm for the pRNFL or >= 4 μm for the GCIPL."
+      },
+      {
+        "key": "B",
+        "text": "Under the same criteria, VEP confirms MS-related optic nerve demyelination by characteristically demonstrating a severe reduction in the P100 waveform amplitude with a relatively preserved latency."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Montalban X, Lebrun-Frénay C, Oh J et al.\nDiagnosis of multiple sclerosis: 2024 revisions of the McDonald criteria\nThe Lancet Neurology, 24, 850-865",
+    "source_file": "5e56cdc8-_________8_.docx",
+    "source_doc": "林長_神免2"
+  },
+  {
+    "id": "5e56cdc88-06",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "去髓鞘疾病",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "易",
+    "tags": [
+      "去髓鞘疾病"
+    ],
+    "question": "A 35-year-old female presented with progressive right eye pain and blurred vision lasting for one week. Neurological examination revealed left hand dysmetria and impaired vibration sensation in bilateral toes. Brain MRI demonstrated focal T2-weighted hyperintense lesions in the periventricular region, the cerebellum, and the mid-segment of the right optic nerve. CSF analysis showed elevated protein with mild pleocytosis.\nAccording to the 2024 Revised McDonald Criteria, which of the following findings could support the diagnosis of Multiple Sclerosis for this patient?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "Thoracic spine MRI reveals a focal dorsal hyperintense lesion."
+      },
+      {
+        "key": "2",
+        "text": "Complete or near-complete hypointense rims are present around the outer edge of at least two white matter lesions on susceptibility-weighted imaging(SWI)."
+      },
+      {
+        "key": "3",
+        "text": "Thin, hypointense lines running through the center are identified in ≥ 6 of the cerebral lesions on T2-weighted or susceptibility-weighted imaging(SWI)."
+      },
+      {
+        "key": "4",
+        "text": "CSF analysis reveals the presence of lambda free light chains."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Merritt's Neurology, 14th Edition, Chapter 71: Multiple Sclerosis and Related CNS Neuroimmune Diseases\nLancet Neurol. 2025 Oct;24(10):850-865. doi: 10.1016/S1474-4422(25)00270-4.",
+    "source_file": "5e56cdc8-_________8_.docx",
+    "source_doc": "林長_神免2"
+  },
+  {
+    "id": "5e56cdc88-07",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "去髓鞘疾病",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "去髓鞘疾病"
+    ],
+    "question": "A 28-year-old previously healthy female presents with a 1-month history of progressive left limbs numbness, blurred vision in the left eye, and persistent dizziness. A brain MRI demonstrates a single ovoid T2-hyperintense lesion in the periventricular region; additionally, a representative susceptibility-weighted imaging (SWI) sequence is shown below. Regarding the clinical and paraclinical evaluation for her underlying condition, which of the following statements is CORRECT?",
+    "images": [
+      "images/5e56cdc88-07-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "The simultaneous presence of at least 6 typical lesions demonstrating the central vein sign (CVS) is sufficient to establish the diagnosis."
+      },
+      {
+        "key": "B",
+        "text": "An increased cerebrospinal fluid (CSF) free kappa light chain index can be utilized to establish the diagnosis."
+      },
+      {
+        "key": "C",
+        "text": "The simultaneous presence of another left peripherally and dorsally located short T2-hyperintense lesion on cervical spinal cord MRI could establish the diagnosis."
+      },
+      {
+        "key": "D",
+        "text": "A positive MRZ reaction in CSF analysis could establish the diagnosis."
+      },
+      {
+        "key": "E",
+        "text": "An inter-eye difference ≧ 6 μm in peripapillary retinal nerve fiber layer (pRNFL) thickness could establish the diagnosis."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Lancet Neurol. 2025 Oct;24(10):850-865. doi: 10.1016/S1474-4422(25)00270-4.\nNeurol AMJ. 2025;2[1]:26-29. doi: 10.33590/neurolamj/ZSFM1010",
+    "source_file": "5e56cdc8-_________8_.docx",
+    "source_doc": "林長_神免2"
+  },
+  {
+    "id": "5e56cdc88-08",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "去髓鞘疾病",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [
+      "去髓鞘疾病"
+    ],
+    "question": "A 30-year-old pregnant woman presented to the emergency department with a 3-day history of a subjective visual defect described as ink spreading across the visual field in the right eye. She also complained of urinary retention and constipation. The MRI is shown below. Which of the following statements is false?",
+    "images": [
+      "images/5e56cdc88-08-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "The disease shows a marked reduction in relapse rate during pregnancy with a modest increase in the early postpartum period."
+      },
+      {
+        "key": "B",
+        "text": "Brain lesions tend to be bilateral, ill-defined, and large, often with deep grey matter involvement."
+      },
+      {
+        "key": "C",
+        "text": "The presence of specific IgG antibody detected by cell-based assay is a core diagnostic criterion."
+      },
+      {
+        "key": "D",
+        "text": "In acute stage, steroid pulse therapy, plasma exchange and IVIG are beneficial."
+      },
+      {
+        "key": "E",
+        "text": "For long-term prevention, steroid, azathioprine and mycophenolate mofetil are reasonable agents for this patient."
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "explanation": null,
+    "source": "Diagnosis of myelin oligodendrocyte glycoprotein antibody-associated disease: International MOGAD Panel proposed criteria. Lancet Neurol. 2023",
+    "source_file": "5e56cdc8-_________8_.docx",
+    "source_doc": "林長_神免2"
   }
 ]
