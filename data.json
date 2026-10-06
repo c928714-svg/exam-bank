@@ -15400,7 +15400,9 @@
       "基礎神經科學"
     ],
     "question": "A 38-year-old woman presents with acute right-sided facial weakness involving both the upper and lower face. She has no limb weakness, sensory loss, dysarthria, or ataxia. Which of the following blink reflex patterns support the diagnosis of right Bell’s palsy? (1. represents the normal pattern)",
-    "images": [],
+    "images": [
+      "images/c7337c35pns10-07-1.png"
+    ],
     "options": [
       {
         "key": "A",
