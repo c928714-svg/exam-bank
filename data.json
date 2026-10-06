@@ -837,7 +837,7 @@
     "options": [
       {
         "key": "A",
-        "text": "only SGCE"
+        "text": "Gene mutations of SGCE and KCTD17 can cause myoclonus dystonia, and both genes normally have maternal imprinting, that is, even in a normal state, maternal allele does not express."
       },
       {
         "key": "B",
@@ -845,15 +845,15 @@
       },
       {
         "key": "C",
-        "text": "glycine"
+        "text": "Hereditary hyperekplexia could be of autosomal dominant or recessive inheritance and is typically caused by mutations of inhibitory glutamatergic receptors."
       },
       {
         "key": "D",
-        "text": "botulism"
+        "text": "Hemifacial spasm is a form of peripheral myoclonus. Most patients could be treated successfully with oral medication such as clonazepam, oxcarbazepine or gabapentin."
       },
       {
         "key": "E",
-        "text": "no ear clicks"
+        "text": "Pendular nystagmus, palatal tremor/myoclonus and ear clicks could be observed in patients with symptomatic palatal myoclonus. The brain MRI reveals hypertrophy and hyperintensity of the inferior olivary nucleus."
       }
     ],
     "answer": [
