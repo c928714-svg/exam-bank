@@ -16729,7 +16729,28 @@
       "images/31afa11a-05-3.png",
       "images/31afa11a-05-4.png"
     ],
-    "options": [],
+    "options": [
+      {
+        "key": "A",
+        "text": ""
+      },
+      {
+        "key": "B",
+        "text": ""
+      },
+      {
+        "key": "C",
+        "text": ""
+      },
+      {
+        "key": "D",
+        "text": ""
+      },
+      {
+        "key": "E",
+        "text": ""
+      }
+    ],
     "answer": [
       "C"
     ],
