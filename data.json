@@ -15446,7 +15446,10 @@
       "周邊神經系統疾病"
     ],
     "question": "A 45-year-old female migrant worker presented with a 2-year history of progressive, painless weakness and numbness involving his bilateral hands and feet. She also noticed multiple hypopigmented skin patches with diminished temperature and pain sensation over her trunk and limbs. Neurological examination revealed palpable, nodular enlargement of the bilateral ulnar, great auricular, and common peroneal nerves, along with asymmetric sensory loss.\nA left sural nerve biopsy was performed. The clinical image of the affected nerve (Figure 1) and the histopathological findings of the sural nerve biopsy (Figure 2) are shown below. (A) H&E stain (B,C) toluidine blue stain (D) Wade stain.\nWhat is the MOST LIKELY diagnosis?",
-    "images": [],
+    "images": [
+      "images/c7337c35pns10-08-1.png",
+      "images/c7337c35pns10-08-2.png"
+    ],
     "options": [
       {
         "key": "A",
