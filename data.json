@@ -10199,13 +10199,15 @@
   {
     "id": "9ef553d12026-07",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "基礎神經科學",
     "year": "",
     "type": "combo",
     "format": "C",
     "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
     "difficulty": "難",
-    "tags": [],
+    "tags": [
+      "基礎神經科學"
+    ],
     "question": "Which of the following electromyographic (EMG) or electrophysiologic features is/are characteristic of Andersen-Tawil Syndrome?",
     "images": [],
     "options": [
