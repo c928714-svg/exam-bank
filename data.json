@@ -10437,13 +10437,15 @@
   {
     "id": "affd4c9d2026-03",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "周邊神經系統疾病",
     "year": "",
     "type": "single",
     "format": "A",
     "rule_text": null,
     "difficulty": "難",
-    "tags": [],
+    "tags": [
+      "周邊神經系統疾病"
+    ],
     "question": "Different paraproteinemic neuropathies are characteristically associated with specific immunoglobulin heavy or light chain subtypes. Which of the following pairings is INCORRECT?",
     "images": [],
     "options": [
