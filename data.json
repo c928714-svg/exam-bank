@@ -3184,9 +3184,9 @@
     "subject": "神經科專科醫師甄審",
     "chapter": "失智症",
     "year": "",
-    "type": "single",
-    "format": "A",
-    "rule_text": null,
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
     "difficulty": "",
     "tags": [
       "失智症"
