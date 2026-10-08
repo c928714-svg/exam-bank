@@ -9128,13 +9128,15 @@
   {
     "id": "e52aaa835-05",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "重症神經學",
     "year": "",
     "type": "single",
     "format": "A2",
     "rule_text": null,
     "difficulty": "易",
-    "tags": [],
+    "tags": [
+      "重症神經學"
+    ],
     "question": "A 26-year-old male with end-stage renal disease (ESRD) on regular hemodialysis presents to the emergency department after developing acute lethargy and rapid neurologic deterioration following a recent hemodialysis session. On physical examination, his right pupil is fixed, dilated, and unresponsive to light. An emergent axial non-contrast brain CT scan is performed, as shown below:\nBased on the CT image findings and clinical presentation, which of the following statements regarding the neuroanatomical signs and pathophysiological mechanisms of this herniation syndrome is MOST accurate?",
     "images": [
       "images/e52aaa835-05-1.jpg"
@@ -9891,13 +9893,15 @@
   {
     "id": "3907a3ebasm-07",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "癲癇與腦波",
     "year": "",
     "type": "single",
     "format": "A2",
     "rule_text": null,
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "癲癇與腦波"
+    ],
     "question": "A 44-year patient presented with episodes of tonic, atonic, and atypical absence seizure. The EEG findings are as follows. Which of the following medications may be LEAST APPROPRIATE?",
     "images": [
       "images/3907a3ebasm-07-1.png"
