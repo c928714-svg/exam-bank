@@ -10571,13 +10571,15 @@
   {
     "id": "affd4c9d2026-06",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "去髓鞘疾病",
     "year": "",
     "type": "single",
     "format": "A",
     "rule_text": null,
     "difficulty": "中等",
-    "tags": [],
+    "tags": [
+      "去髓鞘疾病"
+    ],
     "question": "Various disease-modifying therapies (DMTs) for multiple sclerosis (MS) target different components of the immune system. Which of the following pairings between the MS medication and its primary mechanism of action is CORRECT?",
     "images": [],
     "options": [
