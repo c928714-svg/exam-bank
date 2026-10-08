@@ -10659,13 +10659,15 @@
   {
     "id": "affd4c9d2026-08",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "行為神經學",
     "year": "",
     "type": "combo",
     "format": "C",
     "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
     "difficulty": "中等",
-    "tags": [],
+    "tags": [
+      "行為神經學"
+    ],
     "question": "According to the 2021 PNS criteria, this antibody is classified as a 'lower-risk antibody,' meaning it is associated with cancer in less than 30% of cases.\"",
     "images": [],
     "options": [
