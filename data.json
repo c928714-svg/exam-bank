@@ -6595,13 +6595,15 @@
   {
     "id": "b0f89d51-01",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "自律神經疾患",
     "year": "",
     "type": "single",
     "format": "A",
     "rule_text": null,
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "自律神經疾患"
+    ],
     "question": "Which of the following clinical findings should prompt consideration of an alternative diagnosis rather than a typical distal symmetric polyneuropathy?",
     "images": [],
     "options": [
@@ -6637,13 +6639,15 @@
   {
     "id": "b0f89d51-02",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "自律神經疾患",
     "year": "",
     "type": "single",
     "format": "A",
     "rule_text": null,
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "自律神經疾患"
+    ],
     "question": "A patient with severe orthostatic intolerance undergoes autonomic testing.\nThe QSART and thermoregulatory sweat test are normal.\nHeart-rate response to deep breathing is normal.\nBeat-to-beat blood pressure during the Valsalva maneuver is markedly abnormal.\nPlasma norepinephrine and DHPG are nearly undetectable, while plasma dopamine is markedly elevated.\nThe most likely diagnosis is:",
     "images": [],
     "options": [
@@ -6679,13 +6683,15 @@
   {
     "id": "b0f89d51-03",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "自律神經疾患",
     "year": "",
     "type": "single",
     "format": "A",
     "rule_text": null,
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "自律神經疾患"
+    ],
     "question": "A patient develops severe neuropathic pain shortly after rapid correction of long-standing hyperglycemia.\nThis syndrome is best known as:",
     "images": [],
     "options": [
@@ -6721,13 +6727,15 @@
   {
     "id": "b0f89d51-04",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "自律神經疾患",
     "year": "",
     "type": "single",
     "format": "A",
     "rule_text": null,
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "自律神經疾患"
+    ],
     "question": "A 42-year-old woman reports burning pain involving the face, trunk, and proximal upper extremities. Neurological examination reveals patchy loss of pinprick sensation without a stocking-glove distribution.\nThis pattern most strongly suggests:",
     "images": [],
     "options": [
@@ -6763,13 +6771,15 @@
   {
     "id": "b0f89d51-05",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "自律神經疾患",
     "year": "",
     "type": "single",
     "format": "A",
     "rule_text": null,
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "自律神經疾患"
+    ],
     "question": "A 61-year-old woman with newly diagnosed type 2 diabetes complains of severe burning pain in both feet. Examination demonstrates mild loss of pinprick sensation but no foot deformity or ulceration.\nWhich statement is MOST accurate?",
     "images": [],
     "options": [
@@ -6805,13 +6815,15 @@
   {
     "id": "b0f89d51-06",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "自律神經疾患",
     "year": "",
     "type": "combo",
     "format": "C",
     "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "自律神經疾患"
+    ],
     "question": "A 72-year-old man presents with orthostatic hypotension, constipation, erectile dysfunction, and generalized anhidrosis.",
     "images": [],
     "options": [
@@ -6835,13 +6847,15 @@
   {
     "id": "b0f89d51-07",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "自律神經疾患",
     "year": "",
     "type": "combo",
     "format": "K",
     "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "自律神經疾患"
+    ],
     "question": "A 69-year-old man complains of progressive numbness in both feet for 5 years. He also reports orthostatic dizziness, constipation, erectile dysfunction, and excessive sweating of the trunk. Neurologic examination demonstrates impaired vibration sense, absent ankle reflexes, and mild distal weakness.\nWhich of the following statements are TRUE?",
     "images": [],
     "options": [
@@ -6873,13 +6887,15 @@
   {
     "id": "b0f89d51-08",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "自律神經疾患",
     "year": "",
     "type": "single",
     "format": "A2",
     "rule_text": null,
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "自律神經疾患"
+    ],
     "question": "The following figure shows the continuous blood pressure and heart rate recordings during Valsalva maneuver. Which of the following statements is MOST accurate?",
     "images": [
       "images/b0f89d51-08-1.png"
@@ -6917,13 +6933,15 @@
   {
     "id": "b0f89d51-09",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "自律神經疾患",
     "year": "",
     "type": "single",
     "format": "A",
     "rule_text": null,
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "自律神經疾患"
+    ],
     "question": "A 47-year-old woman presents with burning pain and reduced temperature sensation in both feet. Nerve conduction studies are normal. Sudoscan shows reduced electrochemical skin conductance (ESC) on both feet and normal ESC on both hands.\nWhich of the following is the most appropriate interpretation?",
     "images": [],
     "options": [
@@ -6959,13 +6977,15 @@
   {
     "id": "b0f89d51-10",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "自律神經疾患",
     "year": "",
     "type": "single",
     "format": "A",
     "rule_text": null,
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "自律神經疾患"
+    ],
     "question": "Which of the following statement concerning the H reflex is NOT true?",
     "images": [],
     "options": [
@@ -16803,13 +16823,15 @@
   {
     "id": "5402ec6a-01",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "頭暈與頭痛",
     "year": "",
     "type": "single",
     "format": "A",
     "rule_text": null,
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "頭暈與頭痛"
+    ],
     "question": "Which of the following is the most common variant of benign paroxysmal positional vertigo (BPPV) and what is its characteristic nystagmus on the Dix-Hallpike test?",
     "images": [],
     "options": [
@@ -16845,13 +16867,15 @@
   {
     "id": "5402ec6a-02",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "頭暈與頭痛",
     "year": "",
     "type": "single",
     "format": "A",
     "rule_text": null,
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "頭暈與頭痛"
+    ],
     "question": "Which of the following features best distinguishes central positional vertigo (e.g., from multiple sclerosis) from typical benign paroxysmal positional vertigo (BPPV)?",
     "images": [],
     "options": [
@@ -16887,13 +16911,15 @@
   {
     "id": "5402ec6a-03",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "頭暈與頭痛",
     "year": "",
     "type": "single",
     "format": "A",
     "rule_text": null,
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "頭暈與頭痛"
+    ],
     "question": "Which of the following auditory/vestibular testing findings is a highly characteristic diagnostic marker of Superior Canal Dehiscence (SCD)?",
     "images": [],
     "options": [
@@ -16929,13 +16955,15 @@
   {
     "id": "5402ec6a-04",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "頭暈與頭痛",
     "year": "",
     "type": "combo",
     "format": "C",
     "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "頭暈與頭痛"
+    ],
     "question": "Regarding the diagnostic testing and criteria for Ménière disease, which of the following statements is/are correct?",
     "images": [],
     "options": [
@@ -16959,13 +16987,15 @@
   {
     "id": "5402ec6a-05",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "頭暈與頭痛",
     "year": "",
     "type": "combo",
     "format": "C",
     "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "頭暈與頭痛"
+    ],
     "question": "Evaluate the following statements regarding the focused bedside neurologic examination of a comatose patient:",
     "images": [],
     "options": [
@@ -16989,13 +17019,15 @@
   {
     "id": "5402ec6a-06",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "頭暈與頭痛",
     "year": "",
     "type": "combo",
     "format": "C",
     "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "頭暈與頭痛"
+    ],
     "question": "Evaluate the following statements regarding the diagnosis of peripheral vestibular disorders:",
     "images": [],
     "options": [
@@ -17019,13 +17051,15 @@
   {
     "id": "5402ec6a-07",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "頭暈與頭痛",
     "year": "",
     "type": "combo",
     "format": "K",
     "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "頭暈與頭痛"
+    ],
     "question": "Evaluate the following statements regarding the clinical characteristics of nystagmus in the dizzy patient:",
     "images": [],
     "options": [
@@ -17057,13 +17091,15 @@
   {
     "id": "5402ec6a-08",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "頭暈與頭痛",
     "year": "",
     "type": "combo",
     "format": "K",
     "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "頭暈與頭痛"
+    ],
     "question": "Evaluate the following statements regarding audiologic testing and the diagnosis of hearing loss:",
     "images": [],
     "options": [
@@ -17095,13 +17131,15 @@
   {
     "id": "5402ec6a-09",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "頭暈與頭痛",
     "year": "",
     "type": "combo",
     "format": "K",
     "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "頭暈與頭痛"
+    ],
     "question": "Evaluate the following statements regarding the diagnosis and management of vertigo and hearing loss:",
     "images": [],
     "options": [
@@ -17133,13 +17171,15 @@
   {
     "id": "5402ec6a-10",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "頭暈與頭痛",
     "year": "",
     "type": "combo",
     "format": "K",
     "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "頭暈與頭痛"
+    ],
     "question": "Evaluate the following statements regarding the diagnosis of specific neuro-otologic conditions:",
     "images": [],
     "options": [
@@ -18051,13 +18091,15 @@
   {
     "id": "433e48eb-01",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "失智症",
     "year": "",
     "type": "single",
     "format": "A",
     "rule_text": null,
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "失智症"
+    ],
     "question": "A 71-year-old cognitively unimpaired man participating in a research cohort has a plasma phosphorylated-tau 217 (p-tau217) concentration above the validated cut-point. Amyloid PET is positive and CSF Abeta42/40 is abnormal. Tau PET is negative. Formal neuropsychological testing is entirely normal and neither he nor his informant reports any decline over the past 3 years. According to the 2024 Alzheimer's Association Workgroup revised criteria for diagnosis and staging of Alzheimer's disease, which statement is MOST accurate?",
     "images": [],
     "options": [
@@ -18093,13 +18135,15 @@
   {
     "id": "433e48eb-02",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "失智症",
     "year": "",
     "type": "single",
     "format": "A",
     "rule_text": null,
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "失智症"
+    ],
     "question": "A memory clinic proposes replacing amyloid PET with a commercially marketed plasma assay in its diagnostic pathway for patients with objective cognitive impairment. According to the 2025 Alzheimer's Association Clinical Practice Guideline on blood-based biomarkers (BBM) in specialized care settings, which statement is MOST accurate?",
     "images": [],
     "options": [
@@ -18135,13 +18179,15 @@
   {
     "id": "433e48eb-03",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "失智症",
     "year": "",
     "type": "single",
     "format": "A",
     "rule_text": null,
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "失智症"
+    ],
     "question": "A 61-year-old woman has a 3-year history of progressive difficulty judging distances, reaching for objects, and reading (letters and words appear to jumble on the page). She gets lost in familiar buildings and struggles to dress herself. She cannot locate an item on a cluttered table even when it is in plain view. Formal ophthalmological examination, including visual acuity and visual fields, is normal. On testing she shows simultanagnosia, optic ataxia, and severely impaired copying of the Rey-Osterrieth figure; episodic memory and language are comparatively preserved. There is no parkinsonism, no dream-enactment behaviour, and no cognitive fluctuation. MMSE is 24. Her functional and molecular imaging is shown below.",
     "images": [
       "images/433e48eb-03-1.png"
@@ -18179,13 +18225,15 @@
   {
     "id": "433e48eb-04",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "失智症",
     "year": "",
     "type": "combo",
     "format": "K",
     "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "失智症"
+    ],
     "question": "Regarding the published Appropriate Use Recommendations (AUR) for anti-amyloid monoclonal antibodies in early symptomatic Alzheimer's disease, which of the following statements are CORRECT? [版本1: MRI監測時程版]",
     "images": [],
     "options": [
@@ -18217,13 +18265,15 @@
   {
     "id": "433e48eb-05",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "失智症",
     "year": "",
     "type": "combo",
     "format": "K",
     "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "失智症"
+    ],
     "question": "Regarding the published Appropriate Use Recommendations (AUR) for anti-amyloid monoclonal antibodies in early symptomatic Alzheimer's disease, which of the following statements are CORRECT? [版本2: ARIA風險版]",
     "images": [],
     "options": [
@@ -18255,13 +18305,15 @@
   {
     "id": "433e48eb-06",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "失智症",
     "year": "",
     "type": "single",
     "format": "A",
     "rule_text": null,
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "失智症"
+    ],
     "question": "Which of the following is classified as an INDICATIVE biomarker (rather than a supportive biomarker) in the fourth consensus report of the Dementia with Lewy Bodies Consortium?",
     "images": [],
     "options": [
@@ -18297,13 +18349,15 @@
   {
     "id": "433e48eb-07",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "失智症",
     "year": "",
     "type": "single",
     "format": "A",
     "rule_text": null,
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "失智症"
+    ],
     "question": "A 58-year-old man is brought by his wife because of 2 years of progressive disinhibition, apathy, loss of empathy, and hyperorality with a marked preference for sweet foods. Episodic memory and visuospatial function are relatively preserved. MRI shows mild bifrontal and right anterior insular atrophy. His father died of a rapidly progressive weakness syndrome diagnosed as amyotrophic lateral sclerosis, and a paternal aunt had an early-onset behavioural dementia. The MOST likely genetic basis is:",
     "images": [],
     "options": [
@@ -18339,13 +18393,15 @@
   {
     "id": "433e48eb-08",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "失智症",
     "year": "",
     "type": "single",
     "format": "A",
     "rule_text": null,
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "失智症"
+    ],
     "question": "A 64-year-old man has 3 years of progressive difficulty with word meaning. He asks what common words denote ('What is a ladle?'), cannot name or describe the use of familiar objects, and reads irregular words phonetically (surface dyslexia). Speech remains fluent, well articulated and grammatically correct, and sentence repetition and digit span are normal. Episodic memory for recent events and visuospatial function are comparatively preserved. He has developed rigid food preferences. His T1 coronal MRI is shown. On the basis of the atrophy pattern shown, which additional deficit is MOST likely to emerge as his disease progresses, and for what anatomical reason?",
     "images": [
       "images/433e48eb-08-1.png"
@@ -18383,13 +18439,15 @@
   {
     "id": "433e48eb-09",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "失智症",
     "year": "",
     "type": "single",
     "format": "A",
     "rule_text": null,
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "失智症"
+    ],
     "question": "A 67-year-old right-handed woman has 3 years of progressive word-finding difficulty. Speech is fluent in short bursts but interrupted by frequent phonological errors and long word-retrieval pauses; sentence repetition and digit span are clearly impaired. Single-word comprehension and object knowledge are preserved, and grammar is intact. Confrontation naming is moderately impaired. Behaviour is unremarkable. The MOST likely variant and its MOST likely underlying neuropathology are:",
     "images": [],
     "options": [
@@ -18425,13 +18483,15 @@
   {
     "id": "433e48eb-10",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "失智症",
     "year": "",
     "type": "combo",
     "format": "K",
     "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "失智症"
+    ],
     "question": "Regarding limbic-predominant age-related TDP-43 encephalopathy (LATE) and the 2025 clinical criteria, which of the following statements are CORRECT?",
     "images": [],
     "options": [
@@ -18463,13 +18523,15 @@
   {
     "id": "433e48eb-11",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "失智症",
     "year": "",
     "type": "single",
     "format": "A",
     "rule_text": null,
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "失智症"
+    ],
     "question": "A 68-year-old man presents with 2 years of progressive cognitive decline and recurrent stereotyped episodes of spreading paresthesia lasting several minutes. MRI shows ONE strictly lobar cerebral microbleed, more than 20 visible perivascular spaces in the centrum semiovale of one hemisphere, and no deep hemorrhagic lesions. There is no history of head trauma or coagulopathy. Applying the Boston criteria version 2.0, the MOST appropriate classification is:",
     "images": [],
     "options": [
@@ -18505,13 +18567,15 @@
   {
     "id": "433e48eb-12",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "失智症",
     "year": "",
     "type": "single",
     "format": "A",
     "rule_text": null,
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "失智症"
+    ],
     "question": "A 64-year-old man has a 3-month history of rapidly progressive cognitive decline with startle myoclonus and gait ataxia. Brain MRI shows cortical ribboning on diffusion-weighted imaging together with caudate and putaminal hyperintensity. EEG shows diffuse slowing but NO periodic sharp wave complexes. CSF real-time quaking-induced conversion (RT-QuIC) is positive and CSF 14-3-3 protein is negative. Which interpretation is MOST accurate?",
     "images": [],
     "options": [
@@ -18547,13 +18611,15 @@
   {
     "id": "433e48eb-13",
     "subject": "神經科專科醫師甄審",
-    "chapter": "",
+    "chapter": "失智症",
     "year": "",
     "type": "single",
     "format": "A",
     "rule_text": null,
     "difficulty": "",
-    "tags": [],
+    "tags": [
+      "失智症"
+    ],
     "question": "A 76-year-old man is referred for 14 months of progressive gait disturbance described as broad-based and 'magnetic', with difficulty initiating turns, followed by urinary urgency and then mild inattention and psychomotor slowing. He is not aphasic and has no parkinsonian rest tremor; there is no response to levodopa. MRI is shown. Lumbar puncture shows an opening pressure of 14 cmH2O. CSF analysis returns a LOW amyloid-beta 42 concentration with NORMAL total tau and NORMAL phosphorylated tau. Which interpretation and plan is MOST appropriate?",
     "images": [
       "images/433e48eb-13-1.png"
