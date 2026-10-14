@@ -150,6 +150,85 @@ async function loadSubmittedExplanations() {
   }
 }
 
+// ---------- 精選題（Google 表單 + 試算表，題目卡上按一下星星就加入/移出） ----------
+// 使用方式（跟上面詳解投稿是同一套做法，但要另外建一份表單，不要共用）：
+//   1. 建立一份新的 Google 表單（欄位：題目編號 / 動作），用「取得預先填寫的連結」，
+//      兩個欄位都打上測試文字，拿到 idEntryParam 跟 actionEntryParam
+//      （網址裡 entry.xxxxxxx=測試文字 那兩段）。
+//   2. 表單會自動連動一份 Google 試算表，把那份試算表「發布到網路」匯出成 CSV，
+//      把發布出來的網址填進 sheetCsvUrl。
+//   3. 下面兩個欄位名稱要跟表單裡實際打的欄位標題一模一樣（含全形/半形符號）。
+// 只要 formBaseUrl / idEntryParam / actionEntryParam / sheetCsvUrl 任何一個是空字串，
+// 這個功能（星星按鈕、精選題分類）就會自動隱藏，不會噴錯。
+//
+// 運作方式：按星星時送出一筆「ADD」或「REMOVE」紀錄（Google 表單沒辦法刪除舊紀錄，
+// 所以用新增一筆「REMOVE」來蓋掉之前的「ADD」，反之亦然）；判斷目前是否精選，看的是
+// 同一題目編號「最後一筆」送出的動作是 ADD 還是 REMOVE——跟答案投稿「最新一筆為準」
+// 的邏輯完全一樣。
+const SELECTION_SUBMIT_CONFIG = {
+  formBaseUrl: '',
+  idEntryParam: '',
+  actionEntryParam: '',
+  sheetCsvUrl: '',
+  idColumn: '題目編號',
+  actionColumn: '動作',
+};
+
+// qid -> true/false，true 代表目前是精選題（依試算表裡最後一筆 ADD/REMOVE 紀錄判斷）
+let SELECTED_FEATURED = {};
+
+function selectionSubmitReady() {
+  return !!(SELECTION_SUBMIT_CONFIG.formBaseUrl && SELECTION_SUBMIT_CONFIG.idEntryParam &&
+    SELECTION_SUBMIT_CONFIG.actionEntryParam);
+}
+
+function isFeatured(q) {
+  return !!SELECTED_FEATURED[q.id];
+}
+
+async function submitSelectionToggle(qid, action) {
+  if (!selectionSubmitReady()) return { ok: false, reason: 'not_configured' };
+  const formResponseUrl = SELECTION_SUBMIT_CONFIG.formBaseUrl.replace(/\/viewform.*$/, '/formResponse');
+  const body = new URLSearchParams();
+  body.set(SELECTION_SUBMIT_CONFIG.idEntryParam, qid);
+  body.set(SELECTION_SUBMIT_CONFIG.actionEntryParam, action);
+  try {
+    await fetch(formResponseUrl, { method: 'POST', mode: 'no-cors', body });
+    return { ok: true };
+  } catch (e) {
+    return { ok: false, reason: 'network', error: e };
+  }
+}
+
+async function loadSelectedFeatured() {
+  if (!SELECTION_SUBMIT_CONFIG.sheetCsvUrl) return;
+  try {
+    const res = await fetch(SELECTION_SUBMIT_CONFIG.sheetCsvUrl, { cache: 'no-store' });
+    if (!res.ok) return;
+    const text = await res.text();
+    const rows = parseCsv(text).filter(r => r.some(c => c.trim()));
+    if (rows.length < 2) return;
+    const header = rows[0].map(h => h.trim());
+    const idIdx = header.indexOf(SELECTION_SUBMIT_CONFIG.idColumn);
+    const actionIdx = header.indexOf(SELECTION_SUBMIT_CONFIG.actionColumn);
+    if (idIdx === -1 || actionIdx === -1) {
+      console.warn('精選題試算表的欄位標題跟設定不符，找不到「' + SELECTION_SUBMIT_CONFIG.idColumn + '」或「' + SELECTION_SUBMIT_CONFIG.actionColumn + '」');
+      return;
+    }
+    const map = {};
+    for (let i = 1; i < rows.length; i++) {
+      const r = rows[i];
+      const qid = (r[idIdx] || '').trim();
+      const action = (r[actionIdx] || '').trim().toUpperCase();
+      if (!qid || !action) continue;
+      map[qid] = action === 'ADD'; // 依試算表列順序覆寫，最後一筆為準
+    }
+    SELECTED_FEATURED = map;
+  } catch (e) {
+    console.warn('讀取精選題試算表失敗', e);
+  }
+}
+
 // ---------- safety ----------
 function escapeHtml(str) {
   if (str === null || str === undefined) return '';
@@ -302,6 +381,12 @@ function inlineAnswerFormHtml(q) {
   `;
 }
 
+function featuredToggleBtnHtml(q) {
+  if (!selectionSubmitReady()) return '';
+  const on = isFeatured(q);
+  return `<button type="button" class="featured-toggle-btn ${on ? 'active' : ''}" title="${on ? '移出精選題' : '加入精選題'}">${on ? '⭐' : '☆'}</button>`;
+}
+
 function questionExtraTagsHtml(q) {
   const extras = [];
   if (q.difficulty) extras.push(`<span class="tag diff-pill ${escapeHtml(q.difficulty)}">難易：${escapeHtml(q.difficulty)}</span>`);
@@ -388,7 +473,10 @@ function renderQuestionCard(q) {
           </div>
           <p class="qtext">${escapeHtml(q.question)}</p>
         </div>
-        <span class="status-badge ${q._status}">${STATUS_LABEL[q._status]}</span>
+        <div class="qcard-head-actions">
+          ${featuredToggleBtnHtml(q)}
+          <span class="status-badge ${q._status}">${STATUS_LABEL[q._status]}</span>
+        </div>
       </div>
       <div class="qbody">
         ${questionImagesHtml(q)}
@@ -412,7 +500,9 @@ function renderList() {
     if (f.chapter && q.chapter !== f.chapter) return false;
     if (f.format && q.format !== f.format) return false;
     if (f.sourceDoc && (q.source_doc || q.source_file) !== f.sourceDoc) return false;
-    if (f.status && q._status !== f.status) return false;
+    if (f.status === 'featured') {
+      if (!isFeatured(q)) return false;
+    } else if (f.status && q._status !== f.status) return false;
     if (f.search) {
       const hay = [q.question, ...(q.options||[]).map(o=>o.text), q.explanation||'', q.source||'', q.source_doc||''].join(' ').toLowerCase();
       if (!hay.includes(f.search)) return false;
@@ -443,6 +533,12 @@ function setupCardInteractions() {
     const answerBtn = e.target.closest('.answer-opt-btn');
     if (answerBtn) {
       handleInlineAnswerSubmit(answerBtn);
+      return;
+    }
+
+    const featBtn = e.target.closest('.featured-toggle-btn');
+    if (featBtn) {
+      handleFeaturedToggle(featBtn);
       return;
     }
 
@@ -521,6 +617,32 @@ function handleInlineAnswerSubmit(answerBtn) {
     wrapper.innerHTML = renderQuestionCard(q).trim();
     card.replaceWith(wrapper.firstElementChild);
     renderStats();
+  });
+}
+
+function handleFeaturedToggle(btn) {
+  const card = btn.closest('.qcard');
+  if (!card) return;
+  const qid = card.dataset.id;
+  const q = QUESTIONS.find(x => x.id === qid);
+  if (!q) return;
+  const nowFeatured = !isFeatured(q);
+  const action = nowFeatured ? 'ADD' : 'REMOVE';
+  btn.disabled = true;
+
+  submitSelectionToggle(qid, action).then(result => {
+    btn.disabled = false;
+    if (!result.ok) return; // 送出失敗就維持原狀，按鈕狀態不變，使用者可以再按一次
+    // 樂觀更新：不等 Google 試算表同步，直接把這題標成已選/已移出
+    SELECTED_FEATURED[qid] = nowFeatured;
+    if (activeStatus === 'featured') {
+      // 目前正在看「精選題」篩選結果，移出的題目要整份列表重繪才會消失
+      renderList();
+      return;
+    }
+    const wrapper = document.createElement('div');
+    wrapper.innerHTML = renderQuestionCard(q).trim();
+    card.replaceWith(wrapper.firstElementChild);
   });
 }
 
@@ -755,6 +877,11 @@ function setupThemeToggle() {
 async function init() {
   setupTabs();
   setupFilterEvents();
+  // 精選題表單還沒設定好之前，篩選列的「⭐ 精選題」按鈕先隱藏，避免按了只看到空列表
+  if (!selectionSubmitReady()) {
+    const chip = document.querySelector('#statusChips .chip[data-status="featured"]');
+    if (chip) chip.hidden = true;
+  }
   setupCardInteractions();
   setupQuiz();
   setupQuizFilterEvents();
@@ -794,9 +921,10 @@ async function init() {
     renderStats();
     renderList();
 
-    // 同學投稿的詳解／答案（Google 試算表）不擋主要題庫的顯示，背景讀取完再補畫一次；
-    // 投稿答案會影響「有答案／缺答案」分類，所以要重新算一次 _status 跟統計數字
-    loadSubmittedExplanations().then(() => {
+    // 同學投稿的詳解／答案、精選題標記（都存在 Google 試算表）不擋主要題庫的顯示，
+    // 背景讀取完再補畫一次；投稿答案會影響「有答案／缺答案」分類，所以要重新算一次
+    // _status 跟統計數字
+    Promise.all([loadSubmittedExplanations(), loadSelectedFeatured()]).then(() => {
       QUESTIONS.forEach(q => { q._status = questionStatus(q); });
       renderStats();
       renderList();
