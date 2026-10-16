@@ -634,6 +634,18 @@ function setupQuizFilterEvents() {
   document.getElementById('quizSubject').addEventListener('change', (e) => {
     populateChapterFilter(e.target.value, document.getElementById('quizChapter'));
   });
+  // 「重新打亂選項順序」只有題型選 A type 時才有意義（其他題型的選項代表作答規則或
+  // 固定敘述，打亂會破壞題意），所以切換題型時同步顯示/隱藏這個勾選項目
+  document.getElementById('quizType').addEventListener('change', (e) => {
+    const wrap = document.getElementById('quizShuffleOptsWrap');
+    if (!wrap) return;
+    if (e.target.value === 'A') {
+      wrap.hidden = false;
+    } else {
+      wrap.hidden = true;
+      document.getElementById('quizShuffleOpts').checked = false;
+    }
+  });
 }
 
 function buildQuizPool() {
@@ -661,6 +673,27 @@ function shuffle(arr) {
   return a;
 }
 
+// 把一題 A type 題目的選項敘述重新隨機排列（ABCDE 的「位置」不變，但哪一段敘述放在
+// 哪個字母底下是隨機的），並且把正確答案字母換算成敘述搬家後對應的新字母——這樣同一題
+// 多次測驗，選項順序跟答案字母都會不一樣，但對應的敘述內容本身還是跟答案一致，不會對錯。
+// 不會動到原始 QUESTIONS 裡的資料，回傳的是一份新的物件（複本），只影響這次測驗畫面。
+function shuffleQuestionOptionsForQuiz(q) {
+  const opts = q.options || [];
+  if (opts.length < 2) return q;
+  const letters = opts.map(o => o.key);
+  const texts = opts.map(o => o.text);
+  // 「正式答案或同學投稿答案，兩者皆無就算沒答案」——在打亂之前先算出目前實際有效的答案，
+  // 之後直接把結果寫回複本的 answer 欄位，避免抽到同學投稿答案時，投稿紀錄裡存的是
+  // 打亂前的舊字母、跟打亂後的畫面對不起來
+  const effAns = effectiveAnswer(q);
+  const order = shuffle(texts.map((_, i) => i)); // 第 newIdx 個位置，放原本第 order[newIdx] 個選項的敘述
+  const newOptions = order.map((origIdx, newIdx) => ({ key: letters[newIdx], text: texts[origIdx] }));
+  const oldKeyToNewKey = {};
+  order.forEach((origIdx, newIdx) => { oldKeyToNewKey[letters[origIdx]] = letters[newIdx]; });
+  const newAnswer = effAns.map(k => oldKeyToNewKey[k]).filter(Boolean);
+  return Object.assign({}, q, { options: newOptions, answer: newAnswer });
+}
+
 function setupQuiz() {
   document.getElementById('startQuiz').addEventListener('click', () => {
     const pool = buildQuizPool();
@@ -669,7 +702,12 @@ function setupQuiz() {
       alert('目前條件下沒有可用的題目，請調整科目／章節／題型／來源檔案或勾選項目');
       return;
     }
-    const picked = shuffle(pool).slice(0, count);
+    let picked = shuffle(pool).slice(0, count);
+    const shuffleOptsEl = document.getElementById('quizShuffleOpts');
+    const quizFormat = document.getElementById('quizType').value;
+    if (quizFormat === 'A' && shuffleOptsEl && shuffleOptsEl.checked) {
+      picked = picked.map(q => q.format === 'A' ? shuffleQuestionOptionsForQuiz(q) : q);
+    }
     quizState = { questions: picked, answers: {}, submitted: false };
     document.getElementById('quizSetup').hidden = true;
     document.getElementById('quizResult').hidden = true;
