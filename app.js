@@ -697,7 +697,7 @@ function shuffleQuestionOptionsForQuiz(q) {
 function setupQuiz() {
   document.getElementById('startQuiz').addEventListener('click', () => {
     const pool = buildQuizPool();
-    const count = Math.max(1, Math.min(50, parseInt(document.getElementById('quizCount').value) || 10));
+    const count = Math.max(1, Math.min(300, parseInt(document.getElementById('quizCount').value) || 10));
     if (pool.length === 0) {
       alert('目前條件下沒有可用的題目，請調整科目／章節／題型／來源檔案或勾選項目');
       return;
