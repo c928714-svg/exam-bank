@@ -968,7 +968,7 @@
     "chapter": "周邊神經系統疾病",
     "year": "",
     "type": "single",
-    "format": "A",
+    "format": "A2",
     "rule_text": null,
     "difficulty": "中等",
     "tags": [
@@ -1014,7 +1014,7 @@
     "chapter": "周邊神經系統疾病",
     "year": "",
     "type": "single",
-    "format": "A",
+    "format": "A2",
     "rule_text": null,
     "difficulty": "中等",
     "tags": [
@@ -2971,7 +2971,7 @@
     "chapter": "重症神經學",
     "year": "",
     "type": "single",
-    "format": "A",
+    "format": "A2",
     "rule_text": null,
     "difficulty": "",
     "tags": [
@@ -3263,7 +3263,7 @@
     "chapter": "失智症",
     "year": "",
     "type": "single",
-    "format": "A",
+    "format": "A2",
     "rule_text": null,
     "difficulty": "",
     "tags": [
@@ -4087,7 +4087,7 @@
     "chapter": "神經電生理",
     "year": "",
     "type": "single",
-    "format": "A",
+    "format": "A2",
     "rule_text": null,
     "difficulty": "易",
     "tags": [],
@@ -4131,7 +4131,7 @@
     "chapter": "神經電生理",
     "year": "",
     "type": "single",
-    "format": "A",
+    "format": "A2",
     "rule_text": null,
     "difficulty": "難",
     "tags": [],
@@ -4175,7 +4175,7 @@
     "chapter": "神經電生理",
     "year": "",
     "type": "single",
-    "format": "A",
+    "format": "A2",
     "rule_text": null,
     "difficulty": "易",
     "tags": [],
@@ -6263,7 +6263,7 @@
     "chapter": "基礎神經科學",
     "year": "",
     "type": "single",
-    "format": "A",
+    "format": "A2",
     "rule_text": null,
     "difficulty": "中等",
     "tags": [
@@ -18182,7 +18182,7 @@
     "chapter": "失智症",
     "year": "",
     "type": "single",
-    "format": "A",
+    "format": "A2",
     "rule_text": null,
     "difficulty": "",
     "tags": [
@@ -18396,7 +18396,7 @@
     "chapter": "失智症",
     "year": "",
     "type": "single",
-    "format": "A",
+    "format": "A2",
     "rule_text": null,
     "difficulty": "",
     "tags": [
@@ -18614,7 +18614,7 @@
     "chapter": "失智症",
     "year": "",
     "type": "single",
-    "format": "A",
+    "format": "A2",
     "rule_text": null,
     "difficulty": "",
     "tags": [
@@ -21285,7 +21285,7 @@
     "chapter": "睡眠疾患",
     "year": "",
     "type": "single",
-    "format": "A",
+    "format": "A2",
     "rule_text": null,
     "difficulty": "中等",
     "tags": [
@@ -21831,5 +21831,149 @@
     "source": "Diagnosis of myelin oligodendrocyte glycoprotein antibody-associated disease: International MOGAD Panel proposed criteria. Lancet Neurol. 2023",
     "source_file": "5e56cdc8-_________8_.docx",
     "source_doc": "林長_神免2"
+  },
+  {
+    "id": "009e56d1movement-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "易",
+    "tags": [],
+    "question": "Which one is true for Essential tremor (ET) ?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "ET patients have about a fourfold increased risk of developing Parkinson's disease"
+      },
+      {
+        "key": "B",
+        "text": "There are some biomarkers for ET."
+      },
+      {
+        "key": "C",
+        "text": "Isolated leg tremor is frequently seen in ET"
+      },
+      {
+        "key": "D",
+        "text": "Reemergent tremor is an ET"
+      },
+      {
+        "key": "E",
+        "text": "Low-frequency thalamic stimulation markedly reduces the severity of the tremor"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": null,
+    "source": "Merritt’s Neurology  P778-P781",
+    "source_file": "009e56d1-________-Movement-Disorders.docx",
+    "source_doc": "彰基_動障_最後一份"
+  },
+  {
+    "id": "009e56d1movement-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [],
+    "question": "Which one is true about Chorea ?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Chorea-acanthocytosis diagnosis can be made by Western blot to determine the presence of chorein."
+      },
+      {
+        "key": "B",
+        "text": "Chorea is derived from the Greek word “dance”"
+      },
+      {
+        "key": "C",
+        "text": "Sydenham Disease is a consequence of infection with group B β-hemolytic Streptococcus,"
+      },
+      {
+        "key": "D",
+        "text": "Dentatorubral-Pallidoluysian Atrophy is found only in the Japanese population"
+      },
+      {
+        "key": "E",
+        "text": "Huntington Disease–like 2, after Huntington Disease, is one of the most common causes of genetic chorea"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Merritt’s Neurology  P854-P861",
+    "source_file": "009e56d1-________-Movement-Disorders.docx",
+    "source_doc": "彰基_動障_最後一份"
+  },
+  {
+    "id": "009e56d1movement-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "中等",
+    "tags": [],
+    "question": "About Progressive Supranuclear Palsy",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "The typical pathologic findings in progressive supranuclear palsy are tufted astrocytes"
+      },
+      {
+        "key": "B",
+        "text": "In PSP-P, falls, dementia, and supranuclear palsy develop later and response to levodopa early in the course"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Merritt’s Neurology  P893-P894",
+    "source_file": "009e56d1-________-Movement-Disorders.docx",
+    "source_doc": "彰基_動障_最後一份"
+  },
+  {
+    "id": "009e56d1movement-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "中等",
+    "tags": [],
+    "question": "About Disorders of Copper Metabolism of Wilson Disease",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Wilson disease is caused by mutations in the transporter, encoded by the ATP7B gene, that transports copper from hepatocytes to the bile and blood."
+      },
+      {
+        "key": "B",
+        "text": "Low serum uric acid, copper, and ceruloplasmin."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Merritt’s Neurology  P1392",
+    "source_file": "009e56d1-________-Movement-Disorders.docx",
+    "source_doc": "彰基_動障_最後一份"
   }
 ]
