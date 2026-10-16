@@ -21975,5 +21975,213 @@
     "source": "Merritt’s Neurology  P1392",
     "source_file": "009e56d1-________-Movement-Disorders.docx",
     "source_doc": "彰基_動障_最後一份"
+  },
+  {
+    "id": "5fc03644move-01",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "難",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "A young adult presents with progressive chorea, behavioral changes, and mild cognitive impairment. Which of the following findings would most strongly favor neuroacanthocytosis over Huntington disease?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Progressive cognitive impairment associated with behavioral disturbance"
+      },
+      {
+        "key": "B",
+        "text": "Generalized chorea accompanied by dystonic movements"
+      },
+      {
+        "key": "C",
+        "text": "Prominent orofacial dyskinesia associated with reduced tendon reflexes and evidence of chronic axonal neuropathy"
+      },
+      {
+        "key": "D",
+        "text": "Progressive involuntary movements beginning in early adulthood"
+      },
+      {
+        "key": "E",
+        "text": "Atrophy involving the caudate nuclei and putamens"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "Principles of Neurology 12th Edition 2023 chapter 38",
+    "source_file": "5fc03644-_move____.pdf",
+    "source_doc": "三總_低調"
+  },
+  {
+    "id": "5fc03644move-02",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙",
+      "發展與遺傳性疾病"
+    ],
+    "question": "Which of the following statements regarding hereditary spastic paraplegia (HSP) is most appropriate?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Impairment of vibration and position sense is incompatible with the pure form of HSP and suggests an alternative myelopathy."
+      },
+      {
+        "key": "B",
+        "text": "Upper-limb weakness commonly develops in parallel with lower-limb involvement in the pure form of HSP."
+      },
+      {
+        "key": "C",
+        "text": "The presence of ataxia, peripheral neuropathy, or cognitive impairment excludes the diagnosis of HSP."
+      },
+      {
+        "key": "D",
+        "text": "SPG4 (SPAST) mutations are the most common genetic cause of autosomal dominant HSP."
+      },
+      {
+        "key": "E",
+        "text": "Spinal cord atrophy is usually evident on MRI early in the disease and is an important diagnostic feature."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": null,
+    "source": "Principles of Neurology 12th Edition 2023 chapter 38\nMerritt's Textbook of Neurology 14th Edition 2022  p.1168",
+    "source_file": "5fc03644-_move____.pdf",
+    "source_doc": "三總_低調"
+  },
+  {
+    "id": "5fc03644move-03",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "combo",
+    "format": "C",
+    "rule_text": "(A) A only, (B) B only, (C) Both A and B, (D) Neither A and B",
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙",
+      "睡眠疾患"
+    ],
+    "question": "Regarding pharmacologic treatment of restless legs syndrome (RLS), which of the following statements are correct?",
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Dopamine agonists are preferred for long-term treatment of persistent RLS because sustained efficacy can generally be maintained by gradual dose escalation when symptoms worsen."
+      },
+      {
+        "key": "B",
+        "text": "Earlier daily onset or spread of symptoms to previously unaffected body regions during dopamine agonist therapy suggests augmentation."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Silber MH, Berkowski JA, Buchfuhrer MJ. An Updated Algorithm for the Management of Restless Legs Syndrome. Mayo Clin Proc. 2026.",
+    "source_file": "5fc03644-_move____.pdf",
+    "source_doc": "三總_低調"
+  },
+  {
+    "id": "5fc03644move-04",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "combo",
+    "format": "K",
+    "rule_text": "(A) if 1,2,3 are true, (B) if 1,3 are true, (C) if 2,4 are true, (D) if only 4 is true, (E) if all are true",
+    "difficulty": "難",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "Which of the following statements regarding corticobasal degeneration (CBD) and its clinical manifestations are correct?",
+    "images": [],
+    "options": [
+      {
+        "key": "1",
+        "text": "An asymmetric akinetic-rigid syndrome is a characteristic motor manifestation, and the parkinsonism is generally poorly responsive to levodopa."
+      },
+      {
+        "key": "2",
+        "text": "Cognitive decline is typically an early feature of CBD and generally develops before prominent asymmetric motor manifestations."
+      },
+      {
+        "key": "3",
+        "text": "Limb apraxia, alien-limb phenomena, myoclonus, and pyramidal signs may occur during the disease course."
+      },
+      {
+        "key": "4",
+        "text": "Cortical neuronal degeneration predominantly involves the frontal motor-premotor and anterior parietal regions, while the substantia nigra is relatively preserved."
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": null,
+    "source": "Principles of Neurology 12th Edition 2023 chapter 38",
+    "source_file": "5fc03644-_move____.pdf",
+    "source_doc": "三總_低調"
+  },
+  {
+    "id": "5fc03644move-05",
+    "subject": "神經科專科醫師甄審",
+    "chapter": "動作障礙",
+    "year": "",
+    "type": "single",
+    "format": "A2",
+    "rule_text": null,
+    "difficulty": "中等",
+    "tags": [
+      "動作障礙"
+    ],
+    "question": "A 65-year-old patient presented with a 1-year history of progressive cognitive decline, bradykinesia, and a short-stepped gait. Brain MRI (DWI) is shown below. Which of the following diagnoses is most likely?",
+    "images": [
+      "images/5fc03644move-05-1.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Dementia with Lewy bodies"
+      },
+      {
+        "key": "B",
+        "text": "Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy"
+      },
+      {
+        "key": "C",
+        "text": "Neuronal intranuclear inclusion disease"
+      },
+      {
+        "key": "D",
+        "text": "CSF1R-related leukoencephalopathy"
+      },
+      {
+        "key": "E",
+        "text": "Sporadic Creutzfeldt-Jakob disease"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": null,
+    "source": "住院醫師教育訓練課程\nCharacterization of the Taiwanese Cohort of Neuronal Intranuclear Inclusion Disease (N1.001)",
+    "source_file": "5fc03644-_move____.pdf",
+    "source_doc": "三總_低調"
   }
 ]
